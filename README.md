@@ -1,98 +1,158 @@
 # Everything-there-is-in-CS
 An awesome list of everything that exists in Computer Science and Related fields. 
 
+
 <details>
 <summary>View Selenium </summary>
-Selenium
+### Selenium
+</details>
+
 <details>
 <summary>View Appium </summary>
-Appium
+### Appium
+</details>
+
 <details>
 <summary>View Testng </summary>
-Testng
+### Testng
+</details>
+
 <details>
 <summary>View Kafka </summary>
-Kafka
+### Kafka
+</details>
+
 <details>
 <summary>View Storm </summary>
-Storm
+### Storm
+</details>
+
 <details>
 <summary>View Spark </summary>
-Spark
+### Spark
+</details>
+
 <details>
 <summary>View Hadoop </summary>
-Hadoop
+### Hadoop
+</details>
+
 <details>
 <summary>View Elasticsearch </summary>
-Elasticsearch
+### Elasticsearch
+</details>
+
 <details>
 <summary>View Hbase </summary>
-Hbase
+### Hbase
+</details>
+
 <details>
 <summary>View Nodejs </summary>
-Nodejs
+### Nodejs
+</details>
+
 <details>
 <summary>View Aws </summary>
-Aws
+### Aws
+</details>
+
 <details>
 <summary>View Amazon dynamo db </summary>
-Amazon dynamo db
+### Amazon dynamo db
+</details>
+
 <details>
 <summary>View Kinesis </summary>
-Kinesis
+### Kinesis
+</details>
+
 <details>
 <summary>View Redis </summary>
-Redis
+### Redis
+</details>
+
 <details>
 <summary>View Graph database </summary>
-Graph database
+### Graph database
+</details>
+
 <details>
 <summary>View Pivotal cloud foundry </summary>
-Pivotal cloud foundry
+### Pivotal cloud foundry
+</details>
+
 <details>
 <summary>View Heroku </summary>
-Heroku
+### Heroku
+</details>
+
 <details>
 <summary>View Docker </summary>
-Docker
+### Docker
+</details>
+
 <details>
 <summary>View Ios </summary>
-Ios
+### Ios
+</details>
+
 <details>
 <summary>View Android </summary>
-Android
+### Android
+</details>
+
 <details>
 <summary>View Iot </summary>
-Iot
+### Iot
+</details>
+
 <details>
 <summary>View Machine learning </summary>
-Machine learning
+### Machine learning
+</details>
+
 <details>
 <summary>View Elasticsearch </summary>
-Elasticsearch
+### Elasticsearch
+</details>
+
 <details>
 <summary>View Teamcity </summary>
-Teamcity
+### Teamcity
+</details>
+
 <details>
 <summary>View Jenkins </summary>
-Jenkins
+### Jenkins
+</details>
+
 <details>
 <summary>View Elasticsearch </summary>
-Elasticsearch
+### Elasticsearch
+</details>
+
 <details>
 <summary>View Logstash </summary>
-Logstash
+### Logstash
+</details>
+
 <details>
 <summary>View Kibana </summary>
-Kibana
+### Kibana
+</details>
+
 <details>
 <summary>View Graphql </summary>
-Graphql
+### Graphql
+</details>
+
 <details>
 <summary>View Solidity </summary>
-Solidity
+### Solidity
+</details>
+
 <details>
 <summary>View Redis </summary>
-Redis
-
-
+### Redis
+</details>
