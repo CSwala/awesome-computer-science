@@ -76,11 +76,6 @@ Graph database
 </details>
 
 <details>
-<summary>View Pivotal cloud foundry </summary>
-Pivotal cloud foundry
-</details>
-
-<details>
 <summary>View Heroku </summary>
 Heroku
 </details>
