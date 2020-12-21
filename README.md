@@ -4,8 +4,8 @@ An awesome list of everything that exists in Computer Science and Related fields
 <details>
 <summary>View Android </summary>
 <br>Category/Type - Mobile OS
-<br>Official Documnetation - [Docs](https://developer.android.com/docs "Android Docs")
-<br>Official Website - [https://developer.android.com/]
+<br>Official Documnetation - https://developer.android.com/docs
+<br>Official Website - https://developer.android.com/
 <br>Best YouTube creators - 
 <br>Refrence Websites - 
 <br>Pages to follow - 
