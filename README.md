@@ -6,7 +6,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Category/Type - Mobile OS
 <br>Official Documnetation - https://developer.android.com/docs
 <br>Official Website - https://developer.android.com/
-<br>Best YouTube creators - 
+<br>Best YouTube creators - ⋅⋅* Unordered sub-list. 
 <br>Refrence Websites - 
 <br>Pages to follow - 
 <br>Dedicated Github page - 
