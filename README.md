@@ -1,21 +1,11 @@
 # Everything-there-is-in-CS
 An awesome list of everything that exists in Computer Science and Related fields. 
-<details>
-<summary>View Amazon dynamo db </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
 
 <details>
 <summary>View Android </summary>
-<br>Category/Type : 
+<br>Category/Type : Mobile OS
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -28,6 +18,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Appium </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -40,6 +31,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Aws </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -52,6 +44,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Docker </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -64,6 +57,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Elasticsearch </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -76,6 +70,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Elasticsearch </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -88,6 +83,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Elasticsearch </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -100,6 +96,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Graph database </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -112,6 +109,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Graphql </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -124,6 +122,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Hadoop </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -136,6 +135,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Hbase </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -148,6 +148,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Heroku </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -160,6 +161,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Iot </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -172,6 +174,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Kafka </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -184,6 +187,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Kibana </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -196,6 +200,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Kinesis </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -208,6 +213,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Logstash </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -220,6 +226,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Machine learning </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -232,6 +239,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Nodejs </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -244,6 +252,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Pivotal cloud foundry </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -256,6 +265,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Redis </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -268,6 +278,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Selenium </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -280,6 +291,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Spark </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -292,6 +304,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Storm </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -304,6 +317,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Testng </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -316,6 +330,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Ios </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -328,6 +343,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Jenkins </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -340,6 +356,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Redis </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -352,6 +369,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Solidity </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
@@ -364,6 +382,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <summary>View Teamcity </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
+<br>Official Website : 
 <br>Best YouTube creators: 
 <br>Refrence Websites : 
 <br>Pages to follow: 
