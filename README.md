@@ -3,15 +3,14 @@ An awesome list of everything that exists in Computer Science and Related fields
 
 <details>
 <summary>View Android </summary>
-<br>Category/Type - <br>Mobile OS
-<br>Official Documnetation - <br>https://developer.android.com/docs
-<br>Official Website - <br>https://developer.android.com/
-<br>Best YouTube creators - <br>https://www.youtube.com/channel/UC9M7-jzdU8CVrQo1JwmIdWA<br>https://www.youtube.com/channel/UCB2B0AuQgk6eOMbWR7qiqew<br>https://www.youtube.com/channel/UC58_wzhvJta3hDSPvRLDAqg<br>https://www.youtube.com/channel/UCl6DxakCjDR5AfRwWhWNbMg
-<br>Refrence Websites - 
-<br>Pages to follow - 
-<br>Dedicated Github page - 
-<br>Best Courses - 	
-<br>Ohter Tips / Hacks - 
+<br>Category/Type - <br>Mobile OS<br>
+<br>Official Documnetation - <br>https://developer.android.com/docs<br>
+<br>Official Website - <br>https://developer.android.com/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/channel/UC9M7-jzdU8CVrQo1JwmIdWA<br>https://www.youtube.com/channel/UCB2B0AuQgk6eOMbWR7qiqew<br>https://www.youtube.com/channel/UC58_wzhvJta3hDSPvRLDAqg<br>https://www.youtube.com/channel/UCl6DxakCjDR5AfRwWhWNbMg<br>
+<br>Useful Websites - <br>https://www.reddit.com/r/Android/<br>https://www.androidauthority.com/<br>
+<br>Dedicated Github page - <br>https://github.com/wasabeef/awesome-android-ui <br> https://github.com/JStumpp/awesome-android <br>https://github.com/wasabeef/awesome-android-libraries<br>
+<br>Best Courses - 	<br>https://developer.android.com/courses<br>https://www.codingninjas.com/courses/online-android-Development-kotlin<br>https://www.udemy.com/course/kotlin-android-developer-masterclass/<br>https://www.coursera.org/specializations/advanced-app-android<br>
+<br>Ohter Tips / Hacks - <br>
 </details>
 
 
@@ -22,8 +21,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -35,8 +33,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -48,8 +45,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -61,8 +57,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -74,8 +69,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -87,8 +81,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -100,8 +93,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -113,8 +105,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -126,8 +117,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -139,8 +129,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -152,8 +141,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -165,8 +153,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -178,8 +165,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -191,8 +177,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -204,8 +189,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -217,8 +201,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -230,8 +213,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -243,8 +225,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -256,8 +237,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -269,8 +249,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -282,8 +261,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -295,8 +273,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -308,8 +285,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -321,8 +297,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -334,8 +309,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -347,8 +321,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -360,8 +333,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -373,8 +345,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
@@ -386,8 +357,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Official Documnetation - 
 <br>Official Website - 
 <br>Best YouTube creators - 
-<br>Refrence Websites - 
-<br>Pages to follow - 
+<br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - 
