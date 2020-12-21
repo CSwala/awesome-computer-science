@@ -1,223 +1,7 @@
 # Everything-there-is-in-CS
 An awesome list of everything that exists in Computer Science and Related fields. 
 <details>
-<summary>View Selenium </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Appium </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Testng </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Kafka </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Storm </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Spark </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Hadoop </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Elasticsearch </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Hbase </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Nodejs </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Aws </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
 <summary>View Amazon dynamo db </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Kinesis </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Redis </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Graph database </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Pivotal cloud foundry </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Heroku </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Docker </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Ios </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
 <br>Best YouTube creators: 
@@ -241,7 +25,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 </details>
 
 <details>
-<summary>View Iot </summary>
+<summary>View Appium </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
 <br>Best YouTube creators: 
@@ -253,7 +37,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 </details>
 
 <details>
-<summary>View Machine learning </summary>
+<summary>View Aws </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
 <br>Best YouTube creators: 
@@ -265,31 +49,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 </details>
 
 <details>
-<summary>View Elasticsearch </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Teamcity </summary>
-<br>Category/Type : 
-<br>Official Documnetation : 
-<br>Best YouTube creators: 
-<br>Refrence Websites : 
-<br>Pages to follow: 
-<br>Dedicated Github page : 
-<br>Best Courses : 
-<br>Ohter Tips / Hacks : 
-</details>
-
-<details>
-<summary>View Jenkins </summary>
+<summary>View Docker </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
 <br>Best YouTube creators: 
@@ -313,7 +73,7 @@ An awesome list of everything that exists in Computer Science and Related fields
 </details>
 
 <details>
-<summary>View Logstash </summary>
+<summary>View Elasticsearch </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
 <br>Best YouTube creators: 
@@ -325,7 +85,19 @@ An awesome list of everything that exists in Computer Science and Related fields
 </details>
 
 <details>
-<summary>View Kibana </summary>
+<summary>View Elasticsearch </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Graph database </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
 <br>Best YouTube creators: 
@@ -349,7 +121,127 @@ An awesome list of everything that exists in Computer Science and Related fields
 </details>
 
 <details>
-<summary>View Solidity </summary>
+<summary>View Hadoop </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Hbase </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Heroku </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Iot </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Kafka </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Kibana </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Kinesis </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Logstash </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Machine learning </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Nodejs </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Pivotal cloud foundry </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
 <br>Best YouTube creators: 
@@ -362,6 +254,114 @@ An awesome list of everything that exists in Computer Science and Related fields
 
 <details>
 <summary>View Redis </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Selenium </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Spark </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Storm </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Testng </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Ios </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Jenkins </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Redis </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Solidity </summary>
+<br>Category/Type : 
+<br>Official Documnetation : 
+<br>Best YouTube creators: 
+<br>Refrence Websites : 
+<br>Pages to follow: 
+<br>Dedicated Github page : 
+<br>Best Courses : 
+<br>Ohter Tips / Hacks : 
+</details>
+
+<details>
+<summary>View Teamcity </summary>
 <br>Category/Type : 
 <br>Official Documnetation : 
 <br>Best YouTube creators: 
