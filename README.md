@@ -213,17 +213,6 @@ An awesome list of everything that exists in Computer Science and Related fields
 </details>
 
 <details>
-<summary>View Pivotal cloud foundry </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
-<br>Ohter Tips / Hacks - 
-</details>
-
-<details>
 <summary>View Redis </summary>
 <br>Category/Type - 
 <br>Official Documnetation - 
