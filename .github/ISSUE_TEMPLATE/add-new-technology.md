@@ -1,7 +1,7 @@
 ---
-name: Add new Technology
-about: Suggest a new Tech for this project
-title: ''
+name: Add New Stuff
+about: ''
+title: 'Add [name_of_stuff]'
 labels: good first issue
 assignees: ''
 
