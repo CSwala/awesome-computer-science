@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-Add according to the PR template .
+Add according to the PR template or See `Android` in README.md to get an idea.
