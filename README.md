@@ -9,10 +9,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - <br>https://www.reddit.com/r/Android/<br>https://www.androidauthority.com/<br>
 <br>Dedicated Github page - <br>https://github.com/wasabeef/awesome-android-ui <br> https://github.com/JStumpp/awesome-android <br>https://github.com/wasabeef/awesome-android-libraries<br>
 <br>Best Courses - 	<br>https://developer.android.com/courses<br>https://www.codingninjas.com/courses/online-android-Development-kotlin<br>https://www.udemy.com/course/kotlin-android-developer-masterclass/<br>https://www.coursera.org/specializations/advanced-app-android<br>
-<br>Ohter Tips / Hacks - <br>https://techbeacon.com/app-dev-testing/how-become-better-android-developer-30-bite-sized-pro-tips<br>https://medium.com/@abangfadli/a-month-full-of-android-development-tips-and-tricks-b98c17627aa<br>https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks<br>
+<br>Ohter Tips / Hacks - <br>https://techbeacon.com/app-dev-testing/how-become-better-android-developer-30-bite-sized-pro-tips<br>https://medium.com/@abangfadli/a-month-full-of-android-development-tips-and-tricks-b98c17627aa<br>https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks<br><br><br>
 </details>
-<br>
-<br>
+
 
 
 
@@ -24,10 +23,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Aws </summary>
@@ -37,10 +35,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Docker </summary>
@@ -50,10 +47,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Elasticsearch </summary>
@@ -63,10 +59,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Elasticsearch </summary>
@@ -76,10 +71,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Elasticsearch </summary>
@@ -89,10 +83,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Graph database </summary>
@@ -102,10 +95,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Graphql </summary>
@@ -115,10 +107,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Hadoop </summary>
@@ -128,10 +119,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Hbase </summary>
@@ -141,10 +131,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Heroku </summary>
@@ -154,10 +143,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Iot </summary>
@@ -167,10 +155,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Kafka </summary>
@@ -180,10 +167,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Kibana </summary>
@@ -193,10 +179,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Kinesis </summary>
@@ -206,10 +191,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Logstash </summary>
@@ -219,10 +203,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Machine learning </summary>
@@ -232,10 +215,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Nodejs </summary>
@@ -245,10 +227,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Redis </summary>
@@ -258,10 +239,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Selenium </summary>
@@ -271,10 +251,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Spark </summary>
@@ -284,10 +263,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Storm </summary>
@@ -297,10 +275,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Testng </summary>
@@ -310,10 +287,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Ios </summary>
@@ -323,10 +299,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Jenkins </summary>
@@ -336,10 +311,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Redis </summary>
@@ -349,10 +323,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Solidity </summary>
@@ -362,10 +335,9 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
+
 
 <details>
 <summary>View Teamcity </summary>
@@ -375,7 +347,5 @@ An awesome list of everything that exists in Computer Science and Related fields
 <br>Useful Websites - 
 <br>Dedicated Github page - 
 <br>Best Courses - 
-<br>Ohter Tips / Hacks - 
+<br>Ohter Tips / Hacks - <br><br>
 </details>
-<br>
-<br>
