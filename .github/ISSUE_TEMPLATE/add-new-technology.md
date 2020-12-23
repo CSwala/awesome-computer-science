@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-Add according to the PR template or See `Android` in README.md to get an idea.
+See `Android` in README.md to get an idea of the contents of the PR for this issue.
