@@ -14,7 +14,7 @@
 
 5. Add only links of the resources so to have transparency in navigating to them. 
 
-6. Try to fill maximum fields so that the issue can be closed by your PR only and someone else is not assigned to do the remaining work.Also take the issue which matches with your interest of work so that you have a good knowledge of its resources.
+6. Try to fill maximum fields so that the issue can be closed by your PR only and someone else is not assigned to do the remaining work. Also take the issue which matches with your interest of work so that you have a good knowledge of its resources.
 
 7. Create a pull request after making the changes and mention the Issue number that your pull request is related to.
 
