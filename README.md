@@ -2,7 +2,7 @@
 An awesome list of everything that exists in Computer Science and Related fields. 
 
 <details>
-<summary><h1>Android</h1> </summary>
+<summary>Android </summary>
 <br>Category/Type - <br>OS<br>
 <br>Official Documnetation - <br>https://developer.android.com/docs<br>
 <br>Best YouTube creators - <br>https://www.youtube.com/channel/UC9M7-jzdU8CVrQo1JwmIdWA<br>https://www.youtube.com/channel/UCB2B0AuQgk6eOMbWR7qiqew<br>https://www.youtube.com/channel/UC58_wzhvJta3hDSPvRLDAqg<br>https://www.youtube.com/channel/UCl6DxakCjDR5AfRwWhWNbMg<br>
