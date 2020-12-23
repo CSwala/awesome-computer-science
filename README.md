@@ -232,6 +232,18 @@
 
 
 <details>
+<summary>Python </summary>
+<br>Category/Type - <br>Open Source Language<br>
+<br>Official Documnetation - <br>https://docs.python.org/3/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ<br>https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww<br>https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg<br>
+<br>Useful Websites - <br>https://www.reddit.com/r/Python/<br><br>https://stackoverflow.com/questions/tagged/python<br>
+<br>Dedicated Github page - <br>https://github.com/topics/python<br>
+<br>Best Courses - <br>https://www.codingninjas.com/courses/online-python-course<br>https://codeforcause.org/ds-algo-with-python<br>https://www.udemy.com/course/complete-python-bootcamp/<br>
+<br>Ohter Tips / Hacks - <br>https://leetcode.com/<br>https://www.codechef.com/<br>
+</details>
+
+
+<details>
 <summary>Nodejs </summary>
 <br>Category/Type - 
 <br>Official Documnetation - 
