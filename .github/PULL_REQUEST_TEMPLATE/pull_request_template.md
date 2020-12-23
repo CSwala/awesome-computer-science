@@ -1,10 +1,21 @@
 
 ### New Technology Submissions:
 
-* [ ] Have you followed the guidelines in our Contributing document?
+* [ ] Have you followed the guidelines in the Contributing document?
 
 * [ ] Have you checked to ensure there aren't other open [Pull Requests](../../../pulls) for the same tech?
 
-* [ ] Does your submission is according to the desired pattern ?
+* [ ] Is your submission is according to the desired pattern ?
 
-* [ ] Have you lint your code locally prior to submission?
+* [ ] Have you placed the contents in the `Readme.md` keeping the sorting order in mind ?
+
+Does you submission include -
+	* [ ]	Category/Type
+	* [ ]	Official Documnetation  
+	* [ ]	Best YouTube creators  
+	* [ ]	Useful Websites  
+	* [ ]	Dedicated Github page 
+	* [ ]	Best Courses  
+	* [ ]	Ohter Tips / Hacks 
+
+
