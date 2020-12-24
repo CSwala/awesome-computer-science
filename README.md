@@ -45,7 +45,8 @@
 <br>Useful Websites - <br>https://www.reddit.com/r/cpp/<br>https://stackoverflow.com/questions/tagged/C++<br>
 <br>Dedicated Github page - <br>https://gist.github.com/johnmcfarlane/1b2d9c83e4d3f700ba61e2df4077c613<br>https://github.com/fffaraz/awesome-cpp<br>
 <br>Best Courses - <br>https://www.codingninjas.com/courses/onlline-c-plus-plus-course<br>https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL<br>
-<br>Ohter Tips / Hacks - <br>https://www.geeksforgeeks.org/c-plus-plus/<br>https://www.codechef.com/<br>
+<br>Ohter Tips / Hacks - <br>https://www.geeksforgeeks.org/c-plus-plus/<br>https://www.geeksforgeeks.org/c-tricks-competitive-programming-c-11/<br>http://www.cplusplus.com/articles/tips/<br>https://medium.com/dsc-dypcoe/must-know-c-tips-and-tricks-for-competitive-programming-part-1-d8a4d38243f5<br>https://codeforces.com/blog/entry/74684<br>
+https://medium.com/@marinamakarova/26-tips-on-c-programming-61cb54900234<br><br>
 </details>
 
 
@@ -246,10 +247,10 @@
 <br>Category/Type - <br>Open Source Programming Language<br>
 <br>Official Documnetation - <br>https://docs.python.org/3/<br>
 <br>Best YouTube creators - <br>https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ<br>https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww<br>https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg<br>
-<br>Useful Websites - <br>https://www.reddit.com/r/Python/<br><br>https://stackoverflow.com/questions/tagged/python<br>
+<br>Useful Websites - <br>https://www.reddit.com/r/Python/<br>https://stackoverflow.com/questions/tagged/python<br>
 <br>Dedicated Github page - <br>https://github.com/topics/python<br>https://github.com/vinta/awesome-python<br>
 <br>Best Courses - <br>https://www.codingninjas.com/courses/online-python-course<br>https://codeforcause.org/ds-algo-with-python<br>https://www.udemy.com/course/complete-python-bootcamp/<br>
-<br>Ohter Tips / Hacks - <br>https://www.geeksforgeeks.org/python-programming-language/<br>https://github.com/freeCodeCamp/python-coding-challenges<br><br>
+<br>Ohter Tips / Hacks - <br>https://www.geeksforgeeks.org/10-essential-python-tips-tricks-programmers/<br>https://medium.com/towards-artificial-intelligence/50-python-3-tips-tricks-e5dbe05212d7<br><br>
 </details>
 
 
