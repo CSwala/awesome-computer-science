@@ -256,6 +256,18 @@
 
 
 <details>
+<summary>Solidity </summary>
+<br>Category/Type - 
+<br>Official Documnetation - 
+<br>Best YouTube creators - 
+<br>Useful Websites - 
+<br>Dedicated Github page - 
+<br>Best Courses - 
+<br>Ohter Tips / Hacks - <br><br>
+</details>
+
+
+<details>
 <summary>Spark </summary>
 <br>Category/Type - 
 <br>Official Documnetation - 
@@ -280,45 +292,6 @@
 
 
 <details>
-<summary>Testng </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
-<br>Ohter Tips / Hacks - <br><br>
-</details>
-
-
-
-
-
-<details>
-<summary>Redis </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
-<br>Ohter Tips / Hacks - <br><br>
-</details>
-
-
-<details>
-<summary>Solidity </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
-<br>Ohter Tips / Hacks - <br><br>
-</details>
-
-
-<details>
 <summary>Teamcity </summary>
 <br>Category/Type - 
 <br>Official Documnetation - 
@@ -328,3 +301,5 @@
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - <br><br>
 </details>
+
+
