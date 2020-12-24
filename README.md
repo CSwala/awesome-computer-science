@@ -61,32 +61,8 @@
 <br>Best Courses - 
 <br>Ohter Tips / Hacks - <br><br>
 </details>
-
-
-<details>
-<summary>Elasticsearch </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
-<br>Ohter Tips / Hacks - <br><br>
-</details>
-
-
-<details>
-<summary>Elasticsearch </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
-<br>Ohter Tips / Hacks - <br><br>
-</details>
-
-
+ 
+ 
 <details>
 <summary>Graph database </summary>
 <br>Category/Type - 
