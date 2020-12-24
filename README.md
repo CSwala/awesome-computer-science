@@ -13,8 +13,6 @@
 </details>
 
 
-
-
 <details>
 <summary>Appium </summary>
 <br>Category/Type - 
