@@ -228,6 +228,42 @@ https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/<br>
 
 
 <details>
+<summary>Java </summary>
+<br>Category/Type - <br>
+Programming Language<br>
+<br>
+Official Documnetation - <br>
+https://docs.oracle.com/en/java/<br>
+<br>
+Best YouTube creators - <br>
+https://youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q<br>
+https://youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK<br>
+https://youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al<br>
+https://youtu.be/grEKMHGYyns<br>
+<br>Useful Websites - <br>
+https://www.reddit.com/r/java/<br>
+https://stackoverflow.com/questions/tagged/java<br>
+http://www.javaworld.com/<br>
+<br>Dedicated Github page - <br>
+https://github.com/iluwatar/java-design-patterns<br>
+https://github.com/kdn251/interviews<br>
+https://github.com/TheAlgorithms/Java<br>
+https://github.com/akullpp/awesome-java<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/java-the-complete-java-developer-course/<br>
+https://www.codecademy.com/learn/learn-java<br>
+https://www.coursera.org/specializations/java-programming<br>
+https://www.coursera.org/learn/intro-java-second-language<br>
+<br>Ohter Tips / Hacks - <br>
+https://www.geeksforgeeks.org/java/<br>
+https://www.geeksforgeeks.org/fast-io-in-java-in-competitive-programming/<br>
+https://blog.stoneriverelearning.com/10-java-coding-tips-every-programmer-should-know/<br>
+https://www.geeksforgeeks.org/java-tricks-competitive-programming-java-8/<br>
+https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
+<br>
+</details>
+
+<details>
 <summary>Jenkins </summary>
 <br>Category/Type -
 <br>Official Documnetation -
