@@ -230,7 +230,7 @@ https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/<br>
 <details>
 <summary>Java </summary>
 <br>Category/Type - <br>
-High Level Language/Programming Language/Development<br>
+Programming Language<br>
 <br>
 Official Documnetation - <br>
 https://docs.oracle.com/en/java/<br>
