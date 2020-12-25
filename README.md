@@ -120,6 +120,50 @@ https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/<br>
 </details>
 
 <details>
+<summary>Data Science</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Official Documnetation - <br>
+https://python-data-science.readthedocs.io/en/latest/<br>
+<br>
+Best YouTube creators - <br>
+https://youtu.be/-ETQ97mXXF0<br>
+https://youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV<br>
+https://youtu.be/ua-CiDNNj30<br>
+<br>
+Useful Websites -
+<br>
+https://www.kaggle.com/<br>
+http://flowingdata.com/<br>
+http://fastml.com/<br>
+http://www.datasciencecentral.com/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/ossu/data-science<br>
+https://github.com/academic/awesome-datascience<br>
+https://github.com/hhhrrrttt222111/DS_and_ML_projects<br>
+https://github.com/JayantGoel001/Data-Science--Cheat-Sheet<br>
+<br>
+Best Courses - <br>
+https://www.hackerearth.com/practice/machine-learning/prerequisites-of-machine-learning/basic-probability-models-and-rules/tutorial/<br>
+https://www.udemy.com/course/complete-data-science-course-beginner-to-advance/<br>
+https://www.coursera.org/degrees/master-of-data-science-hse<br>
+<br>
+Ohter Tips / Hacks - <br>
+https://www.geeksforgeeks.org/overview-of-data-science/<br>
+https://www.geeksforgeeks.org/machine-learning-and-data-science/<br>
+https://www.geeksforgeeks.org/how-to-become-a-data-scientist-in-2019-a-complete-guide/<br>
+https://www.geeksforgeeks.org/difference-between-data-science-and-data-analytics/<br>
+https://www.geeksforgeeks.org/python-for-data-science/<br>
+https://www.geeksforgeeks.org/the-future-of-data-science/<br>
+https://www.analyticsvidhya.com/blog/2015/10/tips-tricks-awesom-data-science-jobs/<br>
+https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debunking-few-myths-30537117a4e4<br>
+<br><br>
+</details>
+
+<details>
 <summary>Docker </summary>
 <br>Category/Type -
 <br>Official Documnetation -
