@@ -257,7 +257,6 @@ https://www.coursera.org/learn/intro-java-second-language<br>
 <br>Ohter Tips / Hacks - <br>
 https://www.geeksforgeeks.org/java/<br>
 https://www.geeksforgeeks.org/fast-io-in-java-in-competitive-programming/<br>
-<br>
 https://blog.stoneriverelearning.com/10-java-coding-tips-every-programmer-should-know/<br>
 https://www.geeksforgeeks.org/java-tricks-competitive-programming-java-8/<br>
 https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
