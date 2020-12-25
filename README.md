@@ -1,5 +1,5 @@
 # Everything-there-is-in-CS
-### An awesome list of everything that exists in Computer Science and Related fields. 
+### An awesome list of everything that exists in Computer Science and Related fields.
 
 <details>
 <summary>Android </summary>
@@ -15,24 +15,24 @@
 
 <details>
 <summary>Appium </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Aws </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
@@ -49,195 +49,264 @@
 https://medium.com/@marinamakarova/26-tips-on-c-programming-61cb54900234<br><br>
 </details>
 
+<details>
+<summary>Competitive Programming</summary>
+<br>
+Category/Type - <br>
+Brain Storming<br>
+<br>
+Official Documnetation - <br>
+https://cp-algorithms.com<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg<br>
+https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q<br>
+https://www.youtube.com/channel/UC7rNzgC2fEBVpb-q_acpsmw<br>
+https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg<br>
+https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA<br>
+https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw<br>
+https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ<br>
+<br>
+Useful Websites -
+<br>
+https://codeforces.com/<br>
+https://atcoder.jp/<br>
+https://www.codechef.com/<br>
+https://www.hackerrank.com/<br>
+https://www.spoj.com/<br>
+https://leetcode.com/<br>
+https://projecteuler.net/archives<br>
+https://www.topcoder.com/<br>
+https://cses.fi/problemset/<br>
+https://twchen.gitbook.io/leetcode/<br>
+https://www.pramp.com/#/<br>
+https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/edit<br>
+https://www.hackerearth.com/practice/<br>
+https://interviewing.io<br>
+https://www.bigocheatsheet.com/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/kth-competitive-programming/kactl<br>
+https://github.com/JayantGoel001/CP-Resources<br>
+https://github.com/Ashishgup1/Competitive-Coding<br>
+https://github.com/JayantGoel001/Competitive-Programming-Resources<br>
+https://github.com/bqi343/USACO<br>
+https://github.com/JayantGoel001/geeksforgeeks.pdf<br>
+https://github.com/Errichto/youtube<br>
+<br>
+Best Courses - <br>
+https://www.hackerearth.com/getstarted-competitive-programming/<br>
+https://practice.geeksforgeeks.org/courses/competitive-programming-live<br>
+https://www.codingninjas.com/courses/online-competitive-programming-course<br>
+https://www.coursera.org/learn/competitive-programming-core-skills<br>
+https://www.classcentral.com/course/competitive-programming-core-skills-11713<br>
+<br>
+Ohter Tips / Hacks - <br>
+https://codeforces.com/blog/entry/44991<br>
+https://codeforces.com/blog/entry/82884<br>
+https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions<br>
+https://www.quora.com/What-are-the-best-ways-to-master-dynamic-programming/answer/Sameer-Gulati-3<br>
+https://www.quora.com/How-do-I-get-good-at-math-for-competitive-programming/answer/Sameer-Gulati-3<br>
+https://www.quora.com/How-can-I-be-good-at-graph-theory-based-programming-problems-in-competitive-programming/answer/Sameer-Gulati-3<br>
+https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know/answer/Sameer-Gulati-3?c<br>
+https://leetcode.com/discuss/general-discussion/651719/how-to-solve-dp-string-template-and-4-steps-to-be-followed<br>
+https://technicalbattle.blogspot.com/2020/05/best-blogs-on-codeforces-links-for-best.html<br>
+https://petr-mitrichev.blogspot.com<br>
+https://www.hackerearth.com/blog/developers/7-steps-to-improve-your-data-structure-and-algorithm-skills/<br>
+https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed<br>
+https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions<br>
+https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/<br>
+<br><br>
+</details>
 
 <details>
 <summary>Docker </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Elasticsearch </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
- 
- 
+
+
 <details>
 <summary>Graph database </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Graphql </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Hadoop </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Hbase </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Heroku </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Ios </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Iot </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Jenkins </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Kafka </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Kibana </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Kinesis </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Logstash </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Machine learning </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Nodejs </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
@@ -256,71 +325,71 @@ https://medium.com/@marinamakarova/26-tips-on-c-programming-61cb54900234<br><br>
 
 <details>
 <summary>Redis </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Selenium </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Solidity </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Spark </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Storm </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
 
 <details>
 <summary>Teamcity </summary>
-<br>Category/Type - 
-<br>Official Documnetation - 
-<br>Best YouTube creators - 
-<br>Useful Websites - 
-<br>Dedicated Github page - 
-<br>Best Courses - 
+<br>Category/Type -
+<br>Official Documnetation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
