@@ -399,10 +399,15 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 <br>https://github.com/Hermanya/awesome-react-bootstrap-components
 <br>https://github.com/FormidableLabs/spectacle
 <br>
-<br>Best Courses - 	<br>https://developer.android.com/courses<br>https://www.codingninjas.com/courses/online-android-Development-kotlin<br>https://www.udemy.com/course/kotlin-android-developer-masterclass/<br>https://www.coursera.org/specializations/advanced-app-android<br>
+<!-- Sample Android Field Below -->
+<br>Best Courses - 	<br>https://developer.android.com/courses
+<br>https://www.codingninjas.com/courses/online-android-Development-kotlin
+<br>https://www.udemy.com/course/kotlin-android-developer-masterclass/
+<br>https://www.coursera.org/specializations/advanced-app-android
+<br>
 <br>Ohter Tips / Hacks - <br>https://techbeacon.com/app-dev-testing/how-become-better-android-developer-30-bite-sized-pro-tips<br>https://medium.com/@abangfadli/a-month-full-of-android-development-tips-and-tricks-b98c17627aa<br>https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks<br><br><br>
 </details>
-
+<!-- Sample Android Field Ends Here -->
 <details>
 <summary>Redis </summary>
 <br>Category/Type -
