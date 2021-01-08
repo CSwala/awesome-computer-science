@@ -1,4 +1,5 @@
 # Everything-there-is-in-CS
+
 ### An awesome list of everything that exists in Computer Science and Related fields.
 
 <details>
@@ -12,7 +13,6 @@
 <br>Ohter Tips / Hacks - <br>https://techbeacon.com/app-dev-testing/how-become-better-android-developer-30-bite-sized-pro-tips<br>https://medium.com/@abangfadli/a-month-full-of-android-development-tips-and-tricks-b98c17627aa<br>https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks<br><br><br>
 </details>
 
-
 <details>
 <summary>Appium </summary>
 <br>Category/Type -
@@ -24,7 +24,6 @@
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
-
 <details>
 <summary>Aws </summary>
 <br>Category/Type -
@@ -35,7 +34,6 @@
 <br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
-
 
 <details>
 <summary>C++ </summary>
@@ -174,7 +172,6 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
-
 <details>
 <summary>Elasticsearch </summary>
 <br>Category/Type -
@@ -185,7 +182,6 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 <br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
-
 
 <details>
 <summary>Graph database </summary>
@@ -198,7 +194,6 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
-
 <details>
 <summary>Graphql </summary>
 <br>Category/Type -
@@ -209,7 +204,6 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 <br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
-
 
 <details>
 <summary>Hadoop </summary>
@@ -222,7 +216,6 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
-
 <details>
 <summary>Hbase </summary>
 <br>Category/Type -
@@ -233,7 +226,6 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 <br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
-
 
 <details>
 <summary>Heroku </summary>
@@ -246,7 +238,6 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
-
 <details>
 <summary>Ios </summary>
 <br>Category/Type -
@@ -258,7 +249,6 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
-
 <details>
 <summary>Iot </summary>
 <br>Category/Type -
@@ -269,7 +259,6 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 <br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
-
 
 <details>
 <summary>Java </summary>
@@ -318,7 +307,6 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
-
 <details>
 <summary>Kafka </summary>
 <br>Category/Type -
@@ -329,7 +317,6 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 <br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
-
 
 <details>
 <summary>Kibana </summary>
@@ -342,7 +329,6 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
-
 <details>
 <summary>Kinesis </summary>
 <br>Category/Type -
@@ -353,7 +339,6 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 <br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
-
 
 <details>
 <summary>Logstash </summary>
@@ -366,7 +351,6 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
-
 <details>
 <summary>Machine learning </summary>
 <br>Category/Type -
@@ -377,7 +361,6 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 <br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
-
 
 <details>
 <summary>Nodejs </summary>
@@ -390,7 +373,6 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
-
 <details>
 <summary>Python </summary>
 <br>Category/Type - <br>Open Source Programming Language<br>
@@ -402,6 +384,16 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 <br>Ohter Tips / Hacks - <br>https://www.geeksforgeeks.org/10-essential-python-tips-tricks-programmers/<br>https://medium.com/towards-artificial-intelligence/50-python-3-tips-tricks-e5dbe05212d7<br><br>
 </details>
 
+<details>
+<summary>ReactJS </summary>
+<br>Category/Type - <br>JavaScript Framework<br>
+<br>Official Documnetation - <br>https://reactjs.org/docs/getting-started.html<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/channel/UC9M7-jzdU8CVrQo1JwmIdWA<br>https://www.youtube.com/channel/UCB2B0AuQgk6eOMbWR7qiqew<br>https://www.youtube.com/channel/UC58_wzhvJta3hDSPvRLDAqg<br>https://www.youtube.com/channel/UCl6DxakCjDR5AfRwWhWNbMg<br>
+<br>Useful Websites - <br>https://www.reddit.com/r/Android/<br>https://www.androidauthority.com/<br>
+<br>Dedicated Github page - <br>https://github.com/wasabeef/awesome-android-ui <br> https://github.com/JStumpp/awesome-android <br>https://github.com/wasabeef/awesome-android-libraries<br>
+<br>Best Courses - 	<br>https://developer.android.com/courses<br>https://www.codingninjas.com/courses/online-android-Development-kotlin<br>https://www.udemy.com/course/kotlin-android-developer-masterclass/<br>https://www.coursera.org/specializations/advanced-app-android<br>
+<br>Ohter Tips / Hacks - <br>https://techbeacon.com/app-dev-testing/how-become-better-android-developer-30-bite-sized-pro-tips<br>https://medium.com/@abangfadli/a-month-full-of-android-development-tips-and-tricks-b98c17627aa<br>https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks<br><br><br>
+</details>
 
 <details>
 <summary>Redis </summary>
@@ -414,7 +406,6 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
-
 <details>
 <summary>Selenium </summary>
 <br>Category/Type -
@@ -425,7 +416,6 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 <br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
-
 
 <details>
 <summary>Solidity </summary>
@@ -438,7 +428,6 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
-
 <details>
 <summary>Spark </summary>
 <br>Category/Type -
@@ -450,7 +439,6 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 <br>Ohter Tips / Hacks - <br><br>
 </details>
 
-
 <details>
 <summary>Storm </summary>
 <br>Category/Type -
@@ -461,7 +449,6 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 <br>Best Courses -
 <br>Ohter Tips / Hacks - <br><br>
 </details>
-
 
 <details>
 <summary>Teamcity </summary>
