@@ -404,10 +404,11 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 <br>https://www.coursera.org/projects/build-first-react-website
 <br>https://www.coursera.org/learn/front-end-react
 <br>
-<!-- Sample Android Field Below -->
-<br>Ohter Tips / Hacks - <br>https://techbeacon.com/app-dev-testing/how-become-better-android-developer-30-bite-sized-pro-tips<br>https://medium.com/@abangfadli/a-month-full-of-android-development-tips-and-tricks-b98c17627aa<br>https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks<br><br><br>
-</details>
-<!-- Sample Android Field Ends Here -->
+<br>Other Tips / Hacks - <br>https://blog.bitsrc.io/5-recommended-reactjs-tips-and-best-practices-9a7e2f6526a4
+<br>https://dev.to/simonholdorf/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-4fhn
+<br>https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks<br>
+<br><br>
+</details> 
 <details>
 <summary>Redis </summary>
 <br>Category/Type -
