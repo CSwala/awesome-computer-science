@@ -1,6 +1,6 @@
 # Everything-there-is-in-CS
 
-##💻 An awesome list of everything that exists in Computer Science and Related fields📰🔥.
+## 💻 An awesome list of everything that exists in Computer Science and Related fields📰🔥.
 
 ![GitHub forks](https://img.shields.io/github/forks/CSwala/awesome-computer-science) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/CSwala/awesome-computer-science)
