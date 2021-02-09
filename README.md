@@ -2,6 +2,8 @@
 
 ## 💻 An awesome list of everything that exists in Computer Science and Related fields📰🔥.
 
+<img src="https://emoji.discord.st/emojis/DiscordLuv.gif">Join the Discord Server [here](https://discord.gg/rAz3Eb8fsN)
+
 ![GitHub forks](https://img.shields.io/github/forks/CSwala/awesome-computer-science) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/CSwala/awesome-computer-science)
 <br>
@@ -10,6 +12,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) 
 ![Maintenance](https://img.shields.io/maintenance/yes/2021)
+
+
 
 <details>
 <summary>Android </summary>
