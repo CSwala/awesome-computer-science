@@ -2,7 +2,7 @@
 
 ## 💻 An awesome list of everything that exists in Computer Science and Related fields📰🔥.
 
-<img src="https://emoji.discord.st/emojis/DiscordLuv.gif">Join the Discord Server [here](https://discord.gg/rAz3Eb8fsN)
+<img src="https://emoji.discord.st/emojis/DiscordLuv.gif" height="10" width="10">Join the Discord Server [here](https://discord.gg/rAz3Eb8fsN)
 
 ![GitHub forks](https://img.shields.io/github/forks/CSwala/awesome-computer-science) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/CSwala/awesome-computer-science)
