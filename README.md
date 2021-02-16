@@ -385,6 +385,37 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 <br>Best Courses -
 <br>Other Tips / Hacks - <br><br>
 </details>
+<details>
+
+<summary>Kotlin </summary>
+<br>Category/Type - <br>
+Programming Language<br>
+<br>
+Official Documentation - <br>
+https://kotlinlang.org/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ<br>
+https://www.youtube.com/user/androiddevelopers<br>
+https://www.youtube.com/channel/UCllewj2bGdqB8U9Ld15INAg<br>
+https://www.youtube.com/channel/UCP7uiEZIqci43m22KDl0sNw<br>
+<br>Useful Websites - <br>
+https://stackoverflow.com/search?q=kotlin<br>
+https://www.reddit.com/r/Kotlin/<br>
+<br>Dedicated Github page - <br>
+https://github.com/JetBrains/kotlin<br>
+https://github.com/KotlinBy/awesome-kotlin<br>
+<br>Best Courses - <br>
+https://hyperskill.org/onboarding<br>
+https://play.kotlinlang.org/byExample/overview<br>
+https://www.geeksforgeeks.org/kotlin-programming-language/<br>
+https://www.udacity.com/<br>
+<br>Other Tips / Hacks - <br>
+https://savvyapps.com/blog/kotlin-tips-android-development<br>
+https://career.guru99.com/top-25-kotlin-interview-questions-and-answers/<br>
+https://twitter.com/kotlin?lang=en<br>
+<br>
+</details>
 
 <details>
 <summary>Logstash </summary>
