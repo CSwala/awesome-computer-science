@@ -12,7 +12,7 @@
 
 4. Wait for the approval from the Maintainers of this project before startig to work on it.
 
-5. Add only links of the resources so to have transparency in navigating to them. 
+5. Add only links of the resources so to have transparency in navigating to them.Also add these changes to the Dictionary.json [file](https://github.com/CSwala/awesome-computer-science/blob/main/Dictionary.json).
 
 6. Try to fill maximum fields so that the issue can be closed by your PR only and someone else is not assigned to do the remaining work. Also take the issue which matches with your interest of work so that you have a good knowledge of its resources.
 
