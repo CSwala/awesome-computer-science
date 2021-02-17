@@ -452,13 +452,27 @@ https://twitter.com/kotlin?lang=en<br>
 
 <details>
 <summary>Python </summary>
-<br>Category/Type - <br>Open Source Programming Language<br>
-<br>Official Documentation - <br>https://docs.python.org/3/<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ<br>https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww<br>https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg<br>
-<br>Useful Websites - <br>https://www.reddit.com/r/Python/<br>https://stackoverflow.com/questions/tagged/python<br>
-<br>Dedicated Github page - <br>https://github.com/topics/python<br>https://github.com/vinta/awesome-python<br>
-<br>Best Courses - <br>https://www.codingninjas.com/courses/online-python-course<br>https://codeforcause.org/ds-algo-with-python<br>https://www.udemy.com/course/complete-python-bootcamp/<br>
-<br>Other Tips / Hacks - <br>https://www.geeksforgeeks.org/10-essential-python-tips-tricks-programmers/<br>https://medium.com/towards-artificial-intelligence/50-python-3-tips-tricks-e5dbe05212d7<br><br>
+<br>Category/Type - <br>
+Open Source Programming Language<br>
+<br>Official Documentation - <br>
+https://docs.python.org/3/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+<br>https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww<br>
+https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg<br>
+<br>Useful Websites - <br>
+https://www.reddit.com/r/Python/
+<br>https://stackoverflow.com/questions/tagged/python<br>
+<br>Dedicated Github page - <br>
+https://github.com/topics/python
+<br>https://github.com/vinta/awesome-python<br>
+<br>Best Courses - 
+<br>https://www.codingninjas.com/courses/online-python-course
+<br>https://codeforcause.org/ds-algo-with-python
+<br>https://www.udemy.com/course/complete-python-bootcamp/<br>
+<br>Other Tips / Hacks - 
+<br>https://www.geeksforgeeks.org/10-essential-python-tips-tricks-programmers/
+<br>https://medium.com/towards-artificial-intelligence/50-python-3-tips-tricks-e5dbe05212d7<br><br>
 </details>
 
 <details>
