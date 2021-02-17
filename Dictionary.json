@@ -1,0 +1,282 @@
+[
+{	"Title" : "Android",
+	"Tag": "OS",
+	"Documentation" : "https://developer.android.com/docs ",
+	"YT1 " : "https://www.youtube.com/channel/UC9M7-jzdU8CVrQo1JwmIdWA ",
+	"YT2 " :"https://www.youtube.com/channel/UCB2B0AuQgk6eOMbWR7qiqew ",
+	"YT3 " :"https://www.youtube.com/channel/UC58_wzhvJta3hDSPvRLDAqg ",
+	"YT4 " :"https://www.youtube.com/channel/UCl6DxakCjDR5AfRwWhWNbMg ",
+	"Website1": "https://www.reddit.com/r/Android/ ",
+	"Website2": "https://www.androidauthority.com/ ",
+	"Website3": "https://roadmap.sh/android  ",
+	"Dedicated GH page1" : "https://github.com/wasabeef/awesome-android-ui   ",
+	"Dedicated GH page2" : "https://github.com/JStumpp/awesome-android   ",
+	"Dedicated GH page3" : "https://github.com/wasabeef/awesome-android-libraries ",
+	"Course1" : "https://mindorks.com/ ",
+	"Course2" : "https://developer.android.com/courses ",
+	"Course3" : "https://www.codingninjas.com/courses/online-android-Development-kotlin ",
+	"Course4" : "https://www.udemy.com/course/kotlin-android-developer-masterclass/ ",
+	"Course5" : "https://www.coursera.org/specializations/advanced-app-android ",
+	"Tips1" : "https://techbeacon.com/app-dev-testing/how-become-better-android-developer-30-bite-sized-pro-tips ",
+	"Tips2" : "https://medium.com/@abangfadli/a-month-full-of-android-development-tips-and-tricks-b98c17627aa ",
+	"Tips3" : "https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks ",
+	"Image1":"https://roadmap.sh/roadmaps/android/roadmap.png " 
+
+	},
+
+
+
+
+
+
+
+	{
+	"Title" : "Bootstrap",
+	"Tag": "CSS Framework ",
+	"Documentation" : "https://getbootstrap.com/docs/5.0/getting-started/introduction/ ",
+	"YT1 " : "https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA ",
+	"YT2 " : "https://www.youtube.com/user/TechGuyWeb ",
+	"YT3 " : "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jE_cGvLLC60C_PeF_24pvv ",
+	"Website1": "https://www.bitdegree.org/tutorials/learn-bootstrap/ ",
+	"Website2": "https://websitesetup.org/bootstrap-tutorial-for-beginners/  ",
+	"Dedicated GH page1" : "https://github.com/twbs/bootstrap ",
+	"Dedicated GH page2" : "https://github.com/twbs/blog ",
+	"Dedicated GH page3" : "https://github.com/twbs/bootstrap-sass ",
+	"Dedicated GH page4" : "https://github.com/twbs/bootstrap-npm-starter  ",
+	"Course1" : "https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/ ",
+	"Course2" : "https://www.udemy.com/course/get-started-with-bootstrap-how-to-make-websites-from-scratch ",
+	"Course3" : "https://www.codecademy.com/learn/learn-bootstrap  ",
+	"Tips1" : "https://www.freecodecamp.org/news/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33/ ",
+	"Tips2" : "https://medium.com/wdstack/how-to-bootstrap-94abe3525442 ",
+	"Tips3" : "https://hackerthemes.com/bootstrap-cheatsheet/ "
+
+	},
+
+
+
+
+
+
+
+	{
+	"Title" : "C++",
+	"Tag": "Programming Language",
+	"Documentation" : "https://devdocs.io/cpp/ ",
+	"YT1 " : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ ",
+	"YT2 " : "https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww ",
+	"YT3 " : "https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg ",
+	"Website1": "https://www.reddit.com/r/cpp/ ",
+	"Website2": "https://stackoverflow.com/questions/tagged/C++  ",
+	"Website3": "https://gist.github.com/johnmcfarlane/1b2d9c83e4d3f700ba61e2df4077c613 ",
+	"Dedicated GH page1" : "https://github.com/fffaraz/awesome-cpp ",
+	"Course1" : "https://www.codingninjas.com/courses/onlline-c-plus-plus-course ",
+	"Course2" : "https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL  ",
+	"Tips1" : "https://www.geeksforgeeks.org/c-plus-plus/ ",
+	"Tips2" : "https://www.geeksforgeeks.org/c-tricks-competitive-programming-c-11/ ",
+	"Tips3" : "http://www.cplusplus.com/articles/tips/ ",
+	"Tips4" : "https://medium.com/dsc-dypcoe/must-know-c-tips-and-tricks-for-competitive-programming-part-1-d8a4d38243f5 ",
+	"Tips5" : "https://codeforces.com/blog/entry/74684 ",
+	"Tips6" : "https://medium.com/@marinamakarova/26-tips-on-c-programming-61cb54900234 "
+	},
+
+
+
+
+
+
+
+	{
+	"Title" : "Competitive Programming",
+	"Tag":  "Brain Storming",
+	"Documentation" : "https://cp-algorithms.com ",
+	"YT1 " : "https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg ",
+	"YT2 " : "https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q ",
+	"YT3 " : "https://www.youtube.com/channel/UC7rNzgC2fEBVpb-q_acpsmw ",
+	"YT4 " : "https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg ",
+	"YT5 " : "https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA ",
+	"YT6 " : "https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw ",
+	"YT7 " : "https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ ",
+	"Website1": "https://codeforces.com/ ",
+	"Website2": "https://atcoder.jp/ ",
+	"Website3": "https://www.codechef.com/ ",
+	"Website4": "https://www.hackerrank.com/ ",
+	"Website5": "https://www.spoj.com/ ",
+	"Website6": "https://leetcode.com/ ",
+	"Website7": "https://projecteuler.net/archives ",
+	"Website8": "https://www.topcoder.com/ ",
+	"Website9": "https://cses.fi/problemset/ ",
+	"Website10": "https://twchen.gitbook.io/leetcode/ ",
+	"Website11": "https://www.pramp.com/#/ ",
+	"Website12": "https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/edit ",
+	"Website13": "https://www.hackerearth.com/practice/ ",
+	"Website14": "https://interviewing.io ",
+	"Website15": "https://www.bigocheatsheet.com/ ",
+	"Dedicated GH page1" : "https://github.com/kth-competitive-programming/kactl ",
+	"Dedicated GH page2" : "https://github.com/JayantGoel001/CP-Resources ",
+	"Dedicated GH page3" : "https://github.com/Ashishgup1/Competitive-Coding ",
+	"Dedicated GH page4" : "https://github.com/JayantGoel001/Competitive-Programming-Resources ",
+	"Dedicated GH page5" : "https://github.com/bqi343/USACO ",
+	"Dedicated GH page6" : "https://github.com/JayantGoel001/geeksforgeeks.pdf ",
+	"Dedicated GH page7" : "https://github.com/Errichto/youtube ",
+	"Course1" : "https://www.hackerearth.com/getstarted-competitive-programming/ ",
+	"Course2" : "https://practice.geeksforgeeks.org/courses/competitive-programming-live ",
+	"Course3" : "https://www.codingninjas.com/courses/online-competitive-programming-course ",
+	"Course4" : "https://www.coursera.org/learn/competitive-programming-core-skills ",
+	"Course5" : "https://www.classcentral.com/course/competitive-programming-core-skills-11713 ",
+	"Tips1" : "https://codeforces.com/blog/entry/44991 ",
+	"Tips2" : "https://codeforces.com/blog/entry/82884 ",
+	"Tips3" : "https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions ",
+	"Tips4" : "https://www.quora.com/What-are-the-best-ways-to-master-dynamic-programming/answer/Sameer-Gulati-3 ",
+	"Tips5" : "https://www.quora.com/How-do-I-get-good-at-math-for-competitive-programming/answer/Sameer-Gulati-3 ",
+	"Tips6" : "https://www.quora.com/How-can-I-be-good-at-graph-theory-based-programming-problems-in-competitive-programming/answer/Sameer-Gulati-3 ",
+	"Tips7" : "https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know/answer/Sameer-Gulati-3?c ",
+	"Tips8" : "https://leetcode.com/discuss/general-discussion/651719/how-to-solve-dp-string-template-and-4-steps-to-be-followed ",
+	"Tips9" : "https://technicalbattle.blogspot.com/2020/05/best-blogs-on-codeforces-links-for-best.html ",
+	"Tips10" : "https://petr-mitrichev.blogspot.com ",
+	"Tips11" : "https://www.hackerearth.com/blog/developers/7-steps-to-improve-your-data-structure-and-algorithm-skills/ ",
+	"Tips12" : "https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed ",
+	"Tips13" : "https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions ",
+	"Tips14" : "https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/ "
+
+	},
+
+
+
+
+
+
+
+	{
+	"Title" : "Data Science",
+	"Tag": "Development",
+	"Documentation" : "https://python-data-science.readthedocs.io/en/latest/ ",
+	"YT1 " : "https://youtu.be/-ETQ97mXXF0 ",
+	"YT2 " : "https://youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV ",
+	"YT3 " : "https://youtu.be/ua-CiDNNj30 ",
+	"Website1": "https://www.kaggle.com/ ",
+	"Website2": "http://flowingdata.com/ ",
+	"Website3": "http://fastml.com/ ",
+	"Website4": "http://www.datasciencecentral.com/ ",
+	"Dedicated GH page1" : "https://github.com/ossu/data-science ",
+	"Dedicated GH page2" : "https://github.com/academic/awesome-datascience ",
+	"Dedicated GH page3" : "https://github.com/hhhrrrttt222111/DS_and_ML_projects ",
+	"Dedicated GH page4" : "https://github.com/JayantGoel001/Data-Science--Cheat-Sheet ",
+	"Course1" : "https://www.hackerearth.com/practice/machine-learning/prerequisites-of-machine-learning/basic-probability-models-and-rules/tutorial/ ",
+	"Course2" : "https://www.udemy.com/course/complete-data-science-course-beginner-to-advance/ ",
+	"Course3" : "https://www.coursera.org/degrees/master-of-data-science-hse ",
+	"Tips1" : "https://www.geeksforgeeks.org/overview-of-data-science/ ",
+	"Tips2" : "https://www.geeksforgeeks.org/machine-learning-and-data-science/ ",
+	"Tips3" : "https://www.geeksforgeeks.org/how-to-become-a-data-scientist-in-2019-a-complete-guide/ ",
+	"Tips4" : "https://www.geeksforgeeks.org/difference-between-data-science-and-data-analytics/ ",
+	"Tips5" : "https://www.geeksforgeeks.org/python-for-data-science/ ",
+	"Tips6" : "https://www.geeksforgeeks.org/the-future-of-data-science/ ",
+	"Tips7" : "https://www.analyticsvidhya.com/blog/2015/10/tips-tricks-awesom-data-science-jobs/ ",
+	"Tips8" : "https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debunking-few-myths-30537117a4e4 "
+
+	},
+
+
+
+
+
+	{
+	"Title" : "Java",
+	"Tag": "Programming Language",
+	"Documentation" : "https://docs.oracle.com/en/java/ ",
+	"YT1 " : "https://youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q ",
+	"YT2 " : "https://youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK ",
+	"YT3 " : "https://youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al ",
+	"YT4 " : "https://youtu.be/grEKMHGYyns ",
+	"Website1": "https://www.reddit.com/r/java/ ",
+	"Website2": "https://stackoverflow.com/questions/tagged/java ",
+	"Website3": "http://www.javaworld.com/  ",
+	"Dedicated GH page1" : "https://github.com/iluwatar/java-design-patterns ",
+	"Dedicated GH page2" : "https://github.com/kdn251/interviews ",
+	"Dedicated GH page3" : "https://github.com/TheAlgorithms/Java ",
+	"Dedicated GH page4" : "https://github.com/akullpp/awesome-java  ",
+	"Course1" : "https://www.udemy.com/course/java-the-complete-java-developer-course/ ",
+	"Course2" : "https://www.codecademy.com/learn/learn-java ",
+	"Course3" : "https://www.coursera.org/specializations/java-programming ",
+	"Course4" : "https://www.coursera.org/learn/intro-java-second-language  ",
+	"Tips1" : "https://www.geeksforgeeks.org/java/ ",
+	"Tips2" : "https://www.geeksforgeeks.org/fast-io-in-java-in-competitive-programming/ ",
+	"Tips3" : "https://blog.stoneriverelearning.com/10-java-coding-tips-every-programmer-should-know/ ",
+	"Tips4" : "https://www.geeksforgeeks.org/java-tricks-competitive-programming-java-8/ ",
+	"Tips5" : "https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/ "
+
+	},
+
+
+
+	{
+	"Title" : "Kotlin", 
+	"Tag":"Programming Language ",
+	"Documentation" : "https://kotlinlang.org/ ",
+	"YT1 " : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ ",
+	"YT2 " : "https://www.youtube.com/user/androiddevelopers ",
+	"YT3 " : "https://www.youtube.com/channel/UCllewj2bGdqB8U9Ld15INAg ",
+	"YT4 " : "https://www.youtube.com/channel/UCP7uiEZIqci43m22KDl0sNw ",
+	"Website1": "https://stackoverflow.com/search?q=kotlin ",
+	"Website2": "https://www.reddit.com/r/Kotlin/  ",
+	"Dedicated GH page1" : "https://github.com/JetBrains/kotlin ",
+	"Dedicated GH page2" : "https://github.com/KotlinBy/awesome-kotlin  ",
+	"Course1" : "https://hyperskill.org/onboarding ",
+	"Course2" : "https://play.kotlinlang.org/byExample/overview ",
+	"Course3" : "https://www.geeksforgeeks.org/kotlin-programming-language/ ",
+	"Course4" : "https://www.udacity.com/ ",
+	"Tips1" : "https://savvyapps.com/blog/kotlin-tips-android-development ",
+	"Tips2" : "https://career.guru99.com/top-25-kotlin-interview-questions-and-answers/ ",
+	"Tips3" : "https://twitter.com/kotlin?lang=en "
+	 
+	},
+
+
+
+	{
+	"Title" : "Python",
+	"Tag": "Programming Language",
+	"Documentation" : "https://docs.python.org/3/ ",
+	"YT1 " : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ ",
+	"YT2 " : "https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww ",
+	"YT3 " : "https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg ",
+	"Website1": "https://www.reddit.com/r/Python/ ",
+	"Website2": "https://stackoverflow.com/questions/tagged/python  ",
+	"Dedicated GH page1" : "https://github.com/topics/python ",
+	"Dedicated GH page2" : "https://github.com/vinta/awesome-python ",
+	"Course1" : "https://www.codingninjas.com/courses/online-python-course ",
+	"Course2" : "https://codeforcause.org/ds-algo-with-python ",
+	"Course3" : "https://www.udemy.com/course/complete-python-bootcamp/ ",
+	"Tips1" : "https://www.geeksforgeeks.org/10-essential-python-tips-tricks-programmers/ ",
+	"Tips2" : "https://medium.com/towards-artificial-intelligence/50-python-3-tips-tricks-e5dbe05212d7 "
+
+	},
+
+
+
+
+
+
+
+	{
+	"Title" : "ReactJS",
+	"Tag": "JavaScript Framework",
+	"Documentation" : "https://reactjs.org/docs/getting-started.html ",
+	"YT1 " : "https://www.youtube.com/user/TechGuyWeb ",
+	"YT2 " : "https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw ",
+	"YT3 " : "https://www.youtube.com/user/hiteshitube ",
+	"YT4 " : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ ",
+	"Website1": "https://react-projects.netlify.app/ ",
+	"Dedicated GH page1" : "https://github.com/enaqx/awesome-react ",
+	"Dedicated GH page2" : "https://github.com/Hermanya/awesome-react-bootstrap-components ",
+	"Dedicated GH page3" : "https://github.com/FormidableLabs/spectacle ",
+	"Course1" : "https://www.udemy.com/course/react-the-complete-guide-incl-redux/ ",
+	"Course2" : "https://www.codecademy.com/learn/react-101 ",
+	"Course3" : "https://www.coursera.org/projects/build-first-react-website ",
+	"Course4" : "https://www.coursera.org/learn/front-end-react ",
+	"Tips1" : "https://blog.bitsrc.io/5-recommended-reactjs-tips-and-best-practices-9a7e2f6526a4 ",
+	"Tips2" : "https://dev.to/simonholdorf/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-4fhn ",
+	"Tips3" : "https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks "
+
+	} 
+	]
+
