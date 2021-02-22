@@ -12,15 +12,18 @@
 
 4. Wait for the approval from the Maintainers of this project before startig to work on it.
 
-5. Add only links of the resources so to have transparency in navigating to them.Also add these changes to the Dictionary.json [file](https://github.com/CSwala/awesome-computer-science/blob/main/Dictionary.json).
+5. Add only links of the resources so to have transparency in navigating to them.
 
-6. Try to fill maximum fields so that the issue can be closed by your PR only and someone else is not assigned to do the remaining work. Also take the issue which matches with your interest of work so that you have a good knowledge of its resources.
+6. Add these changes to the Dictionary.json [file](https://github.com/CSwala/awesome-computer-science/blob/main/Dictionary.json).
 
-7. Create a pull request after making the changes and mention the Issue number that your pull request is related to.
+7. Try to fill maximum fields so that the issue can be closed by your PR only and someone else is not assigned to do the remaining work. Also take the issue which matches with your interest of work so that you have a good knowledge of its resources.
 
-8. Make the required changes if the reviewer asks for them. 
+8. Create a pull request after making the changes and mention the Issue number that your pull request is related to.
 
-9. That's it! Your pull request will be merged once everything seems okay.
+9. Make the required changes if the reviewer asks for them. 
+
+10. That's it! Your pull request will be merged once everything seems okay.
 
 
 
+	
