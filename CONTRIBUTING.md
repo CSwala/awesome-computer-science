@@ -1,28 +1,45 @@
-# Contribution Guildelines
+# Contributing Guildelines
 
-## Please follow these steps if you wish to contribute to Awesome Computer Science:
+### 👍🎉 First off, welcome to the project and thanks for taking the time to contribute! 🎉👍
+<br>
 
-### Star the Repo!
+#### When contributing to Awesome Computer Science, please first discuss the change you wish to make before making a change.
+<br>
 
-1. Go through the Issues to see if, what you want is already in discussion.
+## Before Getting Started!
+Learn how to fork a repo, create an issue, make changes, create pull request.
 
-2. Open a new Issue if you do not find the name you are looking for. Describe the feature request,additions you might want or anything clearly in the Issue message.
+For more information, refer to <a href = "https://docs.github.com/en" target = "_self">GitHub Documentation</a>
 
-3. Mention in the Issue that you want to work on it.
+--------
+## Contributing Process
 
-4. Wait for the approval from the Maintainers of this project before startig to work on it.
+1. Star the repo!.Go through 'Issues' to ensure whether the said issue has already been raised.
 
-5. Add only links of the resources so to have transparency in navigating to them.
+2. If you do find a new issue, do not hesitate to open a new one. Make sure to describe any additions required in the message.
 
-6. Add these changes to the Dictionary.json [file](https://github.com/CSwala/awesome-computer-science/blob/main/Dictionary.json).
+3. If interested, do mention in the issue that you want to work on it.
 
-7. Try to fill maximum fields so that the issue can be closed by your PR only and someone else is not assigned to do the remaining work. Also take the issue which matches with your interest of work so that you have a good knowledge of its resources.
+4. Kindly wait for the approval from the maintainers of this project before starting to work on any issue.
 
-8. Create a pull request after making the changes and mention the Issue number that your pull request is related to.
+5. **Do not make changes to the main branch.** All the changes should be made to the develop branch.
 
-9. Make the required changes if the reviewer asks for them. 
+6. Add only links of the resources so to have transparency in navigating to them.
 
-10. That's it! Your pull request will be merged once everything seems okay.
+7. Add these changes to the Dictionary.json [file](https://github.com/CSwala/awesome-computer-science/blob/main/Dictionary.json).
+
+8. Create a pull request after making the required changes and do mention the issue number that your pull request is related to.
+
+9. Finally, wait for it to be reviewed. Make the required changes if the reviewer asks for them. 
+
+10. Your pull request will be merged once everything seems okay.
+
+11. That's it! You have successfully made your contribution to the project.
+<br>
+
+-----------------
+#### **Note**: Always comment and provide apt descriptions wherever necessary for efficient running of the project.
+
 
 
 
