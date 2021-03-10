@@ -24,11 +24,21 @@
 
 	},
 
-
-
-
-
-
+	{
+		"Title" : "Apache OpenJPA",
+		"Tag": "object-relational mapping (ORM)",
+		"Documentation" : "http://openjpa.apache.org/documentation.html",
+		"YT1 " : "https://www.youtube.com/watch?v=otinfgwkMbY",
+		"YT2 " : "https://www.youtube.com/watch?v=OzZcW7XgiPA",
+		"Website1": "https://www.vogella.com/tutorials/JavaPersistenceAPI/article.html",
+		"Website2": "https://www.tutorialspoint.com/jpa/index.htm",
+		"Website3": "https://djitz.com/neu-mscs/getting-started-using-apache-openjpa/",
+		"Dedicated GH page1" : "https://github.com/apache/openjpa",
+		"Course1" : "https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/",
+		"Course2" : "https://www.udemy.com/course/hibernate-and-jpa-fundamentals/",
+		"Course3" : "https://www.udemy.com/course/hibernate-and-java-persistence-api-jpa-fundamentals/",
+		"Tips1" : "https://www.adam-bien.com/roller/abien/entry/if_you_like_to_build"
+		},
 
 	{
 	"Title" : "Bootstrap",
@@ -277,22 +287,6 @@
 	"Tips2" : "https://dev.to/simonholdorf/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-4fhn ",
 	"Tips3" : "https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks "
 
-	} ,
-
-	{
-	"Title" : "Apache OpenJPA",
-	"Tag": "object-relational mapping (ORM)",
-	"Documentation" : "http://openjpa.apache.org/documentation.html",
-	"YT1 " : "https://www.youtube.com/watch?v=otinfgwkMbY",
-	"YT2 " : "https://www.youtube.com/watch?v=OzZcW7XgiPA",
-	"Website1": "https://www.vogella.com/tutorials/JavaPersistenceAPI/article.html",
-	"Website2": "https://www.tutorialspoint.com/jpa/index.htm",
-	"Website3": "https://djitz.com/neu-mscs/getting-started-using-apache-openjpa/",
-	"Dedicated GH page1" : "https://github.com/apache/openjpa",
-	"Course1" : "https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/",
-	"Course2" : "https://www.udemy.com/course/hibernate-and-jpa-fundamentals/",
-	"Course3" : "https://www.udemy.com/course/hibernate-and-java-persistence-api-jpa-fundamentals/",
-	"Tips1" : "https://www.adam-bien.com/roller/abien/entry/if_you_like_to_build"
-	}
+	} 
 	]
 
