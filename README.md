@@ -209,13 +209,48 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 
 <details>
 <summary>Docker </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
+<br>
+Category/Type - <br>
+PaaS Development Tool<br>
+<br>
+Official Documentation - <br>
+https://docs.docker.com/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/channel/UCCLgKER7DNJc5sGXjMktsXg<br>
+https://www.youtube.com/playlist?list=PLsyeobzWxl7qYtx-KOKUolhqRVe7fuRuK<br>
+https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK<br>
+<br>
+Useful Websites -
+<br>
+https://serversforhackers.com/c/getting-started-with-docker<br>
+https://etherealmind.com/basics-docker-containers-hypervisors-coreos/<br>
+https://www.datadoghq.com/blog/tag/docker/<br>
+https://www.nginx.com/blog/deploying-nginx-nginx-plus-docker/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/docker<br>
+https://github.com/dwyl/learn-docker<br>
+https://github.com/dockersamples<br>
+https://github.com/docker/labs<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/docker-mastery/<br>
+https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/<br>
+https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift<br>
+<br>
+Other Tips / Hacks - <br>
+https://github.com/collabnix/dockerlabs<br>
+https://github.com/alexellis/mine-with-docker<br>
+https://www.geeksforgeeks.org/containerization-using-docker/<br>
+https://www.geeksforgeeks.org/basics-of-docker-networking/<br>
+https://codefresh.io/docker-tutorial/everyday-hacks-docker/<br>
+https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
+<br>
+<a href="https://miro.medium.com/max/2400/1*asSDJQpw1EQPFN-BqQSU0Q.png">
+  <img align="center" src="https://miro.medium.com/max/2400/1*asSDJQpw1EQPFN-BqQSU0Q.png" width="500" height="500"/>
+</a>
+<br><br><br>
 </details>
 
 <details>
