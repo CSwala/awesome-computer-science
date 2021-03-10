@@ -285,6 +285,19 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 </details>
 
 <details>
+<summary>Hibernate </summary>
+<br>Category/Type - object-relational mapping(ORM)<br>
+<br>Official Documentation - https://hibernate.org/orm/documentation/5.4/ <br>
+<br>Best YouTube creators - https://www.youtube.com/watch?v=7iFfbCBQlg8<br> https://www.youtube.com/watch?v=JR7-EdxDSf0<br>
+<br>Useful Websites - https://www.javatpoint.com/web-application-with-hibernate <br> https://medium.com/javarevisited/top-5-hibernate-online-training-courses-for-beginners-and-advance-java-programmers-469460596b2b<br>
+<br>Dedicated Github page - https://github.com/hibernate/<br>
+<br>Best Courses - https://www.udemy.com/course/spring-hibernate-tutorial/ <br> https://www.udemy.com/course/hibernate-from-scratch/<br>
+<br>Other Tips / Hacks - https://www.slideshare.net/ThorbenJanssen/hibernate-tips-n-tricks-15-tips-to-solve-common-problems<br>
+<br><br>
+</details>
+
+
+<details>
 <summary>Ios </summary>
 <br>Category/Type -
 <br>Official Documentation -

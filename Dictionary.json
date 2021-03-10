@@ -175,9 +175,19 @@
 
 	},
 
-
-
-
+	{
+		"Title" : "Hibernate",
+		"Tag": "object-relational mapping(ORM)",
+		"Documentation" : "https://hibernate.org/orm/documentation/5.4/",
+		"YT1 " : "https://www.youtube.com/watch?v=7iFfbCBQlg8",
+		"YT2 " : "https://www.youtube.com/watch?v=JR7-EdxDSf0",
+		"Website1": "https://www.javatpoint.com/web-application-with-hibernate",
+		"Website2": "https://medium.com/javarevisited/top-5-hibernate-online-training-courses-for-beginners-and-advance-java-programmers-469460596b2b",
+		"Dedicated GH page1" : "https://github.com/hibernate/",
+		"Course1" : "https://www.udemy.com/course/spring-hibernate-tutorial/",
+		"Course2" : "https://www.udemy.com/course/hibernate-from-scratch/",
+		"Tips1" : "https://www.slideshare.net/ThorbenJanssen/hibernate-tips-n-tricks-15-tips-to-solve-common-problems"
+	},
 
 	{
 	"Title" : "Java",
