@@ -248,7 +248,7 @@ https://codefresh.io/docker-tutorial/everyday-hacks-docker/<br>
 https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
 <br>
 <a href="https://miro.medium.com/max/2400/1*asSDJQpw1EQPFN-BqQSU0Q.png">
-  <img align="center" src="https://miro.medium.com/max/2400/1*asSDJQpw1EQPFN-BqQSU0Q.png" width="500" height="500"/>
+  <img align="center" src="https://miro.medium.com/max/2400/1*asSDJQpw1EQPFN-BqQSU0Q.png" width="1000" height="500"/>
 </a>
 <br><br><br>
 </details>
