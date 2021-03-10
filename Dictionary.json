@@ -180,6 +180,38 @@
 
 
 	{
+	"Title" : "Docker",
+	"Tag": "PaaS Development Tool",
+	"Documentation" : "https://docs.docker.com/ ",
+	"YT1 " : "https://www.youtube.com/channel/UCCLgKER7DNJc5sGXjMktsXg ",
+	"YT2 " : "https://www.youtube.com/playlist?list=PLsyeobzWxl7qYtx-KOKUolhqRVe7fuRuK ",
+	"YT3 " : "https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK ",
+	"Website1": "https://serversforhackers.com/c/getting-started-with-docker ",
+	"Website2": "https://etherealmind.com/basics-docker-containers-hypervisors-coreos/ ",
+	"Website3": "https://www.datadoghq.com/blog/tag/docker/ ",
+	"Website4": "https://www.nginx.com/blog/deploying-nginx-nginx-plus-docker/ ",
+	"Dedicated GH page1" : "https://github.com/docker ",
+	"Dedicated GH page2" : "https://github.com/dwyl/learn-docker ",
+	"Dedicated GH page3" : "https://github.com/dockersamples ",
+	"Dedicated GH page4" : "https://github.com/docker/labs ",
+	"Course1" : "https://www.udemy.com/course/docker-mastery/ ",
+	"Course2" : "https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/ ",
+	"Course3" : "https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift ",
+	"Tips1" : "https://github.com/collabnix/dockerlabs ",
+	"Tips2" : "https://github.com/alexellis/mine-with-docker ",
+	"Tips3" : "https://www.geeksforgeeks.org/containerization-using-docker/ ",
+	"Tips4" : "https://www.geeksforgeeks.org/basics-of-docker-networking/ ",
+	"Tips5" : "https://codefresh.io/docker-tutorial/everyday-hacks-docker/ ",
+	"Tips6" : "https://dockerlabs.collabnix.com/docker/cheatsheet/ ",
+	"Image1":"https://miro.medium.com/max/2400/1*asSDJQpw1EQPFN-BqQSU0Q.png "
+	
+	},
+
+
+
+
+
+	{
 	"Title" : "Java",
 	"Tag": "Programming Language",
 	"Documentation" : "https://docs.oracle.com/en/java/ ",
