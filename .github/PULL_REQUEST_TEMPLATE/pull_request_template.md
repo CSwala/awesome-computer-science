@@ -22,10 +22,10 @@
 
 Does you submission include -
 
-	* [ ]	Category/Type
-	* [ ]	Official Documnetation  
-	* [ ]	Best YouTube creators  
-	* [ ]	Useful Websites  
-	* [ ]	Dedicated Github page 
-	* [ ]	Best Courses  
-	* [ ]	Ohter Tips / Hacks 
+- [ ]	Category/Type
+- [ ]	Official Documnetation  
+- [ ]	Best YouTube creators  
+- [ ]	Useful Websites  
+- [ ]	Dedicated Github page 
+- [ ]	Best Courses  
+- [ ]	Ohter Tips / Hacks 
