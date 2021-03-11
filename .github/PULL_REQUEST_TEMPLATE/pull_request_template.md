@@ -21,6 +21,7 @@
 - [ ] Have you placed the contents in the `Readme.md` keeping the sorting order in mind ?
 
 Does you submission include -
+
 	* [ ]	Category/Type
 	* [ ]	Official Documnetation  
 	* [ ]	Best YouTube creators  
