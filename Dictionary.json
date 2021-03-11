@@ -24,11 +24,21 @@
 
 	},
 
-
-
-
-
-
+	{
+		"Title" : "Apache OpenJPA",
+		"Tag": "object-relational mapping (ORM)",
+		"Documentation" : "http://openjpa.apache.org/documentation.html",
+		"YT1 " : "https://www.youtube.com/watch?v=otinfgwkMbY",
+		"YT2 " : "https://www.youtube.com/watch?v=OzZcW7XgiPA",
+		"Website1": "https://www.vogella.com/tutorials/JavaPersistenceAPI/article.html",
+		"Website2": "https://www.tutorialspoint.com/jpa/index.htm",
+		"Website3": "https://djitz.com/neu-mscs/getting-started-using-apache-openjpa/",
+		"Dedicated GH page1" : "https://github.com/apache/openjpa",
+		"Course1" : "https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/",
+		"Course2" : "https://www.udemy.com/course/hibernate-and-jpa-fundamentals/",
+		"Course3" : "https://www.udemy.com/course/hibernate-and-java-persistence-api-jpa-fundamentals/",
+		"Tips1" : "https://www.adam-bien.com/roller/abien/entry/if_you_like_to_build"
+		},
 
 	{
 	"Title" : "Bootstrap",
@@ -173,6 +183,52 @@
 	"Tips7" : "https://www.analyticsvidhya.com/blog/2015/10/tips-tricks-awesom-data-science-jobs/ ",
 	"Tips8" : "https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debunking-few-myths-30537117a4e4 "
 
+	},
+
+	{
+		"Title" : "Hibernate",
+		"Tag": "object-relational mapping(ORM)",
+		"Documentation" : "https://hibernate.org/orm/documentation/5.4/",
+		"YT1 " : "https://www.youtube.com/watch?v=7iFfbCBQlg8",
+		"YT2 " : "https://www.youtube.com/watch?v=JR7-EdxDSf0",
+		"YT3 " : "https://www.youtube.com/watch?v=6TPDK6MOkz4",
+		"YT4 " : "https://www.youtube.com/watch?v=0KCKBv6rbkc",
+		"Website1": "https://www.javatpoint.com/web-application-with-hibernate",
+		"Website2": "https://medium.com/javarevisited/top-5-hibernate-online-training-courses-for-beginners-and-advance-java-programmers-469460596b2b",
+		"Dedicated GH page1" : "https://github.com/hibernate/",
+		"Course1" : "https://www.udemy.com/course/spring-hibernate-tutorial/",
+		"Course2" : "https://www.udemy.com/course/hibernate-from-scratch/",
+		"Course3" : "https://www.youtube.com/watch?v=PMR0ld5h938&list=PLsyeobzWxl7qBZtsEvp_n2A7sJs2MpF3r",
+		"Course4" : "https://www.youtube.com/watch?v=KHohVibqePw",
+		"Tips1" : "https://www.slideshare.net/ThorbenJanssen/hibernate-tips-n-tricks-15-tips-to-solve-common-problems"
+	},
+
+	{
+	"Title" : "Docker",
+	"Tag": "PaaS Development Tool",
+	"Documentation" : "https://docs.docker.com/ ",
+	"YT1 " : "https://www.youtube.com/channel/UCCLgKER7DNJc5sGXjMktsXg ",
+	"YT2 " : "https://www.youtube.com/playlist?list=PLsyeobzWxl7qYtx-KOKUolhqRVe7fuRuK ",
+	"YT3 " : "https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK ",
+	"Website1": "https://serversforhackers.com/c/getting-started-with-docker ",
+	"Website2": "https://etherealmind.com/basics-docker-containers-hypervisors-coreos/ ",
+	"Website3": "https://www.datadoghq.com/blog/tag/docker/ ",
+	"Website4": "https://www.nginx.com/blog/deploying-nginx-nginx-plus-docker/ ",
+	"Dedicated GH page1" : "https://github.com/docker ",
+	"Dedicated GH page2" : "https://github.com/dwyl/learn-docker ",
+	"Dedicated GH page3" : "https://github.com/dockersamples ",
+	"Dedicated GH page4" : "https://github.com/docker/labs ",
+	"Course1" : "https://www.udemy.com/course/docker-mastery/ ",
+	"Course2" : "https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/ ",
+	"Course3" : "https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift ",
+	"Tips1" : "https://github.com/collabnix/dockerlabs ",
+	"Tips2" : "https://github.com/alexellis/mine-with-docker ",
+	"Tips3" : "https://www.geeksforgeeks.org/containerization-using-docker/ ",
+	"Tips4" : "https://www.geeksforgeeks.org/basics-of-docker-networking/ ",
+	"Tips5" : "https://codefresh.io/docker-tutorial/everyday-hacks-docker/ ",
+	"Tips6" : "https://dockerlabs.collabnix.com/docker/cheatsheet/ ",
+	"Image1":"https://miro.medium.com/max/2400/1*asSDJQpw1EQPFN-BqQSU0Q.png "
+	
 	},
 
 
