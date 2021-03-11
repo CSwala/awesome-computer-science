@@ -332,6 +332,21 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
 </details>
 
 <details>
+<summary>Hibernate </summary>
+<br>Category/Type - object-relational mapping(ORM)<br>
+<br>Official Documentation - <br> https://hibernate.org/orm/documentation/5.4/ <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/watch?v=7iFfbCBQlg8<br> https://www.youtube.com/watch?v=JR7-EdxDSf0<br>
+https://www.youtube.com/watch?v=6TPDK6MOkz4<br> https://www.youtube.com/watch?v=0KCKBv6rbkc <br>
+<br>Useful Websites - <br> https://www.javatpoint.com/web-application-with-hibernate <br> https://medium.com/javarevisited/top-5-hibernate-online-training-courses-for-beginners-and-advance-java-programmers-469460596b2b<br>
+<br>Dedicated Github page - https://github.com/hibernate/<br>
+<br>Best Courses -  <br> https://www.udemy.com/course/spring-hibernate-tutorial/ <br> https://www.udemy.com/course/hibernate-from-scratch/<br> https://www.youtube.com/watch?v=PMR0ld5h938&list=PLsyeobzWxl7qBZtsEvp_n2A7sJs2MpF3r<br>
+https://www.youtube.com/watch?v=KHohVibqePw<br>
+<br>Other Tips / Hacks - <br> https://www.slideshare.net/ThorbenJanssen/hibernate-tips-n-tricks-15-tips-to-solve-common-problems<br>
+<br><br>
+</details>
+
+
+<details>
 <summary>Ios </summary>
 <br>Category/Type -
 <br>Official Documentation -
