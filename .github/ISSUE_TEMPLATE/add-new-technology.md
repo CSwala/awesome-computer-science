@@ -2,7 +2,7 @@
 name: Add New Stuff
 about: 'add new tech/wirframes/languages and all other CS related stuff to the project'
 title: 'Add name_of_stuff'
-labels: Level
+labels: Level1
 assignees: ''
 
 ---

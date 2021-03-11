@@ -34,6 +34,18 @@
 </details>
 
 <details>
+<summary>Apache OpenJPA </summary>
+<br>Category/Type - <br>object-relational mapping (ORM)<br>
+<br>Official Documentation - <br>http://openjpa.apache.org/documentation.html<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=otinfgwkMbY<br> https://www.youtube.com/watch?v=OzZcW7XgiPA<br>
+<br>Useful Websites - <br>https://www.vogella.com/tutorials/JavaPersistenceAPI/article.html<br>https://www.tutorialspoint.com/jpa/index.htm <br>https://djitz.com/neu-mscs/getting-started-using-apache-openjpa/<br>
+<br>Dedicated Github page - <br>https://github.com/apache/openjpa <br>
+<br>Best Courses - <br>https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/<br>https://www.udemy.com/course/hibernate-and-jpa-fundamentals/<br>https://www.udemy.com/course/hibernate-and-java-persistence-api-jpa-fundamentals/<br>
+<br>Other Tips / Hacks - <br>https://www.adam-bien.com/roller/abien/entry/if_you_like_to_build<br><br>
+<br><br><br>
+</details>
+
+<details>
 <summary>Appium </summary>
 <br>Category/Type -
 <br>Official Documentation -
@@ -209,13 +221,48 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 
 <details>
 <summary>Docker </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
+<br>
+Category/Type - <br>
+PaaS Development Tool<br>
+<br>
+Official Documentation - <br>
+https://docs.docker.com/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/channel/UCCLgKER7DNJc5sGXjMktsXg<br>
+https://www.youtube.com/playlist?list=PLsyeobzWxl7qYtx-KOKUolhqRVe7fuRuK<br>
+https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK<br>
+<br>
+Useful Websites -
+<br>
+https://serversforhackers.com/c/getting-started-with-docker<br>
+https://etherealmind.com/basics-docker-containers-hypervisors-coreos/<br>
+https://www.datadoghq.com/blog/tag/docker/<br>
+https://www.nginx.com/blog/deploying-nginx-nginx-plus-docker/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/docker<br>
+https://github.com/dwyl/learn-docker<br>
+https://github.com/dockersamples<br>
+https://github.com/docker/labs<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/docker-mastery/<br>
+https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/<br>
+https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift<br>
+<br>
+Other Tips / Hacks - <br>
+https://github.com/collabnix/dockerlabs<br>
+https://github.com/alexellis/mine-with-docker<br>
+https://www.geeksforgeeks.org/containerization-using-docker/<br>
+https://www.geeksforgeeks.org/basics-of-docker-networking/<br>
+https://codefresh.io/docker-tutorial/everyday-hacks-docker/<br>
+https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
+<br>
+<a href="https://miro.medium.com/max/2400/1*asSDJQpw1EQPFN-BqQSU0Q.png">
+  <img align="center" src="https://miro.medium.com/max/2400/1*asSDJQpw1EQPFN-BqQSU0Q.png" width="1000" height="500"/>
+</a>
+<br><br><br>
 </details>
 
 <details>
@@ -283,6 +330,21 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 <br>Best Courses -
 <br>Other Tips / Hacks - <br><br>
 </details>
+
+<details>
+<summary>Hibernate </summary>
+<br>Category/Type - object-relational mapping(ORM)<br>
+<br>Official Documentation - <br> https://hibernate.org/orm/documentation/5.4/ <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/watch?v=7iFfbCBQlg8<br> https://www.youtube.com/watch?v=JR7-EdxDSf0<br>
+https://www.youtube.com/watch?v=6TPDK6MOkz4<br> https://www.youtube.com/watch?v=0KCKBv6rbkc <br>
+<br>Useful Websites - <br> https://www.javatpoint.com/web-application-with-hibernate <br> https://medium.com/javarevisited/top-5-hibernate-online-training-courses-for-beginners-and-advance-java-programmers-469460596b2b<br>
+<br>Dedicated Github page - https://github.com/hibernate/<br>
+<br>Best Courses -  <br> https://www.udemy.com/course/spring-hibernate-tutorial/ <br> https://www.udemy.com/course/hibernate-from-scratch/<br> https://www.youtube.com/watch?v=PMR0ld5h938&list=PLsyeobzWxl7qBZtsEvp_n2A7sJs2MpF3r<br>
+https://www.youtube.com/watch?v=KHohVibqePw<br>
+<br>Other Tips / Hacks - <br> https://www.slideshare.net/ThorbenJanssen/hibernate-tips-n-tricks-15-tips-to-solve-common-problems<br>
+<br><br>
+</details>
+
 
 <details>
 <summary>Ios </summary>
