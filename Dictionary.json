@@ -229,6 +229,35 @@
 	"Tips3" : "https://twitter.com/kotlin?lang=en "
 	 
 	},
+	{
+		"Title" : "NLTK(Natural Language ToolKit",
+		"Tag": "Python Library",
+		"Documentation" : "https://www.nltk.org/ ",
+		"YT1 " : "https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL ",
+		"YT2 " : "https://www.youtube.com/watch?v=WYge0KZBhe0 ",
+		"YT3 " : "https://www.youtube.com/watch?v=X2vAabgKiuM" ,
+		"YT4 " : "https://www.youtube.com/watch?v=U8m5ug9Q54M ",
+		"YT5 " :  "https://www.youtube.com/watch?v=bgFKoaKX3ec",
+		"YT6 " : "https://www.youtube.com/watch?v=YB7XXDXIusg",
+		"Website2": "https://www.guru99.com/nltk-tutorial.html",
+		"Website3" : "https://www.nltk.org/book/ch06.html",
+		"Website1":"https://www.nltk.org/install.html",
+		"Website4" : "https://data-flair.training/blogs/nltk-python-tutorial/",
+		"Dedicated GH page1" : "https://github.com/nltk/nltk",
+		"Dedicated GH page2" : "https://github.com/vinta/awesome-python#natural-language-processing",
+		"Dedicated GH page3" : "https://github.com/hb20007/hands-on-nltk-tutorial",
+		"Dedicated GH page4" : "https://github.com/csurfer/rake-nltk/commits/master",
+		"Course1" : "https://www.udemy.com/course/natural-language-processing-nlp-for-beginners-using-nltk-in-python/",
+		"Course2" : "https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python",
+		"Course3" : "https://www.itexperttraining.com/core/course/nltk-with-python-3-for-natural-language-processing/",
+		"Course4" : "https://www.udemy.com/course/complete-natural-language-processing-nlp-with-spacy-nltk/",
+		"Tips1" : "https://awesomeopensource.com/projects/nltk",
+		"Tips2" : "https://opensource.com/article/20/8/nlp-python-nltk",
+		"Tips3" : "https://medium.com/@ritidass29/the-essential-guide-to-how-nlp-works-4d3bb23faf76",
+		"Tips4" : "https://www.kaggle.com/learn-forum/171334",
+		"Tip5" : "https://cheatography.com/murenei/cheat-sheets/natural-language-processing-with-python-and-nltk/"
+	
+		}
 
 
 
@@ -276,37 +305,6 @@
 	},
 	
 
-	{
-		"Title" : "NLTK(Natural Language ToolKit",
-		"Tag": "Python Library",
-		"Documentation" : "https://www.nltk.org/ ",
-		"Installation Guidelines":"https://www.nltk.org/install.html",
-		"YT1 " : "https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL ",
-		"YT2 " : "https://www.youtube.com/watch?v=WYge0KZBhe0 ",
-		"YT3 " : "https://www.youtube.com/watch?v=X2vAabgKiuM" ,
-		"YT4 " : "https://www.youtube.com/watch?v=U8m5ug9Q54M ",
-		"YT5 " :  "https://www.youtube.com/watch?v=bgFKoaKX3ec",
-		"YT6 " : "https://www.youtube.com/watch?v=YB7XXDXIusg",
-		"Website1": "https://www.guru99.com/nltk-tutorial.html",
-		"Website2" : "https://www.nltk.org/book/ch06.html",
-		"Website3" : "https://data-flair.training/blogs/nltk-python-tutorial/",
-		"Dedicated GH page1" : "https://github.com/nltk/nltk",
-		"Dedicated GH page2" : "https://github.com/vinta/awesome-python#natural-language-processing",
-		"Dedicated GH page3" : "https://github.com/hb20007/hands-on-nltk-tutorial",
-		"Dedicated GH page4" : "https://github.com/csurfer/rake-nltk/commits/master",
-		"Course1" : "https://www.udemy.com/course/natural-language-processing-nlp-for-beginners-using-nltk-in-python/",
-		"Course2" : "https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python",
-		"Course3" : "https://www.itexperttraining.com/core/course/nltk-with-python-3-for-natural-language-processing/",
-		"Course4" : "https://www.udemy.com/course/complete-natural-language-processing-nlp-with-spacy-nltk/",
-		"Tips1" : "https://awesomeopensource.com/projects/nltk",
-		"Tips2" : "https://opensource.com/article/20/8/nlp-python-nltk",
-		"Tips3" : "https://medium.com/@ritidass29/the-essential-guide-to-how-nlp-works-4d3bb23faf76",
-		"Tips4" : "https://www.kaggle.com/learn-forum/171334",
-		"Book1" : "Natural Language processing with python",
-		"Book2" :  "Speech and Language Processing",
-		"Book3" : "Natural language Processing in Action",
-		"Cheatsheet" : "https://cheatography.com/murenei/cheat-sheets/natural-language-processing-with-python-and-nltk/"
-	
-		}
+
 	]
 

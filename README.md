@@ -440,6 +440,19 @@ https://twitter.com/kotlin?lang=en<br>
 </details>
 
 <details>
+<summary>NLTK </summary>
+<br>Category/Type - <br>Python Library<br>
+<br>Official Documentation - <br>https://www.nltk.org/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL <br>https://www.youtube.com/watch?v=WYge0KZBhe0 <br>https://www.youtube.com/watch?v=X2vAabgKiuM<br>https://www.youtube.com/watch?v=U8m5ug9Q54M<br>https://www.youtube.com/watch?v=bgFKoaKX3ec<br>https://www.youtube.com/watch?v=YB7XXDXIusg
+<br>Useful Websites - <br>https://www.guru99.com/nltk-tutorial.html<br>https://www.nltk.org/book/ch06.html<br>https://www.nltk.org/install.html<br>https://data-flair.training/blogs/nltk-python-tutorial/<br>
+<br>Dedicated Github page - <br>https://github.com/nltk/nltk <br>https://github.com/vinta/awesome-python#natural-language-processing<br>https://github.com/hb20007/hands-on-nltk-tutorial<br>https://github.com/csurfer/rake-nltk/commits/master<br>
+<br>Best Courses - <br>https://www.udemy.com/course/natural-language-processing-nlp-for-beginners-using-nltk-in-python/<br>https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python<br>https://www.itexperttraining.com/core/course/nltk-with-python-3-for-natural-language-processing/<br>https://www.udemy.com/course/complete-natural-language-processing-nlp-with-spacy-nltk/<br>
+<br>Other Tips / Hacks - <br>https://awesomeopensource.com/projects/nltk<br>https://opensource.com/article/20/8/nlp-python-nltk<br>https://medium.com/@ritidass29/the-essential-guide-to-how-nlp-works-4d3bb23faf76<br>https://www.kaggle.com/learn-forum/171334<br>https://cheatography.com/murenei/cheat-sheets/natural-language-processing-with-python-and-nltk/<br><br>
+
+<br><br><br>
+</details>
+
+<details>
 <summary>Nodejs </summary>
 <br>Category/Type -
 <br>Official Documentation -
