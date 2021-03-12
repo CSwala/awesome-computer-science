@@ -309,6 +309,27 @@
 	 
 	},
 
+	{
+		"Title" : "Kubernetes",
+		"Tag": "container-orchestration system",
+		"Documentation" : "https://kubernetes.io/docs/home/",
+		"YT1 " : "https://www.youtube.com/watch?v=X48VuDVv0do",
+		"YT2 " : "https://www.youtube.com/watch?v=F-p_7XaEC84",
+		"YT3 " : "https://www.youtube.com/watch?v=QJ4fODH6DXI",
+		"YT4 " : "https://www.youtube.com/watch?v=R-3dfURb2hA",
+		"Website1": "https://www.redhat.com/en/topics/containers/what-is-kubernetes",
+		"Website2": "https://cloud.google.com/learn/what-is-kubernetes",
+		"Website3": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+		"Website4": "https://www.tutorialspoint.com/kubernetes/index.htm",
+		"Dedicated GH page1" : "https://github.com/kubernetes/kubernetes",
+		"Course1" : "https://www.coursera.org/specializations/architecting-google-kubernetes-engine",
+		"Course2" : "https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift",
+		"Course3" : "https://www.coursera.org/learn/containerized-apps-on-aws",
+		"Course4" : "https://www.coursera.org/projects/container-orchestration-kubernetes",
+		"Tips1" : "https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/",
+		"Tips2" : "https://blog.neuvector.com/article/hack-kubernetes-container"
+	
+		} ,
 
 
 	{
