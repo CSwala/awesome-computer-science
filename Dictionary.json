@@ -24,6 +24,31 @@
 
 	},
 
+	{	"Title" : "Ansible",
+		"Tag": "IT Configuration Management, Deployment & Orchestration tool",
+		"Documentation" : "https://docs.ansible.com",
+		"YT1 " : "https://www.youtube.com/user/Simplilearn",
+		"YT2 " : "https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA",
+		"YT3 " : "https://www.youtube.com/playlist?list=PL2qzCKTbjutIyQAe3GglWISLnLTQLGm7e",
+		"YT4 " : "https://www.youtube.com/playlist?list=PL8cE5Nxf6M6YUaKyuon-AWRDNr31ANuo2",
+		"Website1": "https://www.tutorialspoint.com/ansible/index.htm",
+		"Website2": "https://www.guru99.com/ansible-tutorial.html",
+		"Website3": "https://www.javatpoint.com/ansible",
+		"Website4": "https://www.redhat.com/en/topics/automation/learning-ansible-tutorial",
+		"Dedicated GH page1" : "https://github.com/ansible",
+		"Dedicated GH page2" : "https://github.com/ansible/ansible",
+		"Course1" : "https://www.udemy.com/course/learn-ansible/",
+		"Course2" : "https://www.udemy.com/course/mastering-ansible/",
+		"Course3" : "https://www.udemy.com/course/diveintoansible/",
+		"Course4" : "https://www.udemy.com/course/automation-with-ansible/",
+		"Tips1" : "https://blog.ippon.tech/ansible-tips-and-tricks/",
+		"Tips2" : "https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html",
+		"Tips3" : "https://medium.com/devops-dudes/tips-and-tricks-for-mastering-ansible-929c77fd1971",
+		"Tips4" : "https://learn.redhat.com/t5/Automation-Management-Ansible/Ansible-Tips-and-Tricks/td-p/148",
+		"Image1":"https://cdn.educba.com/academy/wp-content/uploads/2019/10/ansible-architecture.png" 
+	
+		},
+
 	{
 		"Title" : "Apache OpenJPA",
 		"Tag": "object-relational mapping (ORM)",
