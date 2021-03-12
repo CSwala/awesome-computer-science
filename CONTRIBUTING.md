@@ -26,7 +26,7 @@ For more information, refer to <a href = "https://docs.github.com/en" target = "
 
 6. Add only links of the resources so to have transparency in navigating to them.
 
-7. Add these changes to the Dictionary.json [file](https://github.com/CSwala/awesome-computer-science/blob/main/Dictionary.json).
+7. Add these changes also to the Dictionary.json [file](https://github.com/CSwala/awesome-computer-science/blob/main/Dictionary.json).
 
 8. Create a pull request after making the required changes and do mention the issue number that your pull request is related to.
 
