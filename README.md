@@ -536,6 +536,25 @@ https://blog.neuvector.com/article/hack-kubernetes-container <br>
 </details>
 
 <details>
+<summary>Puppet  </summary>
+<br>Category/Type - <br>IT automation<br>
+<br>Official Documentation - <br>https://puppet.com/docs/puppet/5.5/puppet_index.html<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=PL_J5Gj3GAQ <br> https://www.youtube.com/watch?v=QFcqvBk1gNA <br>
+https://www.youtube.com/watch?v=kHD4KQKKP5Y <br> https://www.youtube.com/watch?v=PL_J5Gj3GAQ <br>
+<br>Useful Websites - <br> https://www.edureka.co/blog/what-is-puppet/ <br> https://www.guru99.com/puppet-tutorial.html <br>
+https://www.tutorialspoint.com/puppet/index.htm <br>
+<br>Dedicated Github page - <br> https://github.com/puppetlabs/puppet <br> https://github.com/puppeteer/puppeteer <br>
+https://github.com/puppetlabs <br>
+<br>Best Courses - <br> https://puppet.com/learning-training/ <br> https://www.udemy.com/course/learning-puppet/ <br>
+https://www.udemy.com/course/learn-puppet/ <br> https://www.udemy.com/course/learning-puppet/ <br>
+<br>Other Tips / Hacks - <br> https://puppet.com/blog/category/tips-how-to/ <br> https://ospassist.puppet.com/hc/en-us/articles/360043112494-Puppet-tips-and-tricks <br> https://blog.kumina.nl/tag/puppet-tips-and-tricks/ <br> <br>
+<a href="https://www.replicated.com/wp-content/uploads/2020/10/Puppet-Replicated-Diagram.jpg">
+  <img align="center" src="https://www.replicated.com/wp-content/uploads/2020/10/Puppet-Replicated-Diagram.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Python </summary>
 <br>Category/Type - <br>
 Open Source Programming Language<br>

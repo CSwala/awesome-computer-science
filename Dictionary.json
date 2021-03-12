@@ -331,6 +331,29 @@
 	
 		} ,
 
+	{	"Title" : "Puppet",
+		"Tag": "IT automation",
+		"Documentation" : "https://puppet.com/docs/puppet/5.5/puppet_index.html",
+		"YT1 " : "https://www.youtube.com/watch?v=PL_J5Gj3GAQ",
+		"YT2 " :"https://www.youtube.com/watch?v=QFcqvBk1gNA",
+		"YT3 " :"https://www.youtube.com/watch?v=kHD4KQKKP5Y",
+		"YT4 " :"https://www.youtube.com/watch?v=PL_J5Gj3GAQ",
+		"Website1": "https://www.edureka.co/blog/what-is-puppet/",
+		"Website2": "https://www.guru99.com/puppet-tutorial.html",
+		"Website3": "https://www.tutorialspoint.com/puppet/index.htm",
+		"Dedicated GH page1" : "https://github.com/puppetlabs/puppet",
+		"Dedicated GH page2" : "https://github.com/puppeteer/puppeteer",
+		"Dedicated GH page3" : "https://github.com/puppetlabs",
+		"Course1" : "https://puppet.com/learning-training/",
+		"Course2" : "https://www.udemy.com/course/learning-puppet/",
+		"Course3" : "https://www.udemy.com/course/learn-puppet/",
+		"Course4" : "https://www.udemy.com/course/learning-puppet/",
+		"Tips1" : "https://puppet.com/blog/category/tips-how-to/",
+		"Tips2" : "https://ospassist.puppet.com/hc/en-us/articles/360043112494-Puppet-tips-and-tricks",
+		"Tips3" : "https://blog.kumina.nl/tag/puppet-tips-and-tricks/",
+		"Image1":"https://www.replicated.com/wp-content/uploads/2020/10/Puppet-Replicated-Diagram.jpg" 
+		
+		},
 
 	{
 	"Title" : "Python",
