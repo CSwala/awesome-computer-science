@@ -356,6 +356,30 @@
 	
 		} ,
 
+	{	
+		"Title" : "Maya",
+		"Tag": "3D modeling and animation program",
+		"Documentation" : "https://knowledge.autodesk.com/support/maya/getting-started/caas/simplecontent/content/maya-documentation.html",
+		"YT1 " : "https://www.youtube.com/user/Autodesk",
+		"YT2 " : "https://www.youtube.com/user/MayaHowTos",
+		"YT3 " : "https://www.youtube.com/playlist?list=PLD8E5717592CF5C26",
+		"YT4 " : "https://www.youtube.com/playlist?list=PLsPHRLf6UN4k0_AfrTzLmK4iDV9J97-qR",
+		"Website1": "https://www.bgsu.edu/content/dam/BGSU/libraries/documents/collab-lab/Maya-Tutorial.pdf",
+		"Website2": "https://designmodo.com/maya-tutorials/",
+		"Dedicated GH page1" : "https://github.com/ADN-DevTech/Maya-Training-Material",
+		"Dedicated GH page2" : "https://github.com/Autodesk/maya-usd",
+		"Course1" : "https://www.udemy.com/course/autodesk-maya-3d-animation-course/",
+		"Course2" : "https://www.udemy.com/course/learn-maya-for-beginners/",
+		"Course3" : "https://www.udemy.com/course/complete-maya-fluids-bootcamp/",
+		"Course4" : "https://www.udemy.com/course/maya-for-beginners-complete-3d-animation-masterclass/",
+		"Tips1" : "https://www.creativebloq.com/advice/20-tips-to-master-maya",
+		"Tips2" : "https://area.autodesk.com/tutorials/15-must-know-tips-tricks-in-maya-2020/",
+		"Tips3" : "https://fullrotation.com/maya-tips-for-beginners/",
+		"Tips4" : "https://academy.archistar.ai/the-top-18-tips-for-getting-more-from-maya",
+		"Image1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPejuFWVvHT5j0iMatE8cdIcXFbKlJHLSEZg&usqp=CAU" 
+		
+		},
+
 	{	"Title" : "Puppet",
 		"Tag": "IT automation",
 		"Documentation" : "https://puppet.com/docs/puppet/5.5/puppet_index.html",
