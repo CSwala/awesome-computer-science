@@ -480,6 +480,21 @@ https://twitter.com/kotlin?lang=en<br>
 </details>
 
 <details>
+<summary>Kubernetes </summary>
+<br>Category/Type - <br> container-orchestration system<br>
+<br>Official Documentation - <br> https://kubernetes.io/docs/home/ <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/watch?v=X48VuDVv0do <br>https://www.youtube.com/watch?v=F-p_7XaEC84
+<br> https://www.youtube.com/watch?v=QJ4fODH6DXI <br> https://www.youtube.com/watch?v=R-3dfURb2hA <br>
+<br>Useful Websites - <br> https://www.redhat.com/en/topics/containers/what-is-kubernetes <br> https://cloud.google.com/learn/what-is-kubernetes <br> https://kubernetes.io/docs/tutorials/kubernetes-basics/ <br> https://www.tutorialspoint.com/kubernetes/index.htm <br>
+<br>Dedicated Github page - <br> https://github.com/kubernetes/kubernetes <br>
+<br>Best Courses - <br> https://www.coursera.org/specializations/architecting-google-kubernetes-engine <br> https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift <br> https://www.coursera.org/learn/containerized-apps-on-aws <br>
+https://www.coursera.org/projects/container-orchestration-kubernetes <br>
+<br>Other Tips / Hacks - <br>  https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/ <br>
+https://blog.neuvector.com/article/hack-kubernetes-container <br>
+<br><br>
+</details>
+
+<details>
 <summary>Logstash </summary>
 <br>Category/Type -
 <br>Official Documentation -
