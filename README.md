@@ -406,14 +406,22 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 
 <details>
 <summary>Jenkins </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
+<br>Category/Type - <br>automation tool<br>
+<br>Official Documentation - <br>https://www.jenkins.io/doc/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=FX322RVNGj4<br>https://www.youtube.com/watch?v=p7-U1_E_j3w<br>https://www.youtube.com/watch?v=woMAXn4e8NA<br>https://www.youtube.com/watch?v=7KCS70sCoK0<br>
+<br>Useful Websites - <br>https://www.tutorialspoint.com/jenkins/index.htm<br>https://www.jenkins.io/doc/tutorials/<br>https://www.guru99.com/jenkins-tutorial.html<br>https://www.javatpoint.com/jenkins<br>
+<br>Dedicated Github page - <br>https://github.com/jenkinsci/jenkins<br>https://github.com/jenkinsci<<br>
+<br>Best Courses - <br>https://www.udemy.com/course/jenkins-from-zero-to-hero/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-C0PwRpUtAp2tASFkX0SH9A&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads<br>
+https://www.udemy.com/course/jenkins-continuous-integration-bootcamp/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-99v3NUD9t_vUNp5geCKfTQ&utm_medium=udemyads&utm_source=aff-campaign<br>
+https://www.coursera.org/learn/uva-darden-continous-delivery-devops?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-nvgpKpVUSsfLIHgBPXcHIw&siteID=JVFxdTr9V80-nvgpKpVUSsfLIHgBPXcHIw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80<br>
+https://www.udemy.com/course/jenkins-learn-continuous-integration/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-OG3YwtLN1.DRfKVGFejZfw&utm_medium=udemyads&utm_source=aff-campaign<br>
+<br>Other Tips / Hacks - <br>https://wildcardcorp.com/blogs/jenkins-tips-tricks<br>https://medium.com/edureka/jenkins-cheat-sheet-e0f7e25558a3<br>https://www.devopsu.org/blog/jenkins-tips-and-tricks/<br>
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rundeck.com%2Fjenkins&psig=AOvVaw3qSpVvHuCdG4TWcD9via2Q&ust=1615569758065000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDyg7_gqO8CFQAAAAAdAAAAABAD">
+  <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rundeck.com%2Fjenkins&psig=AOvVaw3qSpVvHuCdG4TWcD9via2Q&ust=1615569758065000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDyg7_gqO8CFQAAAAAdAAAAABAD" width="500" height="500"/>
+</a>
+<br><br><br>
 </details>
+
 
 <details>
 <summary>Kafka </summary>
