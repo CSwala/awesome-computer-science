@@ -65,6 +65,28 @@
 		"Tips1" : "https://www.adam-bien.com/roller/abien/entry/if_you_like_to_build"
 		},
 
+	{	"Title" : "Blender",
+		"Tag": "3D modeling and animation program",
+		"Documentation" : "https://docs.blender.org/manual/en/latest/",
+		"YT1 " : "https://www.youtube.com/user/AndrewPPrice",
+		"YT2 " : "https://www.youtube.com/user/BlenderInstitute",
+		"YT3 " : "https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6",
+		"YT4 " : "https://www.youtube.com/playlist?list=PLn3ukorJv4vvv3ZpWJYvV5Tmvo7ISO-NN",
+		"Website1": "https://www.3dblendered.com/learning-blender/introduction-to-blender-for-absolute-beginners-a-great-blender-tutorial/",
+		"Website2": "https://www.blender.org/support/tutorials/",
+		"Dedicated GH page1" : "https://github.com/blender/blender",
+		"Dedicated GH page2" : "https://github.com/blender",
+		"Course1" : "https://www.udemy.com/course/blendertutorial/",
+		"Course2" : "https://www.udemy.com/course/blender-environments/",
+		"Course3" : "https://www.udemy.com/course/blender-3d-sculpting-course/",
+		"Tips1" : "https://vagon.io/blog/blender-tips-tricks/",
+		"Tips2" : "https://www.creativebloq.com/13-blender-tips-pros-7113110",
+		"Tips3" : "https://3dtotal.com/tutorials/t/10-blender-tricks-you-might-not-know-about",
+		"Tips4" : "https://www.blenderguru.com/articles/how-i-learned-blender-and-5-tips-for-you",
+		"Image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5p85jNnxdlbr0zyFu1KCgwK_Idk-ilss4_g&usqp=CAU" 
+		
+			},
+
 	{
 	"Title" : "Bootstrap",
 	"Tag": "CSS Framework ",
@@ -86,12 +108,6 @@
 	"Tips3" : "https://hackerthemes.com/bootstrap-cheatsheet/ "
 
 	},
-
-
-
-
-
-
 
 	{
 	"Title" : "C++",
