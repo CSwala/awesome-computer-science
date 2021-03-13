@@ -549,6 +549,47 @@ https://blog.neuvector.com/article/hack-kubernetes-container <br>
 <br>Best Courses -
 <br>Other Tips / Hacks - <br><br>
 </details>
+<details>
+<summary>Matplotlib</summary>
+<br>
+Category/Type - <br>
+Python Library<br>
+<br>
+Official Documentation - <br>
+https://matplotlib.org/stable/contents.html<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_<br>
+https://www.youtube.com/watch?v=VFsRLjSc8GA<br>
+https://www.youtube.com/watch?v=3Xc3CA655Y4<br>
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF<br>
+https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB
+<br>
+Useful Websites -
+<br>
+https://www.w3schools.com/python/matplotlib_pyaplot.asp<br>
+https://www.tutorialspoint.com/matplotlib/index.htm<br>
+https://www.geeksforgeeks.org/python-introduction-matplotlib/<br>
+https://realpython.com/python-matplotlib-guide/
+<br>
+Dedicated Github page - <br>
+https://github.com/matplotlib/matplotlib<br>
+https://github.com/mwaskom/seaborn<br>
+https://github.com/rougier/matplotlib-cheatsheet<br>
+https://github.com/garrettj403/SciencePlots<br>
+<br>
+Best Courses - <br>
+https://hackr.io/blog/best-python-courses<br>
+https://www.coursera.org/projects/plots-creation-using-matplotlib-python<br>
+https://www.freecodecamp.org/news/matplotlib-course-learn-python-data-visualization/<br>
+<br>
+Other Tips / Hacks - <br>
+https://www.analyticsvidhya.com/blog/2020/05/10-matplotlib-tricks-data-visualization-python/<br>
+https://towardsdatascience.com/simple-ways-to-improve-your-matplotlib-b64eebccfd5<br>
+https://pythonmatplotlibtips.blogspot.com/<br>
+https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf
+<br><br>
+</details>
 
 <details>
 <summary>Machine learning </summary>
@@ -570,6 +611,19 @@ https://blog.neuvector.com/article/hack-kubernetes-container <br>
 <br>Dedicated Github page -
 <br>Best Courses -
 <br>Other Tips / Hacks - <br><br>
+</details>
+
+
+<details>
+<summary>NLTK </summary>
+<br>Category/Type - <br>Python Library<br>
+<br>Official Documentation - <br>https://www.nltk.org/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL <br>https://www.youtube.com/watch?v=WYge0KZBhe0 <br>https://www.youtube.com/watch?v=X2vAabgKiuM<br>https://www.youtube.com/watch?v=U8m5ug9Q54M<br>https://www.youtube.com/watch?v=bgFKoaKX3ec<br>https://www.youtube.com/watch?v=YB7XXDXIusg
+<br>Useful Websites - <br>https://www.guru99.com/nltk-tutorial.html<br>https://www.nltk.org/book/ch06.html<br>https://www.nltk.org/install.html<br>https://data-flair.training/blogs/nltk-python-tutorial/<br>
+<br>Dedicated Github page - <br>https://github.com/nltk/nltk <br>https://github.com/vinta/awesome-python#natural-language-processing<br>https://github.com/hb20007/hands-on-nltk-tutorial<br>https://github.com/csurfer/rake-nltk/commits/master<br>
+<br>Best Courses - <br>https://www.udemy.com/course/natural-language-processing-nlp-for-beginners-using-nltk-in-python/<br>https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python<br>https://www.itexperttraining.com/core/course/nltk-with-python-3-for-natural-language-processing/<br>https://www.udemy.com/course/complete-natural-language-processing-nlp-with-spacy-nltk/<br>
+<br>Other Tips / Hacks - <br>https://awesomeopensource.com/projects/nltk<br>https://opensource.com/article/20/8/nlp-python-nltk<br>https://medium.com/@ritidass29/the-essential-guide-to-how-nlp-works-4d3bb23faf76<br>https://www.kaggle.com/learn-forum/171334<br>https://cheatography.com/murenei/cheat-sheets/natural-language-processing-with-python-and-nltk/<br><br>
+
 </details>
 
 <details>

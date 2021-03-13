@@ -371,6 +371,63 @@
 		"Tips2" : "https://blog.neuvector.com/article/hack-kubernetes-container"
 	
 		} ,
+		{
+			"Title" : "Matplotlib",
+				"Tag": "Python Library",
+				"Documentation" : "https://matplotlib.org/stable/contents.html",
+				"YT1 " : "https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_",
+				"YT2 " : "https://www.youtube.com/watch?v=VFsRLjSc8GA",
+				"YT3 " : "https://www.youtube.com/watch?v=3Xc3CA655Y4" ,
+				"YT4 " : "https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF",
+				"YT5 " :  "https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_",
+				"Website1" : "https://www.w3schools.com/python/matplotlib_pyaplot.asp",
+				"Website2" : "https://www.tutorialspoint.com/matplotlib/index.htm",
+				"Website3" : "https://www.geeksforgeeks.org/python-introduction-matplotlib/",
+				"Website4" : "https://realpython.com/python-matplotlib-guide/",
+				"Dedicated GH page1" : "https://github.com/matplotlib/matplotlib",
+				"Dedicated GH page2" : "https://github.com/mwaskom/seaborn",
+				"Dedicated GH page3" : "https://github.com/rougier/matplotlib-cheatsheet",
+				"Dedicated GH page4" : "https://github.com/garrettj403/SciencePlots",
+				"Course1" : "https://hackr.io/blog/best-python-courses",
+				"Course2" : "https://www.coursera.org/projects/plots-creation-using-matplotlib-python",
+				"Course3" : "https://www.freecodecamp.org/news/matplotlib-course-learn-python-data-visualization/",
+				"Tips1" : "https://www.analyticsvidhya.com/blog/2020/05/10-matplotlib-tricks-data-visualization-python/",
+				"Tips2" : "https://towardsdatascience.com/simple-ways-to-improve-your-matplotlib-b64eebccfd5",
+				"Tips3" : "https://pythonmatplotlibtips.blogspot.com/",
+				"Tips4" : "https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf",
+		
+		
+				}
+		
+			{
+				"Title" : "NLTK(Natural Language ToolKit",
+				"Tag": "Python Library",
+				"Documentation" : "https://www.nltk.org/ ",
+				"YT1 " : "https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL ",
+				"YT2 " : "https://www.youtube.com/watch?v=WYge0KZBhe0 ",
+				"YT3 " : "https://www.youtube.com/watch?v=X2vAabgKiuM" ,
+				"YT4 " : "https://www.youtube.com/watch?v=U8m5ug9Q54M ",
+				"YT5 " :  "https://www.youtube.com/watch?v=bgFKoaKX3ec",
+				"YT6 " : "https://www.youtube.com/watch?v=YB7XXDXIusg",
+				"Website1": "https://www.guru99.com/nltk-tutorial.html",
+				"Website2" : "https://www.nltk.org/book/ch06.html",
+				"Website3":"https://www.nltk.org/install.html",
+				"Website4" : "https://data-flair.training/blogs/nltk-python-tutorial/",
+				"Dedicated GH page1" : "https://github.com/nltk/nltk",
+				"Dedicated GH page2" : "https://github.com/vinta/awesome-python#natural-language-processing",
+				"Dedicated GH page3" : "https://github.com/hb20007/hands-on-nltk-tutorial",
+				"Dedicated GH page4" : "https://github.com/csurfer/rake-nltk/commits/master",
+				"Course1" : "https://www.udemy.com/course/natural-language-processing-nlp-for-beginners-using-nltk-in-python/",
+				"Course2" : "https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python",
+				"Course3" : "https://www.itexperttraining.com/core/course/nltk-with-python-3-for-natural-language-processing/",
+				"Course4" : "https://www.udemy.com/course/complete-natural-language-processing-nlp-with-spacy-nltk/",
+				"Tips1" : "https://awesomeopensource.com/projects/nltk",
+				"Tips2" : "https://opensource.com/article/20/8/nlp-python-nltk",
+				"Tips3" : "https://medium.com/@ritidass29/the-essential-guide-to-how-nlp-works-4d3bb23faf76",
+				"Tips4" : "https://www.kaggle.com/learn-forum/171334",
+				"Tip5" : "https://cheatography.com/murenei/cheat-sheets/natural-language-processing-with-python-and-nltk/"
+			
+				},
 
 	{	"Title" : "Puppet",
 		"Tag": "IT automation",
