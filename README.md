@@ -645,6 +645,48 @@ https://www.udemy.com/course/complete-maya-fluids-bootcamp/ <br> https://www.ude
 <br>Other Tips / Hacks - <br>https://awesomeopensource.com/projects/nltk<br>https://opensource.com/article/20/8/nlp-python-nltk<br>https://medium.com/@ritidass29/the-essential-guide-to-how-nlp-works-4d3bb23faf76<br>https://www.kaggle.com/learn-forum/171334<br>https://cheatography.com/murenei/cheat-sheets/natural-language-processing-with-python-and-nltk/<br><br>
 
 </details>
+<details>
+<summary>Pandas</summary>
+<br>
+Category/Type - <br>
+Python Library<br>
+<br>
+Official Documentation - <br>
+https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=RhEjmHeDNoA<br>
+https://www.youtube.com/watch?v=vmEHCJofslg<br>
+https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy<br>
+https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS<br>
+https://www.youtube.com/watch?v=PfVxFV1ZPnk
+<br>
+Useful Websites -
+https://www.w3schools.com/python/pandas/default.asp<br>
+https://www.geeksforgeeks.org/python-pandas-dataframe/<br>
+https://www.tutorialspoint.com/python_pandas/index.htm<br>
+https://www.guru99.com/python-pandas-tutorial.html
+<br>
+Dedicated Github page - <br>
+https://github.com/pandas-dev/pandas<br>
+https://github.com/guipsamora/pandas_exercises<br>
+https://github.com/jvns/pandas-cookbook<br>
+https://github.com/pandas-profiling/pandas-profiling
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/pandas-with-python/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-93451758763_._li_1007765_._pd__._&matchtype=b&gclid=CjwKCAiA4rGCBhAQEiwAelVtiyOLt23mCQWbnbXh2ParLwofEmo6VRzFYm-QkCqhsrLFboW0m8C_LBoCPiEQAvD_BwE<br>
+https://www.datacamp.com/courses/pandas-foundations?utm_source=adwords_ppc&utm_campaignid=1458011002&utm_adgroupid=56096313269&utm_device=c&utm_keyword=pandas%20course&utm_matchtype=e&utm_network=g&utm_adpostion=&utm_creative=278841530121&utm_targetid=aud-392016246653:kwd-303144560159&utm_loc_interest_ms=&utm_loc_physical_ms=1007765&gclid=CjwKCAiA4rGCBhAQEiwAelVti74KYX9jPoB5UPrEbk-8vQ-UJ3W3TSI3CXHF0xd-s5zNiYx-H0pCvBoCj94QAvD_BwE<br>
+https://www.coursera.org/specializations/data-science-python?utm_source=gg&utm_medium=sem&utm_campaign=29-AppliedDataSciencePython-IN&utm_content=29-AppliedDataSciencePython-IN&campaignid=12032519429&adgroupid=115699205426&device=c&keyword=course%20era%20python&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=490702858445&hide_mobile_promo&gclid=CjwKCAiA4rGCBhAQEiwAelVtiydF6sFdn_W5BY4bt5nyDg1j6NJM9cDYXWD47EiCfAEKoSH45lOB_xoCtLMQAvD_BwE<br>
+https://courses.analyticsvidhya.com/courses/pandas-for-data-analysis-in-python
+<br>
+Other Tips / Hacks - <br>
+https://towardsdatascience.com/10-python-pandas-tricks-to-make-data-analysis-more-enjoyable-cb8f55af8c30<br>
+https://www.dataschool.io/python-pandas-tips-and-tricks/<br>
+https://www.analyticsvidhya.com/blog/2020/07/5-striking-pandas-tips-and-tricks-for-analysts-and-data-scientists/<br>
+https://paulvanderlaken.com/2020/06/30/100-python-pandas-tips-tricks/<br>
+https://www.dataschool.io/future-of-pandas/
+<br><br>
+</details>
 
 <details>
 <summary>Puppet  </summary>
