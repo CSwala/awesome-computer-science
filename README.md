@@ -86,6 +86,25 @@ https://www.udemy.com/course/diveintoansible/ <br> https://www.udemy.com/course/
 </details>
 
 <details>
+<summary>Blender </summary>
+<br>Category/Type - <br>3D modeling and animation program<br>
+<br>Official Documentation - <br>https://docs.blender.org/manual/en/latest/<br>
+<br>Best YouTube creators - <br> https://www.youtube.com/user/AndrewPPrice <br> https://www.youtube.com/user/BlenderInstitute <br>
+https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6 <br> https://www.youtube.com/playlist?list=PLn3ukorJv4vvv3ZpWJYvV5Tmvo7ISO-NN <br>
+<br>Useful Websites - <br> https://www.3dblendered.com/learning-blender/introduction-to-blender-for-absolute-beginners-a-great-blender-tutorial/ <br> 
+https://www.blender.org/support/tutorials/ <br>
+<br>Dedicated Github page - <br> https://github.com/blender/blender <br> https://github.com/blender <br>
+<br>Best Courses - <br> https://www.udemy.com/course/blendertutorial/ <br> https://www.udemy.com/course/blender-environments/ <br>
+https://www.udemy.com/course/blender-3d-sculpting-course/ <br>
+<br>Other Tips / Hacks - <br> https://vagon.io/blog/blender-tips-tricks/ <br> https://www.creativebloq.com/13-blender-tips-pros-7113110 <br>
+https://3dtotal.com/tutorials/t/10-blender-tricks-you-might-not-know-about <br> https://www.blenderguru.com/articles/how-i-learned-blender-and-5-tips-for-you <br> <br>
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5p85jNnxdlbr0zyFu1KCgwK_Idk-ilss4_g&usqp=CAU">
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5p85jNnxdlbr0zyFu1KCgwK_Idk-ilss4_g&usqp=CAU" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Bootstrap</summary>
 <br>Category/Type - <br>CSS Framework <br>
 <br>Official Documentation - <br>https://getbootstrap.com/docs/5.0/getting-started/introduction/<br>
