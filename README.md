@@ -549,6 +549,7 @@ https://blog.neuvector.com/article/hack-kubernetes-container <br>
 <br>Best Courses -
 <br>Other Tips / Hacks - <br><br>
 </details>
+
 <details>
 <summary>Matplotlib</summary>
 <br>
@@ -600,6 +601,25 @@ https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat
 <br>Dedicated Github page -
 <br>Best Courses -
 <br>Other Tips / Hacks - <br><br>
+</details>
+
+<details>
+<summary>Maya </summary>
+<br>Category/Type - <br>3D modeling and animation program<br>
+<br>Official Documentation - <br>https://knowledge.autodesk.com/support/maya/getting-started/caas/simplecontent/content/maya-documentation.html<br>
+<br>Best YouTube creators - <br> https://www.youtube.com/user/Autodesk <br> https://www.youtube.com/user/MayaHowTos 
+<br> https://www.youtube.com/playlist?list=PLD8E5717592CF5C26 <br> https://www.youtube.com/playlist?list=PLsPHRLf6UN4k0_AfrTzLmK4iDV9J97-qR <br> https://www.youtube.com/c/InspirationTuts/featured <br> 
+https://www.youtube.com/playlist?list=PL_wyEvNVo1UQbNt9tKmg4AvhwpYKcQnML <br> https://www.youtube.com/playlist?list=PLhzdYQZ3iGsJqYhL-VSJjmWaL9pU0K5Im <br> https://www.youtube.com/playlist?list=PLhzdYQZ3iGsJqYhL-VSJjmWaL9pU0K5Im <br>
+<br>Useful Websites - <br> https://www.bgsu.edu/content/dam/BGSU/libraries/documents/collab-lab/Maya-Tutorial.pdf <br> https://designmodo.com/maya-tutorials/ <br>
+<br>Dedicated Github page - <br> https://github.com/ADN-DevTech/Maya-Training-Material <br> https://github.com/Autodesk/maya-usd <br>
+<br>Best Courses - <br> https://www.udemy.com/course/autodesk-maya-3d-animation-course/ <br> https://www.udemy.com/course/learn-maya-for-beginners/ <br>
+https://www.udemy.com/course/complete-maya-fluids-bootcamp/ <br> https://www.udemy.com/course/maya-for-beginners-complete-3d-animation-masterclass/ <br>
+<br>Other Tips / Hacks - <br> https://www.creativebloq.com/advice/20-tips-to-master-maya <br> https://area.autodesk.com/tutorials/15-must-know-tips-tricks-in-maya-2020/ <br>
+ https://fullrotation.com/maya-tips-for-beginners/ <br> https://academy.archistar.ai/the-top-18-tips-for-getting-more-from-maya <br> <br>
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPejuFWVvHT5j0iMatE8cdIcXFbKlJHLSEZg&usqp=CAU">
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPejuFWVvHT5j0iMatE8cdIcXFbKlJHLSEZg&usqp=CAU" width="500" height="500"/>
+</a>
+<br><br><br>
 </details>
 
 <details>
