@@ -423,6 +423,32 @@
 	"Image1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPejuFWVvHT5j0iMatE8cdIcXFbKlJHLSEZg&usqp=CAU" 
 					
 					},
+
+	{	"Title" : "MongoDB",
+		"Tag": "Document-oriented database",
+		"Documentation" : "https://docs.mongodb.com",
+		"YT1 " : "https://www.youtube.com/user/MongoDB",
+		"YT2 " :"https://www.youtube.com/user/TechGuyWeb",
+		"YT3 " :"https://www.youtube.com/user/intellipaaat",
+		"YT4 " :"https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u",
+		"YT5" : "https://www.youtube.com/playlist?list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ",
+		"YT6" : "https://www.youtube.com/playlist?list=PLS1QulWo1RIZtR6bncmSaH8fB81oRl6MP",
+		"Website1": "https://www.guru99.com/mongodb-tutorials.html",
+		"Website2": "https://www.tutorialspoint.com/mongodb/index.htm",
+		"Website3": "https://www.javatpoint.com/mongodb-tutorial",
+		"Website4" : "https://university.mongodb.com",
+		"Dedicated GH page1" : "https://github.com/mongodb/mongo",
+		"Dedicated GH page2" : "https://github.com/mongodb",
+		"Course1" : "https://www.coursera.org/learn/introduction-mongodb",
+		"Course2" : "https://www.pluralsight.com/courses/mongodb-introduction",
+		"Course3" : "https://www.udemy.com/course/the-complete-developers-guide-to-mongodb",
+		"Course4" : "https://www.pluralsight.com/courses/mongodb-administration",
+		"Tips1" : "https://www.oreilly.com/library/view/50-tips-and/9781449306779/",
+		"Tips2" : "https://dzone.com/articles/mongodb-design-tips-amp-tricks",
+		"Tips3" : "https://www.mongodb.com/presentations/tips-and-tricks-for-query-performance-let-us-explain-them",
+		"Tips4" : "https://www.roihunter.com/blog/5-successful-tips-you-need-to-optimize-mongodb",
+		"Image1": "https://miro.medium.com/max/3202/1*JfwNbmBbsYKBT7_QFhd13Q.jpeg"
+		},
 		
 		
 {

@@ -623,6 +623,25 @@ https://www.udemy.com/course/complete-maya-fluids-bootcamp/ <br> https://www.ude
 </details>
 
 <details>
+<summary>MongoDB </summary>
+<br>Category/Type - <br>Document-oriented database<br>
+<br>Official Documentation - <br> https://docs.mongodb.com <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/user/MongoDB <br> https://www.youtube.com/user/TechGuyWeb <br> 
+https://www.youtube.com/user/intellipaaat <br> https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u <br>
+https://www.youtube.com/playlist?list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ <br> https://www.youtube.com/playlist?list=PLS1QulWo1RIZtR6bncmSaH8fB81oRl6MP <br>
+<br>Useful Websites - <br> https://www.guru99.com/mongodb-tutorials.html <br> https://www.tutorialspoint.com/mongodb/index.htm <br>
+https://www.javatpoint.com/mongodb-tutorial <br> https://university.mongodb.com <br>
+<br>Dedicated Github page - <br> https://github.com/mongodb/mongo <br> https://github.com/mongodb <br>
+<br>Best Courses - <br> https://www.coursera.org/learn/introduction-mongodb <br> https://www.pluralsight.com/courses/mongodb-introduction <br>
+https://www.udemy.com/course/the-complete-developers-guide-to-mongodb <br> https://www.pluralsight.com/courses/mongodb-administration <br>
+<br>Other Tips / Hacks - <br> https://www.oreilly.com/library/view/50-tips-and/9781449306779/ <br> https://dzone.com/articles/mongodb-design-tips-amp-tricks <br>
+https://www.mongodb.com/presentations/tips-and-tricks-for-query-performance-let-us-explain-them <br> https://www.roihunter.com/blog/5-successful-tips-you-need-to-optimize-mongodb <br> <br>
+  <img align="center" src="https://miro.medium.com/max/3202/1*JfwNbmBbsYKBT7_QFhd13Q.jpeg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Nodejs </summary>
 <br>Category/Type -
 <br>Official Documentation -
