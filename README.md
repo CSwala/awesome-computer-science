@@ -313,6 +313,22 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
 <br>Other Tips / Hacks - <br><br>
 </details>
 
+ <details>
+<summary> GIMP </summary>
+<br>Category/Type - <br> Graphics editor <br>
+<br>Official Documentation - <br> https://www.gimp.org/docs/ <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/user/darkskeletontuts <br> https://www.youtube.com/user/DaViesMediaDesign <br>
+https://www.youtube.com/playlist?list=PLqazFFzUAPc4vITMJaF3Fnqh3pccSMnC4 <br> https://www.youtube.com/playlist?list=PLays36u5hBzNQwMLO025a5iljWldfymQg <br>
+https://www.youtube.com/playlist?list=PLynG8gQD-n8Dl23X0o1HFu_5PmBl79niz <br>
+<br>Useful Websites - <br> https://www.gimp.org/tutorials/ <br> https://www.javatpoint.com/gimp <br> https://daviesmediadesign.com/20-gimp-2-10-tutorials-for-beginners/ <br>
+https://www.bioinformatics.babraham.ac.uk/training/Figure_Design_Course/GIMP%20Tutorial.pdf <br>
+<br>Dedicated Github page - <br> https://github.com/GNOME/gimp <br> https://github.com/Diolinux/PhotoGIMP <br>
+<br>Best Courses - <br> https://www.skillshare.com/site/join?via=search-layout-grid&clickid=RFBTJlUjpxyLWzG0Rw0UrUzuUkEVh1ypqw6-1U0&irgwc=1&utm_content=4650&utm_term=Online+Tracking+Link&utm_campaign=1790542&affiliateRef=6595003&utm_medium=affiliate-referral&utm_source=IR&t=Fundamentals-of-Photo-Editing-in-GIMP&sku=1756133267 <br>
+https://www.udemy.com/course/gimp-photo-editing/ <br> https://www.udemy.com/course/learn-gimp/ <br>
+<br>Other Tips / Hacks - <br> https://digital-photography-school.com/5-top-tips-for-working-with-gimp/ <br> https://www.pcworld.com/article/3451356/gimp-basics-tips-and-tricks-for-beginners.html <br>
+https://www.pcgamer.com/10-sweet-gimp-photo-editing-tricks-to-wean-you-off-photoshop/ <br> https://windowsreport.com/how-to-use-gimp-2-10/ <br> <br>
+</details>
+
 <details>
 <summary>Graph database </summary>
 <br>Category/Type -
