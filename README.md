@@ -689,6 +689,24 @@ https://www.dataschool.io/future-of-pandas/
 </details>
 
 <details>
+<summary>PostgreSQL </summary>
+<br>Category/Type - <br>Relational Database Management System<br>
+<br>Official Documentation - <br> https://www.postgresql.org/docs/ <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/edurekaIN <br>
+https://www.youtube.com/user/SocraticaStudios <br> https://www.youtube.com/playlist?list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS <br>
+https://www.youtube.com/playlist?list=PLS1QulWo1RIa-sDLWbP01sEnlm_Bxmvqs <br> https://www.youtube.com/playlist?list=PLxtrcgLvnR2Yjj4mIbL1aspC_XzVNvP_6 <br>
+<br>Useful Websites - <br> https://www.postgresqltutorial.com <br> https://www.tutorialspoint.com/postgresql/index.htm <br> 
+https://www.javatpoint.com/postgresql-tutorial <br> https://www.guru99.com/postgresql-tutorial.html <br> https://w3resource.com/PostgreSQL/tutorial.php <br>
+<br>Dedicated Github page - <br> https://github.com/postgres/postgres <br> https://github.com/postgres <br>
+<br>Best Courses - <br> https://www.udemy.com/course/the-complete-python-postgresql-developer-course/ <br>
+https://www.udemy.com/course/sql-and-postgresql-for-beginners/ <br> https://www.udemy.com/course/intro-to-postgresql-databases-with-pgadmin/ <br>
+https://www.udemy.com/course/postgresql-from-zero-to-hero/ <br> https://www.udemy.com/course/postgresql-database-administration-dba-for-beginners/ <br>
+<br>Other Tips / Hacks - <br> https://www.freecodecamp.org/news/postgresql-tricks/ <br> https://www.cybertec-postgresql.com/en/tips-and-tricks-to-kick-start-postgres-year-2020/ <br>
+https://pgdash.io/blog/postgres-psql-tips-tricks.html <br> https://www.enterprisedb.com/blog/tips-postgres-postgres-insider <br>
+<br><br><br>
+</details>
+
+<details>
 <summary>Puppet  </summary>
 <br>Category/Type - <br>IT automation<br>
 <br>Official Documentation - <br>https://puppet.com/docs/puppet/5.5/puppet_index.html<br>
