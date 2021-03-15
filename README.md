@@ -367,8 +367,8 @@ https://www.pcgamer.com/10-sweet-gimp-photo-editing-tricks-to-wean-you-off-photo
 <br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/javaboynavin <br>
 https://www.youtube.com/user/Udacity <br> https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q <br> https://www.youtube.com/playlist?list=PLgPJX9sVy92yu7If3I7GonlWA8YU1BuAk <br>
 <br>Useful Websites - <br> https://www.educative.io/blog/golang-tutorial <br> https://golang.org/doc/tutorial/getting-started <br>
-https://www.tutorialspoint.com/go/index.htm <br> https://www.guru99.com/google-go-tutorial.html <br>
-<br>Dedicated Github page - <br> https://github.com/DaoCloud/golang-mongo-sample <br> https://github.com/kyawmyintthein/golangRestfulAPISample <br> https://github.com/digitalocean/sample-golang <br>
+https://www.tutorialspoint.com/go/index.htm <br> https://www.guru99.com/google-go-tutorial.html <br> https://www.geeksforgeeks.org/go-programming-language-introduction/ <br>  https://builtin.com/software-engineering-perspectives/golang-advantages <br> https://yourbasic.org/golang/advantages-over-java-python/ <br> https://www.freecodecamp.org/news/here-are-some-amazing-advantages-of-go-that-you-dont-hear-much-about-1af99de3b23a/ <br>
+<br>Dedicated Github page - <br> https://github.com/DaoCloud/golang-mongo-sample <br> https://github.com/kyawmyintthein/golangRestfulAPISample <br> https://github.com/digitalocean/sample-golang <br> https://github.com/golang/go <br> https://github.com/golang/oauth2 <br> https://github.com/golang/gofrontend <br> https://github.com/golang/appengine <br>
 <br>Best Courses - <br> https://www.udemy.com/course/go-the-complete-developers-guide/ <br> https://www.udemy.com/course/master-go-programming-complete-golang-bootcamp/ <br>
 https://www.coursera.org/specializations/google-golang <br> https://www.pluralsight.com/courses/go-fundamentals <br> https://www.codecademy.com/learn/learn-go <br>
 https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/ <br> https://www.udemy.com/course/golang-the-ultimate-guide-to-microservices-in-go-part-1/ <br>
