@@ -213,6 +213,22 @@ https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/<br>
 </details>
 
 <details>
+<summary> CUDA </summary>
+<br>Category/Type - <br> Application Programming Interfaces <br>
+<br>Official Documentation - <br> https://docs.nvidia.com/cuda/ <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK <br>
+https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU <br> https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_ <br>
+https://cuda-tutorial.readthedocs.io/en/latest/tutorials/tutorial01/ <br>
+<br>Useful Websites - <br> https://www.tutorialspoint.com/cuda/index.htm <br> https://developer.nvidia.com/blog/even-easier-introduction-cuda/ <br> 
+https://cuda-tutorial.readthedocs.io/en/latest/tutorials/tutorial01/ <br>
+<br>Dedicated Github page - <br> https://github.com/NVIDIA/cuda-samples <br> https://github.com/zchee/cuda-sample <br>
+<br>Best Courses - <br> https://www.pluralsight.com/courses/parallel-computing-cuda <br> https://www.udemy.com/course/cuda-programming-masterclass/ <br> 
+https://www.udemy.com/course/introduction-to-gpu-computing-with-cuda/ <br>
+<br>Other Tips / Hacks - <br> https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=dc7112-cuda+optimization+tips%2C+tricks+and+techniques <br>
+https://medium.com/@sciencemonk/cuda-programming-tips-and-tricks-12d60310817a <br> https://www.quora.com/What-are-some-CUDA-tricks-and-optimizations <br> <br>
+</details>
+
+<details>
 <summary>Data Science</summary>
 <br>
 Category/Type - <br>
