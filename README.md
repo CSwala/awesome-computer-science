@@ -257,6 +257,21 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 </details>
 
 <details>
+<summary> DirectX </summary>
+<br>Category/Type - <br> Application Programming Interfaces <br>
+<br>Official Documentation - <br> https://docs.microsoft.com/en-us/windows/win32/getting-started-with-directx-graphics <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/playlist?list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD <br>
+https://www.youtube.com/playlist?list=PLqCJpWy5FohcehaXlCIt8sVBHBFFRVWsx <br> https://www.youtube.com/playlist?list=PLcacUGyBsOIBlGyQQWzp6D1Xn6ZENx9Y2 <br>
+https://www.youtube.com/user/ChiliTomatoNoodle <br> https://www.youtube.com/playlist?list=PLizgKJ9dhxgwwSFCCLI8bqOrpEFCRcS9U <br>
+<br>Useful Websites - <br> https://www.tutorialspoint.com/directx/index.htm <br> http://www.directxtutorial.com <br> 
+https://docs.microsoft.com/en-us/windows/win32/direct3dgetstarted/building-your-first-directx-app <br>
+<br>Dedicated Github page - <br> https://github.com/microsoft/DirectX-Graphics-Samples <br> https://github.com/walbourn/directx-sdk-samples <br> 
+<br>Best Courses - <br> https://www.udemy.com/course/directx11/ <br> https://www.udemy.com/course/directx-learn-microsoft-directx-from-scratch/ <br>
+<br>Other Tips / Hacks - <br> http://www.nigelgriffin.com/notebook_warrior/ebooks/Graphics/Shaderx2%20-%20Shader%20Programming%20Tips%20&%20Tricks%20With%20Directx%209.pdf <br> 
+https://pdfslide.net/documents/shaderx-shader-programming-tips-tricks-with-directx-9.html <br> <br>
+</details>
+
+<details>
 <summary>Docker </summary>
 <br>
 Category/Type - <br>
