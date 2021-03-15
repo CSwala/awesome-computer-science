@@ -726,6 +726,45 @@ https://github.com/topics/python
 <br>Other Tips / Hacks - <br><br>
 </details>
 
+
+<details>
+<summary>SciPy</summary>
+<br>
+Category/Type - <br>
+Python Library<br>
+<br>
+Official Documentation - <br>
+https://www.scipy.org/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=k8s-R3csOt0<br>
+https://www.youtube.com/watch?v=ARYCvrEW1fw<br>
+https://www.youtube.com/watch?v=H2xTjI4S-sY<br>
+https://www.youtube.com/watch?v=cXHvC_FGx24<br>
+Useful Websites -
+https://www.w3schools.com/python/scipy_intro.asp<br>
+https://scipy-lectures.org/<br>
+https://www.tutorialspoint.com/scipy/index.htm<br>
+https://scipy.github.io/old-wiki/pages/Projects.html<br>
+Dedicated Github page - <br>
+https://github.com/scipy/scipy<br>
+https://github.com/scipy-lectures/scipy-lecture-notes<br>
+https://github.com/fonnesbeck/scipy2014_tutorial<br>
+https://github.com/Sean-Toroghi/Machine_learning<br>
+Best Courses - <br>
+https://www.udemy.com/course/python-scipy/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-93451758763_._li_1007765_._pd__._&matchtype=b&gclid=Cj0KCQjwi7yCBhDJARIsAMWFScMOvZs6GfEWwx6_5V4L1bzA8RvpWVbytjzlQnV8l0Tj1_rWwEg3AqgaAjRcEALw_wcB<br>
+https://www.coursera.org/lecture/python-data-processing/1-extension-library-scipy-lVZKr<br>
+<br>
+Other Tips / Hacks - <br>
+https://www.packtpub.com/product/pandas-and-numpy-tips-tricks-and-techniques-video/9781838825638<br>
+https://wizardforcel.gitbooks.io/scipy-cookbook-en/content/119.html<br>
+https://www.datacamp.com/community/blog/python-scipy-cheat-sheet
+<br>
+https://ugoproto.github.io/ugo_py_doc/pdf/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf<br>
+</details>
+
+
+
 <details>
 <summary>Selenium </summary>
 <br>Category/Type -
