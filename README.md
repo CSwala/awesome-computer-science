@@ -734,6 +734,7 @@ https://www.mongodb.com/presentations/tips-and-tricks-for-query-performance-let-
 <br>Dedicated Github page - <br>https://github.com/nltk/nltk <br>https://github.com/vinta/awesome-python#natural-language-processing<br>https://github.com/hb20007/hands-on-nltk-tutorial<br>https://github.com/csurfer/rake-nltk/commits/master<br>
 <br>Best Courses - <br>https://www.udemy.com/course/natural-language-processing-nlp-for-beginners-using-nltk-in-python/<br>https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python<br>https://www.itexperttraining.com/core/course/nltk-with-python-3-for-natural-language-processing/<br>https://www.udemy.com/course/complete-natural-language-processing-nlp-with-spacy-nltk/<br>
 <br>Other Tips / Hacks - <br>https://awesomeopensource.com/projects/nltk<br>https://opensource.com/article/20/8/nlp-python-nltk<br>https://medium.com/@ritidass29/the-essential-guide-to-how-nlp-works-4d3bb23faf76<br>https://www.kaggle.com/learn-forum/171334<br>https://cheatography.com/murenei/cheat-sheets/natural-language-processing-with-python-and-nltk/<br><br>
+</details>
 
 <details>
 <summary> Node.js </summary>
