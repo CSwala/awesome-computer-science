@@ -661,6 +661,32 @@
 	"Tips2" : "https://dev.to/simonholdorf/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-4fhn ",
 	"Tips3" : "https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks "
 
-	} 
+	},
+
+	{	"Title" : "Swift",
+		"Tag": "Programming language",
+		"Documentation" : "https://developer.apple.com/documentation/swift",
+		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+		"YT2" : "https://www.youtube.com/user/edurekaIN",
+		"YT3" : "https://www.youtube.com/user/CodeWithChris",
+		"YT4" : "https://www.youtube.com/playlist?list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX",
+		"YT5" : "https://www.youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW",
+		 "Website1": "https://www.tutorialspoint.com/swift/index.htm",
+		"Website2": "https://www.javatpoint.com/swift-tutorial",
+		"Website3": "https://www.programiz.com/swift-programming",
+		"Website4": "https://codewithchris.com/swift-tutorial-complete/",
+		"Website5": "https://www.edureka.co/blog/swift-tutorial",
+		"Dedicated GH page1" : "https://github.com/larryhou/swift",
+		"Dedicated GH page2": "https://github.com/nalexn/clean-architecture-swiftui",
+		"Dedicated GH page3": "https://github.com/microsoft/appcenter-sampleapp-ios-swift",
+		"Course1" : "https://www.coursera.org/learn/swift-5-programming-introduction",
+		"Course2" : "https://www.codecademy.com/catalog/language/swift",
+		"Course3" : "https://www.udemy.com/course/swift-programming/",
+		"Course4" : "https://www.udacity.com/course/swift-for-beginners--ud1022",
+		"Tips1" : "https://savvyapps.com/blog/swift-tips-for-developers",
+		"Tips2" : "https://github.com/Luur/SwiftTips",
+		"Tips3" : "https://www.packtpub.com/product/swift-5-tips-tricks-and-techniques-video/9781838983574",
+		"Image1": "https://i.ytimg.com/vi/iHyo1WOteQM/maxresdefault.jpg"
+	}
 	]
 
