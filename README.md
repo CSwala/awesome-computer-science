@@ -361,6 +361,21 @@ https://www.pcgamer.com/10-sweet-gimp-photo-editing-tricks-to-wean-you-off-photo
 </details>
 
 <details>
+<summary> Go </summary>
+<br>Category/Type - <br> Programming language <br>
+<br>Official Documentation - <br> https://golang.org/doc/ <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/javaboynavin <br>
+https://www.youtube.com/user/Udacity <br> https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q <br> https://www.youtube.com/playlist?list=PLgPJX9sVy92yu7If3I7GonlWA8YU1BuAk <br>
+<br>Useful Websites - <br> https://www.educative.io/blog/golang-tutorial <br> https://golang.org/doc/tutorial/getting-started <br>
+https://www.tutorialspoint.com/go/index.htm <br> https://www.guru99.com/google-go-tutorial.html <br> https://www.geeksforgeeks.org/go-programming-language-introduction/ <br>  https://builtin.com/software-engineering-perspectives/golang-advantages <br> https://yourbasic.org/golang/advantages-over-java-python/ <br> https://www.freecodecamp.org/news/here-are-some-amazing-advantages-of-go-that-you-dont-hear-much-about-1af99de3b23a/ <br>
+<br>Dedicated Github page - <br> https://github.com/DaoCloud/golang-mongo-sample <br> https://github.com/kyawmyintthein/golangRestfulAPISample <br> https://github.com/digitalocean/sample-golang <br> https://github.com/golang/go <br> https://github.com/golang/oauth2 <br> https://github.com/golang/gofrontend <br> https://github.com/golang/appengine <br> https://github.com/avelino/awesome-go <br>
+<br>Best Courses - <br> https://www.udemy.com/course/go-the-complete-developers-guide/ <br> https://www.udemy.com/course/master-go-programming-complete-golang-bootcamp/ <br>
+https://www.coursera.org/specializations/google-golang <br> https://www.pluralsight.com/courses/go-fundamentals <br> https://www.codecademy.com/learn/learn-go <br>
+https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/ <br> https://www.udemy.com/course/golang-the-ultimate-guide-to-microservices-in-go-part-1/ <br>
+<br>Other Tips / Hacks - <br> http://www.golangbootcamp.com/book/tricks_and_tips <br> https://github.com/cristaloleg/go-advice <br> https://golangvedu.wordpress.com <br>
+</details>
+
+<details>
 <summary>Graph database </summary>
 <br>Category/Type -
 <br>Official Documentation -
@@ -852,6 +867,43 @@ https://github.com/topics/python
 <br>Other Tips / Hacks - <br><br>
 </details>
 
+
+<details>
+<summary>SciPy</summary>
+<br>
+Category/Type - <br>
+Python Library<br>
+<br>
+Official Documentation - <br>
+https://www.scipy.org/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=k8s-R3csOt0<br>
+https://www.youtube.com/watch?v=ARYCvrEW1fw<br>
+https://www.youtube.com/watch?v=H2xTjI4S-sY<br>
+https://www.youtube.com/watch?v=cXHvC_FGx24<br>
+Useful Websites -
+https://www.w3schools.com/python/scipy_intro.asp<br>
+https://scipy-lectures.org/<br>
+https://www.tutorialspoint.com/scipy/index.htm<br>
+https://scipy.github.io/old-wiki/pages/Projects.html<br>
+Dedicated Github page - <br>
+https://github.com/scipy/scipy<br>
+https://github.com/scipy-lectures/scipy-lecture-notes<br>
+https://github.com/fonnesbeck/scipy2014_tutorial<br>
+https://github.com/Sean-Toroghi/Machine_learning<br>
+Best Courses - <br>
+https://www.udemy.com/course/python-scipy/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-93451758763_._li_1007765_._pd__._&matchtype=b&gclid=Cj0KCQjwi7yCBhDJARIsAMWFScMOvZs6GfEWwx6_5V4L1bzA8RvpWVbytjzlQnV8l0Tj1_rWwEg3AqgaAjRcEALw_wcB<br>
+https://www.coursera.org/lecture/python-data-processing/1-extension-library-scipy-lVZKr<br>
+<br>
+Other Tips / Hacks - <br>
+https://www.packtpub.com/product/pandas-and-numpy-tips-tricks-and-techniques-video/9781838825638<br>
+https://wizardforcel.gitbooks.io/scipy-cookbook-en/content/119.html<br>
+https://www.datacamp.com/community/blog/python-scipy-cheat-sheet
+<br>
+https://ugoproto.github.io/ugo_py_doc/pdf/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf<br>
+</details>
+
 <details>
 <summary>Selenium </summary>
 <br>Category/Type -
@@ -894,6 +946,24 @@ https://github.com/topics/python
 <br>Dedicated Github page -
 <br>Best Courses -
 <br>Other Tips / Hacks - <br><br>
+</details>
+
+<details>
+<summary> Swift </summary>
+<br>Category/Type - <br> Programming language <br>
+<br>Official Documentation - <br> https://developer.apple.com/documentation/swift <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/edurekaIN <br> 
+https://www.youtube.com/user/CodeWithChris <br> https://www.youtube.com/playlist?list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX <br> https://www.youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW <br>
+<br>Useful Websites - <br> https://www.tutorialspoint.com/swift/index.htm <br> https://www.javatpoint.com/swift-tutorial <br> https://www.programiz.com/swift-programming <br>
+https://codewithchris.com/swift-tutorial-complete/ <br> https://www.edureka.co/blog/swift-tutorial <br>
+<br>Dedicated Github page - <br> https://github.com/larryhou/swift <br> https://github.com/nalexn/clean-architecture-swiftui <br> https://github.com/microsoft/appcenter-sampleapp-ios-swift <br>
+<br>Best Courses - <br> https://www.coursera.org/learn/swift-5-programming-introduction <br> https://www.codecademy.com/catalog/language/swift <br>
+https://www.udemy.com/course/swift-programming/ <br> https://www.udacity.com/course/swift-for-beginners--ud1022 <br>
+<br>Other Tips / Hacks - <br> https://savvyapps.com/blog/swift-tips-for-developers <br> https://github.com/Luur/SwiftTips <br> https://www.packtpub.com/product/swift-5-tips-tricks-and-techniques-video/9781838983574 <br>
+<a href="https://i.ytimg.com/vi/iHyo1WOteQM/maxresdefault.jpg">
+  <img align="center" src="https://i.ytimg.com/vi/iHyo1WOteQM/maxresdefault.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
 </details>
 
 <details>
