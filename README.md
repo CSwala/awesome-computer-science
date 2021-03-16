@@ -704,18 +704,6 @@ https://www.mongodb.com/presentations/tips-and-tricks-for-query-performance-let-
 </details>
 
 <details>
-<summary>Nodejs </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
-</details>
-
-
-<details>
 <summary>NLTK </summary>
 <br>Category/Type - <br>Python Library<br>
 <br>Official Documentation - <br>https://www.nltk.org/<br>
@@ -724,6 +712,29 @@ https://www.mongodb.com/presentations/tips-and-tricks-for-query-performance-let-
 <br>Dedicated Github page - <br>https://github.com/nltk/nltk <br>https://github.com/vinta/awesome-python#natural-language-processing<br>https://github.com/hb20007/hands-on-nltk-tutorial<br>https://github.com/csurfer/rake-nltk/commits/master<br>
 <br>Best Courses - <br>https://www.udemy.com/course/natural-language-processing-nlp-for-beginners-using-nltk-in-python/<br>https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python<br>https://www.itexperttraining.com/core/course/nltk-with-python-3-for-natural-language-processing/<br>https://www.udemy.com/course/complete-natural-language-processing-nlp-with-spacy-nltk/<br>
 <br>Other Tips / Hacks - <br>https://awesomeopensource.com/projects/nltk<br>https://opensource.com/article/20/8/nlp-python-nltk<br>https://medium.com/@ritidass29/the-essential-guide-to-how-nlp-works-4d3bb23faf76<br>https://www.kaggle.com/learn-forum/171334<br>https://cheatography.com/murenei/cheat-sheets/natural-language-processing-with-python-and-nltk/<br><br>
+
+<details>
+<summary> Node.js </summary>
+<br>Category/Type - <br> Programming language <br>
+<br>Official Documentation - <br> https://nodejs.org/en/docs/ <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/user/programmingwithmosh <br> https://www.youtube.com/user/javaboynavin <br>
+https://www.youtube.com/user/hiteshitube <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br>
+https://www.youtube.com/playlist?list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG <br> https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp <br>
+https://www.youtube.com/playlist?list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp <br>
+<br>Useful Websites - <br> https://www.w3schools.com/nodejs/ <br> https://www.tutorialspoint.com/nodejs/index.htm <br> https://nodejs.dev/learn <br>
+https://www.javatpoint.com/nodejs-tutorial <br> https://www.guru99.com/node-js-tutorial.html <br> https://medium.com/edureka/learn-node-js-b3a9c6fb632c <br>
+<br>Dedicated Github page - <br> https://github.com/sindresorhus/awesome-nodejs <br> https://github.com/sqreen/awesome-nodejs-projects <br> 
+https://github.com/bnb/awesome-awesome-nodejs <br> https://github.com/tejasrsuthar/Awesome-NodeJS <br>
+<br>Best Courses - <br> https://www.udemy.com/course/the-complete-nodejs-developer-course-2/ <br> https://www.udemy.com/course/nodejs-the-complete-guide/ <br>
+https://www.udemy.com/course/advanced-node-for-developers/ <br> https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/ <br> 
+https://www.pluralsight.com/courses/nodejs-getting-started <br> https://www.udemy.com/course/learn-nodejs-by-building-10-projects/ <br>
+<br>Other Tips / Hacks - <br> https://www.sitepoint.com/10-tips-make-node-js-web-app-faster/ <br> https://medium.com/@faisalabid/7-tips-for-a-node-js-padawan-e7c0b0e5ce3c <br> 
+https://medium.com/swlh/node-js-magical-tips-every-developer-should-remember-4c27b4dc6e2b <br> https://www.mobileappdaily.com/nodejs-development-tips <br>
+<a href="https://www.slideteam.net/media/catalog/product/cache/960x720/n/o/node_js_programming_six_months_roadmap_slide01.jpg">
+  <img align="center" src="https://www.slideteam.net/media/catalog/product/cache/960x720/n/o/node_js_programming_six_months_roadmap_slide01.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 
 </details>
 <details>
