@@ -213,6 +213,22 @@ https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/<br>
 </details>
 
 <details>
+<summary> CUDA </summary>
+<br>Category/Type - <br> Application Programming Interfaces <br>
+<br>Official Documentation - <br> https://docs.nvidia.com/cuda/ <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK <br>
+https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU <br> https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_ <br>
+https://cuda-tutorial.readthedocs.io/en/latest/tutorials/tutorial01/ <br>
+<br>Useful Websites - <br> https://www.tutorialspoint.com/cuda/index.htm <br> https://developer.nvidia.com/blog/even-easier-introduction-cuda/ <br> 
+https://cuda-tutorial.readthedocs.io/en/latest/tutorials/tutorial01/ <br>
+<br>Dedicated Github page - <br> https://github.com/NVIDIA/cuda-samples <br> https://github.com/zchee/cuda-sample <br>
+<br>Best Courses - <br> https://www.pluralsight.com/courses/parallel-computing-cuda <br> https://www.udemy.com/course/cuda-programming-masterclass/ <br> 
+https://www.udemy.com/course/introduction-to-gpu-computing-with-cuda/ <br>
+<br>Other Tips / Hacks - <br> https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=dc7112-cuda+optimization+tips%2C+tricks+and+techniques <br>
+https://medium.com/@sciencemonk/cuda-programming-tips-and-tricks-12d60310817a <br> https://www.quora.com/What-are-some-CUDA-tricks-and-optimizations <br> <br>
+</details>
+
+<details>
 <summary>Data Science</summary>
 <br>
 Category/Type - <br>
@@ -254,6 +270,21 @@ https://www.geeksforgeeks.org/the-future-of-data-science/<br>
 https://www.analyticsvidhya.com/blog/2015/10/tips-tricks-awesom-data-science-jobs/<br>
 https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debunking-few-myths-30537117a4e4<br>
 <br><br>
+</details>
+
+<details>
+<summary> DirectX </summary>
+<br>Category/Type - <br> Application Programming Interfaces <br>
+<br>Official Documentation - <br> https://docs.microsoft.com/en-us/windows/win32/getting-started-with-directx-graphics <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/playlist?list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD <br>
+https://www.youtube.com/playlist?list=PLqCJpWy5FohcehaXlCIt8sVBHBFFRVWsx <br> https://www.youtube.com/playlist?list=PLcacUGyBsOIBlGyQQWzp6D1Xn6ZENx9Y2 <br>
+https://www.youtube.com/user/ChiliTomatoNoodle <br> https://www.youtube.com/playlist?list=PLizgKJ9dhxgwwSFCCLI8bqOrpEFCRcS9U <br>
+<br>Useful Websites - <br> https://www.tutorialspoint.com/directx/index.htm <br> http://www.directxtutorial.com <br> 
+https://docs.microsoft.com/en-us/windows/win32/direct3dgetstarted/building-your-first-directx-app <br>
+<br>Dedicated Github page - <br> https://github.com/microsoft/DirectX-Graphics-Samples <br> https://github.com/walbourn/directx-sdk-samples <br> 
+<br>Best Courses - <br> https://www.udemy.com/course/directx11/ <br> https://www.udemy.com/course/directx-learn-microsoft-directx-from-scratch/ <br>
+<br>Other Tips / Hacks - <br> http://www.nigelgriffin.com/notebook_warrior/ebooks/Graphics/Shaderx2%20-%20Shader%20Programming%20Tips%20&%20Tricks%20With%20Directx%209.pdf <br> 
+https://pdfslide.net/documents/shaderx-shader-programming-tips-tricks-with-directx-9.html <br> <br>
 </details>
 
 <details>
@@ -311,6 +342,22 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
 <br>Dedicated Github page -
 <br>Best Courses -
 <br>Other Tips / Hacks - <br><br>
+</details>
+
+ <details>
+<summary> GIMP </summary>
+<br>Category/Type - <br> Graphics editor <br>
+<br>Official Documentation - <br> https://www.gimp.org/docs/ <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/user/darkskeletontuts <br> https://www.youtube.com/user/DaViesMediaDesign <br>
+https://www.youtube.com/playlist?list=PLqazFFzUAPc4vITMJaF3Fnqh3pccSMnC4 <br> https://www.youtube.com/playlist?list=PLays36u5hBzNQwMLO025a5iljWldfymQg <br>
+https://www.youtube.com/playlist?list=PLynG8gQD-n8Dl23X0o1HFu_5PmBl79niz <br>
+<br>Useful Websites - <br> https://www.gimp.org/tutorials/ <br> https://www.javatpoint.com/gimp <br> https://daviesmediadesign.com/20-gimp-2-10-tutorials-for-beginners/ <br>
+https://www.bioinformatics.babraham.ac.uk/training/Figure_Design_Course/GIMP%20Tutorial.pdf <br>
+<br>Dedicated Github page - <br> https://github.com/GNOME/gimp <br> https://github.com/Diolinux/PhotoGIMP <br>
+<br>Best Courses - <br> https://www.skillshare.com/site/join?via=search-layout-grid&clickid=RFBTJlUjpxyLWzG0Rw0UrUzuUkEVh1ypqw6-1U0&irgwc=1&utm_content=4650&utm_term=Online+Tracking+Link&utm_campaign=1790542&affiliateRef=6595003&utm_medium=affiliate-referral&utm_source=IR&t=Fundamentals-of-Photo-Editing-in-GIMP&sku=1756133267 <br>
+https://www.udemy.com/course/gimp-photo-editing/ <br> https://www.udemy.com/course/learn-gimp/ <br>
+<br>Other Tips / Hacks - <br> https://digital-photography-school.com/5-top-tips-for-working-with-gimp/ <br> https://www.pcworld.com/article/3451356/gimp-basics-tips-and-tricks-for-beginners.html <br>
+https://www.pcgamer.com/10-sweet-gimp-photo-editing-tricks-to-wean-you-off-photoshop/ <br> https://windowsreport.com/how-to-use-gimp-2-10/ <br> <br>
 </details>
 
 <details>
@@ -623,6 +670,25 @@ https://www.udemy.com/course/complete-maya-fluids-bootcamp/ <br> https://www.ude
 </details>
 
 <details>
+<summary>MongoDB </summary>
+<br>Category/Type - <br>Document-oriented database<br>
+<br>Official Documentation - <br> https://docs.mongodb.com <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/user/MongoDB <br> https://www.youtube.com/user/TechGuyWeb <br> 
+https://www.youtube.com/user/intellipaaat <br> https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u <br>
+https://www.youtube.com/playlist?list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ <br> https://www.youtube.com/playlist?list=PLS1QulWo1RIZtR6bncmSaH8fB81oRl6MP <br>
+<br>Useful Websites - <br> https://www.guru99.com/mongodb-tutorials.html <br> https://www.tutorialspoint.com/mongodb/index.htm <br>
+https://www.javatpoint.com/mongodb-tutorial <br> https://university.mongodb.com <br>
+<br>Dedicated Github page - <br> https://github.com/mongodb/mongo <br> https://github.com/mongodb <br>
+<br>Best Courses - <br> https://www.coursera.org/learn/introduction-mongodb <br> https://www.pluralsight.com/courses/mongodb-introduction <br>
+https://www.udemy.com/course/the-complete-developers-guide-to-mongodb <br> https://www.pluralsight.com/courses/mongodb-administration <br>
+<br>Other Tips / Hacks - <br> https://www.oreilly.com/library/view/50-tips-and/9781449306779/ <br> https://dzone.com/articles/mongodb-design-tips-amp-tricks <br>
+https://www.mongodb.com/presentations/tips-and-tricks-for-query-performance-let-us-explain-them <br> https://www.roihunter.com/blog/5-successful-tips-you-need-to-optimize-mongodb <br> <br>
+  <img align="center" src="https://miro.medium.com/max/3202/1*JfwNbmBbsYKBT7_QFhd13Q.jpeg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Nodejs </summary>
 <br>Category/Type -
 <br>Official Documentation -
@@ -644,6 +710,66 @@ https://www.udemy.com/course/complete-maya-fluids-bootcamp/ <br> https://www.ude
 <br>Best Courses - <br>https://www.udemy.com/course/natural-language-processing-nlp-for-beginners-using-nltk-in-python/<br>https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python<br>https://www.itexperttraining.com/core/course/nltk-with-python-3-for-natural-language-processing/<br>https://www.udemy.com/course/complete-natural-language-processing-nlp-with-spacy-nltk/<br>
 <br>Other Tips / Hacks - <br>https://awesomeopensource.com/projects/nltk<br>https://opensource.com/article/20/8/nlp-python-nltk<br>https://medium.com/@ritidass29/the-essential-guide-to-how-nlp-works-4d3bb23faf76<br>https://www.kaggle.com/learn-forum/171334<br>https://cheatography.com/murenei/cheat-sheets/natural-language-processing-with-python-and-nltk/<br><br>
 
+</details>
+<details>
+<summary>Pandas</summary>
+<br>
+Category/Type - <br>
+Python Library<br>
+<br>
+Official Documentation - <br>
+https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=RhEjmHeDNoA<br>
+https://www.youtube.com/watch?v=vmEHCJofslg<br>
+https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy<br>
+https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS<br>
+https://www.youtube.com/watch?v=PfVxFV1ZPnk
+<br>
+Useful Websites -
+https://www.w3schools.com/python/pandas/default.asp<br>
+https://www.geeksforgeeks.org/python-pandas-dataframe/<br>
+https://www.tutorialspoint.com/python_pandas/index.htm<br>
+https://www.guru99.com/python-pandas-tutorial.html
+<br>
+Dedicated Github page - <br>
+https://github.com/pandas-dev/pandas<br>
+https://github.com/guipsamora/pandas_exercises<br>
+https://github.com/jvns/pandas-cookbook<br>
+https://github.com/pandas-profiling/pandas-profiling
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/pandas-with-python/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-93451758763_._li_1007765_._pd__._&matchtype=b&gclid=CjwKCAiA4rGCBhAQEiwAelVtiyOLt23mCQWbnbXh2ParLwofEmo6VRzFYm-QkCqhsrLFboW0m8C_LBoCPiEQAvD_BwE<br>
+https://www.datacamp.com/courses/pandas-foundations?utm_source=adwords_ppc&utm_campaignid=1458011002&utm_adgroupid=56096313269&utm_device=c&utm_keyword=pandas%20course&utm_matchtype=e&utm_network=g&utm_adpostion=&utm_creative=278841530121&utm_targetid=aud-392016246653:kwd-303144560159&utm_loc_interest_ms=&utm_loc_physical_ms=1007765&gclid=CjwKCAiA4rGCBhAQEiwAelVti74KYX9jPoB5UPrEbk-8vQ-UJ3W3TSI3CXHF0xd-s5zNiYx-H0pCvBoCj94QAvD_BwE<br>
+https://www.coursera.org/specializations/data-science-python?utm_source=gg&utm_medium=sem&utm_campaign=29-AppliedDataSciencePython-IN&utm_content=29-AppliedDataSciencePython-IN&campaignid=12032519429&adgroupid=115699205426&device=c&keyword=course%20era%20python&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=490702858445&hide_mobile_promo&gclid=CjwKCAiA4rGCBhAQEiwAelVtiydF6sFdn_W5BY4bt5nyDg1j6NJM9cDYXWD47EiCfAEKoSH45lOB_xoCtLMQAvD_BwE<br>
+https://courses.analyticsvidhya.com/courses/pandas-for-data-analysis-in-python
+<br>
+Other Tips / Hacks - <br>
+https://towardsdatascience.com/10-python-pandas-tricks-to-make-data-analysis-more-enjoyable-cb8f55af8c30<br>
+https://www.dataschool.io/python-pandas-tips-and-tricks/<br>
+https://www.analyticsvidhya.com/blog/2020/07/5-striking-pandas-tips-and-tricks-for-analysts-and-data-scientists/<br>
+https://paulvanderlaken.com/2020/06/30/100-python-pandas-tips-tricks/<br>
+https://www.dataschool.io/future-of-pandas/
+<br><br>
+</details>
+
+<details>
+<summary>PostgreSQL </summary>
+<br>Category/Type - <br>Relational Database Management System<br>
+<br>Official Documentation - <br> https://www.postgresql.org/docs/ <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/edurekaIN <br>
+https://www.youtube.com/user/SocraticaStudios <br> https://www.youtube.com/playlist?list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS <br>
+https://www.youtube.com/playlist?list=PLS1QulWo1RIa-sDLWbP01sEnlm_Bxmvqs <br> https://www.youtube.com/playlist?list=PLxtrcgLvnR2Yjj4mIbL1aspC_XzVNvP_6 <br>
+<br>Useful Websites - <br> https://www.postgresqltutorial.com <br> https://www.tutorialspoint.com/postgresql/index.htm <br> 
+https://www.javatpoint.com/postgresql-tutorial <br> https://www.guru99.com/postgresql-tutorial.html <br> https://w3resource.com/PostgreSQL/tutorial.php <br>
+<br>Dedicated Github page - <br> https://github.com/postgres/postgres <br> https://github.com/postgres <br>
+<br>Best Courses - <br> https://www.udemy.com/course/the-complete-python-postgresql-developer-course/ <br>
+https://www.udemy.com/course/sql-and-postgresql-for-beginners/ <br> https://www.udemy.com/course/intro-to-postgresql-databases-with-pgadmin/ <br>
+https://www.udemy.com/course/postgresql-from-zero-to-hero/ <br> https://www.udemy.com/course/postgresql-database-administration-dba-for-beginners/ <br>
+<br>Other Tips / Hacks - <br> https://www.freecodecamp.org/news/postgresql-tricks/ <br> https://www.cybertec-postgresql.com/en/tips-and-tricks-to-kick-start-postgres-year-2020/ <br>
+https://pgdash.io/blog/postgres-psql-tips-tricks.html <br> https://www.enterprisedb.com/blog/tips-postgres-postgres-insider <br>
+<br><br><br>
 </details>
 
 <details>
