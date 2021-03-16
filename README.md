@@ -131,6 +131,28 @@ https://hackerthemes.com/bootstrap-cheatsheet/<br>
 </details>
 
 <details>
+<summary> C# </summary>
+<br>Category/Type - <br> Programming language <br>
+<br>Official Documentation - <br> https://docs.microsoft.com/en-us/dotnet/csharp/ <br> 
+<br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww <br>
+https://www.youtube.com/user/programmingwithmosh <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51 <br>
+https://www.youtube.com/playlist?list=PL0EE421AE8BCEBA4A <br> https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR <br>
+https://www.youtube.com/playlist?list=PL_c9BZzLwBRIXCJGLd4UzqH34uCclOFwC <br>
+<br>Useful Websites - <br> https://www.tutorialspoint.com/csharp/index.htm <br> https://www.javatpoint.com/c-sharp-tutorial <br>
+https://www.w3schools.com/cs/ <br> https://www.guru99.com/c-sharp-tutorial.html <br> https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/ <br>
+<br>Dedicated Github page - <br> https://github.com/uhub/awesome-c-sharp <br> https://github.com/wilfreddesert/C-sharp_more_awesome <br>
+https://github.com/ambid17/c-sharp-awesome-articles <br> https://github.com/rsk2/awesome-csharp <br>
+<br>Best Courses - <br> https://www.udemy.com/course/csharp-tutorial-for-beginners/ <br> https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/ <br>
+https://www.udemy.com/course/csharp-advanced/ <br> https://www.coursera.org/learn/introduction-programming-unity <br> https://www.pluralsight.com/courses/csharp-fundamentals-dev <br>
+<br>Other Tips / Hacks - <br> https://www.pluralsight.com/courses/csharp-fundamentals-dev <br> https://raygun.com/blog/c-sharp-performance-tips-tricks/ <br> 
+https://www.pluralsight.com/guides/tips-for-writing-better-c-code <br> https://www.webtrainingroom.com/csharp/knowledgebase <br>
+<a href="https://habrastorage.org/webt/5e/82/63/5e82638bb3b5d869182324.jpeg">
+  <img align="center" src="https://habrastorage.org/webt/5e/82/63/5e82638bb3b5d869182324.jpeg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>C++ </summary>
 <br>Category/Type - <br>Programming Language<br>
 <br>Official Documentation - <br>https://devdocs.io/cpp/<br>
@@ -712,6 +734,7 @@ https://www.mongodb.com/presentations/tips-and-tricks-for-query-performance-let-
 <br>Dedicated Github page - <br>https://github.com/nltk/nltk <br>https://github.com/vinta/awesome-python#natural-language-processing<br>https://github.com/hb20007/hands-on-nltk-tutorial<br>https://github.com/csurfer/rake-nltk/commits/master<br>
 <br>Best Courses - <br>https://www.udemy.com/course/natural-language-processing-nlp-for-beginners-using-nltk-in-python/<br>https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python<br>https://www.itexperttraining.com/core/course/nltk-with-python-3-for-natural-language-processing/<br>https://www.udemy.com/course/complete-natural-language-processing-nlp-with-spacy-nltk/<br>
 <br>Other Tips / Hacks - <br>https://awesomeopensource.com/projects/nltk<br>https://opensource.com/article/20/8/nlp-python-nltk<br>https://medium.com/@ritidass29/the-essential-guide-to-how-nlp-works-4d3bb23faf76<br>https://www.kaggle.com/learn-forum/171334<br>https://cheatography.com/murenei/cheat-sheets/natural-language-processing-with-python-and-nltk/<br><br>
+</details>
 
 <details>
 <summary> Node.js </summary>
