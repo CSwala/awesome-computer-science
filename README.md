@@ -288,6 +288,17 @@ https://pdfslide.net/documents/shaderx-shader-programming-tips-tricks-with-direc
 </details>
 
 <details>
+<summary>Django</summary>
+<br>Category/Type - <br> Python Framework <br>
+<br>Official Documentation -<br>https://docs.djangoproject.com/en/3.1/<br>
+<br>Best Youtube creators - <br>https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK<br>https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9<br>https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau<br>https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p<br>https://www.youtube.com/watch?v=F5mRW0jo-U4<br>
+<br>Useful Websites - <br>https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction<br>https://www.tutorialspoint.com/django/index.htm<br>https://www.djangoproject.com/start/<br>https://www.geeksforgeeks.org/django-tutorial/<br>
+<br>Dedicated Github page - <br> https://github.com/django/django <br> https://github.com/encode/django-rest-framework<br>
+<br>Best Courses -<br>https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/<br>https://www.udemy.com/course/django-python-advanced/<br>https://www.udemy.com/course/django-python/<br>
+<br>Other Tips / Hacks - <br>https://simpleisbetterthancomplex.com/tips/<br>http://simeonfranklin.com/talk/usf/django-talk.html#title-slide<br>https://www.rootstrap.com/blog/django-best-practices-and-beginner-tips/<br>https://letslearnabout.net/blog/16-tips-for-python-and-django-beginners/<br><br>
+</details>
+
+<details>
 <summary>Docker </summary>
 <br>
 Category/Type - <br>

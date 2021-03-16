@@ -260,6 +260,30 @@
 		"Tips2" : "https://pdfslide.net/documents/shaderx-shader-programming-tips-tricks-with-directx-9.html"
 	},
 
+	{
+		"Title" : "Django",
+		"Tag": "Python Framework",
+		"Documentation" : "https://docs.djangoproject.com/en/3.1/",
+		"YT1 " : "https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK",
+		"YT2 " :"https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9",
+		"YT3 " :"https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau",
+		"YT4 " :"https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+		"YT5" : "https://www.youtube.com/watch?v=F5mRW0jo-U4",
+		"Website1": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction",
+		"Website2": "https://www.tutorialspoint.com/django/index.htm",
+		"Website3": "https://www.djangoproject.com/start/",
+		"Website4" : "https://www.geeksforgeeks.org/django-tutorial/",
+		"Dedicated GH page1" : "https://github.com/django/django",
+		"Dedicated GH page2": "https://github.com/encode/django-rest-framework",
+		"Course1" : "https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/",
+		"Course2" : "https://www.udemy.com/course/django-python-advanced/",
+		"Course3" : "https://www.udemy.com/course/django-python/",
+		"Tips1" : "https://simpleisbetterthancomplex.com/tips/",
+		"Tips2" : "http://simeonfranklin.com/talk/usf/django-talk.html#title-slide",
+		"Tips3" : "https://www.rootstrap.com/blog/django-best-practices-and-beginner-tips/",
+		"Tips4" : "https://letslearnabout.net/blog/16-tips-for-python-and-django-beginners/"
+	},
+
 	{	"Title" : "GIMP",
 		"Tag": "Graphics editor",
 		"Documentation" : "https://www.gimp.org/docs/",
@@ -697,7 +721,7 @@
 	"Tips2" : "https://dev.to/simonholdorf/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-4fhn ",
 	"Tips3" : "https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks "
 
-  }
+  },
  
 
 	{
@@ -723,7 +747,7 @@
 			"Tips3" : "https://www.datacamp.com/community/blog/python-scipy-cheat-sheet",
 			"Tips4" : "https://ugoproto.github.io/ugo_py_doc/pdf/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf"	
 	
-			},
+		},
   
 	{	"Title" : "Swift",
 		"Tag": "Programming language",
