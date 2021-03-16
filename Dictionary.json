@@ -573,6 +573,41 @@
 "Tip5" : "https://cheatography.com/murenei/cheat-sheets/natural-language-processing-with-python-and-nltk/"
 			
 	},
+
+	{	"Title" : "Node.js",
+		"Tag": "Programming language",
+		"Documentation" : "https://nodejs.org/en/docs/",
+		"YT1" : "https://www.youtube.com/user/programmingwithmosh",
+		"YT2" : "https://www.youtube.com/user/javaboynavin",
+		"YT3" : "https://www.youtube.com/user/hiteshitube",
+		"YT4" : "https://www.youtube.com/user/edurekaIN",
+		"YT5" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+		"YT6" : "https://www.youtube.com/playlist?list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG",
+		"YT7" : "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp",
+		"YT8" : "https://www.youtube.com/playlist?list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp",
+		 "Website1": "https://www.w3schools.com/nodejs/",
+		"Website2": "https://www.tutorialspoint.com/nodejs/index.htm",
+		"Website3": "https://nodejs.dev/learn",
+		"Website4": "https://www.javatpoint.com/nodejs-tutorial",
+		"Website5": "https://www.guru99.com/node-js-tutorial.html",
+		"Website6": "https://medium.com/edureka/learn-node-js-b3a9c6fb632c",
+		"Dedicated GH page1" : "https://github.com/sindresorhus/awesome-nodejs",
+		"Dedicated GH page2": "https://github.com/sqreen/awesome-nodejs-projects",
+		"Dedicated GH page3": "https://github.com/bnb/awesome-awesome-nodejs",
+		"Dedicated GH page4": "https://github.com/tejasrsuthar/Awesome-NodeJS",
+		"Course1" : "https://www.udemy.com/course/the-complete-nodejs-developer-course-2/",
+		"Course2" : "https://www.udemy.com/course/nodejs-the-complete-guide/",
+		"Course3" : "https://www.udemy.com/course/advanced-node-for-developers/",
+		"Course4" : "https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/",
+		"Course5" : "https://www.pluralsight.com/courses/nodejs-getting-started",
+		"Course6" : "https://www.udemy.com/course/learn-nodejs-by-building-10-projects/",
+		"Tips1" : "https://www.sitepoint.com/10-tips-make-node-js-web-app-faster/",
+		"Tips2" : "https://medium.com/@faisalabid/7-tips-for-a-node-js-padawan-e7c0b0e5ce3c",
+		"Tips3" : "https://medium.com/swlh/node-js-magical-tips-every-developer-should-remember-4c27b4dc6e2b",
+		"Tips4" : "https://www.mobileappdaily.com/nodejs-development-tips",
+		"Image1": "https://www.slideteam.net/media/catalog/product/cache/960x720/n/o/node_js_programming_six_months_roadmap_slide01.jpg"
+	},
+	
 {
 "Title" : "Pandas",
 "Tag": "Python Library",
@@ -697,7 +732,7 @@
 	"Tips2" : "https://dev.to/simonholdorf/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-4fhn ",
 	"Tips3" : "https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks "
 
-  }
+  },
  
 
 	{
