@@ -527,6 +527,30 @@
 	"Tips2" : "https://dev.to/simonholdorf/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-4fhn ",
 	"Tips3" : "https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks "
 
-	} 
+	},
+	{
+		"Title" : "SciPy",
+			"Tag": "Python Library",
+			"Documentation" : "https://www.scipy.org/",
+			"YT1 " : "https://www.youtube.com/watch?v=k8s-R3csOt0",
+			"YT2 " : "https://www.youtube.com/watch?v=ARYCvrEW1fw",
+			"YT3 " : "https://www.youtube.com/watch?v=H2xTjI4S-sY" ,
+			"YT4 " : "https://www.youtube.com/watch?v=cXHvC_FGx24",
+			"Website1" : "https://www.w3schools.com/python/scipy_intro.asp",
+			"Website2" : "https://scipy-lectures.org/",
+			"Website3" : "https://www.tutorialspoint.com/scipy/index.htm",
+			"Website4" : "https://scipy.github.io/old-wiki/pages/Projects.html",
+			"Dedicated GH page1" : "https://github.com/scipy/scipy",
+			"Dedicated GH page2" : "https://github.com/scipy-lectures/scipy-lecture-notes",
+			"Dedicated GH page3" : "https://github.com/fonnesbeck/scipy2014_tutorial",
+			"Dedicated GH page4" : "https://github.com/Sean-Toroghi/Machine_learning",
+			"Course1" : "https://www.udemy.com/course/python-scipy/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-93451758763_._li_1007765_._pd__._&matchtype=b&gclid=Cj0KCQjwi7yCBhDJARIsAMWFScMOvZs6GfEWwx6_5V4L1bzA8RvpWVbytjzlQnV8l0Tj1_rWwEg3AqgaAjRcEALw_wcB",
+			"Course2" : "https://www.coursera.org/lecture/python-data-processing/1-extension-library-scipy-lVZKr",
+			"Tips1" : "https://www.packtpub.com/product/pandas-and-numpy-tips-tricks-and-techniques-video/9781838825638",
+			"Tips2" : "https://wizardforcel.gitbooks.io/scipy-cookbook-en/content/119.html",
+			"Tips3" : "https://www.datacamp.com/community/blog/python-scipy-cheat-sheet",
+			"Tips4" : "https://ugoproto.github.io/ugo_py_doc/pdf/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf"	
+	
+			}
 	]
 
