@@ -361,6 +361,21 @@ https://www.pcgamer.com/10-sweet-gimp-photo-editing-tricks-to-wean-you-off-photo
 </details>
 
 <details>
+<summary> Go </summary>
+<br>Category/Type - <br> Programming language <br>
+<br>Official Documentation - <br> https://golang.org/doc/ <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/javaboynavin <br>
+https://www.youtube.com/user/Udacity <br> https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q <br> https://www.youtube.com/playlist?list=PLgPJX9sVy92yu7If3I7GonlWA8YU1BuAk <br>
+<br>Useful Websites - <br> https://www.educative.io/blog/golang-tutorial <br> https://golang.org/doc/tutorial/getting-started <br>
+https://www.tutorialspoint.com/go/index.htm <br> https://www.guru99.com/google-go-tutorial.html <br> https://www.geeksforgeeks.org/go-programming-language-introduction/ <br>  https://builtin.com/software-engineering-perspectives/golang-advantages <br> https://yourbasic.org/golang/advantages-over-java-python/ <br> https://www.freecodecamp.org/news/here-are-some-amazing-advantages-of-go-that-you-dont-hear-much-about-1af99de3b23a/ <br>
+<br>Dedicated Github page - <br> https://github.com/DaoCloud/golang-mongo-sample <br> https://github.com/kyawmyintthein/golangRestfulAPISample <br> https://github.com/digitalocean/sample-golang <br> https://github.com/golang/go <br> https://github.com/golang/oauth2 <br> https://github.com/golang/gofrontend <br> https://github.com/golang/appengine <br> https://github.com/avelino/awesome-go <br>
+<br>Best Courses - <br> https://www.udemy.com/course/go-the-complete-developers-guide/ <br> https://www.udemy.com/course/master-go-programming-complete-golang-bootcamp/ <br>
+https://www.coursera.org/specializations/google-golang <br> https://www.pluralsight.com/courses/go-fundamentals <br> https://www.codecademy.com/learn/learn-go <br>
+https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/ <br> https://www.udemy.com/course/golang-the-ultimate-guide-to-microservices-in-go-part-1/ <br>
+<br>Other Tips / Hacks - <br> http://www.golangbootcamp.com/book/tricks_and_tips <br> https://github.com/cristaloleg/go-advice <br> https://golangvedu.wordpress.com <br>
+</details>
+
+<details>
 <summary>Graph database </summary>
 <br>Category/Type -
 <br>Official Documentation -
@@ -931,6 +946,24 @@ https://ugoproto.github.io/ugo_py_doc/pdf/Python_SciPy_Cheat_Sheet_Linear_Algebr
 <br>Dedicated Github page -
 <br>Best Courses -
 <br>Other Tips / Hacks - <br><br>
+</details>
+
+<details>
+<summary> Swift </summary>
+<br>Category/Type - <br> Programming language <br>
+<br>Official Documentation - <br> https://developer.apple.com/documentation/swift <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/edurekaIN <br> 
+https://www.youtube.com/user/CodeWithChris <br> https://www.youtube.com/playlist?list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX <br> https://www.youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW <br>
+<br>Useful Websites - <br> https://www.tutorialspoint.com/swift/index.htm <br> https://www.javatpoint.com/swift-tutorial <br> https://www.programiz.com/swift-programming <br>
+https://codewithchris.com/swift-tutorial-complete/ <br> https://www.edureka.co/blog/swift-tutorial <br>
+<br>Dedicated Github page - <br> https://github.com/larryhou/swift <br> https://github.com/nalexn/clean-architecture-swiftui <br> https://github.com/microsoft/appcenter-sampleapp-ios-swift <br>
+<br>Best Courses - <br> https://www.coursera.org/learn/swift-5-programming-introduction <br> https://www.codecademy.com/catalog/language/swift <br>
+https://www.udemy.com/course/swift-programming/ <br> https://www.udacity.com/course/swift-for-beginners--ud1022 <br>
+<br>Other Tips / Hacks - <br> https://savvyapps.com/blog/swift-tips-for-developers <br> https://github.com/Luur/SwiftTips <br> https://www.packtpub.com/product/swift-5-tips-tricks-and-techniques-video/9781838983574 <br>
+<a href="https://i.ytimg.com/vi/iHyo1WOteQM/maxresdefault.jpg">
+  <img align="center" src="https://i.ytimg.com/vi/iHyo1WOteQM/maxresdefault.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
 </details>
 
 <details>

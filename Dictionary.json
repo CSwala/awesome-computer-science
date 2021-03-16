@@ -283,6 +283,42 @@
 		"Tips4" : "https://windowsreport.com/how-to-use-gimp-2-10/"
 	},
 
+	{	"Title" : "Go",
+		"Tag": "Programming language",
+		"Documentation" : "https://golang.org/doc/",
+		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+		"YT2" : "https://www.youtube.com/user/javaboynavin",
+		"YT3" : "https://www.youtube.com/user/Udacity",
+		"YT4" : "https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q",
+		"YT5" : "https://www.youtube.com/playlist?list=PLgPJX9sVy92yu7If3I7GonlWA8YU1BuAk",
+		"Website1": "https://www.educative.io/blog/golang-tutorial",
+		"Website2": "https://golang.org/doc/tutorial/getting-started",
+		"Website3": "https://www.tutorialspoint.com/go/index.htm",
+		"Website4": "https://www.guru99.com/google-go-tutorial.html",
+		"Website5": "https://www.geeksforgeeks.org/go-programming-language-introduction/",
+		"Website6": "https://builtin.com/software-engineering-perspectives/golang-advantages",
+		"Website7": "https://yourbasic.org/golang/advantages-over-java-python/",
+		"Website8": "https://www.freecodecamp.org/news/here-are-some-amazing-advantages-of-go-that-you-dont-hear-much-about-1af99de3b23a/",
+		"Dedicated GH page1" : "https://github.com/DaoCloud/golang-mongo-sample",
+		"Dedicated GH page2": "https://github.com/kyawmyintthein/golangRestfulAPISample",
+		"Dedicated GH page3": "https://github.com/digitalocean/sample-golang",
+		"Dedicated GH page4": "https://github.com/golang/go",
+		"Dedicated GH page5": "https://github.com/golang/oauth2",
+		"Dedicated GH page6": "https://github.com/golang/gofrontend",
+		"Dedicated GH page7": "https://github.com/golang/appengine",
+		"Dedicated GH page8": "https://github.com/avelino/awesome-go",
+		"Course1" : "https://www.udemy.com/course/go-the-complete-developers-guide/",
+		"Course2" : "https://www.udemy.com/course/master-go-programming-complete-golang-bootcamp/",
+		"Course3" : "https://www.coursera.org/specializations/google-golang",
+		"Course4" : "https://www.pluralsight.com/courses/go-fundamentals",
+		"Course5" : "https://www.codecademy.com/learn/learn-go",
+		"Course6" : "https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/",
+		"Course7" : "https://www.udemy.com/course/golang-the-ultimate-guide-to-microservices-in-go-part-1/",
+		"Tips1" : "http://www.golangbootcamp.com/book/tricks_and_tips",
+		"Tips2" : "https://github.com/cristaloleg/go-advice",
+		"Tips3" : "https://golangvedu.wordpress.com"
+	},
+
 	{
 		"Title" : "Hibernate",
 		"Tag": "object-relational mapping(ORM)",
@@ -661,8 +697,8 @@
 	"Tips2" : "https://dev.to/simonholdorf/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-4fhn ",
 	"Tips3" : "https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks "
 
-	},
-
+  }
+ 
 
 	{
 		"Title" : "SciPy",
@@ -687,6 +723,33 @@
 			"Tips3" : "https://www.datacamp.com/community/blog/python-scipy-cheat-sheet",
 			"Tips4" : "https://ugoproto.github.io/ugo_py_doc/pdf/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf"	
 	
-			}
+			},
+  
+	{	"Title" : "Swift",
+		"Tag": "Programming language",
+		"Documentation" : "https://developer.apple.com/documentation/swift",
+		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+		"YT2" : "https://www.youtube.com/user/edurekaIN",
+		"YT3" : "https://www.youtube.com/user/CodeWithChris",
+		"YT4" : "https://www.youtube.com/playlist?list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX",
+		"YT5" : "https://www.youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW",
+		 "Website1": "https://www.tutorialspoint.com/swift/index.htm",
+		"Website2": "https://www.javatpoint.com/swift-tutorial",
+		"Website3": "https://www.programiz.com/swift-programming",
+		"Website4": "https://codewithchris.com/swift-tutorial-complete/",
+		"Website5": "https://www.edureka.co/blog/swift-tutorial",
+		"Dedicated GH page1" : "https://github.com/larryhou/swift",
+		"Dedicated GH page2": "https://github.com/nalexn/clean-architecture-swiftui",
+		"Dedicated GH page3": "https://github.com/microsoft/appcenter-sampleapp-ios-swift",
+		"Course1" : "https://www.coursera.org/learn/swift-5-programming-introduction",
+		"Course2" : "https://www.codecademy.com/catalog/language/swift",
+		"Course3" : "https://www.udemy.com/course/swift-programming/",
+		"Course4" : "https://www.udacity.com/course/swift-for-beginners--ud1022",
+		"Tips1" : "https://savvyapps.com/blog/swift-tips-for-developers",
+		"Tips2" : "https://github.com/Luur/SwiftTips",
+		"Tips3" : "https://www.packtpub.com/product/swift-5-tips-tricks-and-techniques-video/9781838983574",
+		"Image1": "https://i.ytimg.com/vi/iHyo1WOteQM/maxresdefault.jpg"
+	}
+
 	]
 
