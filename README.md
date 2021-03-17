@@ -1017,6 +1017,21 @@ https://www.udemy.com/course/swift-programming/ <br> https://www.udacity.com/cou
 </details>
 
 <details>
+<summary>Vagrant </summary>
+<br>Category/Type - <br>Virtual Machine management software<br>
+<br>Official Documentation - <br>https://www.vagrantup.com/docs<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=vBreXjkizgo<br>https://www.youtube.com/watch?v=a6W1hF9CgDQ<br>https://www.youtube.com/watch?v=bu9SrecfjWo&list=PLMWwct3_kb-358XZdnN66zb3HaU97DSQ0<br>https://www.youtube.com/watch?v=o5yYsnPALxQ<br>
+<br>Useful Websites - <br>https://learn.hashicorp.com/collections/vagrant/getting-started<br>https://opensource.com/resources/vagrant<br>https://www.accesstomemory.org/en/docs/2.5/dev-manual/env/vagrant/<br>https://semaphoreci.com/community/tutorials/getting-started-with-vagrant<br>
+<br>Dedicated Github page - <br>https://github.com/hashicorp/vagrant<br>https://github.com/geerlingguy/ansible-vagrant-examples<br>https://github.com/jedi4ever/veewee<br>https://github.com/fideloper/Vaprobash<br>
+<br>Best Courses - <br>https://hackr.io/tutorials/learn-vagrant<br>https://www.lynda.com/Vagrant-tutorials/750017-0.html<br>https://www.udemy.com/course/vagrant-up/<br>https://www.udemy.com/course/vagrant-quick-start/<br>
+<br>Other Tips / Hacks - <br>https://techcommunity.microsoft.com/t5/virtualization/vagrant-and-hyper-v-tips-and-tricks/ba-p/382373<br>https://www.vagrantup.com/docs/vagrantfile/tips<br>https://technology.amis.nl/continuous-delivery/provisioning/6-tips-to-make-your-life-with-vagrant-even-better/<br>https://argonsys.com/microsoft-cloud/library/vagrant-and-hyper-v-tips-and-tricks/<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MediaWiki_Vagrant_Visualization.jpg/900px-MediaWiki_Vagrant_Visualization.jpg">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MediaWiki_Vagrant_Visualization.jpg/900px-MediaWiki_Vagrant_Visualization.jpg" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Teamcity </summary>
 <br>Category/Type -
 <br>Official Documentation -
