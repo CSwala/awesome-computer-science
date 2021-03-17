@@ -751,6 +751,25 @@ https://www.mongodb.com/presentations/tips-and-tricks-for-query-performance-let-
 </details>
 
 <details>
+<summary> Nginx </summary>
+<br>Category/Type - <br> Web server <br> 
+<br>Official Documentation - <br> https://nginx.org/en/docs/ <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/user/hiteshitube <br>
+https://www.youtube.com/user/GISIGeometry <br> https://www.youtube.com/playlist?list=PLGz_X9w9raXf748bzuGOV6XJv7q3wLxhZ <br>
+https://www.youtube.com/playlist?list=PL10Ao--Mok8MgVMkUqsqnnYRoFtL9P81m <br> 
+<br>Useful Websites - <br> http://tutorials.jenkov.com/nginx/index.html <br> https://www.javatpoint.com/nginx-tutorial <br>
+https://ubuntu.com/tutorials/install-and-configure-nginx#1-overview <br> https://www.digitalocean.com/community/tags/nginx <br>
+https://www.tutorialspoint.com/ubuntu/ubuntu_nginx.htm <br>
+<br>Dedicated Github page - <br> https://github.com/nginx-boilerplate/nginx-boilerplate <br> https://github.com/agile6v/awesome-nginx <br>
+https://github.com/fcambus/nginx-resources <br> https://github.com/wallarm/awesome-nginx-security <br>
+<br>Best Courses - <br> https://www.udemy.com/course/nginx-fundamentals/ <br> https://www.udemy.com/course/nginx-beginner-to-advanced/ <br>
+https://www.lynda.com/course-tutorials/Nginx-High-Performance-Servers/724790-2.html <br> https://cloudacademy.com/course/nginx-core/nginx-core-introduction/ <br>
+<br>Other Tips / Hacks - <br> https://www.51sec.org/2020/04/13/nginx-tips-and-tricks-load-balancer-configuration/ <br> https://www.nginx.com/blog/performance-tuning-tips-tricks/ <br>
+https://www.nginx.com/blog/10-tips-for-10x-application-performance/ <br> https://www.monitis.com/blog/5-quick-tips-to-optimize-your-nginx-performance/ <br>
+https://www.freecodecamp.org/news/powerful-ways-to-supercharge-your-nginx-server-and-improve-its-performance-a8afdbfde64d/ <br> https://www.howtoforge.com/tips-and-tricks-to-secure-your-nginx-web-server/ <br>
+</details>
+
+<details>
 <summary>NLTK </summary>
 <br>Category/Type - <br>Python Library<br>
 <br>Official Documentation - <br>https://www.nltk.org/<br>
