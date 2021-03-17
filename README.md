@@ -1102,6 +1102,17 @@ https://www.udemy.com/course/swift-programming/ <br> https://www.udacity.com/cou
 </details>
 
 <details>
+<summary>Teamcity </summary>
+<br>Category/Type -
+<br>Official Documentation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
+<br>Other Tips / Hacks - <br><br>
+</details>
+
+<details>
 <summary>Vagrant </summary>
 <br>Category/Type - <br>Virtual Machine management software<br>
 <br>Official Documentation - <br>https://www.vagrantup.com/docs<br>
@@ -1114,17 +1125,6 @@ https://www.udemy.com/course/swift-programming/ <br> https://www.udacity.com/cou
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MediaWiki_Vagrant_Visualization.jpg/900px-MediaWiki_Vagrant_Visualization.jpg" width="800" height="400"/>
 </a>
 <br><br><br>
-</details>
-
-<details>
-<summary>Teamcity </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
 </details>
 
 
