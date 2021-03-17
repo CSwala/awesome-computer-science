@@ -570,6 +570,22 @@ https://www.udemy.com/course/jenkins-learn-continuous-integration/?LSNPUBID=JVFx
 
 
 <details>
+<summary>Jira </summary>
+<br>Category/Type - <br>Bug tracking software<br>
+<br>Official Documentation - <br>https://confluence.atlassian.com/jira/jira-documentation-1556.html<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=uM_m6EzMg3k<br>https://www.youtube.com/watch?v=GnG6RPSRLCs<br>https://www.youtube.com/watch?v=d0M2s0KiIrc&list=PLL34mf651faOpDaNGr4tt6FF_nUYb7ypt<br>https://www.youtube.com/watch?v=VTcQJciaPu4<br>
+<br>Useful Websites - <br>https://www.tutorialspoint.com/jira/index.htm<br>https://www.guru99.com/jira-tutorial-a-complete-guide-for-beginners.html<br>https://www.atlassian.com/agile/tutorials<br>https://www.javatpoint.com/jira-tutorial<br>
+<br>Dedicated Github page - <br>https://github.com/teamatldocker/jira<br>https://github.com/oldboyxx/jira_clone<br>https://github.com/go-jira/jira<br>https://github.com/pycontribs/jira<br>
+<br>Best Courses - <br>https://training.atlassian.com/jira-catalog<br>https://www.udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/<br>https://www.udemy.com/course/introduction-to-jira/<br>https://www.udemy.com/course/the-complete-jira-agile-project-management-course/<br>
+<br>Other Tips / Hacks - <br>https://www.idalko.com/expert-tips-productivity-jira/<br>https://www.praqma.com/stories/get-20-jira-tips/<br>https://community.atlassian.com/t5/Jira-Software-articles/The-top-10-Jira-tips-amp-tricks-brought-to-you-by-the-Atlassian/ba-p/1198260<br>https://www.thedroidsonroids.com/blog/5-top-jira-tips-tricks-i-wish-i-knew-1-year-ago<br>
+<a href="https://www.eficode.com/hubfs/images/blogs/Imported_Blog_Media/jira-software-tips3.jpg">
+  <img align="center" src="https://www.eficode.com/hubfs/images/blogs/Imported_Blog_Media/jira-software-tips3.jpg" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
+
+<details>
 <summary>Kafka </summary>
 <br>Category/Type -
 <br>Official Documentation -
@@ -748,6 +764,25 @@ https://www.mongodb.com/presentations/tips-and-tricks-for-query-performance-let-
   <img align="center" src="https://miro.medium.com/max/3202/1*JfwNbmBbsYKBT7_QFhd13Q.jpeg" width="500" height="500"/>
 </a>
 <br><br><br>
+</details>
+
+<details>
+<summary> Nginx </summary>
+<br>Category/Type - <br> Web server <br> 
+<br>Official Documentation - <br> https://nginx.org/en/docs/ <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/user/hiteshitube <br>
+https://www.youtube.com/user/GISIGeometry <br> https://www.youtube.com/playlist?list=PLGz_X9w9raXf748bzuGOV6XJv7q3wLxhZ <br>
+https://www.youtube.com/playlist?list=PL10Ao--Mok8MgVMkUqsqnnYRoFtL9P81m <br> 
+<br>Useful Websites - <br> http://tutorials.jenkov.com/nginx/index.html <br> https://www.javatpoint.com/nginx-tutorial <br>
+https://ubuntu.com/tutorials/install-and-configure-nginx#1-overview <br> https://www.digitalocean.com/community/tags/nginx <br>
+https://www.tutorialspoint.com/ubuntu/ubuntu_nginx.htm <br>
+<br>Dedicated Github page - <br> https://github.com/nginx-boilerplate/nginx-boilerplate <br> https://github.com/agile6v/awesome-nginx <br>
+https://github.com/fcambus/nginx-resources <br> https://github.com/wallarm/awesome-nginx-security <br>
+<br>Best Courses - <br> https://www.udemy.com/course/nginx-fundamentals/ <br> https://www.udemy.com/course/nginx-beginner-to-advanced/ <br>
+https://www.lynda.com/course-tutorials/Nginx-High-Performance-Servers/724790-2.html <br> https://cloudacademy.com/course/nginx-core/nginx-core-introduction/ <br>
+<br>Other Tips / Hacks - <br> https://www.51sec.org/2020/04/13/nginx-tips-and-tricks-load-balancer-configuration/ <br> https://www.nginx.com/blog/performance-tuning-tips-tricks/ <br>
+https://www.nginx.com/blog/10-tips-for-10x-application-performance/ <br> https://www.monitis.com/blog/5-quick-tips-to-optimize-your-nginx-performance/ <br>
+https://www.freecodecamp.org/news/powerful-ways-to-supercharge-your-nginx-server-and-improve-its-performance-a8afdbfde64d/ <br> https://www.howtoforge.com/tips-and-tricks-to-secure-your-nginx-web-server/ <br>
 </details>
 
 <details>
@@ -1062,6 +1097,21 @@ https://www.udemy.com/course/swift-programming/ <br> https://www.udacity.com/cou
 <br>Other Tips / Hacks - <br> https://savvyapps.com/blog/swift-tips-for-developers <br> https://github.com/Luur/SwiftTips <br> https://www.packtpub.com/product/swift-5-tips-tricks-and-techniques-video/9781838983574 <br>
 <a href="https://i.ytimg.com/vi/iHyo1WOteQM/maxresdefault.jpg">
   <img align="center" src="https://i.ytimg.com/vi/iHyo1WOteQM/maxresdefault.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
+<summary>Vagrant </summary>
+<br>Category/Type - <br>Virtual Machine management software<br>
+<br>Official Documentation - <br>https://www.vagrantup.com/docs<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=vBreXjkizgo<br>https://www.youtube.com/watch?v=a6W1hF9CgDQ<br>https://www.youtube.com/watch?v=bu9SrecfjWo&list=PLMWwct3_kb-358XZdnN66zb3HaU97DSQ0<br>https://www.youtube.com/watch?v=o5yYsnPALxQ<br>
+<br>Useful Websites - <br>https://learn.hashicorp.com/collections/vagrant/getting-started<br>https://opensource.com/resources/vagrant<br>https://www.accesstomemory.org/en/docs/2.5/dev-manual/env/vagrant/<br>https://semaphoreci.com/community/tutorials/getting-started-with-vagrant<br>
+<br>Dedicated Github page - <br>https://github.com/hashicorp/vagrant<br>https://github.com/geerlingguy/ansible-vagrant-examples<br>https://github.com/jedi4ever/veewee<br>https://github.com/fideloper/Vaprobash<br>
+<br>Best Courses - <br>https://hackr.io/tutorials/learn-vagrant<br>https://www.lynda.com/Vagrant-tutorials/750017-0.html<br>https://www.udemy.com/course/vagrant-up/<br>https://www.udemy.com/course/vagrant-quick-start/<br>
+<br>Other Tips / Hacks - <br>https://techcommunity.microsoft.com/t5/virtualization/vagrant-and-hyper-v-tips-and-tricks/ba-p/382373<br>https://www.vagrantup.com/docs/vagrantfile/tips<br>https://technology.amis.nl/continuous-delivery/provisioning/6-tips-to-make-your-life-with-vagrant-even-better/<br>https://argonsys.com/microsoft-cloud/library/vagrant-and-hyper-v-tips-and-tricks/<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MediaWiki_Vagrant_Visualization.jpg/900px-MediaWiki_Vagrant_Visualization.jpg">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MediaWiki_Vagrant_Visualization.jpg/900px-MediaWiki_Vagrant_Visualization.jpg" width="800" height="400"/>
 </a>
 <br><br><br>
 </details>
