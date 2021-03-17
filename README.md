@@ -545,6 +545,22 @@ https://www.udemy.com/course/jenkins-learn-continuous-integration/?LSNPUBID=JVFx
 
 
 <details>
+<summary>Jira </summary>
+<br>Category/Type - <br>Bug tracking software<br>
+<br>Official Documentation - <br>https://confluence.atlassian.com/jira/jira-documentation-1556.html<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=uM_m6EzMg3k<br>https://www.youtube.com/watch?v=GnG6RPSRLCs<br>https://www.youtube.com/watch?v=d0M2s0KiIrc&list=PLL34mf651faOpDaNGr4tt6FF_nUYb7ypt<br>https://www.youtube.com/watch?v=VTcQJciaPu4<br>
+<br>Useful Websites - <br>https://www.tutorialspoint.com/jira/index.htm<br>https://www.guru99.com/jira-tutorial-a-complete-guide-for-beginners.html<br>https://www.atlassian.com/agile/tutorials<br>https://www.javatpoint.com/jira-tutorial<br>
+<br>Dedicated Github page - <br>https://github.com/teamatldocker/jira<br>https://github.com/oldboyxx/jira_clone<br>https://github.com/go-jira/jira<br>https://github.com/pycontribs/jira<br>
+<br>Best Courses - <br>https://training.atlassian.com/jira-catalog<br>https://www.udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/<br>https://www.udemy.com/course/introduction-to-jira/<br>https://www.udemy.com/course/the-complete-jira-agile-project-management-course/<br>
+<br>Other Tips / Hacks - <br>https://www.idalko.com/expert-tips-productivity-jira/<br>https://www.praqma.com/stories/get-20-jira-tips/<br>https://community.atlassian.com/t5/Jira-Software-articles/The-top-10-Jira-tips-amp-tricks-brought-to-you-by-the-Atlassian/ba-p/1198260<br>https://www.thedroidsonroids.com/blog/5-top-jira-tips-tricks-i-wish-i-knew-1-year-ago<br>
+<a href="https://www.eficode.com/hubfs/images/blogs/Imported_Blog_Media/jira-software-tips3.jpg">
+  <img align="center" src="https://www.eficode.com/hubfs/images/blogs/Imported_Blog_Media/jira-software-tips3.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+
+<details>
 <summary>Kafka </summary>
 <br>Category/Type -
 <br>Official Documentation -

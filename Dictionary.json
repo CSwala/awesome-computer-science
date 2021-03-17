@@ -455,6 +455,33 @@
 	},
 
 	{
+		"Title" : "Jira",
+		"Tag" : "Bug tracking software",
+		"Documentation" : "https://confluence.atlassian.com/jira/jira-documentation-1556.html",
+		"YT1" : "https://www.youtube.com/watch?v=uM_m6EzMg3k",
+		"YT2" : "https://www.youtube.com/watch?v=GnG6RPSRLCs",
+		"YT3" : "https://www.youtube.com/watch?v=d0M2s0KiIrc&list=PLL34mf651faOpDaNGr4tt6FF_nUYb7ypt",
+		"YT4" : "https://www.youtube.com/watch?v=VTcQJciaPu4",
+		"Website1" : "https://www.tutorialspoint.com/jira/index.htm",
+		"Website2" : "https://www.guru99.com/jira-tutorial-a-complete-guide-for-beginners.html",
+		"Website3" : "https://www.atlassian.com/agile/tutorials",
+		"Website4" : "https://www.javatpoint.com/jira-tutorial",
+		"Dedicated GH page1" : "https://github.com/teamatldocker/jira",
+		"Dedicated GH page2" : "https://github.com/oldboyxx/jira_clone",
+		"Dedicated GH page3" : "https://github.com/go-jira/jira",
+		"Dedicated GH page4" : "https://github.com/pycontribs/jira",
+		"Course1" : "https://training.atlassian.com/jira-catalog",
+		"Course2" : "https://www.udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/",
+		"Course3" : "https://www.udemy.com/course/introduction-to-jira/",
+		"Course4" : "https://www.udemy.com/course/the-complete-jira-agile-project-management-course/",
+		"Tips1" : "https://www.idalko.com/expert-tips-productivity-jira/",
+		"Tips2" : "https://www.praqma.com/stories/get-20-jira-tips/",
+		"Tips3" : "https://community.atlassian.com/t5/Jira-Software-articles/The-top-10-Jira-tips-amp-tricks-brought-to-you-by-the-Atlassian/ba-p/1198260",
+		"Tips4" : "https://www.thedroidsonroids.com/blog/5-top-jira-tips-tricks-i-wish-i-knew-1-year-ago",
+		"Image1" : "https://www.eficode.com/hubfs/images/blogs/Imported_Blog_Media/jira-software-tips3.jpg"
+	},
+
+	{
 	"Title" : "Kotlin", 
 	"Tag":"Programming Language ",
 	"Documentation" : "https://kotlinlang.org/ ",
