@@ -1127,6 +1127,20 @@ https://www.udemy.com/course/swift-programming/ <br> https://www.udacity.com/cou
 <br><br><br>
 </details>
 
+<details>
+<summary>WebGL </summary>
+<br>Category/Type - <br>Programming language<br>
+<br>Official Documentation - <br>https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=bP7_FeP9kU4&list=PL2935W76vRNHFpPUuqmLoGCzwx_8eq5yK<br>https://www.youtube.com/watch?v=kB0ZVUrI4Aw<br>https://www.youtube.com/watch?v=nqiKWXUX-o8<br>https://www.youtube.com/watch?v=XNbtwyWh9HA<br>
+<br>Useful Websites - <br>https://www.tutorialspoint.com/webgl/index.htm<br>https://webglfundamentals.org<br>https://www.toptal.com/javascript/3d-graphics-a-webgl-tutorial<br>http://learnwebgl.brown37.net<br>
+<br>Dedicated Github page - <br>https://github.com/KhronosGroup/WebGL<br>https://github.com/dataarts/webgl-globe<br>https://github.com/esangel/WebGL<br>https://github.com/PavelDoGreat/WebGL-Fluid-Simulation<br>
+<br>Best Courses - <br>https://hackr.io/tutorials/learn-webgl<br>http://www.webglacademy.com<br>https://www.udemy.com/course/threejs-programming/<br>https://www.udemy.com/course/the-extensive-webgl-series-part1-low-level-basics/<br>
+<br>Other Tips / Hacks - <br>https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices<br>https://webglfundamentals.org/webgl/lessons/webgl-tips.html<br>https://forum.unity.com/threads/tips-and-tricks-for-using-webgl-on-mobile-tested-up-to-2018-3-13f1.666121/<br>https://webglinsights.github.io/tips.html<br>
+<a href="https://www.soft8soft.com/wp-content/uploads/2018/08/blender_to_webgl.jpg">
+  <img align="center" src="https://www.soft8soft.com/wp-content/uploads/2018/08/blender_to_webgl.jpg" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
