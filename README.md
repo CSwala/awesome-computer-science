@@ -310,6 +310,17 @@ https://pdfslide.net/documents/shaderx-shader-programming-tips-tricks-with-direc
 </details>
 
 <details>
+<summary>Django</summary>
+<br>Category/Type - <br> Python Framework <br>
+<br>Official Documentation -<br>https://docs.djangoproject.com/en/3.1/<br>
+<br>Best Youtube creators - <br>https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK<br>https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9<br>https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau<br>https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p<br>https://www.youtube.com/watch?v=F5mRW0jo-U4<br>
+<br>Useful Websites - <br>https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction<br>https://www.tutorialspoint.com/django/index.htm<br>https://www.djangoproject.com/start/<br>https://www.geeksforgeeks.org/django-tutorial/<br>https://awesomedjango.org/<br>https://realpython.com/tutorials/django/<br>https://www.django-cms.org/en/<br>https://tutorial.djangogirls.org/en/index.html<br>
+<br>Dedicated Github page - <br> https://github.com/django/django <br> https://github.com/encode/django-rest-framework<br>https://github.com/wsvincent/awesome-django<br>https://github.com/lucrae/django-cheat-sheet<br>
+<br>Best Courses -<br>https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/<br>https://www.udemy.com/course/django-python-advanced/<br>https://www.udemy.com/course/django-python/<br>
+<br>Other Tips / Hacks - <br>https://simpleisbetterthancomplex.com/tips/<br>http://simeonfranklin.com/talk/usf/django-talk.html#title-slide<br>https://www.rootstrap.com/blog/django-best-practices-and-beginner-tips/<br>https://letslearnabout.net/blog/16-tips-for-python-and-django-beginners/<br><br>
+</details>
+
+<details>
 <summary>Docker </summary>
 <br>
 Category/Type - <br>
@@ -417,6 +428,20 @@ https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/ <br> 
 <br>Dedicated Github page -
 <br>Best Courses -
 <br>Other Tips / Hacks - <br><br>
+</details>
+
+<details>
+<summary> Groovy </summary>
+<br>Category/Type - <br> Programming language <br>
+<br>Official Documentation - <br> http://docs.groovy-lang.org/next/html/documentation/ <br> 
+<br>Best YouTube creators - <br> https://www.youtube.com/user/derekbanas <br> https://www.youtube.com/channel/UCTt7pyY-o0eltq14glaG5dg <br>
+https://www.youtube.com/playlist?list=PLhW3qG5bs-L8T6v6DgsZo93DgYDmOF9u4 <br> https://www.youtube.com/user/SpringSourceDev <br>
+<br>Useful Websites - <br> https://www.tutorialspoint.com/groovy/index.htm <br> https://www.guru99.com/groovy-tutorial.html <br> 
+https://www.javatpoint.com/groovy <br>
+<br>Dedicated Github page - <br> https://github.com/kdabir/awesome-groovy <br> https://github.com/paulk-asert/awesome-groovy <br> 
+<br>Best Courses - <br> https://www.pluralsight.com/courses/groovy-fundamentals <br> https://www.udemy.com/course/apache-groovy/ <br> 
+<br>Other Tips / Hacks - <br> https://docs.oracle.com/en/cloud/saas/applications-common/20b/cgsac/groovy-tips-and-techniques.html#groovy-tips-and-techniques <br>
+https://www.infoq.com/presentations/groovy-features/ <br>
 </details>
 
 <details>
@@ -757,6 +782,47 @@ https://medium.com/swlh/node-js-magical-tips-every-developer-should-remember-4c2
   <img align="center" src="https://www.slideteam.net/media/catalog/product/cache/960x720/n/o/node_js_programming_six_months_roadmap_slide01.jpg" width="500" height="500"/>
 </a>
 <br><br><br>
+</details>
+
+<details>
+<summary>NumPy</summary>
+<br>
+Category/Type - <br>
+Python Library<br>
+<br>
+Official Documentation - <br>
+https://numpy.org/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Rbh1rieb3zc<br>
+https://www.youtube.com/watch?v=QUT1VHiLmmI<br>
+https://www.youtube.com/playlist?list=PLzgPDYo_3xukqLLjNeuCxj4CwvkJin03Z<br>
+https://www.youtube.com/watch?v=GB9ByFAIAH4<br>
+https://www.youtube.com/watch?v=j31ah5Qa4QI
+<br>
+Useful Websites -
+https://www.w3schools.com/python/numpy_intro.asp<br>
+https://www.tutorialspoint.com/numpy/index.htm<br>
+https://cs231n.github.io/python-numpy-tutorial/<br>
+https://www.guru99.com/numpy-tutorial.html<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/numpy/numpy<br>
+https://github.com/rougier/numpy-100<br>
+https://github.com/Kyubyong/numpy_exercises<br>
+https://github.com/numba/numba<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/numpy-with-python/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-93451758763_._li_1007765_._pd__._&matchtype=b&gclid=Cj0KCQjw0caCBhCIARIsAGAfuMxgidqMaiqKmmbIMrku0btAoI0B8zX-DXMbUHUGP4VcGYT8hHXwN7MaApDEEALw_wcB<br>
+https://www.coursera.org/courses?query=numpy&page=1<br>
+https://www.python-course.eu/numpy.php<br>
+https://www.edx.org/learn/numpy<br>
+Other Tips / Hacks - <br>
+https://towardsdatascience.com/hitchhiker-tips-on-effectively-using-python-numpy-arrays-66649b7bd5fb<br>
+http://arogozhnikov.github.io/2015/09/29/NumpyTipsAndTricks1.html<br>
+https://www.dataquest.io/blog/numpy-cheat-sheet/<br>
+https://predictivehacks.com/tips-about-numpy-arrays/
+<br><br>
 </details>
 
 </details>
