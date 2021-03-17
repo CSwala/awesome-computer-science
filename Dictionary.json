@@ -503,6 +503,33 @@
 	},
 
 	{
+		"Title" : "Jira",
+		"Tag" : "Bug tracking software",
+		"Documentation" : "https://confluence.atlassian.com/jira/jira-documentation-1556.html",
+		"YT1" : "https://www.youtube.com/watch?v=uM_m6EzMg3k",
+		"YT2" : "https://www.youtube.com/watch?v=GnG6RPSRLCs",
+		"YT3" : "https://www.youtube.com/watch?v=d0M2s0KiIrc&list=PLL34mf651faOpDaNGr4tt6FF_nUYb7ypt",
+		"YT4" : "https://www.youtube.com/watch?v=VTcQJciaPu4",
+		"Website1" : "https://www.tutorialspoint.com/jira/index.htm",
+		"Website2" : "https://www.guru99.com/jira-tutorial-a-complete-guide-for-beginners.html",
+		"Website3" : "https://www.atlassian.com/agile/tutorials",
+		"Website4" : "https://www.javatpoint.com/jira-tutorial",
+		"Dedicated GH page1" : "https://github.com/teamatldocker/jira",
+		"Dedicated GH page2" : "https://github.com/oldboyxx/jira_clone",
+		"Dedicated GH page3" : "https://github.com/go-jira/jira",
+		"Dedicated GH page4" : "https://github.com/pycontribs/jira",
+		"Course1" : "https://training.atlassian.com/jira-catalog",
+		"Course2" : "https://www.udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/",
+		"Course3" : "https://www.udemy.com/course/introduction-to-jira/",
+		"Course4" : "https://www.udemy.com/course/the-complete-jira-agile-project-management-course/",
+		"Tips1" : "https://www.idalko.com/expert-tips-productivity-jira/",
+		"Tips2" : "https://www.praqma.com/stories/get-20-jira-tips/",
+		"Tips3" : "https://community.atlassian.com/t5/Jira-Software-articles/The-top-10-Jira-tips-amp-tricks-brought-to-you-by-the-Atlassian/ba-p/1198260",
+		"Tips4" : "https://www.thedroidsonroids.com/blog/5-top-jira-tips-tricks-i-wish-i-knew-1-year-ago",
+		"Image1" : "https://www.eficode.com/hubfs/images/blogs/Imported_Blog_Media/jira-software-tips3.jpg"
+	},
+
+	{
 	"Title" : "Kotlin", 
 	"Tag":"Programming Language ",
 	"Documentation" : "https://kotlinlang.org/ ",
@@ -923,6 +950,33 @@
 		"Tips2" : "https://github.com/Luur/SwiftTips",
 		"Tips3" : "https://www.packtpub.com/product/swift-5-tips-tricks-and-techniques-video/9781838983574",
 		"Image1": "https://i.ytimg.com/vi/iHyo1WOteQM/maxresdefault.jpg"
+	},
+
+	{
+		"Title" : "Vagrant",
+		"Tag" : "Virtual Machine management software",
+		"Documentation" : "https://www.vagrantup.com/docs",
+		"YT1" : "https://www.youtube.com/watch?v=vBreXjkizgo",
+		"YT2" : "https://www.youtube.com/watch?v=a6W1hF9CgDQ",
+		"YT3" : "https://www.youtube.com/watch?v=bu9SrecfjWo&list=PLMWwct3_kb-358XZdnN66zb3HaU97DSQ0",
+		"YT4" : "https://www.youtube.com/watch?v=o5yYsnPALxQ",
+		"Website1" : "https://learn.hashicorp.com/collections/vagrant/getting-started",
+		"Website2" : "https://opensource.com/resources/vagrant",
+		"Website3" : "https://www.accesstomemory.org/en/docs/2.5/dev-manual/env/vagrant/",
+		"Website4" : "https://semaphoreci.com/community/tutorials/getting-started-with-vagrant",
+		"Dedicated GH page1" : "https://github.com/hashicorp/vagrant",
+		"Dedicated GH page2" : "https://github.com/geerlingguy/ansible-vagrant-examples",
+		"Dedicated GH page3" : "https://github.com/jedi4ever/veewee",
+		"Dedicated GH page4" : "https://github.com/fideloper/Vaprobash",
+		"Course1" : "https://hackr.io/tutorials/learn-vagrant",
+		"Course2" : "https://www.lynda.com/Vagrant-tutorials/750017-0.html",
+		"Course3" : "https://www.udemy.com/course/vagrant-up/",
+		"Course4" : "https://www.udemy.com/course/vagrant-quick-start/",
+		"Tips1" : "https://techcommunity.microsoft.com/t5/virtualization/vagrant-and-hyper-v-tips-and-tricks/ba-p/382373",
+		"Tips2" : "https://www.vagrantup.com/docs/vagrantfile/tips",
+		"Tips3" : "https://technology.amis.nl/continuous-delivery/provisioning/6-tips-to-make-your-life-with-vagrant-even-better/",
+		"Tips4" : "https://argonsys.com/microsoft-cloud/library/vagrant-and-hyper-v-tips-and-tricks/",
+		"Image1" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MediaWiki_Vagrant_Visualization.jpg/900px-MediaWiki_Vagrant_Visualization.jpg"
 	}
 
 	]
