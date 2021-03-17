@@ -784,6 +784,47 @@ https://medium.com/swlh/node-js-magical-tips-every-developer-should-remember-4c2
 <br><br><br>
 </details>
 
+<details>
+<summary>NumPy</summary>
+<br>
+Category/Type - <br>
+Python Library<br>
+<br>
+Official Documentation - <br>
+https://numpy.org/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Rbh1rieb3zc<br>
+https://www.youtube.com/watch?v=QUT1VHiLmmI<br>
+https://www.youtube.com/playlist?list=PLzgPDYo_3xukqLLjNeuCxj4CwvkJin03Z<br>
+https://www.youtube.com/watch?v=GB9ByFAIAH4<br>
+https://www.youtube.com/watch?v=j31ah5Qa4QI
+<br>
+Useful Websites -
+https://www.w3schools.com/python/numpy_intro.asp<br>
+https://www.tutorialspoint.com/numpy/index.htm<br>
+https://cs231n.github.io/python-numpy-tutorial/<br>
+https://www.guru99.com/numpy-tutorial.html<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/numpy/numpy<br>
+https://github.com/rougier/numpy-100<br>
+https://github.com/Kyubyong/numpy_exercises<br>
+https://github.com/numba/numba<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/numpy-with-python/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-93451758763_._li_1007765_._pd__._&matchtype=b&gclid=Cj0KCQjw0caCBhCIARIsAGAfuMxgidqMaiqKmmbIMrku0btAoI0B8zX-DXMbUHUGP4VcGYT8hHXwN7MaApDEEALw_wcB<br>
+https://www.coursera.org/courses?query=numpy&page=1<br>
+https://www.python-course.eu/numpy.php<br>
+https://www.edx.org/learn/numpy<br>
+Other Tips / Hacks - <br>
+https://towardsdatascience.com/hitchhiker-tips-on-effectively-using-python-numpy-arrays-66649b7bd5fb<br>
+http://arogozhnikov.github.io/2015/09/29/NumpyTipsAndTricks1.html<br>
+https://www.dataquest.io/blog/numpy-cheat-sheet/<br>
+https://predictivehacks.com/tips-about-numpy-arrays/
+<br><br>
+</details>
+
 </details>
 <details>
 <summary>Pandas</summary>

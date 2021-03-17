@@ -688,6 +688,36 @@
 		"Tips4" : "https://www.mobileappdaily.com/nodejs-development-tips",
 		"Image1": "https://www.slideteam.net/media/catalog/product/cache/960x720/n/o/node_js_programming_six_months_roadmap_slide01.jpg"
 	},
+
+	
+	{
+		"Title" : "NumPy",
+			"Tag": "Python Library",
+			"Documentation" : "https://numpy.org/",
+			"YT1 " : "https://www.youtube.com/watch?v=Rbh1rieb3zc",
+			"YT2 " : "https://www.youtube.com/watch?v=QUT1VHiLmmI",
+			"YT3 " : "https://www.youtube.com/playlist?list=PLzgPDYo_3xukqLLjNeuCxj4CwvkJin03Z" ,
+			"YT4 " : "https://www.youtube.com/watch?v=GB9ByFAIAH4",
+			"YT5 " :  "https://www.youtube.com/watch?v=j31ah5Qa4QI",
+			"Website1" : "https://www.w3schools.com/python/numpy_intro.asp",
+			"Website2" : "https://www.tutorialspoint.com/numpy/index.htm",
+			"Website3" : "https://cs231n.github.io/python-numpy-tutorial/",
+			"Website4" : "https://www.guru99.com/numpy-tutorial.html",
+			"Dedicated GH page1" : "https://github.com/numpy/numpy",
+			"Dedicated GH page2" : "https://github.com/rougier/numpy-100",
+			"Dedicated GH page3" : "https://github.com/Kyubyong/numpy_exercises",
+			"Dedicated GH page4" : "https://github.com/numba/numba",
+			"Course1" : "https://www.udemy.com/course/numpy-with-python/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-93451758763_._li_1007765_._pd__._&matchtype=b&gclid=Cj0KCQjw0caCBhCIARIsAGAfuMxgidqMaiqKmmbIMrku0btAoI0B8zX-DXMbUHUGP4VcGYT8hHXwN7MaApDEEALw_wcB",
+			"Course2" : "https://www.coursera.org/courses?query=numpy&page=1",
+			"Course3" : "https://www.python-course.eu/numpy.php",
+			"Course4" : "https://www.edx.org/learn/numpy",
+			"Tips1" : "https://towardsdatascience.com/hitchhiker-tips-on-effectively-using-python-numpy-arrays-66649b7bd5fb",
+			"Tips2" : "http://arogozhnikov.github.io/2015/09/29/NumpyTipsAndTricks1.html",
+			"Tips3" : "https://www.dataquest.io/blog/numpy-cheat-sheet/",
+			"Tips4" : "https://predictivehacks.com/tips-about-numpy-arrays/"
+	
+	
+			}
 	
 {
 "Title" : "Pandas",
