@@ -624,7 +624,35 @@
 		"Image1": "https://miro.medium.com/max/3202/1*JfwNbmBbsYKBT7_QFhd13Q.jpeg"
 		},
 		
-		
+		{	"Title" : "Nginx",
+			"Tag": "Web server",
+			"Documentation" : "https://nginx.org/en/docs/",
+			"YT1" : "https://www.youtube.com/user/edurekaIN",
+			"YT2" : "https://www.youtube.com/user/hiteshitube",
+			"YT3" : "https://www.youtube.com/user/GISIGeometry",
+			"YT4" : "https://www.youtube.com/playlist?list=PLGz_X9w9raXf748bzuGOV6XJv7q3wLxhZ",
+			"YT5" : "https://www.youtube.com/playlist?list=PL10Ao--Mok8MgVMkUqsqnnYRoFtL9P81m <br> ",
+			 "Website1": "http://tutorials.jenkov.com/nginx/index.html",
+			"Website2": "https://www.javatpoint.com/nginx-tutorial",
+			"Website3": "https://ubuntu.com/tutorials/install-and-configure-nginx#1-overview",
+			"Website4": "https://www.digitalocean.com/community/tags/nginx",
+			"Website5": "https://www.tutorialspoint.com/ubuntu/ubuntu_nginx.htm",
+			"Dedicated GH page1" : "https://github.com/nginx-boilerplate/nginx-boilerplate",
+			"Dedicated GH page2": "https://github.com/agile6v/awesome-nginx",
+			"Dedicated GH page3" : "https://github.com/fcambus/nginx-resources",
+			"Dedicated Gh page4" : "https://github.com/wallarm/awesome-nginx-security",
+			"Course1" : "https://www.udemy.com/course/nginx-fundamentals/",
+			"Course2" : "https://www.udemy.com/course/nginx-beginner-to-advanced/",
+			"Course3" : "https://www.lynda.com/course-tutorials/Nginx-High-Performance-Servers/724790-2.html",
+			"Course4" : "https://cloudacademy.com/course/nginx-core/nginx-core-introduction/",
+			"Tips1" : "https://www.51sec.org/2020/04/13/nginx-tips-and-tricks-load-balancer-configuration/",
+			"Tips2" : "https://www.nginx.com/blog/performance-tuning-tips-tricks/",
+			"Tips3" : "https://www.nginx.com/blog/10-tips-for-10x-application-performance/",
+			"Tips4" : "https://www.monitis.com/blog/5-quick-tips-to-optimize-your-nginx-performance/",
+			"Tips5" : "https://www.freecodecamp.org/news/powerful-ways-to-supercharge-your-nginx-server-and-improve-its-performance-a8afdbfde64d/",
+			"Tips6" : "https://www.howtoforge.com/tips-and-tricks-to-secure-your-nginx-web-server/"
+		},
+
 {
 "Title" : "NLTK(Natural Language ToolKit",
 "Tag": "Python Library",
@@ -717,7 +745,7 @@
 			"Tips4" : "https://predictivehacks.com/tips-about-numpy-arrays/"
 	
 	
-			}
+			},
 	
 {
 "Title" : "Pandas",
