@@ -352,6 +352,24 @@
 		"Tips3" : "https://golangvedu.wordpress.com"
 	},
 
+	{	"Title" : "Groovy",
+		"Tag": "Programming language",
+		"Documentation" : "http://docs.groovy-lang.org/next/html/documentation/",
+		"YT1" : "https://www.youtube.com/user/derekbanas",
+		"YT2" : "https://www.youtube.com/channel/UCTt7pyY-o0eltq14glaG5dg",
+		"YT3" : "https://www.youtube.com/playlist?list=PLhW3qG5bs-L8T6v6DgsZo93DgYDmOF9u4",
+		"YT4" : "https://www.youtube.com/user/SpringSourceDev",
+		"Website1": "https://www.tutorialspoint.com/groovy/index.htm",
+		"Website2": "https://www.guru99.com/groovy-tutorial.html",
+		"Website3": "https://www.javatpoint.com/groovy",
+		"Dedicated GH page1" : "https://github.com/kdabir/awesome-groovy",
+		"Dedicated GH page2": "https://github.com/paulk-asert/awesome-groovy",
+		"Course1" : "https://www.pluralsight.com/courses/groovy-fundamentals",
+		"Course2" : "https://www.udemy.com/course/apache-groovy/",
+		"Tips1" : "https://docs.oracle.com/en/cloud/saas/applications-common/20b/cgsac/groovy-tips-and-techniques.html#groovy-tips-and-techniques",
+		"Tips2" : "https://www.infoq.com/presentations/groovy-features/"
+	},
+
 	{
 		"Title" : "Hibernate",
 		"Tag": "object-relational mapping(ORM)",

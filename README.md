@@ -420,6 +420,20 @@ https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/ <br> 
 </details>
 
 <details>
+<summary> Groovy </summary>
+<br>Category/Type - <br> Programming language <br>
+<br>Official Documentation - <br> http://docs.groovy-lang.org/next/html/documentation/ <br> 
+<br>Best YouTube creators - <br> https://www.youtube.com/user/derekbanas <br> https://www.youtube.com/channel/UCTt7pyY-o0eltq14glaG5dg <br>
+https://www.youtube.com/playlist?list=PLhW3qG5bs-L8T6v6DgsZo93DgYDmOF9u4 <br> https://www.youtube.com/user/SpringSourceDev <br>
+<br>Useful Websites - <br> https://www.tutorialspoint.com/groovy/index.htm <br> https://www.guru99.com/groovy-tutorial.html <br> 
+https://www.javatpoint.com/groovy <br>
+<br>Dedicated Github page - <br> https://github.com/kdabir/awesome-groovy <br> https://github.com/paulk-asert/awesome-groovy <br> 
+<br>Best Courses - <br> https://www.pluralsight.com/courses/groovy-fundamentals <br> https://www.udemy.com/course/apache-groovy/ <br> 
+<br>Other Tips / Hacks - <br> https://docs.oracle.com/en/cloud/saas/applications-common/20b/cgsac/groovy-tips-and-techniques.html#groovy-tips-and-techniques <br>
+https://www.infoq.com/presentations/groovy-features/ <br>
+</details>
+
+<details>
 <summary>Hadoop </summary>
 <br>Category/Type -
 <br>Official Documentation -
