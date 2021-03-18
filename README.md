@@ -1113,6 +1113,30 @@ https://www.udemy.com/course/swift-programming/ <br> https://www.udacity.com/cou
 </details>
 
 <details>
+<summary> Unity </summary>
+<br>Category/Type - <br>  Game engine <br>
+<br>Official Documentation - <br> https://docs.unity3d.com/Manual/index.html <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/user/Unity3D <br> https://www.youtube.com/user/Brackeys <br> https://www.youtube.com/channel/UCX_b3NNQN5bzExm-22-NVVg <br>
+https://www.youtube.com/playlist?list=PLI5KGtDrj4HVInyXdx5N2oYUAb9U7rJ4L <br> https://www.youtube.com/playlist?list=PLGmYIROty-5bpzKQNK3mRMi4pmh_LinV4 <br>
+https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6 <br> https://www.youtube.com/playlist?list=PLZ1b66Z1KFKjP_tBSIxgvAU-qpfCfmeAe <br>
+https://www.youtube.com/playlist?list=PLZ1b66Z1KFKik2g8D4wrmYj4yein4rCk8 <br>
+<br>Useful Websites - <br> https://www.tutorialspoint.com/unity/index.htm <br> https://www.raywenderlich.com/unity/paths/learn <br>
+https://www.javatpoint.com/unity <br> https://learn.unity.com <br> https://unity3d.com/learning-c-sharp-in-unity-for-beginners <br> https://www.raywenderlich.com/unity <br> 
+https://learn.unity.com/tutorials <br> https://catlikecoding.com/unity/tutorials/ <br>
+<br>Dedicated Github page - <br> https://github.com/RyanNielson/awesome-unity <br> https://github.com/QianMo/Awesome-Unity-Shader <br>
+https://github.com/baba-s/awesome-unity-open-source-on-github <br> https://github.com/StefanoCecere/awesome-opensource-unity <br>
+https://github.com/netpyoung/awesome-unity-free <br> https://github.com/iamslash/UnityShaderTutorial <br>
+<br>Best Courses - <br> https://learn.unity.com/courses <br> https://www.coursera.org/specializations/programming-unity-game-development <br> 
+https://www.coursera.org/specializations/game-design-and-development <br> https://www.coursera.org/specializations/unity-certified-programmer <br>
+https://www.coursera.org/specializations/unity-xr <br> https://www.udemy.com/course/unitycourse/ <br> https://www.udemy.com/course/unitycourse2/ <br> 
+https://www.udemy.com/course/devslopes-unity3d/ <br>
+<br>Other Tips / Hacks - <br> https://medium.com/swlh/top-10-unity-tricks-that-most-people-dont-take-advantage-of-6e3aae59d9da <br>
+https://www.pluralsight.com/blog/software-development/unity-tips-and-tricks <br> https://cgcookie.com/articles/30-things-every-unity-developer-should-know <br>
+https://www.codeguru.com/csharp/csharp/cs_graphics/20-unity-tips.html <br> https://www.unity3dtips.com <br> https://www.reddit.com/r/Unity3D/comments/7gor9r/what_are_your_top_3_unity_tipstricks/ <br>
+http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/ <br>
+</details>
+
+<details>
 <summary>Vagrant </summary>
 <br>Category/Type - <br>Virtual Machine management software<br>
 <br>Official Documentation - <br>https://www.vagrantup.com/docs<br>
