@@ -1065,6 +1065,33 @@
 	},
 
 	{
+		"Title" : "Vulkan",
+		"Tag" : "Computer application",
+		"Documentation" : "https://www.khronos.org/registry/vulkan/specs/1.2/styleguide.html",
+		"YT1" : "https://www.youtube.com/watch?v=wHt5wcxIPcE&list=PLUXvZMiAqNbK8jd7s52BIDtCbZnKNGp0P",
+		"YT2" : "https://www.youtube.com/watch?v=_riranMmtvI",
+		"YT3" : "https://www.youtube.com/watch?v=5mq8y_z7BWQ",
+		"YT4" : "https://www.youtube.com/watch?v=dttr3OGVewQ",
+		"Website1" : "https://developer.nvidia.com/vulkan",
+		"Website2" : "https://www.khronos.org/vulkan/",
+		"Website3" : "https://developer.android.com/ndk/guides/graphics",
+		"Website4" : "https://www.amd.com/en/technologies/vulkan",
+		"Dedicated GH page1" : "https://github.com/SaschaWillems/Vulkan",
+		"Dedicated GH page2" : "https://github.com/Overv/VulkanTutorial",
+		"Dedicated GH page3" : "https://github.com/LunarG/VulkanSamples",
+		"Dedicated GH page4" : "https://github.com/KhronosGroup/Vulkan-Docs",
+		"Course1" : "https://www.udemy.com/course/learn-the-vulkan-api-with-cpp/",
+		"Course2" : "https://vulkan-tutorial.com",
+		"Course3" : "https://www.oreilly.com/library/view/vulkan-programming/9781786460714/video1_1.html",
+		"Course4" : "https://dl.acm.org/doi/abs/10.1145/3388769.3407508",
+		"Tips1" : "https://developer.nvidia.com/blog/vulkan-dos-donts/",
+		"Tips2" : "https://www.reddit.com/r/vulkan/comments/5jzg58/tips_on_abstracting_vulkan/",
+		"Tips3" : "https://developer.android.com/ndk/guides/graphics/design-notes",
+		"Tips4" : "https://gpuopen.com/wp-content/uploads/2016/05/Most-common-mistakes-in-Vulkan-apps.pdf",
+		"Image1" : "https://en.wikipedia.org/wiki/File:Vulkan_RGB_Dec16.svg"
+	},
+
+	{
 		"Title" : "WebGL",
 		"Tag" : "Programming language",
 		"Documentation" : "https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API",
