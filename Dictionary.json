@@ -1062,7 +1062,35 @@
 		"Tips3" : "https://technology.amis.nl/continuous-delivery/provisioning/6-tips-to-make-your-life-with-vagrant-even-better/",
 		"Tips4" : "https://argonsys.com/microsoft-cloud/library/vagrant-and-hyper-v-tips-and-tricks/",
 		"Image1" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MediaWiki_Vagrant_Visualization.jpg/900px-MediaWiki_Vagrant_Visualization.jpg"
+	},
+
+	{
+		"Title" : "WebGL",
+		"Tag" : "Programming language",
+		"Documentation" : "https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API",
+		"YT1" : "https://www.youtube.com/watch?v=bP7_FeP9kU4&list=PL2935W76vRNHFpPUuqmLoGCzwx_8eq5yK",
+		"YT2" : "https://www.youtube.com/watch?v=kB0ZVUrI4Aw",
+		"YT3" : "https://www.youtube.com/watch?v=nqiKWXUX-o8",
+		"YT4" : "https://www.youtube.com/watch?v=XNbtwyWh9HA",
+		"Website1" : "https://www.tutorialspoint.com/webgl/index.htm",
+		"Website2" : "https://webglfundamentals.org",
+		"Website3" : "https://www.toptal.com/javascript/3d-graphics-a-webgl-tutorial",
+		"Website4" : "http://learnwebgl.brown37.net",
+		"Dedicated GH page1" : "https://github.com/KhronosGroup/WebGL",
+		"Dedicated GH page2" : "https://github.com/dataarts/webgl-globe",
+		"Dedicated GH page3" : "https://github.com/esangel/WebGL",
+		"Dedicated GH page4" : "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+		"Course1" : "https://hackr.io/tutorials/learn-webgl",
+		"Course2" : "http://www.webglacademy.com",
+		"Course3" : "https://www.udemy.com/course/threejs-programming/",
+		"Course4" : "https://www.udemy.com/course/the-extensive-webgl-series-part1-low-level-basics/",
+		"Tips1" : "https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices",
+		"Tips2" : "https://webglfundamentals.org/webgl/lessons/webgl-tips.html",
+		"Tips3" : "https://forum.unity.com/threads/tips-and-tricks-for-using-webgl-on-mobile-tested-up-to-2018-3-13f1.666121/",
+		"Tips4" : "https://webglinsights.github.io/tips.html",
+		"Image1" : "https://www.soft8soft.com/wp-content/uploads/2018/08/blender_to_webgl.jpg"
 	}
 
 	]
 
+	
