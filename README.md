@@ -676,6 +676,21 @@ https://blog.neuvector.com/article/hack-kubernetes-container <br>
 </details>
 
 <details>
+<summary>Lightworks</summary>
+<br>Category/Type - <br>System software<br>
+<br>Official Documentation - <br>https://cdn.lwks.com/docs/2020.1/Lightworks_2020.1_User_Guide.pdf<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=W1MLW6_bpDk<br>https://www.youtube.com/watch?v=aff4HvsC4RI&list=PLGxqbtM7UZzRSsr_bpGtwwr2Mb_8-bQzU<br>https://www.youtube.com/watch?v=489O4snfHg8<br>https://www.youtube.com/watch?v=gXfyXAwFfVU<br>
+<br>Useful Websites - <br>https://www.lwks.com/index.php?option=com_kunena&func=view&catid=20&id=22109&Itemid=81<br>https://www.premiumbeat.com/blog/lightworks-video-tutorials/<br>https://www.lwks.com/index.php?option=com_kunena&func=view&catid=26&id=201146&Itemid=81<br>https://www.lwks.com/index.php?option=com_content&view=article&id=162&Itemid=246&start=QuickStart<br>
+<br>Dedicated Github page - <br>https://github.com/crazyants/Lightwork<br>https://github.com/amussey/sk-lightworks<br>https://github.com/bhush9/lightworks-arch<br>https://github.com/fx-planet/lwks-fx-bundle<br>
+<br>Best Courses - <br>https://www.skillshare.com/browse/lightworks<br>https://www.udemy.com/course/lightworks-video-editing/<br>https://www.lwks.com/index.php?option=com_kunena&func=view&catid=27&id=200982&Itemid=81<br>https://www.educba.com/design/courses/lightworks-tutorial/<br>
+<br>Other Tips / Hacks - <br>https://www.lwks.com/index.php?option=com_kunena&func=showcat&catid=27&Itemid=81<br>http://downloads.lwks.com/LW_Hints&Tips_for_v11.pdf<br>https://www.lwks.com/index.php?option=com_kunena&func=view&catid=27&id=32211&Itemid=81<br>
+<a href="https://lh5.googleusercontent.com/5xrA7l184zC-mii6ESokTP2dUB7rIlNSkpYOLtjZdRIV17uR_HmotmktWhI7y3HhdJHT6ByqdXb-z9DQKW39jUxx5yg9eTVqAeimO0s7H5vtZThb84NQzpZIbG2w4h8w8ocfnkC2">
+  <img align="center" src="https://lh5.googleusercontent.com/5xrA7l184zC-mii6ESokTP2dUB7rIlNSkpYOLtjZdRIV17uR_HmotmktWhI7y3HhdJHT6ByqdXb-z9DQKW39jUxx5yg9eTVqAeimO0s7H5vtZThb84NQzpZIbG2w4h8w8ocfnkC2" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Matplotlib</summary>
 <br>
 Category/Type - <br>
