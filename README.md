@@ -860,6 +860,21 @@ https://predictivehacks.com/tips-about-numpy-arrays/
 <br><br>
 </details>
 
+<details>
+<summary>OpenGL</summary>
+<br>Category/Type - <br>Application programming interface<br>
+<br>Official Documentation - <br>https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2<br>https://www.youtube.com/watch?v=3aJ8OR1C6pk&list=PLWzp0Bbyy_3jy34HlDrEWlcG3rF99gkvk<br>https://www.youtube.com/watch?v=_POT8K638VY&list=PLysLvOneEETPlOI_PI4mJnocqIpr2cSHS<br>https://www.youtube.com/watch?v=pKJ52fDq6Cw&list=PL6xSOsbVA1eYSZTKBxnoXYboy7wc4yg-Z<br>
+<br>Useful Websites - <br>https://www.opengl.org<br>https://developer.android.com/guide/topics/graphics/opengl<br>https://learnopengl.com/Getting-started/OpenGL<br>https://developer.nvidia.com/opengl<br>
+<br>Dedicated Github page - <br>https://github.com/McNopper/OpenGL<br>https://github.com/danginsburg/opengles3-book<br>https://github.com/TheCherno/OpenGL<br>https://github.com/learnopengles/Learn-OpenGLES-Tutorials<br>
+<br>Best Courses - <br>https://learnopengl.com<br>http://www.opengl-tutorial.org<br>https://www.udemy.com/course/graphics-with-modern-opengl/<br>https://www.udemy.com/course/opengl-tutorials/<br>
+<br>Other Tips / Hacks - <br>https://anteru.net/blog/2009/opengl-tips-tricks/<br>https://software.intel.com/content/www/us/en/develop/articles/opengl-performance-tips-avoid-opengl-calls-that-synchronize-cpu-and-gpu.html?language=fr<br>https://www.g-truc.net/post-opengl-tips.html<br>https://docs.microsoft.com/en-us/windows/win32/opengl/opengl-performance-tips<br>
+<a href="https://www.khronos.org/assets/uploads/ceimg/made/assets/uploads/apis/OpenGL_100px_June16_180_75.png">
+  <img align="center" src="https://www.khronos.org/assets/uploads/ceimg/made/assets/uploads/apis/OpenGL_100px_June16_180_75.png" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
 </details>
 <details>
 <summary>Pandas</summary>

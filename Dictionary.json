@@ -773,6 +773,33 @@
 	
 	
 			},
+
+			{
+				"Title" : "OpenGL",
+				"Tag" : "Application programming interface",
+				"Documentation" : "https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml",
+				"YT1" : "https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2",
+				"YT2" : "https://www.youtube.com/watch?v=3aJ8OR1C6pk&list=PLWzp0Bbyy_3jy34HlDrEWlcG3rF99gkvk",
+				"YT3" : "https://www.youtube.com/watch?v=_POT8K638VY&list=PLysLvOneEETPlOI_PI4mJnocqIpr2cSHS",
+				"YT4" : "https://www.youtube.com/watch?v=pKJ52fDq6Cw&list=PL6xSOsbVA1eYSZTKBxnoXYboy7wc4yg-Z",
+				"Website1" : "https://www.opengl.org",
+				"Website2" : "https://developer.android.com/guide/topics/graphics/opengl",
+				"Website3" : "https://learnopengl.com/Getting-started/OpenGL",
+				"Website4" : "https://developer.nvidia.com/opengl",
+				"Dedicated GH page1" : "https://github.com/McNopper/OpenGL",
+				"Dedicated GH page2" : "https://github.com/danginsburg/opengles3-book",
+				"Dedicated GH page3" : "https://github.com/TheCherno/OpenGL",
+				"Dedicated GH page4" : "https://github.com/learnopengles/Learn-OpenGLES-Tutorials",
+				"Course1" : "https://learnopengl.com",
+				"Course2" : "http://www.opengl-tutorial.org",
+				"Course3" : "https://www.udemy.com/course/graphics-with-modern-opengl/",
+				"Course4" : "https://www.udemy.com/course/opengl-tutorials/",
+				"Tips1" : "https://anteru.net/blog/2009/opengl-tips-tricks/",
+				"Tips2" : "https://software.intel.com/content/www/us/en/develop/articles/opengl-performance-tips-avoid-opengl-calls-that-synchronize-cpu-and-gpu.html?language=fr",
+				"Tips3" : "https://www.g-truc.net/post-opengl-tips.html",
+				"Tips4" : "https://docs.microsoft.com/en-us/windows/win32/opengl/opengl-performance-tips",
+				"Image1" : "https://www.khronos.org/assets/uploads/ceimg/made/assets/uploads/apis/OpenGL_100px_June16_180_75.png"
+			},
 	
 {
 "Title" : "Pandas",
