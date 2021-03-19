@@ -571,7 +571,34 @@
 	"Tips1" : "https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/",
 	"Tips2" : "https://blog.neuvector.com/article/hack-kubernetes-container"
 	
-	} ,
+} ,
+
+{
+	"Title" : "Lightworks",
+	"Tag" : "System software",
+	"Documentation" : "https://cdn.lwks.com/docs/2020.1/Lightworks_2020.1_User_Guide.pdf",
+	"YT1" : "https://www.youtube.com/watch?v=W1MLW6_bpDk",
+	"YT2" : "https://www.youtube.com/watch?v=aff4HvsC4RI&list=PLGxqbtM7UZzRSsr_bpGtwwr2Mb_8-bQzU",
+	"YT3" : "https://www.youtube.com/watch?v=489O4snfHg8",
+	"YT4" : "https://www.youtube.com/watch?v=gXfyXAwFfVU",
+	"Website1" : "https://www.lwks.com/index.php?option=com_kunena&func=view&catid=20&id=22109&Itemid=81",
+	"Website2" : "https://www.premiumbeat.com/blog/lightworks-video-tutorials/",
+	"Website3" : "https://www.lwks.com/index.php?option=com_kunena&func=view&catid=26&id=201146&Itemid=81",
+	"Website4" : "https://www.lwks.com/index.php?option=com_content&view=article&id=162&Itemid=246&start=QuickStart",
+	"Dedicated GH page1" : "https://github.com/crazyants/Lightwork",
+	"Dedicated GH page2" : "https://github.com/amussey/sk-lightworks",
+	"Dedicated GH page3" : "https://github.com/bhush9/lightworks-arch",
+	"Dedicated GH page4" : "https://github.com/fx-planet/lwks-fx-bundle",
+	"Course1" : "https://www.skillshare.com/browse/lightworks",
+	"Course2" : "https://www.udemy.com/course/lightworks-video-editing/",
+	"Course3" : "https://www.lwks.com/index.php?option=com_kunena&func=view&catid=27&id=200982&Itemid=81",
+	"Course4" : "https://www.educba.com/design/courses/lightworks-tutorial/",
+	"Tips1" : "https://www.lwks.com/index.php?option=com_kunena&func=showcat&catid=27&Itemid=81",
+	"Tips2" : "http://downloads.lwks.com/LW_Hints&Tips_for_v11.pdf",
+	"Tips3" : "https://www.lwks.com/index.php?option=com_kunena&func=view&catid=27&id=32211&Itemid=81",
+	"Image1" : "https://lh5.googleusercontent.com/5xrA7l184zC-mii6ESokTP2dUB7rIlNSkpYOLtjZdRIV17uR_HmotmktWhI7y3HhdJHT6ByqdXb-z9DQKW39jUxx5yg9eTVqAeimO0s7H5vtZThb84NQzpZIbG2w4h8w8ocfnkC2"
+},
+
 	{
 	"Title" : "Matplotlib",
 	"Tag": "Python Library",
@@ -772,6 +799,33 @@
 			"Tips4" : "https://predictivehacks.com/tips-about-numpy-arrays/"
 	
 	
+			},
+
+			{
+				"Title" : "OpenGL",
+				"Tag" : "Application programming interface",
+				"Documentation" : "https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml",
+				"YT1" : "https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2",
+				"YT2" : "https://www.youtube.com/watch?v=3aJ8OR1C6pk&list=PLWzp0Bbyy_3jy34HlDrEWlcG3rF99gkvk",
+				"YT3" : "https://www.youtube.com/watch?v=_POT8K638VY&list=PLysLvOneEETPlOI_PI4mJnocqIpr2cSHS",
+				"YT4" : "https://www.youtube.com/watch?v=pKJ52fDq6Cw&list=PL6xSOsbVA1eYSZTKBxnoXYboy7wc4yg-Z",
+				"Website1" : "https://www.opengl.org",
+				"Website2" : "https://developer.android.com/guide/topics/graphics/opengl",
+				"Website3" : "https://learnopengl.com/Getting-started/OpenGL",
+				"Website4" : "https://developer.nvidia.com/opengl",
+				"Dedicated GH page1" : "https://github.com/McNopper/OpenGL",
+				"Dedicated GH page2" : "https://github.com/danginsburg/opengles3-book",
+				"Dedicated GH page3" : "https://github.com/TheCherno/OpenGL",
+				"Dedicated GH page4" : "https://github.com/learnopengles/Learn-OpenGLES-Tutorials",
+				"Course1" : "https://learnopengl.com",
+				"Course2" : "http://www.opengl-tutorial.org",
+				"Course3" : "https://www.udemy.com/course/graphics-with-modern-opengl/",
+				"Course4" : "https://www.udemy.com/course/opengl-tutorials/",
+				"Tips1" : "https://anteru.net/blog/2009/opengl-tips-tricks/",
+				"Tips2" : "https://software.intel.com/content/www/us/en/develop/articles/opengl-performance-tips-avoid-opengl-calls-that-synchronize-cpu-and-gpu.html?language=fr",
+				"Tips3" : "https://www.g-truc.net/post-opengl-tips.html",
+				"Tips4" : "https://docs.microsoft.com/en-us/windows/win32/opengl/opengl-performance-tips",
+				"Image1" : "https://www.khronos.org/assets/uploads/ceimg/made/assets/uploads/apis/OpenGL_100px_June16_180_75.png"
 			},
 	
 {
@@ -1062,6 +1116,33 @@
 		"Tips3" : "https://technology.amis.nl/continuous-delivery/provisioning/6-tips-to-make-your-life-with-vagrant-even-better/",
 		"Tips4" : "https://argonsys.com/microsoft-cloud/library/vagrant-and-hyper-v-tips-and-tricks/",
 		"Image1" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MediaWiki_Vagrant_Visualization.jpg/900px-MediaWiki_Vagrant_Visualization.jpg"
+	},
+
+	{
+		"Title" : "Vulkan",
+		"Tag" : "Computer application",
+		"Documentation" : "https://www.khronos.org/registry/vulkan/specs/1.2/styleguide.html",
+		"YT1" : "https://www.youtube.com/watch?v=wHt5wcxIPcE&list=PLUXvZMiAqNbK8jd7s52BIDtCbZnKNGp0P",
+		"YT2" : "https://www.youtube.com/watch?v=_riranMmtvI",
+		"YT3" : "https://www.youtube.com/watch?v=5mq8y_z7BWQ",
+		"YT4" : "https://www.youtube.com/watch?v=dttr3OGVewQ",
+		"Website1" : "https://developer.nvidia.com/vulkan",
+		"Website2" : "https://www.khronos.org/vulkan/",
+		"Website3" : "https://developer.android.com/ndk/guides/graphics",
+		"Website4" : "https://www.amd.com/en/technologies/vulkan",
+		"Dedicated GH page1" : "https://github.com/SaschaWillems/Vulkan",
+		"Dedicated GH page2" : "https://github.com/Overv/VulkanTutorial",
+		"Dedicated GH page3" : "https://github.com/LunarG/VulkanSamples",
+		"Dedicated GH page4" : "https://github.com/KhronosGroup/Vulkan-Docs",
+		"Course1" : "https://www.udemy.com/course/learn-the-vulkan-api-with-cpp/",
+		"Course2" : "https://vulkan-tutorial.com",
+		"Course3" : "https://www.oreilly.com/library/view/vulkan-programming/9781786460714/video1_1.html",
+		"Course4" : "https://dl.acm.org/doi/abs/10.1145/3388769.3407508",
+		"Tips1" : "https://developer.nvidia.com/blog/vulkan-dos-donts/",
+		"Tips2" : "https://www.reddit.com/r/vulkan/comments/5jzg58/tips_on_abstracting_vulkan/",
+		"Tips3" : "https://developer.android.com/ndk/guides/graphics/design-notes",
+		"Tips4" : "https://gpuopen.com/wp-content/uploads/2016/05/Most-common-mistakes-in-Vulkan-apps.pdf",
+		"Image1" : "https://en.wikipedia.org/wiki/File:Vulkan_RGB_Dec16.svg"
 	},
 
 	{

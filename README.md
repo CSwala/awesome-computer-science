@@ -676,6 +676,21 @@ https://blog.neuvector.com/article/hack-kubernetes-container <br>
 </details>
 
 <details>
+<summary>Lightworks</summary>
+<br>Category/Type - <br>System software<br>
+<br>Official Documentation - <br>https://cdn.lwks.com/docs/2020.1/Lightworks_2020.1_User_Guide.pdf<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=W1MLW6_bpDk<br>https://www.youtube.com/watch?v=aff4HvsC4RI&list=PLGxqbtM7UZzRSsr_bpGtwwr2Mb_8-bQzU<br>https://www.youtube.com/watch?v=489O4snfHg8<br>https://www.youtube.com/watch?v=gXfyXAwFfVU<br>
+<br>Useful Websites - <br>https://www.lwks.com/index.php?option=com_kunena&func=view&catid=20&id=22109&Itemid=81<br>https://www.premiumbeat.com/blog/lightworks-video-tutorials/<br>https://www.lwks.com/index.php?option=com_kunena&func=view&catid=26&id=201146&Itemid=81<br>https://www.lwks.com/index.php?option=com_content&view=article&id=162&Itemid=246&start=QuickStart<br>
+<br>Dedicated Github page - <br>https://github.com/crazyants/Lightwork<br>https://github.com/amussey/sk-lightworks<br>https://github.com/bhush9/lightworks-arch<br>https://github.com/fx-planet/lwks-fx-bundle<br>
+<br>Best Courses - <br>https://www.skillshare.com/browse/lightworks<br>https://www.udemy.com/course/lightworks-video-editing/<br>https://www.lwks.com/index.php?option=com_kunena&func=view&catid=27&id=200982&Itemid=81<br>https://www.educba.com/design/courses/lightworks-tutorial/<br>
+<br>Other Tips / Hacks - <br>https://www.lwks.com/index.php?option=com_kunena&func=showcat&catid=27&Itemid=81<br>http://downloads.lwks.com/LW_Hints&Tips_for_v11.pdf<br>https://www.lwks.com/index.php?option=com_kunena&func=view&catid=27&id=32211&Itemid=81<br>
+<a href="https://lh5.googleusercontent.com/5xrA7l184zC-mii6ESokTP2dUB7rIlNSkpYOLtjZdRIV17uR_HmotmktWhI7y3HhdJHT6ByqdXb-z9DQKW39jUxx5yg9eTVqAeimO0s7H5vtZThb84NQzpZIbG2w4h8w8ocfnkC2">
+  <img align="center" src="https://lh5.googleusercontent.com/5xrA7l184zC-mii6ESokTP2dUB7rIlNSkpYOLtjZdRIV17uR_HmotmktWhI7y3HhdJHT6ByqdXb-z9DQKW39jUxx5yg9eTVqAeimO0s7H5vtZThb84NQzpZIbG2w4h8w8ocfnkC2" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Matplotlib</summary>
 <br>
 Category/Type - <br>
@@ -858,6 +873,21 @@ http://arogozhnikov.github.io/2015/09/29/NumpyTipsAndTricks1.html<br>
 https://www.dataquest.io/blog/numpy-cheat-sheet/<br>
 https://predictivehacks.com/tips-about-numpy-arrays/
 <br><br>
+</details>
+
+<details>
+<summary>OpenGL</summary>
+<br>Category/Type - <br>Application programming interface<br>
+<br>Official Documentation - <br>https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2<br>https://www.youtube.com/watch?v=3aJ8OR1C6pk&list=PLWzp0Bbyy_3jy34HlDrEWlcG3rF99gkvk<br>https://www.youtube.com/watch?v=_POT8K638VY&list=PLysLvOneEETPlOI_PI4mJnocqIpr2cSHS<br>https://www.youtube.com/watch?v=pKJ52fDq6Cw&list=PL6xSOsbVA1eYSZTKBxnoXYboy7wc4yg-Z<br>
+<br>Useful Websites - <br>https://www.opengl.org<br>https://developer.android.com/guide/topics/graphics/opengl<br>https://learnopengl.com/Getting-started/OpenGL<br>https://developer.nvidia.com/opengl<br>
+<br>Dedicated Github page - <br>https://github.com/McNopper/OpenGL<br>https://github.com/danginsburg/opengles3-book<br>https://github.com/TheCherno/OpenGL<br>https://github.com/learnopengles/Learn-OpenGLES-Tutorials<br>
+<br>Best Courses - <br>https://learnopengl.com<br>http://www.opengl-tutorial.org<br>https://www.udemy.com/course/graphics-with-modern-opengl/<br>https://www.udemy.com/course/opengl-tutorials/<br>
+<br>Other Tips / Hacks - <br>https://anteru.net/blog/2009/opengl-tips-tricks/<br>https://software.intel.com/content/www/us/en/develop/articles/opengl-performance-tips-avoid-opengl-calls-that-synchronize-cpu-and-gpu.html?language=fr<br>https://www.g-truc.net/post-opengl-tips.html<br>https://docs.microsoft.com/en-us/windows/win32/opengl/opengl-performance-tips<br>
+<a href="https://www.khronos.org/assets/uploads/ceimg/made/assets/uploads/apis/OpenGL_100px_June16_180_75.png">
+  <img align="center" src="https://www.khronos.org/assets/uploads/ceimg/made/assets/uploads/apis/OpenGL_100px_June16_180_75.png" width="800" height="400"/>
+</a>
+<br><br><br>
 </details>
 
 </details>
@@ -1155,6 +1185,21 @@ https://www.lynda.com/Unreal-Engine-tutorials/Unreal-AR-Visualization-03-Complex
 <br>Other Tips / Hacks - <br> https://www.unrealengine.com/en-US/events/unreal-fest-europe-2019/100-ue4-tips-and-tricks <br> https://www.creativebloq.com/3d/25-tips-unreal-engine-4-71621196 <br>
 https://medium.com/hri-tech/unreal-engine-tips-and-tricks-26e351b4b218 <br> https://medium.com/hri-tech/unreal-engine-tips-and-tricks-26e351b4b218 <br>
 https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https://devbynight.com/unreal-engine-tips-tricks/ <br> http://www.tharlevfx.com/unreal-tips-and-tricks <br>
+</details>
+
+<details>
+<summary>Vulkan</summary>
+<br>Category/Type - <br>Computer application<br>
+<br>Official Documentation - <br>https://www.khronos.org/registry/vulkan/specs/1.2/styleguide.html<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=dttr3OGVewQ<br>https://www.youtube.com/watch?v=5mq8y_z7BWQ<br>https://www.youtube.com/watch?v=_riranMmtvI<br>https://www.youtube.com/watch?v=wHt5wcxIPcE&list=PLUXvZMiAqNbK8jd7s52BIDtCbZnKNGp0P<br>
+<br>Useful Websites - <br>https://developer.nvidia.com/vulkan<br>https://www.khronos.org/vulkan/<br>https://developer.android.com/ndk/guides/graphics<br>https://www.amd.com/en/technologies/vulkan<br>
+<br>Dedicated Github page - <br>https://github.com/SaschaWillems/Vulkan<br>https://github.com/Overv/VulkanTutorial<br>https://github.com/LunarG/VulkanSamples<br>https://github.com/KhronosGroup/Vulkan-Docs<br>
+<br>Best Courses - <br>https://www.udemy.com/course/learn-the-vulkan-api-with-cpp/<br>https://vulkan-tutorial.com<br>https://www.oreilly.com/library/view/vulkan-programming/9781786460714/video1_1.html<br>https://dl.acm.org/doi/abs/10.1145/3388769.3407508<br>
+<br>Other Tips / Hacks - <br>https://developer.nvidia.com/blog/vulkan-dos-donts/<br>https://www.reddit.com/r/vulkan/comments/5jzg58/tips_on_abstracting_vulkan/<br>https://developer.android.com/ndk/guides/graphics/design-notes<br>https://gpuopen.com/wp-content/uploads/2016/05/Most-common-mistakes-in-Vulkan-apps.pdf<br>
+<a href="https://en.wikipedia.org/wiki/File:Vulkan_RGB_Dec16.svg">
+  <img align="center" src="https://en.wikipedia.org/wiki/File:Vulkan_RGB_Dec16.svg" width="800" height="400"/>
+</a>
+<br><br><br>
 </details>
 
 <details>
