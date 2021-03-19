@@ -1126,6 +1126,27 @@ http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/ <
 </details>
 
 <details>
+<summary> Unreal Engine </summary>
+<br>Category/Type - <br>  Game engine <br>
+<br>Official Documentation - <br> https://docs.unrealengine.com/en-US/index.html <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/user/UnrealDevelopmentKit <br> https://www.youtube.com/channel/UCgmX4icpN3HnOOwYtmyYz2w <br>
+https://www.youtube.com/user/IGNentertainment <br> https://www.youtube.com/channel/UCqI-7BueefkQwfbOi8ZzMOw <br> https://www.youtube.com/playlist?list=PLL0cLF8gjBprG6487lxqSq-aEo6ZXLDLg <br>
+https://www.youtube.com/playlist?list=PLL0cLF8gjBpqGJwEe5XL5mSL8UvwwVMKu <br> https://www.youtube.com/playlist?list=PLHSMxXn4v-aGhuRxxSBVPqykMjDiRyGrJ <br>
+https://www.youtube.com/playlist?list=PLZlv_N0_O1gbY4FN8pZuEPVC9PzQThNn1 <br> https://www.youtube.com/playlist?list=PLhf5YCdusazmDTAEdV5jDhKWeGE1iqF2X <br>
+<br>Useful Websites - <br> https://www.unrealengine.com/en-US/onlinelearning-courses <br> https://docs.unrealengine.com/en-US/Resources/index.html <br>
+https://www.raywenderlich.com/771-unreal-engine-4-tutorial-for-beginners-getting-started <br> https://www.gamedesigning.org/learn/unreal/ <br>
+https://gamedevacademy.org/unreal-engine-tutorial/ <br> https://hackr.io/tutorials/learn-unreal-engine <br> https://3dtotal.com/tutorials/unreal-engine-dev-kit <br>
+<br>Dedicated Github page - <br> https://github.com/terrehbyte/awesome-ue4 <br> https://github.com/insthync/awesome-ue4 <br> https://github.com/aiekick/Awesome_Unreal_Engine_4 <br>
+https://github.com/vritvij/SoulVision <br> https://github.com/kslawinski/AwesomeRPG <br> https://github.com/marcusrbrown/awesome-unreal <br> https://github.com/lazpremarathna/awesome-unreal <br>
+<br>Best Courses - <br> https://www.udemy.com/course/unrealcourse/ <br> https://www.udemy.com/course/unreal-engine-4-the-complete-beginners-course/ <br> https://www.udemy.com/course/unrealengine-cpp/ <br>
+https://www.udemy.com/course/unrealmultiplayer/ <br> https://www.udemy.com/course/introduction-to-unreal-engine-4-ability-system/ <br> https://www.lynda.com/3D-Animation-tutorials/Unreal-Engine-Lunchtime-Lessons/2800327-2.html <br>
+https://www.lynda.com/Unreal-Engine-tutorials/Unreal-AR-Visualization-03-Complex-Interactivity/2814129-2.html <br> https://coursesity.com/course-detail/unreal-engine-4-course-create-multiplayer-games-with-c <br>
+<br>Other Tips / Hacks - <br> https://www.unrealengine.com/en-US/events/unreal-fest-europe-2019/100-ue4-tips-and-tricks <br> https://www.creativebloq.com/3d/25-tips-unreal-engine-4-71621196 <br>
+https://medium.com/hri-tech/unreal-engine-tips-and-tricks-26e351b4b218 <br> https://medium.com/hri-tech/unreal-engine-tips-and-tricks-26e351b4b218 <br>
+https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https://devbynight.com/unreal-engine-tips-tricks/ <br> http://www.tharlevfx.com/unreal-tips-and-tricks <br>
+</details>
+
+<details>
 <summary>Vagrant </summary>
 <br>Category/Type - <br>Virtual Machine management software<br>
 <br>Official Documentation - <br>https://www.vagrantup.com/docs<br>
