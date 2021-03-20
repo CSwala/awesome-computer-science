@@ -376,7 +376,7 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
 <br>Best Courses - <br>https://www.udemy.com/course/dartlang/ <br>https://www.udemy.com/course/dart-beginners-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-1ayowRC6m5rAZg8ja6J6vg&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads <br>https://www.udemy.com/course/dart-intermediate-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-Etyzj0FD7fIgZFZJU790rw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads <br>https://dart.academy/ <br>https://courses.learncodeonline.in/learn/Dart-Programming-Language <br>
 <br>Other Tips / Hacks - <br>https://codewithandrea.com/videos/top-dart-tips-and-tricks-for-flutter-devs/ <br>https://dartsguide.net/guides/pro-dart-tips/ <br>https://www.educative.io/blog/dart-tips-tricks <br><br>
 <a href="https://miro.medium.com/max/3532/1*nucyFw-E5Lotofy1WSWMqw.png">
-  <img align="center" src="https://miro.medium.com/max/3532/1*nucyFw-E5Lotofy1WSWMqw.png" width="500" height="500"/>
+  <img align="center" src="https://miro.medium.com/max/3532/1*nucyFw-E5Lotofy1WSWMqw.png" width="900" height="500"/>
 </a>
 <br><br><br>
 </details>
