@@ -676,6 +676,21 @@ https://blog.neuvector.com/article/hack-kubernetes-container <br>
 </details>
 
 <details>
+<summary>Lightworks</summary>
+<br>Category/Type - <br>System software<br>
+<br>Official Documentation - <br>https://cdn.lwks.com/docs/2020.1/Lightworks_2020.1_User_Guide.pdf<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=W1MLW6_bpDk<br>https://www.youtube.com/watch?v=aff4HvsC4RI&list=PLGxqbtM7UZzRSsr_bpGtwwr2Mb_8-bQzU<br>https://www.youtube.com/watch?v=489O4snfHg8<br>https://www.youtube.com/watch?v=gXfyXAwFfVU<br>
+<br>Useful Websites - <br>https://www.lwks.com/index.php?option=com_kunena&func=view&catid=20&id=22109&Itemid=81<br>https://www.premiumbeat.com/blog/lightworks-video-tutorials/<br>https://www.lwks.com/index.php?option=com_kunena&func=view&catid=26&id=201146&Itemid=81<br>https://www.lwks.com/index.php?option=com_content&view=article&id=162&Itemid=246&start=QuickStart<br>
+<br>Dedicated Github page - <br>https://github.com/crazyants/Lightwork<br>https://github.com/amussey/sk-lightworks<br>https://github.com/bhush9/lightworks-arch<br>https://github.com/fx-planet/lwks-fx-bundle<br>
+<br>Best Courses - <br>https://www.skillshare.com/browse/lightworks<br>https://www.udemy.com/course/lightworks-video-editing/<br>https://www.lwks.com/index.php?option=com_kunena&func=view&catid=27&id=200982&Itemid=81<br>https://www.educba.com/design/courses/lightworks-tutorial/<br>
+<br>Other Tips / Hacks - <br>https://www.lwks.com/index.php?option=com_kunena&func=showcat&catid=27&Itemid=81<br>http://downloads.lwks.com/LW_Hints&Tips_for_v11.pdf<br>https://www.lwks.com/index.php?option=com_kunena&func=view&catid=27&id=32211&Itemid=81<br>
+<a href="https://lh5.googleusercontent.com/5xrA7l184zC-mii6ESokTP2dUB7rIlNSkpYOLtjZdRIV17uR_HmotmktWhI7y3HhdJHT6ByqdXb-z9DQKW39jUxx5yg9eTVqAeimO0s7H5vtZThb84NQzpZIbG2w4h8w8ocfnkC2">
+  <img align="center" src="https://lh5.googleusercontent.com/5xrA7l184zC-mii6ESokTP2dUB7rIlNSkpYOLtjZdRIV17uR_HmotmktWhI7y3HhdJHT6ByqdXb-z9DQKW39jUxx5yg9eTVqAeimO0s7H5vtZThb84NQzpZIbG2w4h8w8ocfnkC2" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Matplotlib</summary>
 <br>
 Category/Type - <br>
@@ -860,6 +875,21 @@ https://predictivehacks.com/tips-about-numpy-arrays/
 <br><br>
 </details>
 
+<details>
+<summary>OpenGL</summary>
+<br>Category/Type - <br>Application programming interface<br>
+<br>Official Documentation - <br>https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2<br>https://www.youtube.com/watch?v=3aJ8OR1C6pk&list=PLWzp0Bbyy_3jy34HlDrEWlcG3rF99gkvk<br>https://www.youtube.com/watch?v=_POT8K638VY&list=PLysLvOneEETPlOI_PI4mJnocqIpr2cSHS<br>https://www.youtube.com/watch?v=pKJ52fDq6Cw&list=PL6xSOsbVA1eYSZTKBxnoXYboy7wc4yg-Z<br>
+<br>Useful Websites - <br>https://www.opengl.org<br>https://developer.android.com/guide/topics/graphics/opengl<br>https://learnopengl.com/Getting-started/OpenGL<br>https://developer.nvidia.com/opengl<br>
+<br>Dedicated Github page - <br>https://github.com/McNopper/OpenGL<br>https://github.com/danginsburg/opengles3-book<br>https://github.com/TheCherno/OpenGL<br>https://github.com/learnopengles/Learn-OpenGLES-Tutorials<br>
+<br>Best Courses - <br>https://learnopengl.com<br>http://www.opengl-tutorial.org<br>https://www.udemy.com/course/graphics-with-modern-opengl/<br>https://www.udemy.com/course/opengl-tutorials/<br>
+<br>Other Tips / Hacks - <br>https://anteru.net/blog/2009/opengl-tips-tricks/<br>https://software.intel.com/content/www/us/en/develop/articles/opengl-performance-tips-avoid-opengl-calls-that-synchronize-cpu-and-gpu.html?language=fr<br>https://www.g-truc.net/post-opengl-tips.html<br>https://docs.microsoft.com/en-us/windows/win32/opengl/opengl-performance-tips<br>
+<a href="https://www.khronos.org/assets/uploads/ceimg/made/assets/uploads/apis/OpenGL_100px_June16_180_75.png">
+  <img align="center" src="https://www.khronos.org/assets/uploads/ceimg/made/assets/uploads/apis/OpenGL_100px_June16_180_75.png" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
 </details>
 <details>
 <summary>Pandas</summary>
@@ -901,6 +931,24 @@ https://www.dataschool.io/python-pandas-tips-and-tricks/<br>
 https://www.analyticsvidhya.com/blog/2020/07/5-striking-pandas-tips-and-tricks-for-analysts-and-data-scientists/<br>
 https://paulvanderlaken.com/2020/06/30/100-python-pandas-tips-tricks/<br>
 https://www.dataschool.io/future-of-pandas/
+<br><br>
+</details>
+
+<details>
+<summary>PHP </summary>
+<br>Category/Type - <br>Programming Language<br>
+<br>Official Documentation - <br> https://www.php.net/docs.php <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR <br> https://www.youtube.com/playlist?list=PL442FA2C127377F07 <br>
+https://www.youtube.com/watch?v=OK_JCtrrv-c <br> https://www.youtube.com/channel/UCjH-FPCFAWZEDP8EZVZ0nlQ <br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o <br> https://www.youtube.com/watch?v=hx38tnlYGlA<br>
+<br>Useful Websites - <br> https://www.w3schools.com/php/ <br> https://phptherightway.com/ <br> 
+https://www.tutorialspoint.com/php/index.htm <br> https://www.javatpoint.com/php-tutorial <br> https://www.phptpoint.com/php-tutorial/ <br>https://www.guru99.com/php-tutorials.html<br>
+<br>Dedicated Github page - <br> https://github.com/php/php-src <br> https://github.com/PHPMailer/PHPMailer <br>https://github.com/ziadoz/awesome-php<br>
+<br>Best Courses - <br> https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/ <br>
+https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel/ <br> https://www.udemy.com/course/learn-object-oriented-php-by-building-a-complete-website/ <br>
+https://www.udemy.com/course/the-complete-php-mysql-professional-course/ <br>
+<br>Other Tips / Hacks - <br> https://www.htmlgoodies.com/beyond/php/article.php/3907521/Top-10-PHP-Tips-for-Developers.htm <br> https://dev.to/mychi_darko/php-tips-and-tricks-4kpn <br>
+https://websitesetup.org/php-cheat-sheet/ <br> https://www.smashingmagazine.com/2009/03/10-useful-php-tips-revisited/ <br>
 <br><br>
 </details>
 
@@ -1102,6 +1150,17 @@ https://www.udemy.com/course/swift-programming/ <br> https://www.udacity.com/cou
 </details>
 
 <details>
+<summary>Teamcity </summary>
+<br>Category/Type -
+<br>Official Documentation -
+<br>Best YouTube creators -
+<br>Useful Websites -
+<br>Dedicated Github page -
+<br>Best Courses -
+<br>Other Tips / Hacks - <br><br>
+</details>
+
+<details>
 <summary> Unity </summary>
 <br>Category/Type - <br>  Game engine <br>
 <br>Official Documentation - <br> https://docs.unity3d.com/Manual/index.html <br>
@@ -1126,6 +1185,42 @@ http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/ <
 </details>
 
 <details>
+<summary> Unreal Engine </summary>
+<br>Category/Type - <br>  Game engine <br>
+<br>Official Documentation - <br> https://docs.unrealengine.com/en-US/index.html <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/user/UnrealDevelopmentKit <br> https://www.youtube.com/channel/UCgmX4icpN3HnOOwYtmyYz2w <br>
+https://www.youtube.com/user/IGNentertainment <br> https://www.youtube.com/channel/UCqI-7BueefkQwfbOi8ZzMOw <br> https://www.youtube.com/playlist?list=PLL0cLF8gjBprG6487lxqSq-aEo6ZXLDLg <br>
+https://www.youtube.com/playlist?list=PLL0cLF8gjBpqGJwEe5XL5mSL8UvwwVMKu <br> https://www.youtube.com/playlist?list=PLHSMxXn4v-aGhuRxxSBVPqykMjDiRyGrJ <br>
+https://www.youtube.com/playlist?list=PLZlv_N0_O1gbY4FN8pZuEPVC9PzQThNn1 <br> https://www.youtube.com/playlist?list=PLhf5YCdusazmDTAEdV5jDhKWeGE1iqF2X <br>
+<br>Useful Websites - <br> https://www.unrealengine.com/en-US/onlinelearning-courses <br> https://docs.unrealengine.com/en-US/Resources/index.html <br>
+https://www.raywenderlich.com/771-unreal-engine-4-tutorial-for-beginners-getting-started <br> https://www.gamedesigning.org/learn/unreal/ <br>
+https://gamedevacademy.org/unreal-engine-tutorial/ <br> https://hackr.io/tutorials/learn-unreal-engine <br> https://3dtotal.com/tutorials/unreal-engine-dev-kit <br>
+<br>Dedicated Github page - <br> https://github.com/terrehbyte/awesome-ue4 <br> https://github.com/insthync/awesome-ue4 <br> https://github.com/aiekick/Awesome_Unreal_Engine_4 <br>
+https://github.com/vritvij/SoulVision <br> https://github.com/kslawinski/AwesomeRPG <br> https://github.com/marcusrbrown/awesome-unreal <br> https://github.com/lazpremarathna/awesome-unreal <br>
+<br>Best Courses - <br> https://www.udemy.com/course/unrealcourse/ <br> https://www.udemy.com/course/unreal-engine-4-the-complete-beginners-course/ <br> https://www.udemy.com/course/unrealengine-cpp/ <br>
+https://www.udemy.com/course/unrealmultiplayer/ <br> https://www.udemy.com/course/introduction-to-unreal-engine-4-ability-system/ <br> https://www.lynda.com/3D-Animation-tutorials/Unreal-Engine-Lunchtime-Lessons/2800327-2.html <br>
+https://www.lynda.com/Unreal-Engine-tutorials/Unreal-AR-Visualization-03-Complex-Interactivity/2814129-2.html <br> https://coursesity.com/course-detail/unreal-engine-4-course-create-multiplayer-games-with-c <br>
+<br>Other Tips / Hacks - <br> https://www.unrealengine.com/en-US/events/unreal-fest-europe-2019/100-ue4-tips-and-tricks <br> https://www.creativebloq.com/3d/25-tips-unreal-engine-4-71621196 <br>
+https://medium.com/hri-tech/unreal-engine-tips-and-tricks-26e351b4b218 <br> https://medium.com/hri-tech/unreal-engine-tips-and-tricks-26e351b4b218 <br>
+https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https://devbynight.com/unreal-engine-tips-tricks/ <br> http://www.tharlevfx.com/unreal-tips-and-tricks <br>
+</details>
+
+<details>
+<summary>Vulkan</summary>
+<br>Category/Type - <br>Computer application<br>
+<br>Official Documentation - <br>https://www.khronos.org/registry/vulkan/specs/1.2/styleguide.html<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=dttr3OGVewQ<br>https://www.youtube.com/watch?v=5mq8y_z7BWQ<br>https://www.youtube.com/watch?v=_riranMmtvI<br>https://www.youtube.com/watch?v=wHt5wcxIPcE&list=PLUXvZMiAqNbK8jd7s52BIDtCbZnKNGp0P<br>
+<br>Useful Websites - <br>https://developer.nvidia.com/vulkan<br>https://www.khronos.org/vulkan/<br>https://developer.android.com/ndk/guides/graphics<br>https://www.amd.com/en/technologies/vulkan<br>
+<br>Dedicated Github page - <br>https://github.com/SaschaWillems/Vulkan<br>https://github.com/Overv/VulkanTutorial<br>https://github.com/LunarG/VulkanSamples<br>https://github.com/KhronosGroup/Vulkan-Docs<br>
+<br>Best Courses - <br>https://www.udemy.com/course/learn-the-vulkan-api-with-cpp/<br>https://vulkan-tutorial.com<br>https://www.oreilly.com/library/view/vulkan-programming/9781786460714/video1_1.html<br>https://dl.acm.org/doi/abs/10.1145/3388769.3407508<br>
+<br>Other Tips / Hacks - <br>https://developer.nvidia.com/blog/vulkan-dos-donts/<br>https://www.reddit.com/r/vulkan/comments/5jzg58/tips_on_abstracting_vulkan/<br>https://developer.android.com/ndk/guides/graphics/design-notes<br>https://gpuopen.com/wp-content/uploads/2016/05/Most-common-mistakes-in-Vulkan-apps.pdf<br>
+<a href="https://en.wikipedia.org/wiki/File:Vulkan_RGB_Dec16.svg">
+  <img align="center" src="https://en.wikipedia.org/wiki/File:Vulkan_RGB_Dec16.svg" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Vagrant </summary>
 <br>Category/Type - <br>Virtual Machine management software<br>
 <br>Official Documentation - <br>https://www.vagrantup.com/docs<br>
@@ -1141,16 +1236,19 @@ http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/ <
 </details>
 
 <details>
-<summary>Teamcity </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
+<summary>WebGL </summary>
+<br>Category/Type - <br>Programming language<br>
+<br>Official Documentation - <br>https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=bP7_FeP9kU4&list=PL2935W76vRNHFpPUuqmLoGCzwx_8eq5yK<br>https://www.youtube.com/watch?v=kB0ZVUrI4Aw<br>https://www.youtube.com/watch?v=nqiKWXUX-o8<br>https://www.youtube.com/watch?v=XNbtwyWh9HA<br>
+<br>Useful Websites - <br>https://www.tutorialspoint.com/webgl/index.htm<br>https://webglfundamentals.org<br>https://www.toptal.com/javascript/3d-graphics-a-webgl-tutorial<br>http://learnwebgl.brown37.net<br>
+<br>Dedicated Github page - <br>https://github.com/KhronosGroup/WebGL<br>https://github.com/dataarts/webgl-globe<br>https://github.com/esangel/WebGL<br>https://github.com/PavelDoGreat/WebGL-Fluid-Simulation<br>
+<br>Best Courses - <br>https://hackr.io/tutorials/learn-webgl<br>http://www.webglacademy.com<br>https://www.udemy.com/course/threejs-programming/<br>https://www.udemy.com/course/the-extensive-webgl-series-part1-low-level-basics/<br>
+<br>Other Tips / Hacks - <br>https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices<br>https://webglfundamentals.org/webgl/lessons/webgl-tips.html<br>https://forum.unity.com/threads/tips-and-tricks-for-using-webgl-on-mobile-tested-up-to-2018-3-13f1.666121/<br>https://webglinsights.github.io/tips.html<br>
+<a href="https://www.soft8soft.com/wp-content/uploads/2018/08/blender_to_webgl.jpg">
+  <img align="center" src="https://www.soft8soft.com/wp-content/uploads/2018/08/blender_to_webgl.jpg" width="800" height="400"/>
+</a>
+<br><br><br>
 </details>
-
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
