@@ -597,6 +597,30 @@ https://www.udemy.com/course/jenkins-learn-continuous-integration/?LSNPUBID=JVFx
 </details>
 
 <details>
+<summary> Keras </summary>
+<br>Category/Type - <br> API <br>
+<br>Official Documentation - <br> https://keras.io/api/ <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/edurekaIN <br>
+https://www.youtube.com/user/intellipaaat <br> https://www.youtube.com/user/beaconelearning <br> https://www.youtube.com/user/googlecloudplatform <br>
+https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO <br> https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL <br>
+https://www.youtube.com/playlist?list=PLZoTAELRMXVNph7QAmaz1K_RmdQ2I5EhQ <br> https://www.youtube.com/playlist?list=PLVBorYCcu-xX3Ppjb_sqBd_Xf6GqagQyl <br>
+<br>Useful Websites - <br> https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/ <br> https://www.datacamp.com/community/tutorials/deep-learning-python <br>
+https://www.tutorialspoint.com/keras/index.htm <br> https://www.tutorialspoint.com/tensorflow/tensorflow_keras.htm <br> https://elitedatascience.com/keras-tutorial-deep-learning-in-python <br>
+https://www.guru99.com/keras-tutorial.html <br>
+<br>Dedicated Github page - <br> https://github.com/kozistr/Awesome-Segmentations <br> https://github.com/radiodee1/awesome-chatbot <br> https://github.com/harryprince/awesome-keras <br>
+https://github.com/keras-team/keras <br> https://github.com/qqwweee/keras-yolo3 <br>
+<br>Best Courses - <br> https://www.coursera.org/learn/introduction-to-deep-learning-with-keras <br> https://www.coursera.org/projects/autoencoders-image-denoising <br>
+https://www.coursera.org/projects/image-colorization-tensorflow-2-keras <br> https://www.datacamp.com/courses/deep-learning-with-keras-in-python <br>
+https://www.pluralsight.com/courses/keras-deep-learning <br> https://www.udemy.com/course/deep-learning-with-python-and-keras/ <br> https://www.udemy.com/course/practical-deep-learning-with-keras/ <br>
+https://www.udemy.com/course/neuralnetworks/ <br>
+<br>Other Tips / Hacks - <br> https://cv-tricks.com/tensorflow-tutorial/keras/ <br> https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53 <br>
+https://github.com/PacktPublishing/Keras-Tips-Tricks-and-Techniques <br> https://www.udemy.com/course/keras-tips-tricks-and-techniques/ <br> https://medium.com/@aiii/keras-tips-and-tricks-c43b38946213 <br>
+<a href="https://miro.medium.com/max/6300/1*QDmmmgCKwq828aatsvdwcw.png">
+  <img align="center" src="https://miro.medium.com/max/6300/1*QDmmmgCKwq828aatsvdwcw.png" width="500" height="500"/>
+</a>
+</details>
+
+<details>
 <summary>Kibana </summary>
 <br>Category/Type -
 <br>Official Documentation -
