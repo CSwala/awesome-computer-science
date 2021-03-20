@@ -935,6 +935,24 @@ https://www.dataschool.io/future-of-pandas/
 </details>
 
 <details>
+<summary>PHP </summary>
+<br>Category/Type - <br>Programming Language<br>
+<br>Official Documentation - <br> https://www.php.net/docs.php <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR <br> https://www.youtube.com/playlist?list=PL442FA2C127377F07 <br>
+https://www.youtube.com/watch?v=OK_JCtrrv-c <br> https://www.youtube.com/channel/UCjH-FPCFAWZEDP8EZVZ0nlQ <br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o <br> https://www.youtube.com/watch?v=hx38tnlYGlA<br>
+<br>Useful Websites - <br> https://www.w3schools.com/php/ <br> https://phptherightway.com/ <br> 
+https://www.tutorialspoint.com/php/index.htm <br> https://www.javatpoint.com/php-tutorial <br> https://www.phptpoint.com/php-tutorial/ <br>https://www.guru99.com/php-tutorials.html<br>
+<br>Dedicated Github page - <br> https://github.com/php/php-src <br> https://github.com/PHPMailer/PHPMailer <br>https://github.com/ziadoz/awesome-php<br>
+<br>Best Courses - <br> https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/ <br>
+https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel/ <br> https://www.udemy.com/course/learn-object-oriented-php-by-building-a-complete-website/ <br>
+https://www.udemy.com/course/the-complete-php-mysql-professional-course/ <br>
+<br>Other Tips / Hacks - <br> https://www.htmlgoodies.com/beyond/php/article.php/3907521/Top-10-PHP-Tips-for-Developers.htm <br> https://dev.to/mychi_darko/php-tips-and-tricks-4kpn <br>
+https://websitesetup.org/php-cheat-sheet/ <br> https://www.smashingmagazine.com/2009/03/10-useful-php-tips-revisited/ <br>
+<br><br>
+</details>
+
+<details>
 <summary>PostgreSQL </summary>
 <br>Category/Type - <br>Relational Database Management System<br>
 <br>Official Documentation - <br> https://www.postgresql.org/docs/ <br>
