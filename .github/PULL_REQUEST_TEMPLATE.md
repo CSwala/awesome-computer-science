@@ -14,7 +14,6 @@
 - [ ] The PR creator have carefully read & adher to the contributing guidelines of the project.
 - [ ] The PR is made to the branch that's **called** "develop".
 - [ ] The PR is made from a branch that is up-to-date with "develop".
-- [ ] The PR's branch is based on "main" and not on any other branch.
 - [ ] Have you followed the guidelines in the Contributing document?
 - [ ] Have you checked to ensure there aren't other open [Pull Requests](https://github.com/CSwala/awesome-computer-science/pulls) for the same tech?
 - [ ] Is your submission is according to the desired pattern ?
