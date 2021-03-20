@@ -1170,6 +1170,32 @@
 		"Tips3" : "https://forum.unity.com/threads/tips-and-tricks-for-using-webgl-on-mobile-tested-up-to-2018-3-13f1.666121/",
 		"Tips4" : "https://webglinsights.github.io/tips.html",
 		"Image1" : "https://www.soft8soft.com/wp-content/uploads/2018/08/blender_to_webgl.jpg"
+	},
+	
+	{	
+		"Title" : "Dart",
+		"Tag": "Programming language",
+		"Documentation" : "https://dart.dev/guides ",
+		"YT1 " : "https://www.youtube.com/watch?v=OLjyCy-7U2U ",
+		"YT2 " :"https://www.youtube.com/watch?v=5rtujDjt50I&list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q ",
+		"YT3 " :"https://www.youtube.com/watch?v=Ej_Pcr4uC2Q ",
+		"YT4 " :"https://www.youtube.com/watch?v=L9onVn8QRaE&list=PLNnAcB93JKV_R1aZc7ZbQRsiEyeDLUpE- ",
+		"Website1": "https://dart.dev/ ",
+		"Website2": "https://news.dartlang.org/2012/03/14-cool-projects-from-dart-community.html ",
+		"Website3": "https://www.reddit.com/r/FlutterDev/?f=flair_name%3A%22Dart%22 ",
+		"Dedicated GH page1" : "https://github.com/dart-lang ",
+		"Dedicated GH page2" : "https://github.com/smartherd/DartTutorial ",
+		"Dedicated GH page3" : "https://github.com/Dart-Code/Dart-Code ",
+		"Course1" : "https://www.udemy.com/course/dartlang/",
+		"Course2" : "https://www.udemy.com/course/dart-beginners-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-1ayowRC6m5rAZg8ja6J6vg&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads ",
+		"Course3" : "https://www.udemy.com/course/dart-intermediate-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-Etyzj0FD7fIgZFZJU790rw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads ",
+		"Course4" : "https://dart.academy/ ",
+		"Course5" : "https://courses.learncodeonline.in/learn/Dart-Programming-Language ",
+		"Tips1" : "https://codewithandrea.com/videos/top-dart-tips-and-tricks-for-flutter-devs/ ",
+		"Tips2" : "https://dartsguide.net/guides/pro-dart-tips/ ",
+		"Tips3" : "https://www.educative.io/blog/dart-tips-tricks ",
+		"Image1":"https://dart.dev/assets/shared/dart-logo-for-shares.png?2 " 
+
 	}
 
 	]
