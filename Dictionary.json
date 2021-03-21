@@ -714,6 +714,33 @@
 					
 					},
 
+				{
+						"Title" : "Modo",
+						"Tag" : "Software",
+						"Documentation" : "https://learn.foundry.com/modo/12.2/content/help/pages/learn.html",
+						"YT1" : "https://www.youtube.com/watch?v=9EbrNJLu844",
+						"YT2" : "https://www.youtube.com/watch?v=y3evCKNErRM",
+						"YT3" : "https://www.youtube.com/watch?v=MJ4kiAqMmZs&list=PLBX-X8mPyxIpS4xGg1Y9xvRnLHcvYRNic",
+						"YT4" : "https://www.youtube.com/watch?v=lT2SLh7LZn0",
+						"Website1" : "https://3dtotal.com/tutorials/modo",
+						"Website2" : "https://www.sculpteo.com/en/tutorial/modo-prepare-your-model-3d-printing/",
+						"Website3" : "https://learn.foundry.com/modo",
+						"Website4" : "https://learn.foundry.com/modo",
+						"Dedicated GH page1" : "https://github.com/modolabs",
+						"Dedicated GH page2" : "https://github.com/TheFoundry-Modo",
+						"Dedicated GH page3" : "https://github.com/modo-studio",
+						"Dedicated GH page4" : "https://github.com/terrakok/Modo",
+						"Course1" : "https://www.pluralsight.com/browse/manufacturing-design/modo",
+						"Course2" : "https://www.lynda.com/MODO-tutorials/Modo-2019-Essential-Training/2800331-2.html",
+						"Course3" : "https://learn.foundry.com/course/3128/view/modo-essentials",
+						"Course4" : "https://www.udemy.com/course/introduction-to-modo",
+						"Tips1" : "https://www.pixelfondue.com/blog/2020/6/8/modo-",
+						"Tips2" : "https://www.pluralsight.com/courses/tips-tricks-modo-977",
+						"Tips3" : "https://community.foundry.com/discuss/forum/36/tips-tricks-tutorials",
+						"Tips4" : "https://www.creativebloq.com/features/10-top-modo-tips-and-techniques",
+						"Image1" : "https://i.ytimg.com/vi/9yzz0dYVmbA/hqdefault.jpg"
+				},
+
 	{	"Title" : "MongoDB",
 		"Tag": "Document-oriented database",
 		"Documentation" : "https://docs.mongodb.com",
@@ -885,8 +912,6 @@
 			"Tips2" : "http://arogozhnikov.github.io/2015/09/29/NumpyTipsAndTricks1.html",
 			"Tips3" : "https://www.dataquest.io/blog/numpy-cheat-sheet/",
 			"Tips4" : "https://predictivehacks.com/tips-about-numpy-arrays/"
-	
-	
 			},
 
 			{

@@ -802,6 +802,21 @@ https://www.udemy.com/course/complete-maya-fluids-bootcamp/ <br> https://www.ude
 </details>
 
 <details>
+<summary>Modo</summary>
+<br>Category/Type - <br>Software<br>
+<br>Official Documentation - <br>https://learn.foundry.com/modo/12.2/content/help/pages/learn.html<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=9EbrNJLu844<br>https://www.youtube.com/watch?v=y3evCKNErRM<br>https://www.youtube.com/watch?v=MJ4kiAqMmZs&list=PLBX-X8mPyxIpS4xGg1Y9xvRnLHcvYRNic<br>https://www.youtube.com/watch?v=lT2SLh7LZn0<br>
+<br>Useful Websites - <br>https://3dtotal.com/tutorials/modo<br>https://www.sculpteo.com/en/tutorial/modo-prepare-your-model-3d-printing/<br>https://learn.foundry.com/modo<br>https://learn.foundry.com/modo<br>
+<br>Dedicated Github page - <br>https://github.com/modolabs<br>https://github.com/TheFoundry-Modo<br>https://github.com/modo-studio<br>https://github.com/terrakok/Modo<br>
+<br>Best Courses - <br>https://www.pluralsight.com/browse/manufacturing-design/modo<br>https://www.lynda.com/MODO-tutorials/Modo-2019-Essential-Training/2800331-2.html<br>https://learn.foundry.com/course/3128/view/modo-essentials<br>https://www.udemy.com/course/introduction-to-modo<br>
+<br>Other Tips / Hacks - <br>https://www.pixelfondue.com/blog/2020/6/8/modo-<br>https://www.pluralsight.com/courses/tips-tricks-modo-977<br>https://community.foundry.com/discuss/forum/36/tips-tricks-tutorials<br>https://www.creativebloq.com/features/10-top-modo-tips-and-techniques<br>
+<a href="https://i.ytimg.com/vi/9yzz0dYVmbA/hqdefault.jpg">
+  <img align="center" src="https://i.ytimg.com/vi/9yzz0dYVmbA/hqdefault.jpg" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>MongoDB </summary>
 <br>Category/Type - <br>Document-oriented database<br>
 <br>Official Documentation - <br> https://docs.mongodb.com <br>
