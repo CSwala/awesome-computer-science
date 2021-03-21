@@ -874,6 +874,21 @@ https://medium.com/swlh/node-js-magical-tips-every-developer-should-remember-4c2
 </details>
 
 <details>
+<summary>Nuke</summary>
+<br>Category/Type - <br>System software<br>
+<br>Official Documentation - <br>https://learn.foundry.com/nuke/13.0/content/learn_nuke.html<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=6ZDMpXKQlSM<br>https://www.youtube.com/watch?v=EIY5xbLMbjQ<br>https://www.youtube.com/watch?v=wZ9skxwLa7g<br>https://www.youtube.com/watch?v=y_GfzLbXgwE<br>
+<br>Useful Websites - <br>https://www.nukecompositingtutorials.com<br>https://www.pluralsight.com/browse/creative-professional/3d-vfx/nuke<br>https://conceptartempire.com/nuke-tutorials/<br>https://learn.foundry.com/nuke<br>
+<br>Dedicated Github page - <br>https://github.com/gruntwork-io/cloud-nuke<br>https://github.com/rebuy-de/aws-nuke<br>https://github.com/nuke-build/nuke<br>https://github.com/kean/Nuke<br>
+<br>Best Courses - <br>https://www.udemy.com/course/vfx-compositing-with-nuke-the-complete-2d-edition/<br>https://www.udemy.com/course/introduction-to-nuke-compositing-nk101/<br>https://www.fxphd.com/nuke/<br>https://github.com/gruntwork-io/cloud-nuke<br>
+<br>Other Tips / Hacks - <br>https://www.ivansorgente.com/nuke-tips-and-tricks/<br>https://learn.foundry.com/nuke<br>https://www.fxphd.com/details/534/<br>https://taukeke.com/nuke-tips/<br>
+<a href="https://pcfileworldz.com/wp-content/uploads/2019/09/Download-Foundry-NUKE-STUDIO-11.3-Free.png">
+  <img align="center" src="https://pcfileworldz.com/wp-content/uploads/2019/09/Download-Foundry-NUKE-STUDIO-11.3-Free.png" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>NumPy</summary>
 <br>
 Category/Type - <br>

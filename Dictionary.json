@@ -833,6 +833,32 @@
 		"Image1": "https://www.slideteam.net/media/catalog/product/cache/960x720/n/o/node_js_programming_six_months_roadmap_slide01.jpg"
 	},
 
+	{
+		"Title" : "Nuke",
+		"Tag" : "System software",
+		"Documentation" : "https://learn.foundry.com/nuke/13.0/content/learn_nuke.html",
+		"YT1" : "https://www.youtube.com/watch?v=6ZDMpXKQlSM",
+		"YT2" : "https://www.youtube.com/watch?v=EIY5xbLMbjQ",
+		"YT3" : "https://www.youtube.com/watch?v=wZ9skxwLa7g",
+		"YT4" : "https://www.youtube.com/watch?v=y_GfzLbXgwE",
+		"Website1" : "https://www.nukecompositingtutorials.com",
+		"Website2" : "https://www.pluralsight.com/browse/creative-professional/3d-vfx/nuke",
+		"Website3" : "https://conceptartempire.com/nuke-tutorials/",
+		"Website4" : "https://learn.foundry.com/nuke",
+		"Dedicated GH page1" : "https://github.com/gruntwork-io/cloud-nuke",
+		"Dedicated GH page2" : "https://github.com/rebuy-de/aws-nuke",
+		"Dedicated GH page3" : "https://github.com/nuke-build/nuke",
+		"Dedicated GH page4" : "https://github.com/kean/Nuke",
+		"Course1" : "https://www.udemy.com/course/vfx-compositing-with-nuke-the-complete-2d-edition/",
+		"Course2" : "https://www.udemy.com/course/introduction-to-nuke-compositing-nk101/",
+		"Course3" : "https://www.fxphd.com/nuke/",
+		"Course4" : "https://github.com/gruntwork-io/cloud-nuke",
+		"Tips1" : "https://www.ivansorgente.com/nuke-tips-and-tricks/",
+		"Tips2" : "https://learn.foundry.com/nuke",
+		"Tips3" : "https://www.fxphd.com/details/534/",
+		"Tips4" : "https://taukeke.com/nuke-tips/",
+		"Image1" : "https://pcfileworldz.com/wp-content/uploads/2019/09/Download-Foundry-NUKE-STUDIO-11.3-Free.png"
+	},
 	
 	{
 		"Title" : "NumPy",
