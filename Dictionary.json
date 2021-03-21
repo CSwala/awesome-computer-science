@@ -1398,7 +1398,35 @@
 		"Tips3" : "https://forum.unity.com/threads/tips-and-tricks-for-using-webgl-on-mobile-tested-up-to-2018-3-13f1.666121/",
 		"Tips4" : "https://webglinsights.github.io/tips.html",
 		"Image1" : "https://www.soft8soft.com/wp-content/uploads/2018/08/blender_to_webgl.jpg"
+	},
+
+	{
+		"Title" : "ZBrush",
+		"Tag" : "Software",
+		"Documentation" : "http://docs.pixologic.com",
+		"YT1" : "https://www.youtube.com/watch?v=3fHefWRFNMA",
+		"YT2" : "https://www.youtube.com/watch?v=J2B0x9TkFuA&list=PLkzopwqcFevYqrk_0MKIaUwrWYILzYsp6",
+		"YT3" : "https://www.youtube.com/watch?v=8qJGX_o6-qU",
+		"YT4" : "https://www.youtube.com/watch?v=_yKGfcp2z3k",
+		"Website1" : "https://www.zbrushguides.com/start/",
+		"Website2" : "https://www.zbrushguides.com/tutorials/",
+		"Website3" : "https://3dtotal.com/tutorials/zbrush",
+		"Website4" : "https://pixologic.com/zclassroom/",
+		"Dedicated GH page1" : "https://github.com/WintrySnowman/WInkTab",
+		"Dedicated GH page2" : "https://github.com/spiraloid/Spiraloid-Toolkit-for-Zbrush",
+		"Dedicated GH page3" : "https://github.com/nlapinski/ZBrush-Command-Port",
+		"Dedicated GH page4" : "https://github.com/alexeyroudenko/ofxLitSphere",
+		"Course1" : "https://www.skillshare.com/browse/zbrush",
+		"Course2" : "https://www.pluralsight.com/browse/creative-professional/3d-vfx/zbrush",
+		"Course3" : "https://www.udemy.com/course/charactersculpting/",
+		"Course4" : "https://pixologic.com/zclassroom/",
+		"Tips1" : "https://www.zbrushguides.com/5-zbrush-tips-i-learned-last-year/",
+		"Tips2" : "http://docs.pixologic.com/user-guide/tips-tricks/",
+		"Tips3" : "https://in.pinterest.com/r_vann/zbrush-tips-tricks/",
+		"Tips4" : "https://www.creativebloq.com/features/15-tips-to-master-zbrush",
+		"Image1" : "https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp"
 	}
+
 
 	]
 
