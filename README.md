@@ -515,6 +515,21 @@ https://www.youtube.com/watch?v=KHohVibqePw<br>
 </details>
 
 <details>
+<summary>Inkscape</summary>
+<br>Category/Type - <br>Computer application<br>
+<br>Official Documentation - <br>https://inkscape.org/*docs/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=Pyfw3FqlWmo<br>https://www.youtube.com/watch?v=s-kPg4vYKfk<br>https://www.youtube.com/watch?v=pa6a7oz7vEE<br>https://www.youtube.com/watch?v=8f011wdiW7g&list=PLqazFFzUAPc5lOQwDoZ4Dw2YSXtO7lWNv<br>
+<br>Useful Websites - <br>https://za.pinterest.com/elsievroy/inkscape-tutorials/<br>https://inkscapetutorials.wordpress.com/tutorial-list-2/<br>https://www.javatpoint.com/inkscape<br>https://inkscape.org/learn/tutorials/<br>
+<br>Dedicated Github page - <br>https://github.com/PanderMusubi/inkscape-open-symbols<br>https://github.com/martymcguire/inkscape-unicorn<br>https://github.com/305engineering/Inkscape<br>https://github.com/inkscape/inkscape<br>
+<br>Best Courses - <br>https://www.udemy.com/course/logo-design-with-inkscape-for-free/<br>https://www.udemy.com/course/udemy-master-inkscape-beginner-course-20162017-unofficial/<br>https://www.udemy.com/course/learn-to-use-inkscape/<br>https://inkscape.org/learn/<br>
+<br>Other Tips / Hacks - <br>https://za.pinterest.com/biancaprinsloo/inkscape-tips-tricks/<br>https://design.tutsplus.com/articles/back-to-school-28-easy-inkscape-tutorials--cms-21870<br>https://inkscape.org/doc/tutorials/tips/tutorial-tips.html<br>https://fireflysemantics.medium.com/inkscape-tips-and-tricks-56bf29e704a8<br>
+<a href="https://fedoramagazine.org/wp-content/uploads/2016/10/inkscape-gettingstarted-945x400.png">
+  <img align="center" src="https://fedoramagazine.org/wp-content/uploads/2016/10/inkscape-gettingstarted-945x400.png" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Java </summary>
 <br>Category/Type - <br>
 Programming Language<br>

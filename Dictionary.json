@@ -446,9 +446,32 @@
 	
 	},
 
-
-
-
+	{
+		"Title" : "Inkscape",
+		"Tag" : "Computer application",
+		"Documentation" : "https://inkscape.org/*docs/",
+		"YT1" : "https://www.youtube.com/watch?v=Pyfw3FqlWmo",
+		"YT2" : "https://www.youtube.com/watch?v=s-kPg4vYKfk",
+		"YT3" : "https://www.youtube.com/watch?v=pa6a7oz7vEE",
+		"YT4" : "https://www.youtube.com/watch?v=8f011wdiW7g&list=PLqazFFzUAPc5lOQwDoZ4Dw2YSXtO7lWNv",
+		"Website1" : "https://za.pinterest.com/elsievroy/inkscape-tutorials/",
+		"Website2" : "https://inkscapetutorials.wordpress.com/tutorial-list-2/",
+		"Website3" : "https://www.javatpoint.com/inkscape",
+		"Website4" : "https://inkscape.org/learn/tutorials/",
+		"Dedicated GH page1" : "https://github.com/PanderMusubi/inkscape-open-symbols",
+		"Dedicated GH page2" : "https://github.com/martymcguire/inkscape-unicorn",
+		"Dedicated GH page3" : "https://github.com/305engineering/Inkscape",
+		"Dedicated GH page4" : "https://github.com/inkscape/inkscape",
+		"Course1" : "https://www.udemy.com/course/logo-design-with-inkscape-for-free/",
+		"Course2" : "https://www.udemy.com/course/udemy-master-inkscape-beginner-course-20162017-unofficial/",
+		"Course3" : "https://www.udemy.com/course/learn-to-use-inkscape/",
+		"Course4" : "https://inkscape.org/learn/",
+		"Tips1" : "https://za.pinterest.com/biancaprinsloo/inkscape-tips-tricks/",
+		"Tips2" : "https://design.tutsplus.com/articles/back-to-school-28-easy-inkscape-tutorials--cms-21870",
+		"Tips3" : "https://inkscape.org/doc/tutorials/tips/tutorial-tips.html",
+		"Tips4" : "https://fireflysemantics.medium.com/inkscape-tips-and-tricks-56bf29e704a8",
+		"Image1" : "https://fedoramagazine.org/wp-content/uploads/2016/10/inkscape-gettingstarted-945x400.png"
+	},
 
 	{
 	"Title" : "Java",
