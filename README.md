@@ -165,6 +165,21 @@ https://medium.com/@marinamakarova/26-tips-on-c-programming-61cb54900234<br><br>
 </details>
 
 <details>
+<summary>Cinema 4D</summary>
+<br>Category/Type - <br>Software<br>
+<br>Official Documentation - <br>https://help.maxon.net/r23/en-us/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=ReEEpYjW_yI&list=PL_dhPga7ruudlDZLjrdTK0qmf940Qf0Cp<br>https://www.youtube.com/watch?v=6XjlykHnnSk<br>https://www.youtube.com/watch?v=hyZb7RT2AAU<br>https://www.youtube.com/watch?v=lZo8rFPOQ14<br>
+<br>Useful Websites - <br>https://conceptartempire.com/cinema-4d-tutorials/<br>https://www.cinema4dtutorial.net<br>https://greyscalegorilla.com/category/tutorials/<br>https://www.cineversity.com/vidplaylist/getting_started_with_cinema_4d_r20<br>
+<br>Dedicated Github page - <br>https://github.com/PluginCafe/cinema4d_py_sdk_extended<br>https://github.com/BlackDice/Cinema4D-Threejs-Exporter<br>https://github.com/aturtur/cinema4d-scripts<br>https://github.com/PluginCafe/cinema4d_py_sdk<br>
+<br>Best Courses - <br>https://motiondesign.school/products/cinema-4d-journey<br>https://greyscalegorilla.com/intro-to-cinema-4d/<br>https://www.schoolofmotion.com/cinema-4d-basecamp<br>https://www.udemy.com/course/cinema-4d-masterclass-training-course/<br>
+<br>Other Tips / Hacks - <br>https://www.ftrack.com/en/2019/08/8-tips-to-increase-your-efficiency-with-cinema-4d.html<br>https://www.cineversity.com/vidplaylist/cinema_4d_quick_tips<br>https://www.schoolofmotion.com/blog/modeling-tips-in-cinema-4d<br>https://www.creativebloq.com/features/15-expert-cinema-4d-tips<br>
+<a href="https://www.ftrack.com/wp-content/uploads/2019/08/Cinema-4D-tip-4a.png">
+  <img align="center" src="https://www.ftrack.com/wp-content/uploads/2019/08/Cinema-4D-tip-4a.png" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Competitive Programming</summary>
 <br>
 Category/Type - <br>
