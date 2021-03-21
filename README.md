@@ -597,6 +597,30 @@ https://www.udemy.com/course/jenkins-learn-continuous-integration/?LSNPUBID=JVFx
 </details>
 
 <details>
+<summary> Keras </summary>
+<br>Category/Type - <br> API <br>
+<br>Official Documentation - <br> https://keras.io/api/ <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/edurekaIN <br>
+https://www.youtube.com/user/intellipaaat <br> https://www.youtube.com/user/beaconelearning <br> https://www.youtube.com/user/googlecloudplatform <br>
+https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO <br> https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL <br>
+https://www.youtube.com/playlist?list=PLZoTAELRMXVNph7QAmaz1K_RmdQ2I5EhQ <br> https://www.youtube.com/playlist?list=PLVBorYCcu-xX3Ppjb_sqBd_Xf6GqagQyl <br>
+<br>Useful Websites - <br> https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/ <br> https://www.datacamp.com/community/tutorials/deep-learning-python <br>
+https://www.tutorialspoint.com/keras/index.htm <br> https://www.tutorialspoint.com/tensorflow/tensorflow_keras.htm <br> https://elitedatascience.com/keras-tutorial-deep-learning-in-python <br>
+https://www.guru99.com/keras-tutorial.html <br>
+<br>Dedicated Github page - <br> https://github.com/kozistr/Awesome-Segmentations <br> https://github.com/radiodee1/awesome-chatbot <br> https://github.com/harryprince/awesome-keras <br>
+https://github.com/keras-team/keras <br> https://github.com/qqwweee/keras-yolo3 <br>
+<br>Best Courses - <br> https://www.coursera.org/learn/introduction-to-deep-learning-with-keras <br> https://www.coursera.org/projects/autoencoders-image-denoising <br>
+https://www.coursera.org/projects/image-colorization-tensorflow-2-keras <br> https://www.datacamp.com/courses/deep-learning-with-keras-in-python <br>
+https://www.pluralsight.com/courses/keras-deep-learning <br> https://www.udemy.com/course/deep-learning-with-python-and-keras/ <br> https://www.udemy.com/course/practical-deep-learning-with-keras/ <br>
+https://www.udemy.com/course/neuralnetworks/ <br>
+<br>Other Tips / Hacks - <br> https://cv-tricks.com/tensorflow-tutorial/keras/ <br> https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53 <br>
+https://github.com/PacktPublishing/Keras-Tips-Tricks-and-Techniques <br> https://www.udemy.com/course/keras-tips-tricks-and-techniques/ <br> https://medium.com/@aiii/keras-tips-and-tricks-c43b38946213 <br>
+<a href="https://miro.medium.com/max/6300/1*QDmmmgCKwq828aatsvdwcw.png">
+  <img align="center" src="https://miro.medium.com/max/6300/1*QDmmmgCKwq828aatsvdwcw.png" width="500" height="500"/>
+</a>
+</details>
+
+<details>
 <summary>Kibana </summary>
 <br>Category/Type -
 <br>Official Documentation -
@@ -1158,6 +1182,31 @@ https://www.udemy.com/course/swift-programming/ <br> https://www.udacity.com/cou
 <br>Dedicated Github page -
 <br>Best Courses -
 <br>Other Tips / Hacks - <br><br>
+</details>
+
+<details>
+<summary> TensorFlow </summary>
+<br>Category/Type - <br> Machine Learning Library <br>
+<br>Official Documentation - <br> https://www.tensorflow.org/guide <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> 
+https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ <br> https://www.youtube.com/user/Simplilearn <br> https://www.youtube.com/channel/UC8QMvQrV1bsK7WO37QpSxSg <br>
+https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx <br> https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S <br>
+https://www.youtube.com/playlist?list=PLQY2H8rRoyvyK5aEDAI3wUUqC_F0oEroL <br> https://www.youtube.com/playlist?list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb <br>
+<br>Useful Websites - <br> https://www.tensorflow.org/tutorials <br> https://www.tutorialspoint.com/tensorflow/index.htm <br> https://www.datacamp.com/community/tutorials/tensorflow-tutorial <br>
+https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/ <br> https://www.guru99.com/tensorflow-tutorial.html <br>
+https://www.simplilearn.com/tutorials/deep-learning-tutorial/tensorflow <br>
+<br>Dedicated Github page - <br> https://github.com/tensorflow/tensorflow <br> https://github.com/jtoy/awesome-tensorflow <br> https://github.com/TensorFlowKR/awesome_tensorflow_implementations <br>
+https://github.com/Amin-Tgz/awesome-tensorflow-2 <br> https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources <br> 
+<br>Best Courses - <br> https://www.coursera.org/specializations/tensorflow-advanced-techniques <br> https://www.coursera.org/specializations/tensorflow2-deeplearning <br> 
+https://www.coursera.org/specializations/machine-learning-tensorflow-gcp <br> https://www.coursera.org/projects/getting-started-tensorflow-2 <br> https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187 <br>
+https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/ <br> https://www.udemy.com/course/deep-learning-tensorflow-2/ <br>
+https://www.udemy.com/course/machine-learning-with-tensorflow-for-business-intelligence/ <br> 
+<br>Other Tips / Hacks - <br> https://www.kdnuggets.com/2020/04/tensorflow-dev-summit-2020-top-10-tricks-tensorflow-colabs.html <br>
+https://towardsdatascience.com/10-tensorflow-tricks-every-ml-practitioner-must-know-96b860e53c1 <br> https://gist.github.com/dusenberrymw/05c8543e4b05a7c143bbb014fd3d6bcb <br>
+https://heartbeat.fritz.ai/tensorflow-quick-tips-e394bc5fee15 <br> https://medium.com/decathlondevelopers/10-tips-to-improve-your-machine-learning-models-with-tensorflow-ba7c724761e2 <br>
+<a href="https://www.slideteam.net/media/catalog/product/cache/960x720/d/a/data_science_half_yearly_learning_roadmap_slide01.jpg">
+  <img align="center" src="https://www.slideteam.net/media/catalog/product/cache/960x720/d/a/data_science_half_yearly_learning_roadmap_slide01.jpg" width="500" height="500"/>
+</a>
 </details>
 
 <details>
