@@ -900,6 +900,46 @@ https://predictivehacks.com/tips-about-numpy-arrays/
 </details>
 
 <details>
+<summary>OpenCv</summary>
+<br>
+Category/Type - <br>
+Python Module<br>
+<br>
+Official Documentation - <br>
+https://docs.opencv.org/master/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=WQeoO7MI0Bs<br>
+https://www.youtube.com/watch?v=oXlwWbU8l2o<br>
+https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K<br>
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq<br>
+https://www.youtube.com/playlist?list=PLkPmSWtWNIyQqAQxZ2S_M6bV67UFTff8e
+<br>
+Useful Websites -
+https://www.tutorialspoint.com/opencv/opencv_overview.htm<br>
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html<br>
+https://www.geeksforgeeks.org/opencv-overview/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/opencv/opencv<br>
+https://github.com/opencv/opencv_contrib<br>
+https://github.com/hoangtv2000/opencv_practices<br>
+https://github.com/oarriaga/face_classification<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/master-computer-vision-with-opencv-in-python/?gclid=Cj0KCQjw3duCBhCAARIsAJeFyPVvraSsFcVU7JtZ6D2MBIe6PXITl9WwjiSNSz2XlJkNapzX9BcMXQMaAoKCEALw_wcB&matchtype=e&utm_campaign=LongTail_la.EN_cc.INDIA&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_78875688843_._ad_387461487962_._kw_opencv+course_._de_c_._dm__._pl__._ti_kwd-825886677541_._li_1007765_._pd__._<br>
+https://hackr.io/tutorials/learn-opencv<br>
+https://www.pyimagesearch.com/free-opencv-computer-vision-deep-learning-crash-course/<br>
+<br>
+Other Tips / Hacks - <br>
+https://cv-tricks.com/tag/opencv/<br>
+https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/<br>
+https://heartbeat.fritz.ai/opencv-python-cheat-sheet-from-importing-images-to-face-detection-52919da36433<br>
+https://www.kaggle.com/learn-forum/158267
+<br><br>
+</details>
+
+<details>
 <summary>OpenGL</summary>
 <br>Category/Type - <br>Application programming interface<br>
 <br>Official Documentation - <br>https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml<br>
