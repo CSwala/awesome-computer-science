@@ -447,6 +447,33 @@
 	},
 
 	{
+		"Title" : "Houdini",
+		"Tag" : "Software",
+		"Documentation" : "https://www.sidefx.com/docs/",
+		"YT1" : "https://www.youtube.com/watch?v=K7UAVUzRP4Q",
+		"YT2" : "https://www.youtube.com/watch?v=3CxsGkLyn7U",
+		"YT3" : "https://www.youtube.com/watch?v=Tsv8UGqDibc",
+		"YT4" : "https://www.youtube.com/watch?v=emEux6cGOww",
+		"Website1" : "https://hackr.io/tutorials/learn-houdini",
+		"Website2" : "https://www.rebelway.net/tutorials/",
+		"Website3" : "http://www.appliedhoudini.com",
+		"Website4" : "https://conceptartempire.com/houdini-tutorials/",
+		"Dedicated GH page1" : "https://github.com/GoogleChromeLabs/houdini-samples",
+		"Dedicated GH page2" : "https://github.com/jhorikawa/HoudiniHowtos",
+		"Dedicated GH page3" : "https://github.com/kiryha/Houdini",
+		"Dedicated GH page4" : "https://github.com/sideeffects/HoudiniEngineForUnreal",
+		"Course1" : "https://www.pluralsight.com/browse/creative-professional/3d-vfx/houdini",
+		"Course2" : "https://www.cgspectrum.com/courses/advanced-houdini-fx-diploma",
+		"Course3" : "https://www.udemy.com/course/houdini-create-full-cg-chocolate-commercial-in-houdini/",
+		"Course4" : "https://thevfxschool.com",
+		"Tips1" : "https://in.pinterest.com/davorkronja/houdini-tips-and-tricks/",
+		"Tips2" : "https://www.sidefx.com/docs/houdini/tops/tips.html",
+		"Tips3" : "https://www.ftrack.com/en/2020/10/7-tips-to-increase-your-efficiency-with-sidefx-houdini.html",
+		"Tips4" : "https://www.creativebloq.com/advice/15-top-houdini-tips",
+		"Image1" : "https://cdn.conceptartempire.com/images/06/5374/01-houdini-software-polygons.jpg"
+	},
+
+	{
 		"Title" : "Inkscape",
 		"Tag" : "Computer application",
 		"Documentation" : "https://inkscape.org/*docs/",
