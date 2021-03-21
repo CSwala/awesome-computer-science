@@ -1114,6 +1114,21 @@ https://github.com/topics/python
 </details>
 
 <details>
+<summary>Ranorex</summary>
+<br>Category/Type - <br>Software<br>
+<br>Official Documentation - <br>https://www.ranorex.com/help/latest/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=ztbVEK-s9aQ<br>https://www.youtube.com/watch?v=b1Ofv_TekbY&list=PLttK-VXRJYjYmfIfgmMsKFcK3JSltS5wM<br>https://www.youtube.com/watch?v=pE4QKR65EAw<br>https://www.youtube.com/watch?v=QVzKqwM993U<br>
+<br>Useful Websites - <br>https://testcollab.com/blog/ranorex-integration-test-automation/<br>https://medium.com/@Synerzip/a-hands-on-ranorex-test-automation-tool-tutorial-a1b3ff447978<br>https://www.janbasktraining.com/blog/ranorex-tutorial/<br>https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorize-20-minutes/introduction/<br>
+<br>Dedicated Github page - <br>https://github.com/Thomas-Gruber-90/RanorexLibrary<br>https://github.com/ranorex/Jenkins-Ranorex-Plugin<br>https://github.com/ranorex/Ranorex-Jira-Integration<br>https://github.com/ranorex/Packages<br>
+<br>Best Courses - <br>https://www.zeolearn.com/functional-testing-using-ranorex-training<br>https://www.gangboard.com/software-testing-training/ranorex-test-automation-training<br>https://www.ranorex.com/training/<br>https://www.besanttechnologies.com/ranorex-training<br>
+<br>Other Tips / Hacks - <br>https://www.ranorex.com/blog/effective-continuous-testing/<br>https://www.ranorex.com/blog/tips-testing-containers/<br>https://www.ranorex.com/blog/ranorexpath-tips-and-tricks/<br>https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/<br>
+<a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2018/01/Ranorex-Introduction.jpg">
+  <img align="center" src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2018/01/Ranorex-Introduction.jpg" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>ReactJS </summary>
 <br>Category/Type - <br>JavaScript Framework<br>
 <br>Official Documentation - <br>https://reactjs.org/docs/getting-started.html<br>

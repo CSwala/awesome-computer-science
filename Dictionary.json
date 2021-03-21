@@ -1115,11 +1115,32 @@
 
 	},
 
-
-
-
-
-
+	{
+		"Title" : "Ranorex",
+		"Tag" : "Software",
+		"Documentation" : "https://www.ranorex.com/help/latest/",
+		"YT1" : "https://www.youtube.com/watch?v=ztbVEK-s9aQ",
+		"YT2" : "https://www.youtube.com/watch?v=b1Ofv_TekbY&list=PLttK-VXRJYjYmfIfgmMsKFcK3JSltS5wM",
+		"YT3" : "https://www.youtube.com/watch?v=pE4QKR65EAw",
+		"YT4" : "https://www.youtube.com/watch?v=QVzKqwM993U",
+		"Website1" : "https://testcollab.com/blog/ranorex-integration-test-automation/",
+		"Website2" : "https://medium.com/@Synerzip/a-hands-on-ranorex-test-automation-tool-tutorial-a1b3ff447978",
+		"Website3" : "https://www.janbasktraining.com/blog/ranorex-tutorial/",
+		"Website4" : "https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorize-20-minutes/introduction/",
+		"Dedicated GH page1" : "https://github.com/Thomas-Gruber-90/RanorexLibrary",
+		"Dedicated GH page2" : "https://github.com/ranorex/Jenkins-Ranorex-Plugin",
+		"Dedicated GH page3" : "https://github.com/ranorex/Ranorex-Jira-Integration",
+		"Dedicated GH page4" : "https://github.com/ranorex/Packages",
+		"Course1" : "https://www.zeolearn.com/functional-testing-using-ranorex-training",
+		"Course2" : "https://www.gangboard.com/software-testing-training/ranorex-test-automation-training",
+		"Course3" : "https://www.ranorex.com/training/",
+		"Course4" : "https://www.besanttechnologies.com/ranorex-training",
+		"Tips1" : "https://www.ranorex.com/blog/effective-continuous-testing/",
+		"Tips2" : "https://www.ranorex.com/blog/tips-testing-containers/",
+		"Tips3" : "https://www.ranorex.com/blog/ranorexpath-tips-and-tricks/",
+		"Tips4" : "https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/",
+		"Image1" : "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2018/01/Ranorex-Introduction.jpg"
+	},
 
 	{
 	"Title" : "ReactJS",
