@@ -760,6 +760,21 @@ https://blog.neuvector.com/article/hack-kubernetes-container <br>
 </details>
 
 <details>
+<summary>Lua</summary>
+<br>Category/Type - <br>High-level programming language<br>
+<br>Official Documentation - <br>https://www.lua.org/docs.html<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=-iU1pCgmjx4&list=PLxgtJR7f0RBKGid7F2dfv7qc-xWwSee2O<br>https://www.youtube.com/watch?v=BfLUt3mfJiY<br>https://www.youtube.com/watch?v=kgiEF1frHQ8<br>https://www.youtube.com/watch?v=iMacxZQMPXs<br>
+<br>Useful Websites - <br>https://www.wisdomjobs.com/e-university/lua-programming-language-tutorial-1757.html<br>https://hackr.io/tutorials/learn-lua<br>https://www.lua.org/pil/1.html<br>https://www.tutorialspoint.com/lua/index.htm<br>
+<br>Dedicated Github page - <br>https://github.com/LuaJIT/LuaJIT<br>https://github.com/alibaba/LuaViewSDK<br>https://github.com/LuaDist/lua<br>https://github.com/lua/lua<br>
+<br>Best Courses - <br>https://www.skillshare.com/classes/Master-Lua-Programming-with-Lua-5-3/1890001751?via=browse-rating-lua-layout-grid<br>https://www.skillshare.com/classes/Introduction-to-Lua-Programming/1521575486?via=browse-rating-lua-layout-grid<br>http://tylerneylon.com/a/learn-lua/<br>https://www.udemy.com/course/lua-programming-master-the-basics/<br>
+<br>Other Tips / Hacks - <br>https://inmation.com/docs/system/1.72/lua-scripting/tips-and-tricks.html<br>https://inspired-lua.org/index.php/category/tutorials/tips-and-tricks/<br>http://jwu.github.io/wiki/tips-in-lua/<br>https://www.lua.org/gems/sample.pdf<br>
+<a href="https://i2.wp.com/www.ossblog.org/wp-content/uploads/2017/06/Lua-Montage.png?fit=564%2C245&ssl=1">
+  <img align="center" src="https://i2.wp.com/www.ossblog.org/wp-content/uploads/2017/06/Lua-Montage.png?fit=564%2C245&ssl=1" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Matplotlib</summary>
 <br>
 Category/Type - <br>

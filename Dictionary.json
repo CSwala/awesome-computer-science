@@ -709,6 +709,33 @@
 	"Image1" : "https://lh5.googleusercontent.com/5xrA7l184zC-mii6ESokTP2dUB7rIlNSkpYOLtjZdRIV17uR_HmotmktWhI7y3HhdJHT6ByqdXb-z9DQKW39jUxx5yg9eTVqAeimO0s7H5vtZThb84NQzpZIbG2w4h8w8ocfnkC2"
 },
 
+{
+	"Title" : "Lua",
+	"Tag" : "High-level programming language",
+	"Documentation" : "https://www.lua.org/docs.html",
+	"YT1" : "https://www.youtube.com/watch?v=-iU1pCgmjx4&list=PLxgtJR7f0RBKGid7F2dfv7qc-xWwSee2O",
+	"YT2" : "https://www.youtube.com/watch?v=BfLUt3mfJiY",
+	"YT3" : "https://www.youtube.com/watch?v=kgiEF1frHQ8",
+	"YT4" : "https://www.youtube.com/watch?v=iMacxZQMPXs",
+	"Website1" : "https://www.wisdomjobs.com/e-university/lua-programming-language-tutorial-1757.html",
+	"Website2" : "https://hackr.io/tutorials/learn-lua",
+	"Website3" : "https://www.lua.org/pil/1.html",
+	"Website4" : "https://www.tutorialspoint.com/lua/index.htm",
+	"Dedicated GH page1" : "https://github.com/LuaJIT/LuaJIT",
+	"Dedicated GH page2" : "https://github.com/alibaba/LuaViewSDK",
+	"Dedicated GH page3" : "https://github.com/LuaDist/lua",
+	"Dedicated GH page4" : "https://github.com/lua/lua",
+	"Course1" : "https://www.skillshare.com/classes/Master-Lua-Programming-with-Lua-5-3/1890001751?via=browse-rating-lua-layout-grid",
+	"Course2" : "https://www.skillshare.com/classes/Introduction-to-Lua-Programming/1521575486?via=browse-rating-lua-layout-grid",
+	"Course3" : "http://tylerneylon.com/a/learn-lua/",
+	"Course4" : "https://www.udemy.com/course/lua-programming-master-the-basics/",
+	"Tips1" : "https://inmation.com/docs/system/1.72/lua-scripting/tips-and-tricks.html",
+	"Tips2" : "https://inspired-lua.org/index.php/category/tutorials/tips-and-tricks/",
+	"Tips3" : "http://jwu.github.io/wiki/tips-in-lua/",
+	"Tips4" : "https://www.lua.org/gems/sample.pdf",
+	"Image1" : "https://i2.wp.com/www.ossblog.org/wp-content/uploads/2017/06/Lua-Montage.png?fit=564%2C245&ssl=1"
+},
+
 	{
 	"Title" : "Matplotlib",
 	"Tag": "Python Library",
