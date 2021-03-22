@@ -64,28 +64,6 @@ https://www.udemy.com/course/diveintoansible/ <br> https://www.udemy.com/course/
 </details>
 
 <details>
-<summary>Appium </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
-</details>
-
-<details>
-<summary>Aws </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
-</details>
-
-<details>
 <summary>Blender </summary>
 <br>Category/Type - <br>3D modeling and animation program<br>
 <br>Official Documentation - <br>https://docs.blender.org/manual/en/latest/<br>
@@ -382,17 +360,6 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
 <br><br><br>
 </details>
 
-<details>
-<summary>Elasticsearch </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
-</details>
-
  <details>
 <summary> GIMP </summary>
 <br>Category/Type - <br> Graphics editor <br>
@@ -425,28 +392,6 @@ https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/ <br> 
 </details>
 
 <details>
-<summary>Graph database </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
-</details>
-
-<details>
-<summary>Graphql </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
-</details>
-
-<details>
 <summary> Groovy </summary>
 <br>Category/Type - <br> Programming language <br>
 <br>Official Documentation - <br> http://docs.groovy-lang.org/next/html/documentation/ <br> 
@@ -461,39 +406,6 @@ https://www.infoq.com/presentations/groovy-features/ <br>
 </details>
 
 <details>
-<summary>Hadoop </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
-</details>
-
-<details>
-<summary>Hbase </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
-</details>
-
-<details>
-<summary>Heroku </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
-</details>
-
-<details>
 <summary>Hibernate </summary>
 <br>Category/Type - object-relational mapping(ORM)<br>
 <br>Official Documentation - <br> https://hibernate.org/orm/documentation/5.4/ <br>
@@ -505,29 +417,6 @@ https://www.youtube.com/watch?v=6TPDK6MOkz4<br> https://www.youtube.com/watch?v=
 https://www.youtube.com/watch?v=KHohVibqePw<br>
 <br>Other Tips / Hacks - <br> https://www.slideshare.net/ThorbenJanssen/hibernate-tips-n-tricks-15-tips-to-solve-common-problems<br>
 <br><br>
-</details>
-
-
-<details>
-<summary>Ios </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
-</details>
-
-<details>
-<summary>Iot </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
 </details>
 
 <details>
@@ -584,7 +473,6 @@ https://www.udemy.com/course/jenkins-learn-continuous-integration/?LSNPUBID=JVFx
 <br><br><br>
 </details>
 
-
 <details>
 <summary>Jira </summary>
 <br>Category/Type - <br>Bug tracking software<br>
@@ -598,18 +486,6 @@ https://www.udemy.com/course/jenkins-learn-continuous-integration/?LSNPUBID=JVFx
   <img align="center" src="https://www.eficode.com/hubfs/images/blogs/Imported_Blog_Media/jira-software-tips3.jpg" width="800" height="400"/>
 </a>
 <br><br><br>
-</details>
-
-
-<details>
-<summary>Kafka </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
 </details>
 
 <details>
@@ -637,28 +513,6 @@ https://github.com/PacktPublishing/Keras-Tips-Tricks-and-Techniques <br> https:/
 </details>
 
 <details>
-<summary>Kibana </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
-</details>
-
-<details>
-<summary>Kinesis </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
-</details>
-<details>
-
 <summary>Kotlin </summary>
 <br>Category/Type - <br>
 Programming Language<br>
@@ -702,17 +556,6 @@ https://www.coursera.org/projects/container-orchestration-kubernetes <br>
 <br>Other Tips / Hacks - <br>  https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/ <br>
 https://blog.neuvector.com/article/hack-kubernetes-container <br>
 <br><br>
-</details>
-
-<details>
-<summary>Logstash </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
 </details>
 
 <details>
@@ -770,17 +613,6 @@ https://towardsdatascience.com/simple-ways-to-improve-your-matplotlib-b64eebccfd
 https://pythonmatplotlibtips.blogspot.com/<br>
 https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf
 <br><br>
-</details>
-
-<details>
-<summary>Machine learning </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
 </details>
 
 <details>
@@ -1145,17 +977,6 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 <br>https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks<br>
 <br><br>
 </details> 
-<details>
-<summary>Redis </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
-</details>
-
 
 <details>
 <summary>SciPy</summary>
@@ -1194,50 +1015,6 @@ https://ugoproto.github.io/ugo_py_doc/pdf/Python_SciPy_Cheat_Sheet_Linear_Algebr
 </details>
 
 <details>
-<summary>Selenium </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
-</details>
-
-<details>
-<summary>Solidity </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
-</details>
-
-<details>
-<summary>Spark </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
-</details>
-
-<details>
-<summary>Storm </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
-</details>
-
-<details>
 <summary> Swift </summary>
 <br>Category/Type - <br> Programming language <br>
 <br>Official Documentation - <br> https://developer.apple.com/documentation/swift <br>
@@ -1253,17 +1030,6 @@ https://www.udemy.com/course/swift-programming/ <br> https://www.udacity.com/cou
   <img align="center" src="https://i.ytimg.com/vi/iHyo1WOteQM/maxresdefault.jpg" width="500" height="500"/>
 </a>
 <br><br><br>
-</details>
-
-<details>
-<summary>Teamcity </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
 </details>
 
 <details>
