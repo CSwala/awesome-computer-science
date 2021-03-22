@@ -635,6 +635,21 @@ https://www.udemy.com/course/complete-maya-fluids-bootcamp/ <br> https://www.ude
 </details>
 
 <details>
+ <summary> Metal </summary>
+ <br>Category/Type - <br> GPU-accelerated graphics and compute framework <br>
+ <br>Official Documentation - <br> https://developer.apple.com/documentation/metal <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/playlist?list=PL23Revp-82LJG3vcDPm8w7b5HTKjBOY0W <br> https://www.youtube.com/playlist?list=PLEXt1-oJUa4CeZsjC7Tpk6eUgx3WEgMi9 <br>
+ https://www.youtube.com/playlist?list=PLEXt1-oJUa4BVgjZt9tK2MhV_DW7PVDsg <br> https://www.youtube.com/channel/UC2YJDV1JrhdJ0Tkyy3gWhuw <br> https://www.youtube.com/user/rwenderlich <br>
+ <br>Useful Websites - <br> https://www.raywenderlich.com/7475-metal-tutorial-getting-started <br> https://developer.apple.com/metal/sample-code/ <br>
+ https://donaldpinckney.com/metal/2018/07/05/metal-intro-1.html <br> https://metalbyexample.com <br> http://englishonlineclub.com/pdf/Metal%20Programming%20Guide%20-%20Comprehensive%20Tutorial%20and%20Reference%20via%20Swift%20(Rough%20Cuts)%20[EnglishOnlineClub.com].pdf <br>
+ <br>Dedicated Github page - <br> https://github.com/dehesa/Metal <br> https://github.com/Hi-Rez/Satin <br> https://github.com/twohyjr/Metal-Game-Engine-Tutorial <br>
+ https://github.com/colin1994/Metal-Practice <br> https://github.com/atveit/SwiftMetalForOSX <br>
+ <br>Best Courses - <br> https://www.udemy.com/course/ios-13-app-development-bootcamp/ <br> https://www.udemy.com/course/ios11-app-development-bootcamp/ <br>
+ https://www.udemy.com/course/devslopes-ios10/ <br>
+ <br>Other Tips / Hacks - <br> https://developer.apple.com/videos/play/wwdc2017/607/ <br> https://developer.apple.com/library/archive/documentation/3DDrawing/Conceptual/MTLBestPracticesGuide/index.html <br>
+ </details>
+
+<details>
 <summary>MongoDB </summary>
 <br>Category/Type - <br>Document-oriented database<br>
 <br>Official Documentation - <br> https://docs.mongodb.com <br>
