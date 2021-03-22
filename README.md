@@ -787,6 +787,21 @@ https://www.udemy.com/course/complete-maya-fluids-bootcamp/ <br> https://www.ude
 </details>
 
 <details>
+<summary> Metal </summary>
+<br>Category/Type - <br> GPU-accelerated graphics and compute framework <br>
+<br>Official Documentation - <br> https://developer.apple.com/documentation/metal <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/playlist?list=PL23Revp-82LJG3vcDPm8w7b5HTKjBOY0W <br> https://www.youtube.com/playlist?list=PLEXt1-oJUa4CeZsjC7Tpk6eUgx3WEgMi9 <br>
+https://www.youtube.com/playlist?list=PLEXt1-oJUa4BVgjZt9tK2MhV_DW7PVDsg <br> https://www.youtube.com/channel/UC2YJDV1JrhdJ0Tkyy3gWhuw <br> https://www.youtube.com/user/rwenderlich <br>
+<br>Useful Websites - <br> https://www.raywenderlich.com/7475-metal-tutorial-getting-started <br> https://developer.apple.com/metal/sample-code/ <br>
+https://donaldpinckney.com/metal/2018/07/05/metal-intro-1.html <br> https://metalbyexample.com <br> http://englishonlineclub.com/pdf/Metal%20Programming%20Guide%20-%20Comprehensive%20Tutorial%20and%20Reference%20via%20Swift%20(Rough%20Cuts)%20[EnglishOnlineClub.com].pdf <br>
+<br>Dedicated Github page - <br> https://github.com/dehesa/Metal <br> https://github.com/Hi-Rez/Satin <br> https://github.com/twohyjr/Metal-Game-Engine-Tutorial <br>
+https://github.com/colin1994/Metal-Practice <br> https://github.com/atveit/SwiftMetalForOSX <br>
+<br>Best Courses - <br> https://www.udemy.com/course/ios-13-app-development-bootcamp/ <br> https://www.udemy.com/course/ios11-app-development-bootcamp/ <br>
+https://www.udemy.com/course/devslopes-ios10/ <br>
+<br>Other Tips / Hacks - <br> https://developer.apple.com/videos/play/wwdc2017/607/ <br> https://developer.apple.com/library/archive/documentation/3DDrawing/Conceptual/MTLBestPracticesGuide/index.html <br>
+</details>
+
+<details>
 <summary>MongoDB </summary>
 <br>Category/Type - <br>Document-oriented database<br>
 <br>Official Documentation - <br> https://docs.mongodb.com <br>
@@ -1037,6 +1052,31 @@ https://github.com/topics/python
 <br>https://www.geeksforgeeks.org/10-essential-python-tips-tricks-programmers/
 <br>https://medium.com/towards-artificial-intelligence/50-python-3-tips-tricks-e5dbe05212d7<br><br>
 </details>
+
+<details>
+<summary> PyTorch </summary>
+<br>Category/Type - <br> Machine Learning Library <br> 
+<br>Official Documentation - <br> https://pytorch.org/docs/stable/index.html <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/edurekaIN <br>
+https://www.youtube.com/user/krishnaik06 <br> https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw <br> https://www.youtube.com/user/FacebookDevelopers <br>
+https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz <br> https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4 <br>
+https://www.youtube.com/playlist?list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa <br> https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME <br>
+<br>Useful Websites - <br> https://pytorch.org/tutorials/ <br> https://www.tutorialspoint.com/pytorch/index.htm <br> https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/ <br>
+https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e <br> https://www.analyticsvidhya.com/blog/2018/02/pytorch-tutorial/ <br>
+https://www.javatpoint.com/pytorch <br> https://www.kaggle.com/kanncaa1/pytorch-tutorial-for-deep-learning-lovers <br>
+<br>Dedicated Github page - <br> https://github.com/bharathgs/Awesome-pytorch-list <br> https://github.com/Tramac/awesome-semantic-segmentation-pytorch <br>
+https://github.com/rickiepark/awesome-pytorch <br> https://github.com/HobbitLong/PyContrast <br> https://github.com/JianzhouZhan/Awesome-RecSystem-Models <br>
+<br>Best Courses - <br> https://www.coursera.org/learn/deep-neural-networks-with-pytorch <br> https://www.coursera.org/projects/pytorch-beginner <br>
+https://www.coursera.org/projects/getting-started-pytorch <br> https://www.udacity.com/course/deep-learning-pytorch--ud188 <br> https://www.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/ <br>
+https://www.udemy.com/course/pytorch-for-deep-learning-and-computer-vision/ <br> https://www.udemy.com/course/reinforcement-learning-with-pytorch/ <br>
+https://www.udemy.com/course/deep-learning-with-pytorch/ <br>
+<br>Other Tips / Hacks - <br> https://towardsdatascience.com/7-tips-for-squeezing-maximum-performance-from-pytorch-ca4a40951259 <br>
+https://medium.com/quantyca/pytorch-tips-and-tricks-from-tensors-to-neural-networks-febc73b3e34c <br> https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565 <br>
+https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/transfer-learning <br>
+<a href="https://miro.medium.com/max/7680/1*FOD9HqlC31Qmtl6YzHDFIw.png">
+  <img align="center" src="https://miro.medium.com/max/7680/1*FOD9HqlC31Qmtl6YzHDFIw.png" width="500" height="500"/>
+</a>
+</details>s
 
 <details>
 <summary>ReactJS </summary>

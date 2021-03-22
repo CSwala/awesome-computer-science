@@ -691,6 +691,31 @@
 					
 					},
 
+	{	"Title" : "Metal",
+		"Tag": "GPU-accelerated graphics and compute framework",
+		"Documentation" : "https://developer.apple.com/documentation/metal",
+		"YT1" : "https://www.youtube.com/playlist?list=PL23Revp-82LJG3vcDPm8w7b5HTKjBOY0W",
+		"YT2" : "https://www.youtube.com/playlist?list=PLEXt1-oJUa4CeZsjC7Tpk6eUgx3WEgMi9",
+		"YT3" : "https://www.youtube.com/playlist?list=PLEXt1-oJUa4BVgjZt9tK2MhV_DW7PVDsg",
+		"YT4" : "https://www.youtube.com/channel/UC2YJDV1JrhdJ0Tkyy3gWhuw",
+		"YT5" : "https://www.youtube.com/user/rwenderlich",
+		"Website1": "https://www.raywenderlich.com/7475-metal-tutorial-getting-started",
+		"Website2": "https://developer.apple.com/metal/sample-code/",
+		"Website3": "https://donaldpinckney.com/metal/2018/07/05/metal-intro-1.html",
+		"Website4": "https://metalbyexample.com",
+		"Website5": "http://englishonlineclub.com/pdf/Metal%20Programming%20Guide%20-%20Comprehensive%20Tutorial%20and%20Reference%20via%20Swift%20(Rough%20Cuts)%20[EnglishOnlineClub.com].pdf",
+		"Dedicated GH page1" : "https://github.com/dehesa/Metal",
+		"Dedicated GH page2" : "https://github.com/Hi-Rez/Satin",
+		"Dedicated GH page3" : "https://github.com/twohyjr/Metal-Game-Engine-Tutorial",
+		"Dedicated GH page4" : "https://github.com/colin1994/Metal-Practice",
+		"Dedicated GH page5" : "https://github.com/atveit/SwiftMetalForOSX",
+		"Course1" : "https://www.udemy.com/course/ios-13-app-development-bootcamp/",
+		"Course2" : "https://www.udemy.com/course/ios11-app-development-bootcamp/",
+		"Course3" : "https://www.udemy.com/course/devslopes-ios10/",
+		"Tips1" : "https://developer.apple.com/library/archive/documentation/3DDrawing/Conceptual/MTLBestPracticesGuide/index.html",
+		"Tips2" : "https://developer.apple.com/videos/play/wwdc2017/607/"
+	},
+
 	{	"Title" : "MongoDB",
 		"Tag": "Document-oriented database",
 		"Documentation" : "https://docs.mongodb.com",
@@ -993,11 +1018,45 @@
 
 	},
 
-
-
-
-
-
+	{	"Title" : "PyTorch",
+		"Tag": "Machine Learning Library",
+		"Documentation" : "https://pytorch.org/docs/stable/index.html",
+		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+		"YT2" : "https://www.youtube.com/user/edurekaIN",
+		"YT3" : "https://www.youtube.com/user/krishnaik06",
+		"YT4" : "https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw",
+		"YT5" : "https://www.youtube.com/user/FacebookDevelopers",
+		"YT6" : "https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz",
+		"YT7" : "https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4",
+		"YT8" : "https://www.youtube.com/playlist?list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa",
+		"YT9" : "https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME",
+		"Website1": "https://pytorch.org/tutorials/",
+		"Website2": "https://www.tutorialspoint.com/pytorch/index.htm",
+		"Website3": "https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/",
+		"Website4": "https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e",
+		"Website5": "https://www.analyticsvidhya.com/blog/2018/02/pytorch-tutorial/",
+		"Website6": "https://www.javatpoint.com/pytorch",
+		"Website7": "https://www.kaggle.com/kanncaa1/pytorch-tutorial-for-deep-learning-lovers",
+		"Dedicated GH page1" : "https://github.com/bharathgs/Awesome-pytorch-list",
+		"Dedicated GH page2" : "https://github.com/Tramac/awesome-semantic-segmentation-pytorch",
+		"Dedicated GH page3" : "https://github.com/rickiepark/awesome-pytorch",
+		"Dedicated GH page4" : "https://github.com/HobbitLong/PyContrast",
+		"Dedicated GH page5" : "https://github.com/JianzhouZhan/Awesome-RecSystem-Models",
+		"Course1" : "https://www.coursera.org/learn/deep-neural-networks-with-pytorch",
+		"Course2" : "https://www.coursera.org/projects/pytorch-beginner",
+		"Course3" : "https://www.coursera.org/projects/getting-started-pytorch",
+		"Course4" : "https://www.udacity.com/course/deep-learning-pytorch--ud188",
+		"Course5" : "https://www.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/",
+		"Course6" : "https://www.udemy.com/course/pytorch-for-deep-learning-and-computer-vision/",
+		"Course7" : "https://www.udemy.com/course/reinforcement-learning-with-pytorch/",
+		"Course8" : "https://www.udemy.com/course/deep-learning-with-pytorch/",
+		"Tips1" : "https://towardsdatascience.com/7-tips-for-squeezing-maximum-performance-from-pytorch-ca4a40951259",
+		"Tips2" : "https://medium.com/quantyca/pytorch-tips-and-tricks-from-tensors-to-neural-networks-febc73b3e34c",
+		"Tips3" : "https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565",
+		"Tips4" : "https://www.kaggle.com/getting-started/150888",
+		"Tips5" : "https://jarvislabs.ai/blogs/transfer-learning",
+		"Image1" : "https://miro.medium.com/max/7680/1*FOD9HqlC31Qmtl6YzHDFIw.png"
+	},
 
 	{
 	"Title" : "ReactJS",
