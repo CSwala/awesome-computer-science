@@ -1163,6 +1163,18 @@ You can find our Code of Conduct [here](https://github.com/CSwala/awesome-comput
 
 This project follows the [MIT License](https://choosealicense.com/licenses/mit/).
 
+## Contributors 🥰:star:
+This project is possible due to these amazing people✨
+
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/CSwala/awesome-computer-science/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CSwala/awesome-computer-science" />
+</a>
+		</td>
+	</tr>
+</table>
 
 
 <br>
