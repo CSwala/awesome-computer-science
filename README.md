@@ -941,6 +941,7 @@ https://github.com/opencv/opencv<br>
 https://github.com/opencv/opencv_contrib<br>
 https://github.com/hoangtv2000/opencv_practices<br>
 https://github.com/oarriaga/face_classification<br>
+https://github.com/italojs/awesome-opencv#links<br>
 <br>
 Best Courses - <br>
 https://www.udemy.com/course/master-computer-vision-with-opencv-in-python/?gclid=Cj0KCQjw3duCBhCAARIsAJeFyPVvraSsFcVU7JtZ6D2MBIe6PXITl9WwjiSNSz2XlJkNapzX9BcMXQMaAoKCEALw_wcB&matchtype=e&utm_campaign=LongTail_la.EN_cc.INDIA&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_78875688843_._ad_387461487962_._kw_opencv+course_._de_c_._dm__._pl__._ti_kwd-825886677541_._li_1007765_._pd__._<br>
