@@ -322,6 +322,38 @@
 		"Tips3" : "https://www.rootstrap.com/blog/django-best-practices-and-beginner-tips/",
 		"Tips4" : "https://letslearnabout.net/blog/16-tips-for-python-and-django-beginners/"
 	},
+	
+	{	
+		"Title" : "Dart",
+		"Tag": "Programming language",
+		"Documentation" : "https://dart.dev/guides ",
+		"YT1 " : "https://www.youtube.com/watch?v=OLjyCy-7U2U ",
+		"YT2 " :"https://www.youtube.com/watch?v=5rtujDjt50I&list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q ",
+		"YT3 " :"https://www.youtube.com/watch?v=Ej_Pcr4uC2Q ",
+		"YT4 " :"https://www.youtube.com/watch?v=L9onVn8QRaE&list=PLNnAcB93JKV_R1aZc7ZbQRsiEyeDLUpE- ",
+		"Website1": "https://dart.dev/ ",
+		"Website2": "https://news.dartlang.org/2012/03/14-cool-projects-from-dart-community.html ",
+		"Website3": "https://www.reddit.com/r/FlutterDev/?f=flair_name%3A%22Dart%22 ",
+		"Website4": "https://www.reddit.com/r/dartlang/",
+		"Website5": "https://learnpracticeandshare.com/awesome-dart-massive-collection-of-resources/",
+		"Website6": "https://medium.com/codechai/dart-awesome-cheat-sheet-for-flutter-beginners-d8cb52c978e1",
+		"Dedicated GH page1" : "https://github.com/yissachar/awesome-dart ",
+		"Dedicated GH page2" : "https://github.com/smartherd/DartTutorial ",
+		"Dedicated GH page3" : "https://github.com/Dart-Code/Dart-Code ",
+		"Dedicated GH page4" : "https://github.com/dart-lang/googleapis ",
+		"Course1" : "https://www.udemy.com/course/dartlang/",
+		"Course2" : "https://www.udemy.com/course/dart-beginners-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-1ayowRC6m5rAZg8ja6J6vg&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads ",
+		"Course3" : "https://www.udemy.com/course/dart-intermediate-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-Etyzj0FD7fIgZFZJU790rw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads ",
+		"Course4" : "https://www.udemy.com/course/dart-advanced-course/",
+		"Course5" : "https://dart.academy/ ",
+		"Course6" : "https://courses.learncodeonline.in/learn/Dart-Programming-Language ",
+		"Tips1" : "https://codewithandrea.com/videos/top-dart-tips-and-tricks-for-flutter-devs/ ",
+		"Tips2" : "https://dartsguide.net/guides/pro-dart-tips/ ",
+		"Tips3" : "https://www.educative.io/blog/dart-tips-tricks ",
+		"Image1":"https://miro.medium.com/max/3532/1*nucyFw-E5Lotofy1WSWMqw.png " 
+
+	},
+
 
 	{	"Title" : "GIMP",
 		"Tag": "Graphics editor",
@@ -864,6 +896,34 @@
 	
 	
 			},
+			{
+				"Title" : "OpenCv",
+					"Tag": "Python Module",
+					"Documentation" : "https://docs.opencv.org/master/",
+					"YT1 " : "https://www.youtube.com/watch?v=WQeoO7MI0Bs",
+					"YT2 " : "https://www.youtube.com/watch?v=oXlwWbU8l2o",
+					"YT3 " : "https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K" ,
+					"YT4 " : "https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq",
+					"YT5 " :  "https://www.youtube.com/playlist?list=PLkPmSWtWNIyQqAQxZ2S_M6bV67UFTff8e",
+					"Website1" : "https://www.tutorialspoint.com/opencv/opencv_overview.htm",
+					"Website2" : "https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html",
+					"Website3" : "https://www.geeksforgeeks.org/opencv-overview/",
+					"Dedicated GH page1" : "https://github.com/opencv/opencv",
+					"Dedicated GH page2" : "https://github.com/opencv/opencv_contrib",
+					"Dedicated GH page3" : "https://github.com/hoangtv2000/opencv_practices",
+					"Dedicated GH page4" : "https://github.com/oarriaga/face_classification",
+					"Dedicated GH page5" : "https://github.com/italojs/awesome-opencv#links",
+					"Course1" : "https://www.udemy.com/course/master-computer-vision-with-opencv-in-python/?gclid=Cj0KCQjw3duCBhCAARIsAJeFyPVvraSsFcVU7JtZ6D2MBIe6PXITl9WwjiSNSz2XlJkNapzX9BcMXQMaAoKCEALw_wcB&matchtype=e&utm_campaign=LongTail_la.EN_cc.INDIA&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_78875688843_._ad_387461487962_._kw_opencv+course_._de_c_._dm__._pl__._ti_kwd-825886677541_._li_1007765_._pd__._",
+					"Course2" : "https://hackr.io/tutorials/learn-opencv",
+					"Course3" : "https://www.pyimagesearch.com/free-opencv-computer-vision-deep-learning-crash-course/",
+					"Tips1" : "https://cv-tricks.com/tag/opencv/",
+					"Tips2" : "https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/",
+					"Tips3" : "https://heartbeat.fritz.ai/opencv-python-cheat-sheet-from-importing-images-to-face-detection-52919da36433",
+					"Tips4" : "https://www.kaggle.com/learn-forum/158267"
+			
+			
+					},
+			
 
 			{
 				"Title" : "OpenGL",
@@ -1336,7 +1396,7 @@
 		"Tips4" : "https://webglinsights.github.io/tips.html",
 		"Image1" : "https://www.soft8soft.com/wp-content/uploads/2018/08/blender_to_webgl.jpg"
 	}
-
+	
 	]
 
 	
