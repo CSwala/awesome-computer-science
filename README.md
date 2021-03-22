@@ -367,6 +367,22 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
 </details>
 
 <details>
+<summary>Dart </summary>
+<br>Category/Type - <br>Programming language<br>
+<br>Official Documentation - <br>https://dart.dev/guides<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=OLjyCy-7U2U <br>https://www.youtube.com/watch?v=5rtujDjt50I&list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q <br>https://www.youtube.com/watch?v=Ej_Pcr4uC2Q <br>https://www.youtube.com/watch?v=L9onVn8QRaE&list=PLNnAcB93JKV_R1aZc7ZbQRsiEyeDLUpE- <br>
+<br>Useful Websites - <br>https://dart.dev/ <br>https://news.dartlang.org/2012/03/14-cool-projects-from-dart-community.html <br>https://www.reddit.com/r/FlutterDev/?f=flair_name%3A%22Dart%22 <br> https://www.reddit.com/r/dartlang/ <br>https://learnpracticeandshare.com/awesome-dart-massive-collection-of-resources/ <br>
+ https://medium.com/codechai/dart-awesome-cheat-sheet-for-flutter-beginners-d8cb52c978e1 <br>
+<br>Dedicated Github page - <br>https://github.com/yissachar/awesome-dart <br>https://github.com/smartherd/DartTutorial <br>https://github.com/Dart-Code/Dart-Code <br>https://github.com/dart-lang/googleapis <br>
+<br>Best Courses - <br>https://www.udemy.com/course/dartlang/ <br>https://www.udemy.com/course/dart-beginners-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-1ayowRC6m5rAZg8ja6J6vg&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads <br>https://www.udemy.com/course/dart-intermediate-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-Etyzj0FD7fIgZFZJU790rw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads <br>https://www.udemy.com/course/dart-advanced-course/ <br>https://dart.academy/ <br>https://courses.learncodeonline.in/learn/Dart-Programming-Language <br>
+<br>Other Tips / Hacks - <br>https://codewithandrea.com/videos/top-dart-tips-and-tricks-for-flutter-devs/ <br>https://dartsguide.net/guides/pro-dart-tips/ <br>https://www.educative.io/blog/dart-tips-tricks <br><br>
+<a href="https://miro.medium.com/max/3532/1*nucyFw-E5Lotofy1WSWMqw.png">
+  <img align="center" src="https://miro.medium.com/max/3532/1*nucyFw-E5Lotofy1WSWMqw.png" width="900" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Elasticsearch </summary>
 <br>Category/Type -
 <br>Official Documentation -
@@ -1077,6 +1093,31 @@ https://github.com/topics/python
 <br>https://www.geeksforgeeks.org/10-essential-python-tips-tricks-programmers/
 <br>https://medium.com/towards-artificial-intelligence/50-python-3-tips-tricks-e5dbe05212d7<br><br>
 </details>
+
+<details>
+<summary> PyTorch </summary>
+<br>Category/Type - <br> Machine Learning Library <br> 
+<br>Official Documentation - <br> https://pytorch.org/docs/stable/index.html <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/edurekaIN <br>
+https://www.youtube.com/user/krishnaik06 <br> https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw <br> https://www.youtube.com/user/FacebookDevelopers <br>
+https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz <br> https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4 <br>
+https://www.youtube.com/playlist?list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa <br> https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME <br>
+<br>Useful Websites - <br> https://pytorch.org/tutorials/ <br> https://www.tutorialspoint.com/pytorch/index.htm <br> https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/ <br>
+https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e <br> https://www.analyticsvidhya.com/blog/2018/02/pytorch-tutorial/ <br>
+https://www.javatpoint.com/pytorch <br> https://www.kaggle.com/kanncaa1/pytorch-tutorial-for-deep-learning-lovers <br>
+<br>Dedicated Github page - <br> https://github.com/bharathgs/Awesome-pytorch-list <br> https://github.com/Tramac/awesome-semantic-segmentation-pytorch <br>
+https://github.com/rickiepark/awesome-pytorch <br> https://github.com/HobbitLong/PyContrast <br> https://github.com/JianzhouZhan/Awesome-RecSystem-Models <br>
+<br>Best Courses - <br> https://www.coursera.org/learn/deep-neural-networks-with-pytorch <br> https://www.coursera.org/projects/pytorch-beginner <br>
+https://www.coursera.org/projects/getting-started-pytorch <br> https://www.udacity.com/course/deep-learning-pytorch--ud188 <br> https://www.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/ <br>
+https://www.udemy.com/course/pytorch-for-deep-learning-and-computer-vision/ <br> https://www.udemy.com/course/reinforcement-learning-with-pytorch/ <br>
+https://www.udemy.com/course/deep-learning-with-pytorch/ <br>
+<br>Other Tips / Hacks - <br> https://towardsdatascience.com/7-tips-for-squeezing-maximum-performance-from-pytorch-ca4a40951259 <br>
+https://medium.com/quantyca/pytorch-tips-and-tricks-from-tensors-to-neural-networks-febc73b3e34c <br> https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565 <br>
+https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/transfer-learning <br>
+<a href="https://miro.medium.com/max/7680/1*FOD9HqlC31Qmtl6YzHDFIw.png">
+  <img align="center" src="https://miro.medium.com/max/7680/1*FOD9HqlC31Qmtl6YzHDFIw.png" width="500" height="500"/>
+</a>
+</details>s
 
 <details>
 <summary>ReactJS </summary>
