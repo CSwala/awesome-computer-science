@@ -1139,6 +1139,42 @@
 	"Tips3" : "https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks "
 
   },
+	
+	{	"Title" : "Ruby",
+	"Tag": "Programming Language",
+	"Documentation" : "https://www.ruby-lang.org/en/documentation/",
+	"YT1 " :"https://www.youtube.com/watch?v=t_ispmWmdjY ",
+	"YT2 " :"https://www.youtube.com/watch?v=Dji9ALCgfpM ",
+	"YT3 " :"https://www.youtube.com/watch?v=SHzeVBrW_rA&list=PLlxmoA0rQ-Lx45j3D6da7-Iqvo5wtjKBm ",
+	"YT4 " :"https://www.youtube.com/watch?v=WJlfVjGt6Hg ",
+	"YT5 " :"https://www.youtube.com/playlist?list=PLgPJX9sVy92yefe1xmyxgcyXjxmLHsSEV",
+	"YT6 " :"https://www.youtube.com/watch?v=c7FExaJY9A4",
+	"Website1": "https://www.ruby-lang.org/en/downloads/ ",
+	"Website2": "https://www.codeconquest.com/blog/top-50-websites-to-learn-ruby/ ",
+	"Website3": "https://www.reddit.com/r/RubyLang/ ",
+	"Website4": "https://www.reddit.com/r/ruby/ ",
+	"Website5": "https://rubyapi.org/ ",
+	"Website6": "https://www.moesif.com/blog/api-guide/development/api-resources-for-ruby-developers/ ",
+	"Dedicated GH page1" : "https://github.com/dobs/reddit-base ",
+	"Dedicated GH page2" : "https://github.com/markets/awesome-ruby ",
+	"Dedicated GH page3" : "https://github.com/sdogruyol/awesome-ruby ",
+	"Dedicated GH page4" : "https://github.com/ruby/ruby ",
+	"Dedicated GH page5" : "https://github.com/octokit/octokit.rb",
+	"Course1" : "https://www.codecademy.com/learn/learn-ruby ",
+	"Course2" : "https://www.udemy.com/course/learn-ruby-programming-in-ten-easy-steps/ ",
+	"Course3" : "https://www.lynda.com/Ruby-training-tutorials/303-0.html ",
+	"Course4" : "https://www.udemy.com/course/learn-advanced-level-ruby-programming/ ",
+	"Course5" : "https://www.udemy.com/course/ruby-programming-for-everyone/ ",
+	"Tips1" : "http://www.rubyinside.com/21-ruby-tricks-902.html ",
+	"Tips2" : "https://www.rubyguides.com/2016/01/ruby-tricks/ ",
+	"Tips3" : "https://devblast.com/b/ruby-tricks-improve-code ",
+	"Tips4" : "https://medium.com/rubycademy/5-ruby-tips-you-probably-dont-know-76fee34cfd0c",
+	"Tips5" : "https://flatironschool.com/blog/10-quick-ruby-tricks ",
+	"Tips6" : "https://www.smartly.io/blog/ruby-tricks-for-curious-developer ",
+	"Image1":"http://openwhisk.apache.org/images/runtimes/icon-ruby-text-color-horz.png " 
+
+	}
+
  
 
 	{
