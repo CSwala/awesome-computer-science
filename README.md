@@ -1118,7 +1118,7 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 <a href="https://miro.medium.com/max/7680/1*FOD9HqlC31Qmtl6YzHDFIw.png">
   <img align="center" src="https://miro.medium.com/max/7680/1*FOD9HqlC31Qmtl6YzHDFIw.png" width="500" height="500"/>
 </a>
-</details>s
+</details>
 
 <details>
 <summary>ReactJS </summary>
