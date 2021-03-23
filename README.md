@@ -410,12 +410,12 @@ https://www.infoq.com/presentations/groovy-features/ <br>
 <br>Category/Type - Cloud Application Platform<br>
 <br>Official Documentation - <br> https://devcenter.heroku.com/categories/reference <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/watch?v=aUW5GAFhu6s<br> https://www.youtube.com/playlist?list=PL7hyQeCP1V6SLJOBVgh5gVnHwBFyEqF6a<br>
-https://www.youtube.com/watch?v=QTOkqzCTGxw<br> https://www.youtube.com/watch?v=ncHGkYmIBRE <br> https://www.youtube.com/watch?v=MxfxiR8TVNU <br>
-<br>Useful Websites - <br> https://devcenter.heroku.com/articles/getting-started-with-nodejs <br> https://readwrite.com/2014/09/23/heroku-for-beginners-app-hosting-101/<br>https://awesomeopensource.com/projects/heroku<br>
+https://www.youtube.com/watch?v=QTOkqzCTGxw<br> https://www.youtube.com/watch?v=ncHGkYmIBRE <br> https://www.youtube.com/watch?v=MxfxiR8TVNU <br>https://www.youtube.com/watch?v=i3jkwcTC9F4<br>https://www.youtube.com/watch?v=dn4mmfbletg<br>
+<br>Useful Websites - <br> https://devcenter.heroku.com/articles/getting-started-with-nodejs <br> https://readwrite.com/2014/09/23/heroku-for-beginners-app-hosting-101/<br>https://awesomeopensource.com/projects/heroku<br>https://www.xplenty.com/blog/how-to-use-heroku/<br>https://cs.gmu.edu/~offutt/classes/432/instructions/GithubHeroku-servlets.html<br>
 <br>Dedicated Github page - https://github.com/heroku/<br>https://github.com/ianstormtaylor/awesome-heroku<br>https://github.com/dwyl/learn-heroku<br>https://github.com/heroku/cli<br>
-<br>Best Courses -  <br> https://www.udemy.com/course/learn-quickly-deploying-spring-boot-app-on-heroku-with-mysql/ <br> https://www.udacity.com/course/deploying-applications-with-heroku--ud272<br> https://www.pluralsight.com/courses/heroku-getting-started<br>
+<br>Best Courses -  <br> https://www.udemy.com/course/learn-quickly-deploying-spring-boot-app-on-heroku-with-mysql/ <br> https://www.udacity.com/course/deploying-applications-with-heroku--ud272<br> https://www.pluralsight.com/courses/heroku-getting-started<br>https://www.udemy.com/course/learn-quickly-deploying-spring-boot-app-on-heroku-with-mysql/<br>
 https://www.udemy.com/course/salesforce-integration-with-heroku/<br>
-<br>Other Tips / Hacks - <br> https://blog.heroku.com/six-strategies-deploy-to-heroku<br>https://thoughtbot.com/upcase/videos/heroku-tips-and-tricks<br>https://devhints.io/heroku<br>https://github.com/mailtoharshit/awesome-heroku-commands<br>
+<br>Other Tips / Hacks - <br> https://blog.heroku.com/six-strategies-deploy-to-heroku<br>https://thoughtbot.com/upcase/videos/heroku-tips-and-tricks<br>https://devhints.io/heroku<br>https://github.com/mailtoharshit/awesome-heroku-commands<br>https://www.freecodecamp.org/news/how-to-deploy-a-nodejs-app-to-heroku-from-github-without-installing-heroku-on-your-machine-433bec770efe/<br>
 <br><br>
 </details>
 
