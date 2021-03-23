@@ -994,6 +994,24 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 </details> 
 
 <details>
+ <summary> Redis </summary>
+ <br>Category/Type - <br> In-memory key–value database <br>
+ <br>Official Documentation - <br> https://redis.io/documentation <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/TechGuyWeb <br>
+https://www.youtube.com/channel/UCD78lHSwYqMlyetR0_P4Vig <br> https://www.youtube.com/playlist?list=PLS1QulWo1RIYZZxQdap7Sd0ARKFI-XVsd <br>
+https://www.youtube.com/playlist?list=PLhW3qG5bs-L8n1fsiT8z_VnDhnUk4vaVq <br> https://www.youtube.com/playlist?list=PLXM5y5j_b0mMdVF5p_2ug_b5tWqah_tfJ <br>
+ <br>Useful Websites - <br> https://www.tutorialspoint.com/redis/index.htm <br> https://redis.io/topics/introduction <br> https://www.javatpoint.com/redis-tutorial <br>
+ https://www.w3resource.com/redis/ <br> https://redislabs.com/ebook/part-1-getting-started/chapter-1-getting-to-know-redis/ <br> https://auth0.com/blog/introduction-to-redis-install-cli-commands-and-data-types/ <br>
+ <br>Dedicated Github page - <br> https://github.com/JamzyWang/awesome-redis <br> https://github.com/janl/awesome <br> https://github.com/redis/redis <br>
+ https://github.com/pranavgupta1234/awesome-redis-optimizations <br>
+ <br>Best Courses - <br> https://www.udemy.com/course/learn-redis-and-utilize-jedis-with-spring-data-redis/ <br> https://www.udemy.com/course/learn-redis/ <br>
+https://www.udemy.com/course/redis-bootcamp-for-beginners/ <br> https://www.udemy.com/course/redis-latest/ <br> https://www.lynda.com/Redis-tutorials/Learning-Redis/642501-2.html <br>
+ <br>Other Tips / Hacks - <br> https://www.objectrocket.com/blog/how-to/10-quick-tips-about-redis/ <br> https://dzone.com/articles/tips-amp-tricks-to-using-keys-innbspredis <br>
+ https://medium.com/swlh/use-the-source-redis-internal-tricks-5a8b735b9ef0 <br> http://dmitrypol.github.io/redis/2015/10/15/redis-rails-tips.html <br>
+ <br>
+ </details>
+
+<details>
 <summary>Ruby </summary>
 <br>
 Category/Type - <br>Programming language <br>
