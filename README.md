@@ -635,6 +635,21 @@ https://www.udemy.com/course/complete-maya-fluids-bootcamp/ <br> https://www.ude
 </details>
 
 <details>
+ <summary> Metal </summary>
+ <br>Category/Type - <br> GPU-accelerated graphics and compute framework <br>
+ <br>Official Documentation - <br> https://developer.apple.com/documentation/metal <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/playlist?list=PL23Revp-82LJG3vcDPm8w7b5HTKjBOY0W <br> https://www.youtube.com/playlist?list=PLEXt1-oJUa4CeZsjC7Tpk6eUgx3WEgMi9 <br>
+ https://www.youtube.com/playlist?list=PLEXt1-oJUa4BVgjZt9tK2MhV_DW7PVDsg <br> https://www.youtube.com/channel/UC2YJDV1JrhdJ0Tkyy3gWhuw <br> https://www.youtube.com/user/rwenderlich <br>
+ <br>Useful Websites - <br> https://www.raywenderlich.com/7475-metal-tutorial-getting-started <br> https://developer.apple.com/metal/sample-code/ <br>
+ https://donaldpinckney.com/metal/2018/07/05/metal-intro-1.html <br> https://metalbyexample.com <br> http://englishonlineclub.com/pdf/Metal%20Programming%20Guide%20-%20Comprehensive%20Tutorial%20and%20Reference%20via%20Swift%20(Rough%20Cuts)%20[EnglishOnlineClub.com].pdf <br>
+ <br>Dedicated Github page - <br> https://github.com/dehesa/Metal <br> https://github.com/Hi-Rez/Satin <br> https://github.com/twohyjr/Metal-Game-Engine-Tutorial <br>
+ https://github.com/colin1994/Metal-Practice <br> https://github.com/atveit/SwiftMetalForOSX <br>
+ <br>Best Courses - <br> https://www.udemy.com/course/ios-13-app-development-bootcamp/ <br> https://www.udemy.com/course/ios11-app-development-bootcamp/ <br>
+ https://www.udemy.com/course/devslopes-ios10/ <br>
+ <br>Other Tips / Hacks - <br> https://developer.apple.com/videos/play/wwdc2017/607/ <br> https://developer.apple.com/library/archive/documentation/3DDrawing/Conceptual/MTLBestPracticesGuide/index.html <br>
+ </details>
+
+<details>
 <summary>MongoDB </summary>
 <br>Category/Type - <br>Document-oriented database<br>
 <br>Official Documentation - <br> https://docs.mongodb.com <br>
@@ -977,6 +992,59 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 <br>https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks<br>
 <br><br>
 </details> 
+
+<details>
+<summary>Ruby </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://www.ruby-lang.org/en/documentation/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=t_ispmWmdjY <br>
+https://www.youtube.com/watch?v=Dji9ALCgfpM <br>
+https://www.youtube.com/watch?v=SHzeVBrW_rA&list=PLlxmoA0rQ-Lx45j3D6da7-Iqvo5wtjKBm <br>
+https://www.youtube.com/watch?v=WJlfVjGt6Hg <br>
+https://www.youtube.com/playlist?list=PLgPJX9sVy92yefe1xmyxgcyXjxmLHsSEV <br>
+https://www.youtube.com/watch?v=c7FExaJY9A4 <br>
+<br>
+Useful Websites -
+<br>
+https://www.ruby-lang.org/en/downloads/ <br>
+https://www.codeconquest.com/blog/top-50-websites-to-learn-ruby/ <br>
+https://www.reddit.com/r/RubyLang/ <br>
+https://www.reddit.com/r/ruby/ <br>
+https://rubyapi.org/ <br>
+https://www.moesif.com/blog/api-guide/development/api-resources-for-ruby-developers/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/dobs/reddit-base <br>
+https://github.com/markets/awesome-ruby <br>
+https://github.com/sdogruyol/awesome-ruby <br>
+https://github.com/ruby/ruby <br>
+https://github.com/octokit/octokit.rb <br>
+<br>
+Best Courses - <br>
+https://www.codecademy.com/learn/learn-ruby <br>
+https://www.udemy.com/course/learn-ruby-programming-in-ten-easy-steps/ <br>
+https://www.lynda.com/Ruby-training-tutorials/303-0.html <br>
+https://www.udemy.com/course/learn-advanced-level-ruby-programming/<br>
+https://www.udemy.com/course/ruby-programming-for-everyone/ <br>
+<br>
+Other Tips / Hacks - <br>
+http://www.rubyinside.com/21-ruby-tricks-902.html <br>
+https://www.rubyguides.com/2016/01/ruby-tricks/ <br>
+https://devblast.com/b/ruby-tricks-improve-code <br>
+https://medium.com/rubycademy/5-ruby-tips-you-probably-dont-know-76fee34cfd0c <br>
+https://flatironschool.com/blog/10-quick-ruby-tricks <br>
+https://www.smartly.io/blog/ruby-tricks-for-curious-developer <br>
+<br>
+<a href="https://camo.githubusercontent.com/29c0b02e754bb2093772319627d43fcf8748f649166325fdbda16f07b45363af/68747470733a2f2f692e696d6775722e636f6d2f6b5951786767772e706e67">
+  <img align="center" src="https://camo.githubusercontent.com/29c0b02e754bb2093772319627d43fcf8748f649166325fdbda16f07b45363af/68747470733a2f2f692e696d6775722e636f6d2f6b5951786767772e706e67" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 
 <details>
 <summary>SciPy</summary>
