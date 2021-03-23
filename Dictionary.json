@@ -431,6 +431,39 @@
 		"Tips1" : "https://docs.oracle.com/en/cloud/saas/applications-common/20b/cgsac/groovy-tips-and-techniques.html#groovy-tips-and-techniques",
 		"Tips2" : "https://www.infoq.com/presentations/groovy-features/"
 	},
+	
+	{
+		"Title" : "Heroku",
+		"Tag": "Cloud Application Platform",
+		"Documentation" : "https://devcenter.heroku.com/categories/reference",
+		"YT1 " : "https://www.youtube.com/watch?v=aUW5GAFhu6s",
+		"YT2 " : "https://www.youtube.com/playlist?list=PL7hyQeCP1V6SLJOBVgh5gVnHwBFyEqF6a",
+		"YT3 " : "https://www.youtube.com/watch?v=QTOkqzCTGxw",
+		"YT4 " : "https://www.youtube.com/watch?v=ncHGkYmIBRE",
+		"YT5 " : "https://www.youtube.com/watch?v=MxfxiR8TVNU",
+		"YT6" : "https://www.youtube.com/watch?v=dn4mmfbletg",
+		"YT7": "https://www.youtube.com/watch?v=i3jkwcTC9F4",
+		"Website1": "https://devcenter.heroku.com/start",
+		"Website2": "https://readwrite.com/2014/09/23/heroku-for-beginners-app-hosting-101/",
+		"Website3": "https://awesomeopensource.com/projects/heroku",
+		"Website4": "https://www.xplenty.com/blog/how-to-use-heroku/",
+		"Website5": "https://cs.gmu.edu/~offutt/classes/432/instructions/GithubHeroku-servlets.html",
+		"Dedicated GH page1" : "https://github.com/heroku",
+		"Dedicated GH page2" : "https://github.com/ianstormtaylor/awesome-heroku",
+		"Dedicated GH page3" : "https://github.com/dwyl/learn-heroku",
+		"Dedicated GH page4" : "https://github.com/heroku/cli",
+		"Course1" : "https://www.udemy.com/course/learn-quickly-deploying-spring-boot-app-on-heroku-with-mysql/",
+		"Course2" : "https://www.udacity.com/course/deploying-applications-with-heroku--ud272",
+		"Course3" : "https://www.pluralsight.com/courses/heroku-getting-started",
+		"Course4" : "https://www.udemy.com/course/salesforce-integration-with-heroku/",
+		"Course5": "https://www.udemy.com/course/learn-quickly-deploying-spring-boot-app-on-heroku-with-mysql/",
+		"Tips1" : "https://blog.heroku.com/six-strategies-deploy-to-heroku",
+		"Tips2" : "https://thoughtbot.com/upcase/videos/heroku-tips-and-tricks",
+		"Tips3" : "https://devhints.io/heroku",
+		"Tips4" : "https://github.com/mailtoharshit/awesome-heroku-commands",
+		"Tips5" : "https://www.freecodecamp.org/news/how-to-deploy-a-nodejs-app-to-heroku-from-github-without-installing-heroku-on-your-machine-433bec770efe/"
+	},
+
 
 	{
 		"Title" : "Hibernate",
