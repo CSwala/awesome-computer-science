@@ -1008,6 +1008,77 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 </details> 
 
 <details>
+ <summary> Redis </summary>
+ <br>Category/Type - <br> In-memory key–value database <br>
+ <br>Official Documentation - <br> https://redis.io/documentation <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/TechGuyWeb <br>
+https://www.youtube.com/channel/UCD78lHSwYqMlyetR0_P4Vig <br> https://www.youtube.com/playlist?list=PLS1QulWo1RIYZZxQdap7Sd0ARKFI-XVsd <br>
+https://www.youtube.com/playlist?list=PLhW3qG5bs-L8n1fsiT8z_VnDhnUk4vaVq <br> https://www.youtube.com/playlist?list=PLXM5y5j_b0mMdVF5p_2ug_b5tWqah_tfJ <br>
+ <br>Useful Websites - <br> https://www.tutorialspoint.com/redis/index.htm <br> https://redis.io/topics/introduction <br> https://www.javatpoint.com/redis-tutorial <br>
+ https://www.w3resource.com/redis/ <br> https://redislabs.com/ebook/part-1-getting-started/chapter-1-getting-to-know-redis/ <br> https://auth0.com/blog/introduction-to-redis-install-cli-commands-and-data-types/ <br>
+ <br>Dedicated Github page - <br> https://github.com/JamzyWang/awesome-redis <br> https://github.com/janl/awesome <br> https://github.com/redis/redis <br>
+ https://github.com/pranavgupta1234/awesome-redis-optimizations <br>
+ <br>Best Courses - <br> https://www.udemy.com/course/learn-redis-and-utilize-jedis-with-spring-data-redis/ <br> https://www.udemy.com/course/learn-redis/ <br>
+https://www.udemy.com/course/redis-bootcamp-for-beginners/ <br> https://www.udemy.com/course/redis-latest/ <br> https://www.lynda.com/Redis-tutorials/Learning-Redis/642501-2.html <br>
+ <br>Other Tips / Hacks - <br> https://www.objectrocket.com/blog/how-to/10-quick-tips-about-redis/ <br> https://dzone.com/articles/tips-amp-tricks-to-using-keys-innbspredis <br>
+ https://medium.com/swlh/use-the-source-redis-internal-tricks-5a8b735b9ef0 <br> http://dmitrypol.github.io/redis/2015/10/15/redis-rails-tips.html <br>
+ <br>
+ </details>
+
+<details>
+<summary>Ruby </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://www.ruby-lang.org/en/documentation/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=t_ispmWmdjY <br>
+https://www.youtube.com/watch?v=Dji9ALCgfpM <br>
+https://www.youtube.com/watch?v=SHzeVBrW_rA&list=PLlxmoA0rQ-Lx45j3D6da7-Iqvo5wtjKBm <br>
+https://www.youtube.com/watch?v=WJlfVjGt6Hg <br>
+https://www.youtube.com/playlist?list=PLgPJX9sVy92yefe1xmyxgcyXjxmLHsSEV <br>
+https://www.youtube.com/watch?v=c7FExaJY9A4 <br>
+<br>
+Useful Websites -
+<br>
+https://www.ruby-lang.org/en/downloads/ <br>
+https://www.codeconquest.com/blog/top-50-websites-to-learn-ruby/ <br>
+https://www.reddit.com/r/RubyLang/ <br>
+https://www.reddit.com/r/ruby/ <br>
+https://rubyapi.org/ <br>
+https://www.moesif.com/blog/api-guide/development/api-resources-for-ruby-developers/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/dobs/reddit-base <br>
+https://github.com/markets/awesome-ruby <br>
+https://github.com/sdogruyol/awesome-ruby <br>
+https://github.com/ruby/ruby <br>
+https://github.com/octokit/octokit.rb <br>
+<br>
+Best Courses - <br>
+https://www.codecademy.com/learn/learn-ruby <br>
+https://www.udemy.com/course/learn-ruby-programming-in-ten-easy-steps/ <br>
+https://www.lynda.com/Ruby-training-tutorials/303-0.html <br>
+https://www.udemy.com/course/learn-advanced-level-ruby-programming/<br>
+https://www.udemy.com/course/ruby-programming-for-everyone/ <br>
+<br>
+Other Tips / Hacks - <br>
+http://www.rubyinside.com/21-ruby-tricks-902.html <br>
+https://www.rubyguides.com/2016/01/ruby-tricks/ <br>
+https://devblast.com/b/ruby-tricks-improve-code <br>
+https://medium.com/rubycademy/5-ruby-tips-you-probably-dont-know-76fee34cfd0c <br>
+https://flatironschool.com/blog/10-quick-ruby-tricks <br>
+https://www.smartly.io/blog/ruby-tricks-for-curious-developer <br>
+<br>
+<a href="https://camo.githubusercontent.com/29c0b02e754bb2093772319627d43fcf8748f649166325fdbda16f07b45363af/68747470733a2f2f692e696d6775722e636f6d2f6b5951786767772e706e67">
+  <img align="center" src="https://camo.githubusercontent.com/29c0b02e754bb2093772319627d43fcf8748f649166325fdbda16f07b45363af/68747470733a2f2f692e696d6775722e636f6d2f6b5951786767772e706e67" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>SciPy</summary>
 <br>
 Category/Type - <br>
