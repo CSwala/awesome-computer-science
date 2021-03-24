@@ -52,6 +52,25 @@ https://www.udemy.com/course/diveintoansible/ <br> https://www.udemy.com/course/
 </details>
 
 <details>
+ <summary> Apache Kafka </summary>
+ <br>Category/Type - <br> Distributed computing <br>
+ <br>Official Documentation - <br> https://kafka.apache.org/documentation/ <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/user/Nephaste20 <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/channel/UCmZz-Gj3caLLzEWBtbYUXaA <br>
+https://www.youtube.com/user/intellipaaat <br> https://www.youtube.com/playlist?list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON <br> https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA <br>
+https://www.youtube.com/playlist?list=PLlBQ_B5-H_xhEHUC6OWI0eide_4wbt8Eo <br>
+ <br>Useful Websites - <br> https://kafka.apache.org/quickstart <br> https://www.tutorialspoint.com/apache_kafka/index.htm <br> https://www.confluent.io/learn/kafka-tutorial/ <br>
+ https://www.javatpoint.com/apache-kafka <br> https://dzone.com/articles/introduction-to-apache-kafka-1 <br> https://howtodoinjava.com/kafka/tutorial-introduction/ <br>
+ <br>Dedicated Github page - <br> https://github.com/infoslack/awesome-kafka <br> https://github.com/dharmeshkakadia/awesome-kafka <br> https://github.com/streamthoughts/awesome-opensource-contribs-kafka <br>
+ https://github.com/alonsoir/awesome-recommendation-engine <br> https://github.com/jitendra3109/ApacheKafka <br>
+ <br>Best Courses - <br> https://www.udemy.com/course/apache-kafka/ <br> https://www.udemy.com/course/kafka-cluster-setup/ <br>
+ https://www.udemy.com/course/apache-kafka-for-developers-using-springboot/ <br> https://www.confluent.io/training/ <br>
+ <br>Other Tips / Hacks - <br> https://www.infoq.com/articles/apache-kafka-best-practices-to-optimize-your-deployment/ <br> https://www.confluent.io/blog/5-things-every-kafka-developer-should-know/ <br>
+ https://dzone.com/articles/20-best-practices-for-working-with-apache-kafka-at <br> https://blog.softwaremill.com/7-mistakes-when-using-apache-kafka-44358cd9cd6 <br>
+https://www.slideshare.net/AllThingsOpen/tips-and-tricks-for-operating-apache-kafka <br>
+ <br>
+ </details>
+
+<details>
 <summary>Apache OpenJPA </summary>
 <br>Category/Type - <br>object-relational mapping (ORM)<br>
 <br>Official Documentation - <br>http://openjpa.apache.org/documentation.html<br>
@@ -60,6 +79,69 @@ https://www.udemy.com/course/diveintoansible/ <br> https://www.udemy.com/course/
 <br>Dedicated Github page - <br>https://github.com/apache/openjpa <br>
 <br>Best Courses - <br>https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/<br>https://www.udemy.com/course/hibernate-and-jpa-fundamentals/<br>https://www.udemy.com/course/hibernate-and-java-persistence-api-jpa-fundamentals/<br>
 <br>Other Tips / Hacks - <br>https://www.adam-bien.com/roller/abien/entry/if_you_like_to_build<br><br>
+<br><br><br>
+</details>
+
+<details>
+<summary>Angular JS </summary>
+<br>
+Category/Type - <br>Web Framework <br>
+<br>
+Official Documentation - <br>
+https://angular.io/docs <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=zKkUN-mJtPQ <br>
+https://www.youtube.com/watch?v=0E4TDq75rDE <br>
+https://www.youtube.com/watch?v=OPxeCiy0RdY <br>
+https://www.youtube.com/watch?v=FlUCU13dJyo <br>
+https://www.youtube.com/watch?v=s3qZF4jhgDo <br>
+https://www.youtube.com/watch?v=aCOBakZSdmE <br>
+https://www.youtube.com/watch?v=nYVz71Q12yE <br>
+https://www.youtube.com/watch?v=QETUuZ27N0w <br>
+<br>
+Useful Websites -
+<br>
+https://angularjs.org/ <br>
+https://clockwise.software/blog/best-angular-applications/ <br>
+https://stfalcon.com/en/blog/post/large-websites-using-AngularJS <br>
+https://www.creative-tim.com/blog/angularjs/angular-js-75-examples-websites-applications-experiments/ <br>
+https://wiredelta.com/10-most-popular-angular-websites-of-2020/ <br>
+https://www.zarantech.com/blog/top-15-websites-and-applications-built-with-angularjs/ <br>
+https://codecondo.com/15-best-resources-for-developers-to-learn-angularjs/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/angular/angular.js/ <br>
+https://github.com/angular/angularjs.org <br>
+https://github.com/gothinkster/angularjs-realworld-example-app <br>
+https://github.com/PatrickJS/awesome-angular <br>
+https://github.com/DanWahlin/CustomerManager <br>
+https://github.com/angular/angular-seed <br>
+https://github.com/RevillWeb/angularjs-by-example <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/learn-angularjs/ <br>
+https://www.udemy.com/course/angularjs-for-beginners-udemy/ <br>
+https://www.coursera.org/learn/single-page-web-apps-with-angularjs <br>
+https://www.coursera.org/specializations/full-stack-mobile-app-development <br>
+https://www.coursera.org/learn/angular <br>
+https://www.udemy.com/course/maruti-angularjs/ <br>
+https://www.classcentral.com/course/edx-angularjs-framework-fundamentals-7377 <br>
+https://www.codecademy.com/learn/learn-angularjs <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.keycdn.com/blog/angular-performance <br>
+https://www.techbeamers.com/angularjs-tutorial-beginners-essential-tips-tricks/ <br>
+https://www.toptal.com/angular-js/tips-and-practices <br>
+https://www.kiuwan.com/14-tips-for-developing-angularjs-applications/ <br>
+https://eng.localytics.com/tips-and-tricks-for-debugging-unfamiliar-angularjs-code/ <br>
+https://dzone.com/articles/10-tips-for-using-angularjs <br>
+https://medium.com/@tristate/14-tips-to-use-angularjs-effectively-afcaf69d674e <br>
+https://css-tricks.com/using-angularjs-for-data-visualisations/ <br>
+<br>
+<a href="https://cdn.iconscout.com/icon/free/png-256/angularjs-1175205.png">
+  <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/angularjs-1175205.png" width="500" height="500"/>
+</a>
 <br><br><br>
 </details>
 
@@ -431,6 +513,49 @@ https://www.youtube.com/watch?v=6TPDK6MOkz4<br> https://www.youtube.com/watch?v=
 https://www.youtube.com/watch?v=KHohVibqePw<br>
 <br>Other Tips / Hacks - <br> https://www.slideshare.net/ThorbenJanssen/hibernate-tips-n-tricks-15-tips-to-solve-common-problems<br>
 <br><br>
+</details>
+
+<details>
+<summary>HTML </summary>
+<br>Category/Type - Markup Language<br>
+<br>Official Documentation - <br>https://html.spec.whatwg.org/<br>
+<br>Best YouTube Creators - <br>
+https://www.youtube.com/channel/UC2FYFz_AQaKBMyrZe1Rrqyg<br>
+https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw<br>
+https://www.youtube.com/user/thenewboston<br>
+https://www.youtube.com/user/flashbuilding<br>
+<br>Useful Websites<br>
+https://www.w3schools.com/html/<br>
+https://www.internetingishard.com/<br>
+http://html5doctor.com/<br>
+https://stackoverflow.com/questions/tagged/html<br>
+https://www.reddit.com/r/html/<br>
+https://www.w3.org/<br>
+https://developer.mozilla.org/en-US/docs/Web/HTML<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/<br>
+https://www.pluralsight.com/courses/html5-fundamentals<br>
+https://www.coursera.org/learn/html<br>
+https://www.edx.org/learn/html5<br>
+https://www.codecademy.com/learn/learn-html<br>
+https://www.learn-html.org/<br>
+https://scrimba.com/learn/html<br>
+https://www.khanacademy.org/computing/computer-programming/html-css
+https://developer.mozilla.org/en-US/docs/Learn/HTML<br>
+https://www.udacity.com/course/intro-to-html-and-css--ud001<br>
+https://www.linkedin.com/learning/topics/html<br>
+<br> Dedicated Github Pages - <br>
+https://lab.github.com/githubtraining/introduction-to-html<br>
+https://github.com/LearnHTML<br>
+https://github.com/jgthms/marksheet<br>
+https://github.com/4GeeksAcademy/html-tutorial-exercises-course<br>
+<br>Other Tips/Hacks - <br>
+https://html.com/wp-content/uploads/html-cheat-sheet.pdf<br>
+https://digital.com/tools/html-cheatsheet/<br>
+https://hacks.mozilla.org/2016/08/a-few-html-tips/<br>
+https://www.simplehtmlguide.com/cheatsheet.php<br>
+https://www.freelancer.com/articles/web-development/13-cool-tricks-for-html<br>
+https://www.elated.com/10-html-tips-for-beginners/<br>
 </details>
 
 <details>
@@ -1243,6 +1368,66 @@ https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https:
 <br>Other Tips / Hacks - <br>https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices<br>https://webglfundamentals.org/webgl/lessons/webgl-tips.html<br>https://forum.unity.com/threads/tips-and-tricks-for-using-webgl-on-mobile-tested-up-to-2018-3-13f1.666121/<br>https://webglinsights.github.io/tips.html<br>
 <a href="https://www.soft8soft.com/wp-content/uploads/2018/08/blender_to_webgl.jpg">
   <img align="center" src="https://www.soft8soft.com/wp-content/uploads/2018/08/blender_to_webgl.jpg" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
+<summary>WordPress </summary>
+<br>
+Category/Type - <br>Application programming interface <br>
+<br>
+Official Documentation - <br>
+https://wordpress.com/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=B4MXA_yj8oI <br>
+https://www.youtube.com/watch?v=EwiEcmbPjo0 <br>
+https://www.youtube.com/watch?v=8OBfr46Y0cQ <br>
+https://www.youtube.com/watch?v=EXKwAk0j3k8 <br>
+https://www.youtube.com/watch?v=oB6b5P6bcZg <br>
+https://www.youtube.com/watch?v=8AZ8GqW5iak <br>
+https://www.youtube.com/watch?v=Jt8_0YpTJNM <br>
+<br>
+Useful Websites -
+<br>
+https://wordpress.org/download/ <br>
+https://www.smashingmagazine.com/2016/02/beginners-guide-creating-wordpress-website/ <br>
+https://themeisle.com/blog/must-have-plugins-for-wordpress/ <br>
+https://www.wpbeginner.com/wp-tutorials/25-extremely-useful-tricks-for-the-wordpress-functions-file/ <br>
+https://vegibit.com/the-top-100-most-commonly-used-wordpress-functions/ <br>
+https://www.wpbeginner.com/showcase/25-most-useful-wordpress-widgets-for-your-site/ <br>
+https://www.wpexplorer.com/best-wordpress-widget-plugins/ <br>
+https://smartwp.com/code-snippets-for-wordpress/ <br>
+https://wpmudev.com/blog/shun-the-plugin-100-wordpress-code-snippets-from-across-the-net/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/WordPress/wordpress-develop <br>
+https://github.com/miziomon/awesome-wordpress <br>
+https://github.com/designwall/Awesome-WordPress-Plugins <br>
+https://github.com/arnabwahid/wordpress-bootstrap <br>
+https://github.com/mhoofman/wordpress-heroku <br>
+https://github.com/wordpress-mobile/WordPress-Android <br>
+https://github.com/wordpress-mobile/WordPress-iOS <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/ultimate-wordpress-masterclass-2-dashboard-expert/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.INDIA_ti.8322&utm_content=deal4584&utm_term=_._ag_82381207618_._ad_437511380767_._kw__._de_c_._dm__._pl__._ti_dsa-774930032289_._li_9062203_._pd__._&matchtype=b&gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQit_mICl8p6yDwWojfcO7_nOTAHaZjbBjaTUjDOWmHze_vWyQooo9yYaAh0yEALw_wcB <br>
+https://www.udemy.com/course/wordpress-for-beginners-course/ <br>
+https://www.udemy.com/course/the-complete-wordpress-website-business-course/ <br>
+https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/ <br>
+https://www.lynda.com/WordPress-training-tutorials/330-0.html <br>
+https://wpapprentice.com/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.wpbeginner.com/wp-tutorials/55-most-wanted-wordpress-tips-tricks-and-hacks/ <br>
+https://www.websitebuilderexpert.com/wordpress/beginner-tips/ <br>
+https://www.collectiveray.com/wordpress-tips-tricks-hacks <br>
+https://www.quicksprout.com/wordpress-tips-every-webmaster-needs-to-know/ <br>
+https://fitsmallbusiness.com/wordpress-tips-and-tricks/ <br>
+https://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/ <br>
+<br>
+<a href="https://s.w.org/style/images/about/WordPress-logotype-standard.png">
+  <img align="center" src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" width="900" height="500"/>
 </a>
 <br><br><br>
 </details>
