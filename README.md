@@ -1266,6 +1266,66 @@ https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https:
 <br><br><br>
 </details>
 
+<details>
+<summary>WordPress </summary>
+<br>
+Category/Type - <br>Application programming interface <br>
+<br>
+Official Documentation - <br>
+https://wordpress.com/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=B4MXA_yj8oI <br>
+https://www.youtube.com/watch?v=EwiEcmbPjo0 <br>
+https://www.youtube.com/watch?v=8OBfr46Y0cQ <br>
+https://www.youtube.com/watch?v=EXKwAk0j3k8 <br>
+https://www.youtube.com/watch?v=oB6b5P6bcZg <br>
+https://www.youtube.com/watch?v=8AZ8GqW5iak <br>
+https://www.youtube.com/watch?v=Jt8_0YpTJNM <br>
+<br>
+Useful Websites -
+<br>
+https://wordpress.org/download/ <br>
+https://www.smashingmagazine.com/2016/02/beginners-guide-creating-wordpress-website/ <br>
+https://themeisle.com/blog/must-have-plugins-for-wordpress/ <br>
+https://www.wpbeginner.com/wp-tutorials/25-extremely-useful-tricks-for-the-wordpress-functions-file/ <br>
+https://vegibit.com/the-top-100-most-commonly-used-wordpress-functions/ <br>
+https://www.wpbeginner.com/showcase/25-most-useful-wordpress-widgets-for-your-site/ <br>
+https://www.wpexplorer.com/best-wordpress-widget-plugins/ <br>
+https://smartwp.com/code-snippets-for-wordpress/ <br>
+https://wpmudev.com/blog/shun-the-plugin-100-wordpress-code-snippets-from-across-the-net/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/WordPress/wordpress-develop <br>
+https://github.com/miziomon/awesome-wordpress <br>
+https://github.com/designwall/Awesome-WordPress-Plugins <br>
+https://github.com/arnabwahid/wordpress-bootstrap <br>
+https://github.com/mhoofman/wordpress-heroku <br>
+https://github.com/wordpress-mobile/WordPress-Android <br>
+https://github.com/wordpress-mobile/WordPress-iOS <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/ultimate-wordpress-masterclass-2-dashboard-expert/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.INDIA_ti.8322&utm_content=deal4584&utm_term=_._ag_82381207618_._ad_437511380767_._kw__._de_c_._dm__._pl__._ti_dsa-774930032289_._li_9062203_._pd__._&matchtype=b&gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQit_mICl8p6yDwWojfcO7_nOTAHaZjbBjaTUjDOWmHze_vWyQooo9yYaAh0yEALw_wcB <br>
+https://www.udemy.com/course/wordpress-for-beginners-course/ <br>
+https://www.udemy.com/course/the-complete-wordpress-website-business-course/ <br>
+https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/ <br>
+https://www.lynda.com/WordPress-training-tutorials/330-0.html <br>
+https://wpapprentice.com/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.wpbeginner.com/wp-tutorials/55-most-wanted-wordpress-tips-tricks-and-hacks/ <br>
+https://www.websitebuilderexpert.com/wordpress/beginner-tips/ <br>
+https://www.collectiveray.com/wordpress-tips-tricks-hacks <br>
+https://www.quicksprout.com/wordpress-tips-every-webmaster-needs-to-know/ <br>
+https://fitsmallbusiness.com/wordpress-tips-and-tricks/ <br>
+https://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/ <br>
+<br>
+<a href="https://s.w.org/style/images/about/WordPress-logotype-standard.png">
+  <img align="center" src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" width="900" height="500"/>
+</a>
+<br><br><br>
+</details>
+
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)

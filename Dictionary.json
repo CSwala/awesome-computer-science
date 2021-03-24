@@ -1526,7 +1526,51 @@
 		"Tips3" : "https://forum.unity.com/threads/tips-and-tricks-for-using-webgl-on-mobile-tested-up-to-2018-3-13f1.666121/",
 		"Tips4" : "https://webglinsights.github.io/tips.html",
 		"Image1" : "https://www.soft8soft.com/wp-content/uploads/2018/08/blender_to_webgl.jpg"
+	},
+	
+	{	
+		"Title" : "WordPress ",
+		"Tag": "Application programming interface",
+		"Documentation" : "https://wordpress.com/ ",
+		"YT1 " :"https://www.youtube.com/watch?v=B4MXA_yj8oI ",
+		"YT2 " :"https://www.youtube.com/watch?v=EwiEcmbPjo0 ",
+		"YT3 " :"https://www.youtube.com/watch?v=8OBfr46Y0cQ ",
+		"YT4 " :"https://www.youtube.com/watch?v=EXKwAk0j3k8 ",
+		"YT5 " :"https://www.youtube.com/watch?v=oB6b5P6bcZg ",
+		"YT6 " :"https://www.youtube.com/watch?v=8AZ8GqW5iak ",
+		"YT7 " :"https://www.youtube.com/watch?v=Jt8_0YpTJNM ",
+		"Website1": "https://wordpress.org/download/ ",
+		"Website2": "https://www.smashingmagazine.com/2016/02/beginners-guide-creating-wordpress-website/ ",
+		"Website3": "https://themeisle.com/blog/must-have-plugins-for-wordpress/ ",
+		"Website4": "https://www.wpbeginner.com/wp-tutorials/25-extremely-useful-tricks-for-the-wordpress-functions-file/ ",
+		"Website5": "https://vegibit.com/the-top-100-most-commonly-used-wordpress-functions/ ",
+		"Website6": "https://www.wpbeginner.com/showcase/25-most-useful-wordpress-widgets-for-your-site/ ",
+		"Website7": "https://www.wpexplorer.com/best-wordpress-widget-plugins/ ",
+		"Website8": "https://smartwp.com/code-snippets-for-wordpress/ ",
+		"Website9": "https://wpmudev.com/blog/shun-the-plugin-100-wordpress-code-snippets-from-across-the-net/ ",
+		"Dedicated GH page1" : "https://github.com/WordPress/wordpress-develop ",
+		"Dedicated GH page2" : "https://github.com/miziomon/awesome-wordpress ",
+		"Dedicated GH page3" : "https://github.com/designwall/Awesome-WordPress-Plugins ",
+		"Dedicated GH page4" : "https://github.com/arnabwahid/wordpress-bootstrap ",
+		"Dedicated GH page5" : "https://github.com/mhoofman/wordpress-heroku ",
+		"Dedicated GH page6" : "https://github.com/wordpress-mobile/WordPress-Android ",
+		"Dedicated GH page7" : "https://github.com/wordpress-mobile/WordPress-iOS ",
+		"Course1" : "https://www.udemy.com/course/ultimate-wordpress-masterclass-2-dashboard-expert/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.INDIA_ti.8322&utm_content=deal4584&utm_term=_._ag_82381207618_._ad_437511380767_._kw__._de_c_._dm__._pl__._ti_dsa-774930032289_._li_9062203_._pd__._&matchtype=b&gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQit_mICl8p6yDwWojfcO7_nOTAHaZjbBjaTUjDOWmHze_vWyQooo9yYaAh0yEALw_wcB ",
+		"Course2" : "https://www.udemy.com/course/wordpress-for-beginners-course/ ",
+		"Course3" : "https://www.udemy.com/course/the-complete-wordpress-website-business-course/ ",
+		"Course4" : "https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/ ",
+		"Course5" : "https://www.lynda.com/WordPress-training-tutorials/330-0.html ",
+		"Course6" : "https://wpapprentice.com/ ",
+		"Tips1" : "https://www.wpbeginner.com/wp-tutorials/55-most-wanted-wordpress-tips-tricks-and-hacks/ ",
+		"Tips2" : "https://www.websitebuilderexpert.com/wordpress/beginner-tips/ ",
+		"Tips3" : "https://www.collectiveray.com/wordpress-tips-tricks-hacks ",
+		"Tips4" : "https://www.quicksprout.com/wordpress-tips-every-webmaster-needs-to-know/ ",
+		"Tips5" : "https://fitsmallbusiness.com/wordpress-tips-and-tricks/ ",
+		"Tips6" : "https://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/ ",
+		"Image1":"https://s.w.org/style/images/about/WordPress-logotype-standard.png" 
+
 	}
+
 	
 	]
 
