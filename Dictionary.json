@@ -96,6 +96,53 @@
 		"Course3" : "https://www.udemy.com/course/hibernate-and-java-persistence-api-jpa-fundamentals/",
 		"Tips1" : "https://www.adam-bien.com/roller/abien/entry/if_you_like_to_build"
 		},
+	
+	{	
+		"Title" : "Angular JS ",
+		"Tag": "Web Framework ",
+		"Documentation" : "https://angular.io/docs ",
+		"YT1 " : "https://www.youtube.com/watch?v=zKkUN-mJtPQ ",
+		"YT2 " :"https://www.youtube.com/watch?v=0E4TDq75rDE ",
+		"YT3 " :"https://www.youtube.com/watch?v=OPxeCiy0RdY ",
+		"YT4 " :"https://www.youtube.com/watch?v=FlUCU13dJyo ",
+		"YT5 " :"https://www.youtube.com/watch?v=s3qZF4jhgDo ",
+		"YT6 " :"https://www.youtube.com/watch?v=aCOBakZSdmE ",
+		"YT7 " :"https://www.youtube.com/watch?v=nYVz71Q12yE ",
+		"YT8 " :"https://www.youtube.com/watch?v=QETUuZ27N0w ",
+		"Website1": "https://angularjs.org/ ",
+		"Website2": "https://clockwise.software/blog/best-angular-applications/ ",
+		"Website3": "https://stfalcon.com/en/blog/post/large-websites-using-AngularJS ",
+		"Website4": "https://www.creative-tim.com/blog/angularjs/angular-js-75-examples-websites-applications-experiments/ ",
+		"Website5": "https://wiredelta.com/10-most-popular-angular-websites-of-2020/ ",
+		"Website6": "https://www.zarantech.com/blog/top-15-websites-and-applications-built-with-angularjs/ ",
+		"Website7": "https://codecondo.com/15-best-resources-for-developers-to-learn-angularjs/ ",
+		"Dedicated GH page1" : "https://github.com/angular/angular.js/ ",
+		"Dedicated GH page2" : "https://github.com/angular/angularjs.org ",
+		"Dedicated GH page3" : "https://github.com/gothinkster/angularjs-realworld-example-app ",
+		"Dedicated GH page4" : "https://github.com/PatrickJS/awesome-angular ",
+		"Dedicated GH page5" : "https://github.com/DanWahlin/CustomerManager ",
+		"Dedicated GH page6" : "https://github.com/angular/angular-seed ",
+		"Dedicated GH page7" : "https://github.com/RevillWeb/angularjs-by-example ",
+		"Course1" : "https://www.udemy.com/course/learn-angularjs/ ",
+		"Course2" : "https://www.udemy.com/course/angularjs-for-beginners-udemy/ ",
+		"Course3" : "https://www.coursera.org/learn/single-page-web-apps-with-angularjs ",
+		"Course4" : "https://www.coursera.org/specializations/full-stack-mobile-app-development ",
+		"Course5" : "https://www.coursera.org/learn/angular ",
+		"Course6" : "https://www.udemy.com/course/maruti-angularjs/ ",
+		"Course7" : "https://www.classcentral.com/course/edx-angularjs-framework-fundamentals-7377 ",
+		"Course8" : "https://www.codecademy.com/learn/learn-angularjs ",
+		"Tips1" : "https://www.keycdn.com/blog/angular-performance ",
+		"Tips2" : "https://www.techbeamers.com/angularjs-tutorial-beginners-essential-tips-tricks/ ",
+		"Tips3" : "https://www.toptal.com/angular-js/tips-and-practices ",
+		"Tips4" : "https://www.kiuwan.com/14-tips-for-developing-angularjs-applications/ ",
+		"Tips5" : "https://eng.localytics.com/tips-and-tricks-for-debugging-unfamiliar-angularjs-code/ ",
+		"Tips6" : "https://dzone.com/articles/10-tips-for-using-angularjs ",
+		"Tips7" : "https://medium.com/@tristate/14-tips-to-use-angularjs-effectively-afcaf69d674e ",
+		"Tips8" : "https://css-tricks.com/using-angularjs-for-data-visualisations/ ",
+		"Image1":"https://cdn.iconscout.com/icon/free/png-256/angularjs-1175205.png" 
+
+	},
+	
 
 	{	"Title" : "Blender",
 		"Tag": "3D modeling and animation program",
@@ -118,6 +165,7 @@
 		"Image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5p85jNnxdlbr0zyFu1KCgwK_Idk-ilss4_g&usqp=CAU" 
 		
 			},
+
 
 	{
 	"Title" : "Bootstrap",
