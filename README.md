@@ -157,6 +157,7 @@ https://www.pluralsight.com/guides/tips-for-writing-better-c-code <br> https://w
 <br>Category/Type - <br>Programming Language<br>
 <br>Official Documentation - <br>https://devdocs.io/cpp/<br>
 <br>Best YouTube creators - <br>https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ<br>https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww<br>https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg<br>
+https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA <br>
 <br>Useful Websites - <br>https://www.reddit.com/r/cpp/<br>https://stackoverflow.com/questions/tagged/C++<br>
 <br>Dedicated Github page - <br>https://gist.github.com/johnmcfarlane/1b2d9c83e4d3f700ba61e2df4077c613<br>https://github.com/fffaraz/awesome-cpp<br>
 <br>Best Courses - <br>https://www.codingninjas.com/courses/onlline-c-plus-plus-course<br>https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL<br>
