@@ -453,6 +453,49 @@ https://www.youtube.com/watch?v=KHohVibqePw<br>
 </details>
 
 <details>
+<summary>HTML </summary>
+<br>Category/Type - Markup Language<br>
+<br>Official Documentation - <br>https://html.spec.whatwg.org/<br>
+<br>Best YouTube Creators - <br>
+https://www.youtube.com/channel/UC2FYFz_AQaKBMyrZe1Rrqyg<br>
+https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw<br>
+https://www.youtube.com/user/thenewboston<br>
+https://www.youtube.com/user/flashbuilding<br>
+<br>Useful Websites<br>
+https://www.w3schools.com/html/<br>
+https://www.internetingishard.com/<br>
+http://html5doctor.com/<br>
+https://stackoverflow.com/questions/tagged/html<br>
+https://www.reddit.com/r/html/<br>
+https://www.w3.org/<br>
+https://developer.mozilla.org/en-US/docs/Web/HTML<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/<br>
+https://www.pluralsight.com/courses/html5-fundamentals<br>
+https://www.coursera.org/learn/html<br>
+https://www.edx.org/learn/html5<br>
+https://www.codecademy.com/learn/learn-html<br>
+https://www.learn-html.org/<br>
+https://scrimba.com/learn/html<br>
+https://www.khanacademy.org/computing/computer-programming/html-css
+https://developer.mozilla.org/en-US/docs/Learn/HTML<br>
+https://www.udacity.com/course/intro-to-html-and-css--ud001<br>
+https://www.linkedin.com/learning/topics/html<br>
+<br> Dedicated Github Pages - <br>
+https://lab.github.com/githubtraining/introduction-to-html<br>
+https://github.com/LearnHTML<br>
+https://github.com/jgthms/marksheet<br>
+https://github.com/4GeeksAcademy/html-tutorial-exercises-course<br>
+<br>Other Tips/Hacks - <br>
+https://html.com/wp-content/uploads/html-cheat-sheet.pdf<br>
+https://digital.com/tools/html-cheatsheet/<br>
+https://hacks.mozilla.org/2016/08/a-few-html-tips/<br>
+https://www.simplehtmlguide.com/cheatsheet.php<br>
+https://www.freelancer.com/articles/web-development/13-cool-tricks-for-html<br>
+https://www.elated.com/10-html-tips-for-beginners/<br>
+</details>
+
+<details>
 <summary>Java </summary>
 <br>Category/Type - <br>
 Programming Language<br>
