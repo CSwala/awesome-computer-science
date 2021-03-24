@@ -49,6 +49,38 @@
 	
 		},
 
+		{	"Title" : "Apache Kafka",
+			"Tag": "Distributed computing",
+			"Documentation" : "https://kafka.apache.org/documentation/",
+			"YT1" : "https://www.youtube.com/user/Nephaste20",
+			"YT2" : "https://www.youtube.com/user/edurekaIN",
+			"YT3" : "https://www.youtube.com/channel/UCmZz-Gj3caLLzEWBtbYUXaA",
+			"YT4" : "https://www.youtube.com/user/intellipaaat",
+			"YT5" : "https://www.youtube.com/playlist?list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON",
+			"YT6" : "https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA",
+			"YT7" : "https://www.youtube.com/playlist?list=PLlBQ_B5-H_xhEHUC6OWI0eide_4wbt8Eo",
+			"Website1": "https://kafka.apache.org/quickstart",
+			"Website2": "https://www.tutorialspoint.com/apache_kafka/index.htm",
+			"Website3": "https://www.confluent.io/learn/kafka-tutorial/",
+			"Website4": "https://www.javatpoint.com/apache-kafka",
+			"Website5": "https://dzone.com/articles/introduction-to-apache-kafka-1",
+			"Website6": "https://howtodoinjava.com/kafka/tutorial-introduction/",
+			"Dedicated GH page1" : "https://github.com/infoslack/awesome-kafka",
+			"Dedicated GH page2" : "https://github.com/dharmeshkakadia/awesome-kafka",
+			"Dedicated GH page3" : "https://github.com/streamthoughts/awesome-opensource-contribs-kafka",
+			"Dedicated GH page4" : "https://github.com/alonsoir/awesome-recommendation-engine",
+			"Dedicated GH page5" : "https://github.com/jitendra3109/ApacheKafka",
+			"Course1" : "https://www.udemy.com/course/apache-kafka/",
+			"Course2" : "https://www.udemy.com/course/kafka-cluster-setup/",
+			"Course3" : "https://www.udemy.com/course/apache-kafka-for-developers-using-springboot/",
+			"Course4" : "https://www.confluent.io/training/",
+			"Tips1" : "https://www.infoq.com/articles/apache-kafka-best-practices-to-optimize-your-deployment/",
+			"Tips2" : "https://www.confluent.io/blog/5-things-every-kafka-developer-should-know/",
+			"Tips3" : "https://dzone.com/articles/20-best-practices-for-working-with-apache-kafka-at",
+			"Tips4" : "https://blog.softwaremill.com/7-mistakes-when-using-apache-kafka-44358cd9cd6",
+			"Tips5" : "https://www.slideshare.net/AllThingsOpen/tips-and-tricks-for-operating-apache-kafka"
+		},
+
 	{
 		"Title" : "Apache OpenJPA",
 		"Tag": "object-relational mapping (ORM)",
@@ -64,6 +96,53 @@
 		"Course3" : "https://www.udemy.com/course/hibernate-and-java-persistence-api-jpa-fundamentals/",
 		"Tips1" : "https://www.adam-bien.com/roller/abien/entry/if_you_like_to_build"
 		},
+	
+	{	
+		"Title" : "Angular JS ",
+		"Tag": "Web Framework ",
+		"Documentation" : "https://angular.io/docs ",
+		"YT1 " : "https://www.youtube.com/watch?v=zKkUN-mJtPQ ",
+		"YT2 " :"https://www.youtube.com/watch?v=0E4TDq75rDE ",
+		"YT3 " :"https://www.youtube.com/watch?v=OPxeCiy0RdY ",
+		"YT4 " :"https://www.youtube.com/watch?v=FlUCU13dJyo ",
+		"YT5 " :"https://www.youtube.com/watch?v=s3qZF4jhgDo ",
+		"YT6 " :"https://www.youtube.com/watch?v=aCOBakZSdmE ",
+		"YT7 " :"https://www.youtube.com/watch?v=nYVz71Q12yE ",
+		"YT8 " :"https://www.youtube.com/watch?v=QETUuZ27N0w ",
+		"Website1": "https://angularjs.org/ ",
+		"Website2": "https://clockwise.software/blog/best-angular-applications/ ",
+		"Website3": "https://stfalcon.com/en/blog/post/large-websites-using-AngularJS ",
+		"Website4": "https://www.creative-tim.com/blog/angularjs/angular-js-75-examples-websites-applications-experiments/ ",
+		"Website5": "https://wiredelta.com/10-most-popular-angular-websites-of-2020/ ",
+		"Website6": "https://www.zarantech.com/blog/top-15-websites-and-applications-built-with-angularjs/ ",
+		"Website7": "https://codecondo.com/15-best-resources-for-developers-to-learn-angularjs/ ",
+		"Dedicated GH page1" : "https://github.com/angular/angular.js/ ",
+		"Dedicated GH page2" : "https://github.com/angular/angularjs.org ",
+		"Dedicated GH page3" : "https://github.com/gothinkster/angularjs-realworld-example-app ",
+		"Dedicated GH page4" : "https://github.com/PatrickJS/awesome-angular ",
+		"Dedicated GH page5" : "https://github.com/DanWahlin/CustomerManager ",
+		"Dedicated GH page6" : "https://github.com/angular/angular-seed ",
+		"Dedicated GH page7" : "https://github.com/RevillWeb/angularjs-by-example ",
+		"Course1" : "https://www.udemy.com/course/learn-angularjs/ ",
+		"Course2" : "https://www.udemy.com/course/angularjs-for-beginners-udemy/ ",
+		"Course3" : "https://www.coursera.org/learn/single-page-web-apps-with-angularjs ",
+		"Course4" : "https://www.coursera.org/specializations/full-stack-mobile-app-development ",
+		"Course5" : "https://www.coursera.org/learn/angular ",
+		"Course6" : "https://www.udemy.com/course/maruti-angularjs/ ",
+		"Course7" : "https://www.classcentral.com/course/edx-angularjs-framework-fundamentals-7377 ",
+		"Course8" : "https://www.codecademy.com/learn/learn-angularjs ",
+		"Tips1" : "https://www.keycdn.com/blog/angular-performance ",
+		"Tips2" : "https://www.techbeamers.com/angularjs-tutorial-beginners-essential-tips-tricks/ ",
+		"Tips3" : "https://www.toptal.com/angular-js/tips-and-practices ",
+		"Tips4" : "https://www.kiuwan.com/14-tips-for-developing-angularjs-applications/ ",
+		"Tips5" : "https://eng.localytics.com/tips-and-tricks-for-debugging-unfamiliar-angularjs-code/ ",
+		"Tips6" : "https://dzone.com/articles/10-tips-for-using-angularjs ",
+		"Tips7" : "https://medium.com/@tristate/14-tips-to-use-angularjs-effectively-afcaf69d674e ",
+		"Tips8" : "https://css-tricks.com/using-angularjs-for-data-visualisations/ ",
+		"Image1":"https://cdn.iconscout.com/icon/free/png-256/angularjs-1175205.png" 
+
+	},
+	
 
 	{	"Title" : "Blender",
 		"Tag": "3D modeling and animation program",
@@ -86,6 +165,7 @@
 		"Image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5p85jNnxdlbr0zyFu1KCgwK_Idk-ilss4_g&usqp=CAU" 
 		
 			},
+
 
 	{
 	"Title" : "Bootstrap",
@@ -343,6 +423,38 @@
 		"Tips3" : "https://www.rootstrap.com/blog/django-best-practices-and-beginner-tips/",
 		"Tips4" : "https://letslearnabout.net/blog/16-tips-for-python-and-django-beginners/"
 	},
+	
+	{	
+		"Title" : "Dart",
+		"Tag": "Programming language",
+		"Documentation" : "https://dart.dev/guides ",
+		"YT1 " : "https://www.youtube.com/watch?v=OLjyCy-7U2U ",
+		"YT2 " :"https://www.youtube.com/watch?v=5rtujDjt50I&list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q ",
+		"YT3 " :"https://www.youtube.com/watch?v=Ej_Pcr4uC2Q ",
+		"YT4 " :"https://www.youtube.com/watch?v=L9onVn8QRaE&list=PLNnAcB93JKV_R1aZc7ZbQRsiEyeDLUpE- ",
+		"Website1": "https://dart.dev/ ",
+		"Website2": "https://news.dartlang.org/2012/03/14-cool-projects-from-dart-community.html ",
+		"Website3": "https://www.reddit.com/r/FlutterDev/?f=flair_name%3A%22Dart%22 ",
+		"Website4": "https://www.reddit.com/r/dartlang/",
+		"Website5": "https://learnpracticeandshare.com/awesome-dart-massive-collection-of-resources/",
+		"Website6": "https://medium.com/codechai/dart-awesome-cheat-sheet-for-flutter-beginners-d8cb52c978e1",
+		"Dedicated GH page1" : "https://github.com/yissachar/awesome-dart ",
+		"Dedicated GH page2" : "https://github.com/smartherd/DartTutorial ",
+		"Dedicated GH page3" : "https://github.com/Dart-Code/Dart-Code ",
+		"Dedicated GH page4" : "https://github.com/dart-lang/googleapis ",
+		"Course1" : "https://www.udemy.com/course/dartlang/",
+		"Course2" : "https://www.udemy.com/course/dart-beginners-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-1ayowRC6m5rAZg8ja6J6vg&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads ",
+		"Course3" : "https://www.udemy.com/course/dart-intermediate-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-Etyzj0FD7fIgZFZJU790rw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads ",
+		"Course4" : "https://www.udemy.com/course/dart-advanced-course/",
+		"Course5" : "https://dart.academy/ ",
+		"Course6" : "https://courses.learncodeonline.in/learn/Dart-Programming-Language ",
+		"Tips1" : "https://codewithandrea.com/videos/top-dart-tips-and-tricks-for-flutter-devs/ ",
+		"Tips2" : "https://dartsguide.net/guides/pro-dart-tips/ ",
+		"Tips3" : "https://www.educative.io/blog/dart-tips-tricks ",
+		"Image1":"https://miro.medium.com/max/3532/1*nucyFw-E5Lotofy1WSWMqw.png " 
+
+	},
+
 
 	{	"Title" : "GIMP",
 		"Tag": "Graphics editor",
@@ -420,6 +532,39 @@
 		"Tips1" : "https://docs.oracle.com/en/cloud/saas/applications-common/20b/cgsac/groovy-tips-and-techniques.html#groovy-tips-and-techniques",
 		"Tips2" : "https://www.infoq.com/presentations/groovy-features/"
 	},
+	
+	{
+		"Title" : "Heroku",
+		"Tag": "Cloud Application Platform",
+		"Documentation" : "https://devcenter.heroku.com/categories/reference",
+		"YT1 " : "https://www.youtube.com/watch?v=aUW5GAFhu6s",
+		"YT2 " : "https://www.youtube.com/playlist?list=PL7hyQeCP1V6SLJOBVgh5gVnHwBFyEqF6a",
+		"YT3 " : "https://www.youtube.com/watch?v=QTOkqzCTGxw",
+		"YT4 " : "https://www.youtube.com/watch?v=ncHGkYmIBRE",
+		"YT5 " : "https://www.youtube.com/watch?v=MxfxiR8TVNU",
+		"YT6" : "https://www.youtube.com/watch?v=dn4mmfbletg",
+		"YT7": "https://www.youtube.com/watch?v=i3jkwcTC9F4",
+		"Website1": "https://devcenter.heroku.com/start",
+		"Website2": "https://readwrite.com/2014/09/23/heroku-for-beginners-app-hosting-101/",
+		"Website3": "https://awesomeopensource.com/projects/heroku",
+		"Website4": "https://www.xplenty.com/blog/how-to-use-heroku/",
+		"Website5": "https://cs.gmu.edu/~offutt/classes/432/instructions/GithubHeroku-servlets.html",
+		"Dedicated GH page1" : "https://github.com/heroku",
+		"Dedicated GH page2" : "https://github.com/ianstormtaylor/awesome-heroku",
+		"Dedicated GH page3" : "https://github.com/dwyl/learn-heroku",
+		"Dedicated GH page4" : "https://github.com/heroku/cli",
+		"Course1" : "https://www.udemy.com/course/learn-quickly-deploying-spring-boot-app-on-heroku-with-mysql/",
+		"Course2" : "https://www.udacity.com/course/deploying-applications-with-heroku--ud272",
+		"Course3" : "https://www.pluralsight.com/courses/heroku-getting-started",
+		"Course4" : "https://www.udemy.com/course/salesforce-integration-with-heroku/",
+		"Course5": "https://www.udemy.com/course/learn-quickly-deploying-spring-boot-app-on-heroku-with-mysql/",
+		"Tips1" : "https://blog.heroku.com/six-strategies-deploy-to-heroku",
+		"Tips2" : "https://thoughtbot.com/upcase/videos/heroku-tips-and-tricks",
+		"Tips3" : "https://devhints.io/heroku",
+		"Tips4" : "https://github.com/mailtoharshit/awesome-heroku-commands",
+		"Tips5" : "https://www.freecodecamp.org/news/how-to-deploy-a-nodejs-app-to-heroku-from-github-without-installing-heroku-on-your-machine-433bec770efe/"
+	},
+
 
 	{
 		"Title" : "Hibernate",
@@ -437,6 +582,44 @@
 		"Course3" : "https://www.youtube.com/watch?v=PMR0ld5h938&list=PLsyeobzWxl7qBZtsEvp_n2A7sJs2MpF3r",
 		"Course4" : "https://www.youtube.com/watch?v=KHohVibqePw",
 		"Tips1" : "https://www.slideshare.net/ThorbenJanssen/hibernate-tips-n-tricks-15-tips-to-solve-common-problems"
+	},
+
+	{
+	"Title" : "HTML",
+	"Tag" : "Markup Language",
+	"Documentation" : "https://html.spec.whatwg.org/",
+	"YT1" : "https://www.youtube.com/channel/UC2FYFz_AQaKBMyrZe1Rrqyg",
+	"YT2" : "https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw",
+	"YT3" : "https://www.youtube.com/user/thenewboston",
+	"YT3 " : "https://www.youtube.com/user/flashbuilding",
+	"Website1" : "https://www.w3schools.com/html/",
+	"Website2" : "https://www.internetingishard.com/",
+	"Website3" : "http://html5doctor.com/",
+	"Website4" : "https://stackoverflow.com/questions/tagged/html",
+	"Website5" : "https://www.reddit.com/r/html/",
+	"Website6" : "https://www.w3.org/",
+	"Website7" : "https://developer.mozilla.org/en-US/docs/Web/HTML",
+	"Course1" : "https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/",
+	"Course2" : "https://www.pluralsight.com/courses/html5-fundamentals",
+	"Course3" : "https://www.coursera.org/learn/html",
+	"Course4" : "https://www.edx.org/learn/html5",
+	"Course5" : "https://www.codecademy.com/learn/learn-html",
+	"Course6" : "https://www.learn-html.org/",
+	"Course7" : "https://scrimba.com/learn/html",
+	"Course8" : "https://www.khanacademy.org/computing/computer-programming/html-css",
+	"Course9" : "https://developer.mozilla.org/en-US/docs/Learn/HTML",
+	"Course10": "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+	"Course11":	"https://www.linkedin.com/learning/topics/html",
+	"Dedicated GH page1" : "https://lab.github.com/githubtraining/introduction-to-html",
+	"Dedicated GH page2" : "https://github.com/LearnHTML",
+	"Dedicated GH page3" : "https://github.com/jgthms/marksheet",
+	"Dedicated GH page4" : "https://github.com/4GeeksAcademy/html-tutorial-exercises-course",
+	"Tips1" : "https://html.com/wp-content/uploads/html-cheat-sheet.pdf",
+	"Tips2" : "https://digital.com/tools/html-cheatsheet/",
+	"Tips3" : "https://hacks.mozilla.org/2016/08/a-few-html-tips/",
+	"Tips4" : "https://www.simplehtmlguide.com/cheatsheet.php",
+	"Tips5" : "https://www.freelancer.com/articles/web-development/13-cool-tricks-for-html",
+	"Tips6" : "https://www.elated.com/10-html-tips-for-beginners/"
 	},
 
 	{
@@ -816,6 +999,31 @@
 						"Image1" : "https://i.ytimg.com/vi/9yzz0dYVmbA/hqdefault.jpg"
 				},
 
+					{	"Title" : "Metal",
+						"Tag": "GPU-accelerated graphics and compute framework",
+						"Documentation" : "https://developer.apple.com/documentation/metal",
+						"YT1" : "https://www.youtube.com/playlist?list=PL23Revp-82LJG3vcDPm8w7b5HTKjBOY0W",
+						"YT2" : "https://www.youtube.com/playlist?list=PLEXt1-oJUa4CeZsjC7Tpk6eUgx3WEgMi9",
+						"YT3" : "https://www.youtube.com/playlist?list=PLEXt1-oJUa4BVgjZt9tK2MhV_DW7PVDsg",
+						"YT4" : "https://www.youtube.com/channel/UC2YJDV1JrhdJ0Tkyy3gWhuw",
+						"YT5" : "https://www.youtube.com/user/rwenderlich",
+						"Website1": "https://www.raywenderlich.com/7475-metal-tutorial-getting-started",
+						"Website2": "https://developer.apple.com/metal/sample-code/",
+						"Website3": "https://donaldpinckney.com/metal/2018/07/05/metal-intro-1.html",
+						"Website4": "https://metalbyexample.com",
+						"Website5": "http://englishonlineclub.com/pdf/Metal%20Programming%20Guide%20-%20Comprehensive%20Tutorial%20and%20Reference%20via%20Swift%20(Rough%20Cuts)%20[EnglishOnlineClub.com].pdf",
+						"Dedicated GH page1" : "https://github.com/dehesa/Metal",
+						"Dedicated GH page2" : "https://github.com/Hi-Rez/Satin",
+						"Dedicated GH page3" : "https://github.com/twohyjr/Metal-Game-Engine-Tutorial",
+						"Dedicated GH page4" : "https://github.com/colin1994/Metal-Practice",
+						"Dedicated GH page5" : "https://github.com/atveit/SwiftMetalForOSX",
+						"Course1" : "https://www.udemy.com/course/ios-13-app-development-bootcamp/",
+						"Course2" : "https://www.udemy.com/course/ios11-app-development-bootcamp/",
+						"Course3" : "https://www.udemy.com/course/devslopes-ios10/",
+						"Tips1" : "https://developer.apple.com/library/archive/documentation/3DDrawing/Conceptual/MTLBestPracticesGuide/index.html",
+						"Tips2" : "https://developer.apple.com/videos/play/wwdc2017/607/"
+					},
+  
 	{	"Title" : "MongoDB",
 		"Tag": "Document-oriented database",
 		"Documentation" : "https://docs.mongodb.com",
@@ -988,6 +1196,34 @@
 			"Tips3" : "https://www.dataquest.io/blog/numpy-cheat-sheet/",
 			"Tips4" : "https://predictivehacks.com/tips-about-numpy-arrays/"
 			},
+			{
+				"Title" : "OpenCv",
+					"Tag": "Python Module",
+					"Documentation" : "https://docs.opencv.org/master/",
+					"YT1 " : "https://www.youtube.com/watch?v=WQeoO7MI0Bs",
+					"YT2 " : "https://www.youtube.com/watch?v=oXlwWbU8l2o",
+					"YT3 " : "https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K" ,
+					"YT4 " : "https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq",
+					"YT5 " :  "https://www.youtube.com/playlist?list=PLkPmSWtWNIyQqAQxZ2S_M6bV67UFTff8e",
+					"Website1" : "https://www.tutorialspoint.com/opencv/opencv_overview.htm",
+					"Website2" : "https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html",
+					"Website3" : "https://www.geeksforgeeks.org/opencv-overview/",
+					"Dedicated GH page1" : "https://github.com/opencv/opencv",
+					"Dedicated GH page2" : "https://github.com/opencv/opencv_contrib",
+					"Dedicated GH page3" : "https://github.com/hoangtv2000/opencv_practices",
+					"Dedicated GH page4" : "https://github.com/oarriaga/face_classification",
+					"Dedicated GH page5" : "https://github.com/italojs/awesome-opencv#links",
+					"Course1" : "https://www.udemy.com/course/master-computer-vision-with-opencv-in-python/?gclid=Cj0KCQjw3duCBhCAARIsAJeFyPVvraSsFcVU7JtZ6D2MBIe6PXITl9WwjiSNSz2XlJkNapzX9BcMXQMaAoKCEALw_wcB&matchtype=e&utm_campaign=LongTail_la.EN_cc.INDIA&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_78875688843_._ad_387461487962_._kw_opencv+course_._de_c_._dm__._pl__._ti_kwd-825886677541_._li_1007765_._pd__._",
+					"Course2" : "https://hackr.io/tutorials/learn-opencv",
+					"Course3" : "https://www.pyimagesearch.com/free-opencv-computer-vision-deep-learning-crash-course/",
+					"Tips1" : "https://cv-tricks.com/tag/opencv/",
+					"Tips2" : "https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/",
+					"Tips3" : "https://heartbeat.fritz.ai/opencv-python-cheat-sheet-from-importing-images-to-face-detection-52919da36433",
+					"Tips4" : "https://www.kaggle.com/learn-forum/158267"
+			
+			
+					},
+			
 
 			{
 				"Title" : "OpenGL",
@@ -1230,6 +1466,72 @@
 	"Tips3" : "https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks "
 
   },
+
+  {	"Title" : "Redis",
+	"Tag": "In-memory key–value database",
+	"Documentation" : "https://redis.io/documentation",
+	"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+	"YT2" : "https://www.youtube.com/user/TechGuyWeb",
+	"YT3" : "https://www.youtube.com/channel/UCD78lHSwYqMlyetR0_P4Vig",
+	"YT4" : "https://www.youtube.com/playlist?list=PLS1QulWo1RIYZZxQdap7Sd0ARKFI-XVsd",
+	"YT5" : "https://www.youtube.com/playlist?list=PLhW3qG5bs-L8n1fsiT8z_VnDhnUk4vaVq",
+    "YT6" : "https://www.youtube.com/playlist?list=PLXM5y5j_b0mMdVF5p_2ug_b5tWqah_tfJ",
+	"Website1": "https://www.tutorialspoint.com/redis/index.htm",
+	"Website2": "https://redis.io/topics/introduction",
+	"Website3": "https://www.javatpoint.com/redis-tutorial",
+	"Website4": "https://www.w3resource.com/redis/",
+	"Website5": "https://redislabs.com/ebook/part-1-getting-started/chapter-1-getting-to-know-redis/",
+    "Website6": "https://auth0.com/blog/introduction-to-redis-install-cli-commands-and-data-types/",
+	"Dedicated GH page1" : "https://github.com/JamzyWang/awesome-redis",
+	"Dedicated GH page2" : "https://github.com/janl/awesome",
+	"Dedicated GH page3" : "https://github.com/redis/redis",
+	"Dedicated GH page4" : "https://github.com/pranavgupta1234/awesome-redis-optimizations",
+	"Course1" : "https://www.udemy.com/course/learn-redis-and-utilize-jedis-with-spring-data-redis/",
+	"Course2" : "https://www.udemy.com/course/learn-redis/",
+	"Course3" : "https://www.udemy.com/course/redis-bootcamp-for-beginners/",
+    "Course4" : "https://www.udemy.com/course/redis-latest/",
+    "Course5" : "https://www.lynda.com/Redis-tutorials/Learning-Redis/642501-2.html",
+	"Tips1" : "https://www.objectrocket.com/blog/how-to/10-quick-tips-about-redis/",
+	"Tips2" : "https://dzone.com/articles/tips-amp-tricks-to-using-keys-innbspredis",
+    "Tips3" : "https://medium.com/swlh/use-the-source-redis-internal-tricks-5a8b735b9ef0",
+    "Tips4" : "http://dmitrypol.github.io/redis/2015/10/15/redis-rails-tips.html"
+},
+	
+	{	"Title" : "Ruby",
+	"Tag": "Programming Language",
+	"Documentation" : "https://www.ruby-lang.org/en/documentation/",
+	"YT1 " :"https://www.youtube.com/watch?v=t_ispmWmdjY ",
+	"YT2 " :"https://www.youtube.com/watch?v=Dji9ALCgfpM ",
+	"YT3 " :"https://www.youtube.com/watch?v=SHzeVBrW_rA&list=PLlxmoA0rQ-Lx45j3D6da7-Iqvo5wtjKBm ",
+	"YT4 " :"https://www.youtube.com/watch?v=WJlfVjGt6Hg ",
+	"YT5 " :"https://www.youtube.com/playlist?list=PLgPJX9sVy92yefe1xmyxgcyXjxmLHsSEV",
+	"YT6 " :"https://www.youtube.com/watch?v=c7FExaJY9A4",
+	"Website1": "https://www.ruby-lang.org/en/downloads/ ",
+	"Website2": "https://www.codeconquest.com/blog/top-50-websites-to-learn-ruby/ ",
+	"Website3": "https://www.reddit.com/r/RubyLang/ ",
+	"Website4": "https://www.reddit.com/r/ruby/ ",
+	"Website5": "https://rubyapi.org/ ",
+	"Website6": "https://www.moesif.com/blog/api-guide/development/api-resources-for-ruby-developers/ ",
+	"Dedicated GH page1" : "https://github.com/dobs/reddit-base ",
+	"Dedicated GH page2" : "https://github.com/markets/awesome-ruby ",
+	"Dedicated GH page3" : "https://github.com/sdogruyol/awesome-ruby ",
+	"Dedicated GH page4" : "https://github.com/ruby/ruby ",
+	"Dedicated GH page5" : "https://github.com/octokit/octokit.rb",
+	"Course1" : "https://www.codecademy.com/learn/learn-ruby ",
+	"Course2" : "https://www.udemy.com/course/learn-ruby-programming-in-ten-easy-steps/ ",
+	"Course3" : "https://www.lynda.com/Ruby-training-tutorials/303-0.html ",
+	"Course4" : "https://www.udemy.com/course/learn-advanced-level-ruby-programming/ ",
+	"Course5" : "https://www.udemy.com/course/ruby-programming-for-everyone/ ",
+	"Tips1" : "http://www.rubyinside.com/21-ruby-tricks-902.html ",
+	"Tips2" : "https://www.rubyguides.com/2016/01/ruby-tricks/ ",
+	"Tips3" : "https://devblast.com/b/ruby-tricks-improve-code ",
+	"Tips4" : "https://medium.com/rubycademy/5-ruby-tips-you-probably-dont-know-76fee34cfd0c",
+	"Tips5" : "https://flatironschool.com/blog/10-quick-ruby-tricks ",
+	"Tips6" : "https://www.smartly.io/blog/ruby-tricks-for-curious-developer ",
+	"Image1":"https://camo.githubusercontent.com/29c0b02e754bb2093772319627d43fcf8748f649166325fdbda16f07b45363af/68747470733a2f2f692e696d6775722e636f6d2f6b5951786767772e706e67" 
+
+	},
+
  
 
 	{
@@ -1488,6 +1790,49 @@
 		"Image1" : "https://www.soft8soft.com/wp-content/uploads/2018/08/blender_to_webgl.jpg"
 	},
 
+  {	
+		"Title" : "WordPress ",
+		"Tag": "Application programming interface",
+		"Documentation" : "https://wordpress.com/ ",
+		"YT1 " :"https://www.youtube.com/watch?v=B4MXA_yj8oI ",
+		"YT2 " :"https://www.youtube.com/watch?v=EwiEcmbPjo0 ",
+		"YT3 " :"https://www.youtube.com/watch?v=8OBfr46Y0cQ ",
+		"YT4 " :"https://www.youtube.com/watch?v=EXKwAk0j3k8 ",
+		"YT5 " :"https://www.youtube.com/watch?v=oB6b5P6bcZg ",
+		"YT6 " :"https://www.youtube.com/watch?v=8AZ8GqW5iak ",
+		"YT7 " :"https://www.youtube.com/watch?v=Jt8_0YpTJNM ",
+		"Website1": "https://wordpress.org/download/ ",
+		"Website2": "https://www.smashingmagazine.com/2016/02/beginners-guide-creating-wordpress-website/ ",
+		"Website3": "https://themeisle.com/blog/must-have-plugins-for-wordpress/ ",
+		"Website4": "https://www.wpbeginner.com/wp-tutorials/25-extremely-useful-tricks-for-the-wordpress-functions-file/ ",
+		"Website5": "https://vegibit.com/the-top-100-most-commonly-used-wordpress-functions/ ",
+		"Website6": "https://www.wpbeginner.com/showcase/25-most-useful-wordpress-widgets-for-your-site/ ",
+		"Website7": "https://www.wpexplorer.com/best-wordpress-widget-plugins/ ",
+		"Website8": "https://smartwp.com/code-snippets-for-wordpress/ ",
+		"Website9": "https://wpmudev.com/blog/shun-the-plugin-100-wordpress-code-snippets-from-across-the-net/ ",
+		"Dedicated GH page1" : "https://github.com/WordPress/wordpress-develop ",
+		"Dedicated GH page2" : "https://github.com/miziomon/awesome-wordpress ",
+		"Dedicated GH page3" : "https://github.com/designwall/Awesome-WordPress-Plugins ",
+		"Dedicated GH page4" : "https://github.com/arnabwahid/wordpress-bootstrap ",
+		"Dedicated GH page5" : "https://github.com/mhoofman/wordpress-heroku ",
+		"Dedicated GH page6" : "https://github.com/wordpress-mobile/WordPress-Android ",
+		"Dedicated GH page7" : "https://github.com/wordpress-mobile/WordPress-iOS ",
+		"Course1" : "https://www.udemy.com/course/ultimate-wordpress-masterclass-2-dashboard-expert/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.INDIA_ti.8322&utm_content=deal4584&utm_term=_._ag_82381207618_._ad_437511380767_._kw__._de_c_._dm__._pl__._ti_dsa-774930032289_._li_9062203_._pd__._&matchtype=b&gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQit_mICl8p6yDwWojfcO7_nOTAHaZjbBjaTUjDOWmHze_vWyQooo9yYaAh0yEALw_wcB ",
+		"Course2" : "https://www.udemy.com/course/wordpress-for-beginners-course/ ",
+		"Course3" : "https://www.udemy.com/course/the-complete-wordpress-website-business-course/ ",
+		"Course4" : "https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/ ",
+		"Course5" : "https://www.lynda.com/WordPress-training-tutorials/330-0.html ",
+		"Course6" : "https://wpapprentice.com/ ",
+		"Tips1" : "https://www.wpbeginner.com/wp-tutorials/55-most-wanted-wordpress-tips-tricks-and-hacks/ ",
+		"Tips2" : "https://www.websitebuilderexpert.com/wordpress/beginner-tips/ ",
+		"Tips3" : "https://www.collectiveray.com/wordpress-tips-tricks-hacks ",
+		"Tips4" : "https://www.quicksprout.com/wordpress-tips-every-webmaster-needs-to-know/ ",
+		"Tips5" : "https://fitsmallbusiness.com/wordpress-tips-and-tricks/ ",
+		"Tips6" : "https://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/ ",
+		"Image1":"https://s.w.org/style/images/about/WordPress-logotype-standard.png" 
+
+	},
+  
 	{
 		"Title" : "ZBrush",
 		"Tag" : "Software",
@@ -1513,9 +1858,7 @@
 		"Tips3" : "https://in.pinterest.com/r_vann/zbrush-tips-tricks/",
 		"Tips4" : "https://www.creativebloq.com/features/15-tips-to-master-zbrush",
 		"Image1" : "https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp"
-	}
-
-
+  }
 	]
 
 	
