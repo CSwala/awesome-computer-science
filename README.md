@@ -228,10 +228,10 @@ https://medium.com/@marinamakarova/26-tips-on-c-programming-61cb54900234<br><br>
 <summary>Cinema 4D</summary>
 <br>Category/Type - <br>Software<br>
 <br>Official Documentation - <br>https://help.maxon.net/r23/en-us/<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=ReEEpYjW_yI&list=PL_dhPga7ruudlDZLjrdTK0qmf940Qf0Cp<br>https://www.youtube.com/watch?v=6XjlykHnnSk<br>https://www.youtube.com/watch?v=hyZb7RT2AAU<br>https://www.youtube.com/watch?v=lZo8rFPOQ14<br>
-<br>Useful Websites - <br>https://conceptartempire.com/cinema-4d-tutorials/<br>https://www.cinema4dtutorial.net<br>https://greyscalegorilla.com/category/tutorials/<br>https://www.cineversity.com/vidplaylist/getting_started_with_cinema_4d_r20<br>
-<br>Dedicated Github page - <br>https://github.com/PluginCafe/cinema4d_py_sdk_extended<br>https://github.com/BlackDice/Cinema4D-Threejs-Exporter<br>https://github.com/aturtur/cinema4d-scripts<br>https://github.com/PluginCafe/cinema4d_py_sdk<br>
-<br>Best Courses - <br>https://motiondesign.school/products/cinema-4d-journey<br>https://greyscalegorilla.com/intro-to-cinema-4d/<br>https://www.schoolofmotion.com/cinema-4d-basecamp<br>https://www.udemy.com/course/cinema-4d-masterclass-training-course/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=ReEEpYjW_yI&list=PL_dhPga7ruudlDZLjrdTK0qmf940Qf0Cp<br>https://www.youtube.com/watch?v=6XjlykHnnSk<br>https://www.youtube.com/watch?v=hyZb7RT2AAU<br>https://www.youtube.com/watch?v=lZo8rFPOQ14<br>https://www.youtube.com/watch?v=_dz3bGizluc<br>
+<br>Useful Websites - <br>https://conceptartempire.com/cinema-4d-tutorials/<br>https://www.cinema4dtutorial.net<br>https://greyscalegorilla.com/category/tutorials/<br>https://www.cineversity.com/vidplaylist/getting_started_with_cinema_4d_r20<br>https://3dtotal.com/tutorials/cinema4d<br>https://helloluxx.com/tutorials/<br>
+<br>Dedicated Github page - <br>https://github.com/PluginCafe/cinema4d_py_sdk_extended<br>https://github.com/BlackDice/Cinema4D-Threejs-Exporter<br>https://github.com/aturtur/cinema4d-scripts<br>https://github.com/PluginCafe/cinema4d_py_sdk<br>https://github.com/nathakits/awesome-cinema4d<br>
+<br>Best Courses - <br>https://motiondesign.school/products/cinema-4d-journey<br>https://greyscalegorilla.com/intro-to-cinema-4d/<br>https://www.schoolofmotion.com/cinema-4d-basecamp<br>https://www.udemy.com/course/cinema-4d-masterclass-training-course/<br>https://www.domestika.org/en/courses/software/9-cinema-4d<br>
 <br>Other Tips / Hacks - <br>https://www.ftrack.com/en/2019/08/8-tips-to-increase-your-efficiency-with-cinema-4d.html<br>https://www.cineversity.com/vidplaylist/cinema_4d_quick_tips<br>https://www.schoolofmotion.com/blog/modeling-tips-in-cinema-4d<br>https://www.creativebloq.com/features/15-expert-cinema-4d-tips<br>
 <a href="https://www.ftrack.com/wp-content/uploads/2019/08/Cinema-4D-tip-4a.png">
   <img align="center" src="https://www.ftrack.com/wp-content/uploads/2019/08/Cinema-4D-tip-4a.png" width="800" height="400"/>
@@ -577,10 +577,10 @@ https://www.elated.com/10-html-tips-for-beginners/<br>
 <summary>Houdini</summary>
 <br>Category/Type - <br>Software<br>
 <br>Official Documentation - <br>https://www.sidefx.com/docs/<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=K7UAVUzRP4Q<br>https://www.youtube.com/watch?v=3CxsGkLyn7U<br>https://www.youtube.com/watch?v=Tsv8UGqDibc<br>https://www.youtube.com/watch?v=emEux6cGOww<br>
-<br>Useful Websites - <br>https://hackr.io/tutorials/learn-houdini<br>https://www.rebelway.net/tutorials/<br>http://www.appliedhoudini.com<br>https://conceptartempire.com/houdini-tutorials/<br>
-<br>Dedicated Github page - <br>https://github.com/GoogleChromeLabs/houdini-samples<br>https://github.com/jhorikawa/HoudiniHowtos<br>https://github.com/kiryha/Houdini<br>https://github.com/sideeffects/HoudiniEngineForUnreal<br>
-<br>Best Courses - <br>https://www.pluralsight.com/browse/creative-professional/3d-vfx/houdini<br>https://www.cgspectrum.com/courses/advanced-houdini-fx-diploma<br>https://www.udemy.com/course/houdini-create-full-cg-chocolate-commercial-in-houdini/<br>https://thevfxschool.com<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=K7UAVUzRP4Q<br>https://www.youtube.com/watch?v=3CxsGkLyn7U<br>https://www.youtube.com/watch?v=Tsv8UGqDibc<br>https://www.youtube.com/watch?v=emEux6cGOww<br>https://www.youtube.com/watch?v=SnGSCO0CwAc<br>
+<br>Useful Websites - <br>https://hackr.io/tutorials/learn-houdini<br>https://www.rebelway.net/tutorials/<br>http://www.appliedhoudini.com<br>https://conceptartempire.com/houdini-tutorials/<br>https://thevfxschool.com<br>http://wordpress.discretization.de/houdini/<br>
+<br>Dedicated Github page - <br>https://github.com/GoogleChromeLabs/houdini-samples<br>https://github.com/jhorikawa/HoudiniHowtos<br>https://github.com/kiryha/Houdini<br>https://github.com/sideeffects/HoudiniEngineForUnreal<br>https://github.com/CSSHoudini/awesome-css-houdini<br>
+<br>Best Courses - <br>https://www.pluralsight.com/browse/creative-professional/3d-vfx/houdini<br>https://www.cgspectrum.com/courses/advanced-houdini-fx-diploma<br>https://www.udemy.com/course/houdini-create-full-cg-chocolate-commercial-in-houdini/<br>https://thevfxschool.com<br>https://coursesity.com/course-detail/houdini-155-dynamics-and-simulation<br>
 <br>Other Tips / Hacks - <br>https://in.pinterest.com/davorkronja/houdini-tips-and-tricks/<br>https://www.sidefx.com/docs/houdini/tops/tips.html<br>https://www.ftrack.com/en/2020/10/7-tips-to-increase-your-efficiency-with-sidefx-houdini.html<br>https://www.creativebloq.com/advice/15-top-houdini-tips<br>
 <a href="https://cdn.conceptartempire.com/images/06/5374/01-houdini-software-polygons.jpg">
   <img align="center" src="https://cdn.conceptartempire.com/images/06/5374/01-houdini-software-polygons.jpg" width="800" height="400"/>
@@ -592,10 +592,10 @@ https://www.elated.com/10-html-tips-for-beginners/<br>
 <summary>Inkscape</summary>
 <br>Category/Type - <br>Computer application<br>
 <br>Official Documentation - <br>https://inkscape.org/*docs/<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=Pyfw3FqlWmo<br>https://www.youtube.com/watch?v=s-kPg4vYKfk<br>https://www.youtube.com/watch?v=pa6a7oz7vEE<br>https://www.youtube.com/watch?v=8f011wdiW7g&list=PLqazFFzUAPc5lOQwDoZ4Dw2YSXtO7lWNv<br>
-<br>Useful Websites - <br>https://za.pinterest.com/elsievroy/inkscape-tutorials/<br>https://inkscapetutorials.wordpress.com/tutorial-list-2/<br>https://www.javatpoint.com/inkscape<br>https://inkscape.org/learn/tutorials/<br>
-<br>Dedicated Github page - <br>https://github.com/PanderMusubi/inkscape-open-symbols<br>https://github.com/martymcguire/inkscape-unicorn<br>https://github.com/305engineering/Inkscape<br>https://github.com/inkscape/inkscape<br>
-<br>Best Courses - <br>https://www.udemy.com/course/logo-design-with-inkscape-for-free/<br>https://www.udemy.com/course/udemy-master-inkscape-beginner-course-20162017-unofficial/<br>https://www.udemy.com/course/learn-to-use-inkscape/<br>https://inkscape.org/learn/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=Pyfw3FqlWmo<br>https://www.youtube.com/watch?v=s-kPg4vYKfk<br>https://www.youtube.com/watch?v=pa6a7oz7vEE<br>https://www.youtube.com/watch?v=8f011wdiW7g&list=PLqazFFzUAPc5lOQwDoZ4Dw2YSXtO7lWNv<br>https://www.youtube.com/watch?v=rZuG1putmdA<br>
+<br>Useful Websites - <br>https://za.pinterest.com/elsievroy/inkscape-tutorials/<br>https://inkscapetutorials.wordpress.com/tutorial-list-2/<br>https://www.javatpoint.com/inkscape<br>https://inkscape.org/learn/tutorials/<br>https://www.ponoko.com/blog/how-to-make/inkscape-vector-tutorials/<br>https://opensource.com/article/18/1/inkscape-absolute-beginners<br>
+<br>Dedicated Github page - <br>https://github.com/PanderMusubi/inkscape-open-symbols<br>https://github.com/martymcguire/inkscape-unicorn<br>https://github.com/305engineering/Inkscape<br>https://github.com/inkscape/inkscape<br>https://github.com/fsmMLK/inkscapeMadeEasy<br>
+<br>Best Courses - <br>https://www.udemy.com/course/logo-design-with-inkscape-for-free/<br>https://www.udemy.com/course/udemy-master-inkscape-beginner-course-20162017-unofficial/<br>https://www.udemy.com/course/learn-to-use-inkscape/<br>https://inkscape.org/learn/<br>https://www.udemy.com/course/getting-start-in-inkscape/<br>
 <br>Other Tips / Hacks - <br>https://za.pinterest.com/biancaprinsloo/inkscape-tips-tricks/<br>https://design.tutsplus.com/articles/back-to-school-28-easy-inkscape-tutorials--cms-21870<br>https://inkscape.org/doc/tutorials/tips/tutorial-tips.html<br>https://fireflysemantics.medium.com/inkscape-tips-and-tricks-56bf29e704a8<br>
 <a href="https://fedoramagazine.org/wp-content/uploads/2016/10/inkscape-gettingstarted-945x400.png">
   <img align="center" src="https://fedoramagazine.org/wp-content/uploads/2016/10/inkscape-gettingstarted-945x400.png" width="800" height="400"/>
@@ -761,10 +761,10 @@ https://blog.neuvector.com/article/hack-kubernetes-container <br>
 <summary>Lua</summary>
 <br>Category/Type - <br>High-level programming language<br>
 <br>Official Documentation - <br>https://www.lua.org/docs.html<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=-iU1pCgmjx4&list=PLxgtJR7f0RBKGid7F2dfv7qc-xWwSee2O<br>https://www.youtube.com/watch?v=BfLUt3mfJiY<br>https://www.youtube.com/watch?v=kgiEF1frHQ8<br>https://www.youtube.com/watch?v=iMacxZQMPXs<br>
-<br>Useful Websites - <br>https://www.wisdomjobs.com/e-university/lua-programming-language-tutorial-1757.html<br>https://hackr.io/tutorials/learn-lua<br>https://www.lua.org/pil/1.html<br>https://www.tutorialspoint.com/lua/index.htm<br>
-<br>Dedicated Github page - <br>https://github.com/LuaJIT/LuaJIT<br>https://github.com/alibaba/LuaViewSDK<br>https://github.com/LuaDist/lua<br>https://github.com/lua/lua<br>
-<br>Best Courses - <br>https://www.skillshare.com/classes/Master-Lua-Programming-with-Lua-5-3/1890001751?via=browse-rating-lua-layout-grid<br>https://www.skillshare.com/classes/Introduction-to-Lua-Programming/1521575486?via=browse-rating-lua-layout-grid<br>http://tylerneylon.com/a/learn-lua/<br>https://www.udemy.com/course/lua-programming-master-the-basics/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=-iU1pCgmjx4&list=PLxgtJR7f0RBKGid7F2dfv7qc-xWwSee2O<br>https://www.youtube.com/watch?v=BfLUt3mfJiY<br>https://www.youtube.com/watch?v=kgiEF1frHQ8<br>https://www.youtube.com/watch?v=iMacxZQMPXs<br>https://www.youtube.com/watch?v=TAjh6AXLk-Y<br>
+<br>Useful Websites - <br>https://www.wisdomjobs.com/e-university/lua-programming-language-tutorial-1757.html<br>https://hackr.io/tutorials/learn-lua<br>https://www.lua.org/pil/1.html<br>https://www.tutorialspoint.com/lua/index.htm<br>http://tylerneylon.com/a/learn-lua/<br>http://ebens.me/post/lua-for-programmers-part-1/<br>
+<br>Dedicated Github page - <br>https://github.com/LuaJIT/LuaJIT<br>https://github.com/alibaba/LuaViewSDK<br>https://github.com/LuaDist/lua<br>https://github.com/lua/lua<br>https://github.com/LewisJEllis/awesome-lua<br>
+<br>Best Courses - <br>https://www.skillshare.com/classes/Master-Lua-Programming-with-Lua-5-3/1890001751?via=browse-rating-lua-layout-grid<br>https://www.skillshare.com/classes/Introduction-to-Lua-Programming/1521575486?via=browse-rating-lua-layout-grid<br>http://tylerneylon.com/a/learn-lua/<br>https://www.udemy.com/course/lua-programming-master-the-basics/<br>https://www.udemy.com/course/complete-roblox-lua-start-making-games-with-roblox-studio/<br>
 <br>Other Tips / Hacks - <br>https://inmation.com/docs/system/1.72/lua-scripting/tips-and-tricks.html<br>https://inspired-lua.org/index.php/category/tutorials/tips-and-tricks/<br>http://jwu.github.io/wiki/tips-in-lua/<br>https://www.lua.org/gems/sample.pdf<br>
 <a href="https://i2.wp.com/www.ossblog.org/wp-content/uploads/2017/06/Lua-Montage.png?fit=564%2C245&ssl=1">
   <img align="center" src="https://i2.wp.com/www.ossblog.org/wp-content/uploads/2017/06/Lua-Montage.png?fit=564%2C245&ssl=1" width="800" height="400"/>
@@ -837,10 +837,10 @@ https://www.udemy.com/course/complete-maya-fluids-bootcamp/ <br> https://www.ude
 <summary>Modo</summary>
 <br>Category/Type - <br>Software<br>
 <br>Official Documentation - <br>https://learn.foundry.com/modo/12.2/content/help/pages/learn.html<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=9EbrNJLu844<br>https://www.youtube.com/watch?v=y3evCKNErRM<br>https://www.youtube.com/watch?v=MJ4kiAqMmZs&list=PLBX-X8mPyxIpS4xGg1Y9xvRnLHcvYRNic<br>https://www.youtube.com/watch?v=lT2SLh7LZn0<br>
-<br>Useful Websites - <br>https://3dtotal.com/tutorials/modo<br>https://www.sculpteo.com/en/tutorial/modo-prepare-your-model-3d-printing/<br>https://learn.foundry.com/modo<br>https://learn.foundry.com/modo<br>
-<br>Dedicated Github page - <br>https://github.com/modolabs<br>https://github.com/TheFoundry-Modo<br>https://github.com/modo-studio<br>https://github.com/terrakok/Modo<br>
-<br>Best Courses - <br>https://www.pluralsight.com/browse/manufacturing-design/modo<br>https://www.lynda.com/MODO-tutorials/Modo-2019-Essential-Training/2800331-2.html<br>https://learn.foundry.com/course/3128/view/modo-essentials<br>https://www.udemy.com/course/introduction-to-modo<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=9EbrNJLu844<br>https://www.youtube.com/watch?v=y3evCKNErRM<br>https://www.youtube.com/watch?v=MJ4kiAqMmZs&list=PLBX-X8mPyxIpS4xGg1Y9xvRnLHcvYRNic<br>https://www.youtube.com/watch?v=lT2SLh7LZn0<br>https://www.youtube.com/watch?v=8pLx-u-0yG4<br>
+<br>Useful Websites - <br>https://3dtotal.com/tutorials/modo<br>https://www.sculpteo.com/en/tutorial/modo-prepare-your-model-3d-printing/<br>https://learn.foundry.com/modo<br>https://learn.foundry.com/modo<br>https://www.carbodydesign.com/tutorials/3d/modo-tutorials/<br>https://evermotion.org/tutorials/category/modo/49<br>
+<br>Dedicated Github page - <br>https://github.com/modolabs<br>https://github.com/TheFoundry-Modo<br>https://github.com/modo-studio<br>https://github.com/terrakok/Modo<br>https://github.com/csprance/awesome-modo<br>
+<br>Best Courses - <br>https://www.pluralsight.com/browse/manufacturing-design/modo<br>https://www.lynda.com/MODO-tutorials/Modo-2019-Essential-Training/2800331-2.html<br>https://learn.foundry.com/course/3128/view/modo-essentials<br>https://www.udemy.com/course/introduction-to-modo<br>https://www.pluralsight.com/browse/manufacturing-design/modo<br>
 <br>Other Tips / Hacks - <br>https://www.pixelfondue.com/blog/2020/6/8/modo-<br>https://www.pluralsight.com/courses/tips-tricks-modo-977<br>https://community.foundry.com/discuss/forum/36/tips-tricks-tutorials<br>https://www.creativebloq.com/features/10-top-modo-tips-and-techniques<br>
 <a href="https://i.ytimg.com/vi/9yzz0dYVmbA/hqdefault.jpg">
   <img align="center" src="https://i.ytimg.com/vi/9yzz0dYVmbA/hqdefault.jpg" width="800" height="400"/>
@@ -940,10 +940,10 @@ https://medium.com/swlh/node-js-magical-tips-every-developer-should-remember-4c2
 <summary>Nuke</summary>
 <br>Category/Type - <br>System software<br>
 <br>Official Documentation - <br>https://learn.foundry.com/nuke/13.0/content/learn_nuke.html<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=6ZDMpXKQlSM<br>https://www.youtube.com/watch?v=EIY5xbLMbjQ<br>https://www.youtube.com/watch?v=wZ9skxwLa7g<br>https://www.youtube.com/watch?v=y_GfzLbXgwE<br>
-<br>Useful Websites - <br>https://www.nukecompositingtutorials.com<br>https://www.pluralsight.com/browse/creative-professional/3d-vfx/nuke<br>https://conceptartempire.com/nuke-tutorials/<br>https://learn.foundry.com/nuke<br>
-<br>Dedicated Github page - <br>https://github.com/gruntwork-io/cloud-nuke<br>https://github.com/rebuy-de/aws-nuke<br>https://github.com/nuke-build/nuke<br>https://github.com/kean/Nuke<br>
-<br>Best Courses - <br>https://www.udemy.com/course/vfx-compositing-with-nuke-the-complete-2d-edition/<br>https://www.udemy.com/course/introduction-to-nuke-compositing-nk101/<br>https://www.fxphd.com/nuke/<br>https://github.com/gruntwork-io/cloud-nuke<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=6ZDMpXKQlSM<br>https://www.youtube.com/watch?v=EIY5xbLMbjQ<br>https://www.youtube.com/watch?v=wZ9skxwLa7g<br>https://www.youtube.com/watch?v=y_GfzLbXgwE<br>https://www.youtube.com/watch?v=IoBue9yyuFM<br>
+<br>Useful Websites - <br>https://www.nukecompositingtutorials.com<br>https://www.pluralsight.com/browse/creative-professional/3d-vfx/nuke<br>https://conceptartempire.com/nuke-tutorials/<br>https://learn.foundry.com/nuke<br>https://www.toolfarm.com/tutorials/nuke_and_nuke_x/<br>http://www.cgmeetup.net/home/tag/nuke-free-tutorial/<br>
+<br>Dedicated Github page - <br>https://github.com/gruntwork-io/cloud-nuke<br>https://github.com/rebuy-de/aws-nuke<br>https://github.com/nuke-build/nuke<br>https://github.com/kean/Nuke<br>https://github.com/KasumiL5x/nuketools<br>
+<br>Best Courses - <br>https://www.udemy.com/course/vfx-compositing-with-nuke-the-complete-2d-edition/<br>https://www.udemy.com/course/introduction-to-nuke-compositing-nk101/<br>https://www.fxphd.com/nuke/<br>https://github.com/gruntwork-io/cloud-nuke<br>https://www.lynda.com/CINEMA-4D-tutorials/VFX-Techniques-Creating-CG-Flag-Nuke-CINEMA-4D/162573-2.html<br>
 <br>Other Tips / Hacks - <br>https://www.ivansorgente.com/nuke-tips-and-tricks/<br>https://learn.foundry.com/nuke<br>https://www.fxphd.com/details/534/<br>https://taukeke.com/nuke-tips/<br>
 <a href="https://pcfileworldz.com/wp-content/uploads/2019/09/Download-Foundry-NUKE-STUDIO-11.3-Free.png">
   <img align="center" src="https://pcfileworldz.com/wp-content/uploads/2019/09/Download-Foundry-NUKE-STUDIO-11.3-Free.png" width="800" height="400"/>
@@ -1202,10 +1202,10 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 <summary>Ranorex</summary>
 <br>Category/Type - <br>Software<br>
 <br>Official Documentation - <br>https://www.ranorex.com/help/latest/<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=ztbVEK-s9aQ<br>https://www.youtube.com/watch?v=b1Ofv_TekbY&list=PLttK-VXRJYjYmfIfgmMsKFcK3JSltS5wM<br>https://www.youtube.com/watch?v=pE4QKR65EAw<br>https://www.youtube.com/watch?v=QVzKqwM993U<br>
-<br>Useful Websites - <br>https://testcollab.com/blog/ranorex-integration-test-automation/<br>https://medium.com/@Synerzip/a-hands-on-ranorex-test-automation-tool-tutorial-a1b3ff447978<br>https://www.janbasktraining.com/blog/ranorex-tutorial/<br>https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorize-20-minutes/introduction/<br>
-<br>Dedicated Github page - <br>https://github.com/Thomas-Gruber-90/RanorexLibrary<br>https://github.com/ranorex/Jenkins-Ranorex-Plugin<br>https://github.com/ranorex/Ranorex-Jira-Integration<br>https://github.com/ranorex/Packages<br>
-<br>Best Courses - <br>https://www.zeolearn.com/functional-testing-using-ranorex-training<br>https://www.gangboard.com/software-testing-training/ranorex-test-automation-training<br>https://www.ranorex.com/training/<br>https://www.besanttechnologies.com/ranorex-training<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=ztbVEK-s9aQ<br>https://www.youtube.com/watch?v=b1Ofv_TekbY&list=PLttK-VXRJYjYmfIfgmMsKFcK3JSltS5wM<br>https://www.youtube.com/watch?v=pE4QKR65EAw<br>https://www.youtube.com/watch?v=QVzKqwM993U<br>https://www.youtube.com/watch?v=WJDvHJrIVMg<br>
+<br>Useful Websites - <br>https://testcollab.com/blog/ranorex-integration-test-automation/<br>https://medium.com/@Synerzip/a-hands-on-ranorex-test-automation-tool-tutorial-a1b3ff447978<br>https://www.janbasktraining.com/blog/ranorex-tutorial/<br>https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorize-20-minutes/introduction/<br>https://www.synerzip.com/a-hands-on-ranorex-test-automation-tool-tutorial/<br>https://testcollab.com/blog/ranorex-integration-test-automation/<br>
+<br>Dedicated Github page - <br>https://github.com/Thomas-Gruber-90/RanorexLibrary<br>https://github.com/ranorex/Jenkins-Ranorex-Plugin<br>https://github.com/ranorex/Ranorex-Jira-Integration<br>https://github.com/ranorex/Packages<br>https://github.com/Neotys-Labs/Ranorex<br>
+<br>Best Courses - <br>https://www.zeolearn.com/functional-testing-using-ranorex-training<br>https://www.gangboard.com/software-testing-training/ranorex-test-automation-training<br>https://www.ranorex.com/training/<br>https://www.besanttechnologies.com/ranorex-training<br>https://mindmajix.com/ranorex-training<br>
 <br>Other Tips / Hacks - <br>https://www.ranorex.com/blog/effective-continuous-testing/<br>https://www.ranorex.com/blog/tips-testing-containers/<br>https://www.ranorex.com/blog/ranorexpath-tips-and-tricks/<br>https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/<br>
 <a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2018/01/Ranorex-Introduction.jpg">
   <img align="center" src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2018/01/Ranorex-Introduction.jpg" width="800" height="400"/>
@@ -1483,10 +1483,10 @@ https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https:
 <summary>ZBrush</summary>
 <br>Category/Type - <br>Software<br>
 <br>Official Documentation - <br>http://docs.pixologic.com<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=3fHefWRFNMA<br>https://www.youtube.com/watch?v=J2B0x9TkFuA&list=PLkzopwqcFevYqrk_0MKIaUwrWYILzYsp6<br>https://www.youtube.com/watch?v=8qJGX_o6-qU<br>https://www.youtube.com/watch?v=_yKGfcp2z3k<br>
-<br>Useful Websites - <br>https://www.zbrushguides.com/start/<br>https://www.zbrushguides.com/tutorials/<br>https://3dtotal.com/tutorials/zbrush<br>https://pixologic.com/zclassroom/<br>
-<br>Dedicated Github page - <br>https://github.com/WintrySnowman/WInkTab<br>https://github.com/spiraloid/Spiraloid-Toolkit-for-Zbrush<br>https://github.com/nlapinski/ZBrush-Command-Port<br>https://github.com/alexeyroudenko/ofxLitSphere<br>
-<br>Best Courses - <br>https://www.skillshare.com/browse/zbrush<br>https://www.pluralsight.com/browse/creative-professional/3d-vfx/zbrush<br>https://www.udemy.com/course/charactersculpting/<br>https://pixologic.com/zclassroom/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=3fHefWRFNMA<br>https://www.youtube.com/watch?v=J2B0x9TkFuA&list=PLkzopwqcFevYqrk_0MKIaUwrWYILzYsp6<br>https://www.youtube.com/watch?v=8qJGX_o6-qU<br>https://www.youtube.com/watch?v=_yKGfcp2z3k<br>https://www.youtube.com/watch?v=iMB7LV0T9hM&list=PLtPcH6oByq7Zapq5IFwmSLWBwR3ELTuQG<br>
+<br>Useful Websites - <br>https://www.zbrushguides.com/start/<br>https://www.zbrushguides.com/tutorials/<br>https://3dtotal.com/tutorials/zbrush<br>https://pixologic.com/zclassroom/<br>https://www.lynda.com/ZBrush-training-tutorials/336-0.html<br>https://conceptartempire.com/best-zbrush-tutorials/<br>
+<br>Dedicated Github page - <br>https://github.com/WintrySnowman/WInkTab<br>https://github.com/spiraloid/Spiraloid-Toolkit-for-Zbrush<br>https://github.com/nlapinski/ZBrush-Command-Port<br>https://github.com/alexeyroudenko/ofxLitSphere<br>https://github.com/alexeyroudenko/ofxLitSphere<br>
+<br>Best Courses - <br>https://www.skillshare.com/browse/zbrush<br>https://www.pluralsight.com/browse/creative-professional/3d-vfx/zbrush<br>https://www.udemy.com/course/charactersculpting/<br>https://pixologic.com/zclassroom/<br>https://www.domestika.org/en/courses/software/30-zbrush<br>
 <br>Other Tips / Hacks - <br>https://www.zbrushguides.com/5-zbrush-tips-i-learned-last-year/<br>http://docs.pixologic.com/user-guide/tips-tricks/<br>https://in.pinterest.com/r_vann/zbrush-tips-tricks/<br>https://www.creativebloq.com/features/15-tips-to-master-zbrush<br>
 <a href="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp">
   <img align="center" src="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp" width="800" height="400"/>
