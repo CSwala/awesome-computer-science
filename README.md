@@ -509,6 +509,29 @@ https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/ <br> 
 </details>
 
 <details>
+ <summary> GraphQL </summary>
+ <br>Category/Type - <br> Data query and manipulation language <br>
+ <br>Official Documentation - <br> https://graphql.org/learn/ <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/user/hiteshitube <br> https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg <br>
+ https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw <br> https://www.youtube.com/user/LevelUpTuts <br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f <br> https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_ <br> https://www.youtube.com/playlist?list=PLMV09mSPNaQlzySXg3vmau7S46jx7Qysd <br>
+ <br>Useful Websites - <br> https://www.howtographql.com <br> https://www.tutorialspoint.com/graphql/index.htm <br> https://www.graphql.com/tutorials/ <br>
+ https://www.toptal.com/api-development/graphql-vs-rest-tutorial <br> https://www.guru99.com/graphql-tutorial.html <br> https://www.freecodecamp.org/news/a-beginners-guide-to-graphql-86f849ce1bec/ <br>
+ https://graphql.org/code/ <br>
+ <br>Dedicated Github page - <br> https://github.com/chentsulin/awesome-graphql <br> https://github.com/ooade/awesome-apollo-graphql <br>
+ https://github.com/hasura/awesome-react-graphql <br> https://github.com/graphql-java/awesome-graphql-java <br> https://github.com/hasura/awesome-vue-graphql <br>
+ <br>Best Courses - <br> https://www.udemy.com/course/complete-guide-to-building-a-graphql-api/ <br> https://www.pluralsight.com/courses/graphql-scalable-apis <br>
+ https://www.udemy.com/course/graphql-by-example/ <br> https://www.udemy.com/course/graphql-bootcamp/ <br> https://www.udemy.com/course/graphql-for-beginners-with-javascript/ <br>
+https://www.udemy.com/course/graphql-apollo-server-api-nodejs-mongodb/ <br>
+ <br>Other Tips / Hacks - <br> https://blog.logrocket.com/security-and-performance-tips-and-tricks-for-your-graphql-servers/ <br>
+ https://levelup.gitconnected.com/5-tips-for-successful-graphql-adoption-c5c548d1bf98 <br> https://graphql.org/learn/best-practices/ <br>
+ https://blog.yugabyte.com/graphql-distributed-sql-tips-and-tricks-july-10-2020/ <br> https://www.graphql.com/guides/ <br>
+ https://www.slideshare.net/AmazonWebServices/ten-tips-and-tricks-for-improving-your-graphql-api-with-aws-appsync-mob401-aws-reinvent-2018 <br>
+ https://microsoft.github.io/AzureTipsAndTricks/blog/tip287.html <br> https://shinesolutions.com/2020/07/01/ten-tips-for-writing-your-first-graphql-schema/ <br>
+ <br>
+ </details>
+
+<details>
 <summary> Groovy </summary>
 <br>Category/Type - <br> Programming language <br>
 <br>Official Documentation - <br> http://docs.groovy-lang.org/next/html/documentation/ <br> 
