@@ -1498,19 +1498,6 @@ https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https:
 </a>
 <br><br><br>
 </details>
-
-<details>
-<summary>ZBrush</summary>
-<br>Category/Type - <br>Software<br>
-<br>Official Documentation - <br>http://docs.pixologic.com<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=3fHefWRFNMA<br>https://www.youtube.com/watch?v=J2B0x9TkFuA&list=PLkzopwqcFevYqrk_0MKIaUwrWYILzYsp6<br>https://www.youtube.com/watch?v=8qJGX_o6-qU<br>https://www.youtube.com/watch?v=_yKGfcp2z3k<br>https://www.youtube.com/watch?v=iMB7LV0T9hM&list=PLtPcH6oByq7Zapq5IFwmSLWBwR3ELTuQG<br>
-<br>Useful Websites - <br>https://www.zbrushguides.com/start/<br>https://www.zbrushguides.com/tutorials/<br>https://3dtotal.com/tutorials/zbrush<br>https://pixologic.com/zclassroom/<br>https://www.lynda.com/ZBrush-training-tutorials/336-0.html<br>https://conceptartempire.com/best-zbrush-tutorials/<br>
-<br>Dedicated Github page - <br>https://github.com/WintrySnowman/WInkTab<br>https://github.com/spiraloid/Spiraloid-Toolkit-for-Zbrush<br>https://github.com/nlapinski/ZBrush-Command-Port<br>https://github.com/alexeyroudenko/ofxLitSphere<br>https://github.com/alexeyroudenko/ofxLitSphere<br>
-<br>Best Courses - <br>https://www.skillshare.com/browse/zbrush<br>https://www.pluralsight.com/browse/creative-professional/3d-vfx/zbrush<br>https://www.udemy.com/course/charactersculpting/<br>https://pixologic.com/zclassroom/<br>https://www.domestika.org/en/courses/software/30-zbrush<br>
-<br>Other Tips / Hacks - <br>https://www.zbrushguides.com/5-zbrush-tips-i-learned-last-year/<br>http://docs.pixologic.com/user-guide/tips-tricks/<br>https://in.pinterest.com/r_vann/zbrush-tips-tricks/<br>https://www.creativebloq.com/features/15-tips-to-master-zbrush<br>
-<a href="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp">
-  <img align="center" src="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp" width="800" height="400"/>
-  </details>
   
 <details>  
 <summary>WordPress </summary>
@@ -1571,6 +1558,19 @@ https://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/ <br>
 </a>
 <br><br><br>
 </details>
+
+<details>
+<summary>ZBrush</summary>
+<br>Category/Type - <br>Software<br>
+<br>Official Documentation - <br>http://docs.pixologic.com<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=3fHefWRFNMA<br>https://www.youtube.com/watch?v=J2B0x9TkFuA&list=PLkzopwqcFevYqrk_0MKIaUwrWYILzYsp6<br>https://www.youtube.com/watch?v=8qJGX_o6-qU<br>https://www.youtube.com/watch?v=_yKGfcp2z3k<br>https://www.youtube.com/watch?v=iMB7LV0T9hM&list=PLtPcH6oByq7Zapq5IFwmSLWBwR3ELTuQG<br>
+<br>Useful Websites - <br>https://www.zbrushguides.com/start/<br>https://www.zbrushguides.com/tutorials/<br>https://3dtotal.com/tutorials/zbrush<br>https://pixologic.com/zclassroom/<br>https://www.lynda.com/ZBrush-training-tutorials/336-0.html<br>https://conceptartempire.com/best-zbrush-tutorials/<br>
+<br>Dedicated Github page - <br>https://github.com/WintrySnowman/WInkTab<br>https://github.com/spiraloid/Spiraloid-Toolkit-for-Zbrush<br>https://github.com/nlapinski/ZBrush-Command-Port<br>https://github.com/alexeyroudenko/ofxLitSphere<br>https://github.com/alexeyroudenko/ofxLitSphere<br>
+<br>Best Courses - <br>https://www.skillshare.com/browse/zbrush<br>https://www.pluralsight.com/browse/creative-professional/3d-vfx/zbrush<br>https://www.udemy.com/course/charactersculpting/<br>https://pixologic.com/zclassroom/<br>https://www.domestika.org/en/courses/software/30-zbrush<br>
+<br>Other Tips / Hacks - <br>https://www.zbrushguides.com/5-zbrush-tips-i-learned-last-year/<br>http://docs.pixologic.com/user-guide/tips-tricks/<br>https://in.pinterest.com/r_vann/zbrush-tips-tricks/<br>https://www.creativebloq.com/features/15-tips-to-master-zbrush<br>
+<a href="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp">
+  <img align="center" src="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp" width="800" height="400"/>
+  </details>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
