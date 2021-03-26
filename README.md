@@ -1579,6 +1579,69 @@ https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https:
 </details>
 
 <details>
+<summary>Vue.js </summary>
+<br>
+Category/Type - <br>Model–view–viewmodel front end JavaScript framework <br>
+<br>
+Official Documentation - <br>
+https://v3.vuejs.org/guide/introduction.html <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=4deVCNJq3qc <br>
+https://www.youtube.com/watch?v=-pdhDyr7jyQ <br>
+https://www.youtube.com/watch?v=YrxBCBibVo0 <br>
+https://www.youtube.com/watch?v=Wy9q22isx3U <br>
+https://www.youtube.com/watch?v=wVmSvDqojBc <br>
+https://www.youtube.com/watch?v=mZY1yyrlJWU <br>
+https://www.youtube.com/watch?v=DU4MvUMkk6c <br>
+<br>
+Useful Websites -
+<br>
+https://vuejs.org/v2/guide/installation.html <br>
+https://vuejs.org/v2/api/ <br>
+https://www.altexsoft.com/blog/engineering/pros-and-cons-of-vue-js/ <br>
+https://x-team.com/blog/11-top-vue-libraries/ <br>
+https://vegibit.com/27-awesome-vuejs-libraries/ <br>
+https://www.sitepoint.com/vue-js-tools-libraries/ <br>
+https://madewithvuejs.com/blog/the-best-vue-js-frameworks <br>
+https://morioh.com/p/f100a691e83d <br>
+https://medium.com/coding17/a-complete-list-of-vue-js-frameworks-6c3b9294f160 <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/vuejs/vue <br>
+https://github.com/vuejs/vue-cli <br>
+https://github.com/vuejs/vuejs.org <br>
+https://github.com/vuejs/vue-devtools <br>
+https://github.com/vuejs/vue-router <br>
+https://github.com/vuejs/vuex <br>
+https://github.com/vuejs/awesome-vue <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/vuejs-2-the-complete-guide/ <br>
+https://vueschool.io/courses/vuejs-3-fundamentals <br>
+https://vuejsdevelopers.com/ <br>
+https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ <br>
+https://vueschool.io/courses/the-vuejs-master-class <br>
+https://vuejs-course.com/ <br>
+https://www.codecademy.com/learn/learn-vue-js <br>
+<br>
+Other Tips / Hacks - <br>
+https://michaelnthiessen.com/26-time-saving-tips/ <br>
+https://learnvue.co/2020/01/7-simple-vuejs-tips-you-can-use-to-become-a-better-developer/ <br>
+https://www.telerik.com/blogs/12-tips-and-tricks-to-improve-your-vue-projects <br>
+https://dev.to/simonholdorf/10-tips-tricks-to-make-you-a-better-vuejs-developer-4n4d <br>
+https://itnext.io/a-few-handy-vue-js-tricks-832703cff426 <br>
+https://medium.com/vue-mastery/10-vue-js-pro-tips-from-vue-masters-2bf6131e7fe0 <br>
+https://medium.com/js-dojo/vuejs-tips-best-practices-39d9962bb255 <br>
+https://betterprogramming.pub/10-tips-and-tricks-to-make-you-a-better-vue-js-developer-afc74acaf388 <br>
+<br>
+<a href="https://cdn.iconscout.com/icon/free/png-512/vuejs-1175052.png">
+  <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/vuejs-1175052.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Vagrant </summary>
 <br>Category/Type - <br>Virtual Machine management software<br>
 <br>Official Documentation - <br>https://www.vagrantup.com/docs<br>
