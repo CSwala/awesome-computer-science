@@ -509,7 +509,7 @@ https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/ <br> 
 </details>
 
 <details>
- <summary> GraphDb </summary>
+ <summary> GraphDB </summary>
  <br>Category/Type - <br> Database <br>
  <br>Official Documentation - <br> https://graphdb.ontotext.com/documentation/standard/ <br>
  <br>Best YouTube creators - <br> https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw <br> https://www.youtube.com/channel/UCvze3hU6OZBkB1vkhH2lH9Q <br>
