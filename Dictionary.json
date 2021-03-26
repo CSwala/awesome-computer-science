@@ -2128,7 +2128,39 @@
 		"Tips3" : "https://in.pinterest.com/r_vann/zbrush-tips-tricks/",
 		"Tips4" : "https://www.creativebloq.com/features/15-tips-to-master-zbrush",
 		"Image1" : "https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp"
-  }
+  },
+
+  {
+	"Title" : "Haskell",
+	"Tag" : "Functional programming language",
+	"Documentation" : "https://www.haskell.org/documentation/",
+	"YT1" : "https://www.youtube.com/watch?v=F8OeEWt0Swg&list=PLJ5C_6qdAvBFJP1RiUrUUJI4GEhnJhgQw",
+	"YT2" : "https://www.youtube.com/watch?v=UIUlFQH4Cvo&list=PLoJC20gNfC2gpI7Dl6fg8uj1a-wfnWTH8",
+	"YT3" : "https://www.youtube.com/watch?v=Vgu82wiiZ90&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV",
+	"YT4" : "https://www.youtube.com/watch?v=Uva-sysnrEQ",
+	"Website1" : "https://wiki.haskell.org/Haskell",
+	"Website2" : "https://www.haskell.org/tutorial/",
+	"Website3" : "https://www.tutorialspoint.com/haskell/index.htm",
+	"Website4" : "https://nptel.ac.in/courses/106/106/106106137/",
+	"Website5" : "http://www.vex.net/~trebla/haskell/index.xhtml",
+	"Website6" : "https://wiki.haskell.org/Learning_Haskell",
+	"Website7" : "https://www.schoolofhaskell.com/",
+	"Dedicated GH page1" : "https://github.com/haskell",
+	"Dedicated GH page2" : "https://github.com/bitemyapp/learnhaskell",
+	"Dedicated GH page3" : "https://github.com/haskell/directory",
+	"Dedicated GH page4" : "https://github.com/krispo/awesome-haskell",
+	"Dedicated GH page5" : "https://github.com/haskell/criterion",
+	"Course1" : "https://www.futurelearn.com/courses/functional-programming-haskell",
+	"Course2" : "https://www.udemy.com/course/haskell-data-analysis-made-easy/",
+	"Course3" : "https://hackr.io/tutorials/learn-haskell",
+	"Course4" : "https://www.classcentral.com/subject/haskell",
+	"Course5" :"http://learnyouahaskell.com/chapters",
+	"Tips1" : "https://wiki.haskell.org/Haskell_programming_tips",
+	"Tips2" : "https://www.haskellforall.com/2017/10/advice-for-haskell-beginners.html",
+	"Tips3" : "https://www.educative.io/blog/haskell-tutorial",
+	"Tips4" : "https://making.pusher.com/top-tips-and-tools-for-optimising-haskell/",
+	"Image1" : "https://wiki.haskell.org/wikiupload/4/4a/HaskellLogoStyPreview-1.png"
+}
 	]
 
 	
