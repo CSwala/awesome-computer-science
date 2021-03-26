@@ -477,6 +477,71 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
 <br><br><br>
 </details>
 
+<details>
+<summary>Ember.js </summary>
+<br>
+Category/Type - <br>JavaScript web framework <br>
+<br>
+Official Documentation - <br>
+https://guides.emberjs.com/release/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=_JfNuppX1n8 <br>
+https://www.youtube.com/watch?v=50Ktfz8c34o <br>
+https://www.youtube.com/watch?v=T1SC44NJA_A <br>
+https://www.youtube.com/watch?v=1QHrlFlaXdI <br>
+https://www.youtube.com/watch?v=owDmPTSJkrg <br>
+https://www.youtube.com/watch?v=53OpEYA4zPQ <br>
+https://www.youtube.com/watch?v=tra0-u6hLTg <br>
+https://www.youtube.com/watch?v=eQUvN9Ujs1s <br>
+<br>
+Useful Websites -
+<br>
+https://www.sitepoint.com/ember-js-perfect-framework-web-applications/ <br>
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Ember_getting_started <br>
+https://project-awesome.org/ember-community-russia/awesome-ember <br>
+https://blog.newrelic.com/engineering/best-javascript-libraries-frameworks/ <br>
+https://www.toptal.com/javascript/a-step-by-step-guide-to-building-your-first-ember-js-app <br>
+https://blog.logrocket.com/getting-started-with-ember-js-in-2020/ <br>
+https://www.pluralsight.com/blog/software-development/7-reasons-to-use-ember-js <br>
+https://www.g2.com/products/ember-js/competitors/alternatives <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/emberjs/ember.js <br>
+https://github.com/emberjs/data <br>
+https://github.com/emberjs/ember-inspector <br>
+https://github.com/emberjs/ember-test-helpers <br>
+https://github.com/gothinkster/ember-realworld <br>
+https://github.com/ember-learn/ember-website <br>
+https://github.com/nmec/awesome-ember <br>
+https://github.com/ember-community-russia/awesome-ember <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/starting-with-ember-2/ <br>
+https://www.udemy.com/course/learning-ember-js/ <br>
+https://www.udemy.com/course/ember-learn-ember-by-building-an-ember-app-step-by-step/ <br>
+https://emberjs.com/learn/ <br>
+https://www.lynda.com/Ember-js-training-tutorials/5905-0.html <br>
+https://www.zeolearn.com/emberjs-training <br>
+https://www.pluralsight.com/courses/emberjs-fundamentals <br>
+https://www.eduonix.com/courses/Web-Development/Getting-Started-with-Ember.JS-Tutorials-from-Ground-Up <br>
+<br>
+Other Tips / Hacks - <br>
+https://neos.readthedocs.io/en/1.2/DeveloperGuide/UserInterface/EmberTipsTricks.html <br>
+https://www.netguru.com/blog/emberjs-resources <br>
+https://www.smashingmagazine.com/2013/11/an-in-depth-introduction-to-ember-js/ <br>
+https://gist.github.com/vasind/22122632be15f3bc98a092ab012524e2 <br>
+https://www.youtube.com/watch?v=kBhGXX4zbXw <br>
+https://www.youtube.com/watch?v=HL2bMjndviE <br>
+https://www.codesandnotes.com/ember-js/tips-for-optimizing-ember.js-performance/ <br>
+https://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/ <br>
+<br>
+<a href="https://emberjs.com/images/brand/ember-tomster-lockup-4c.svg">
+  <img align="center" src="https://emberjs.com/images/brand/ember-tomster-lockup-4c.svg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
  <details>
 <summary> GIMP </summary>
 <br>Category/Type - <br> Graphics editor <br>
@@ -507,6 +572,24 @@ https://www.coursera.org/specializations/google-golang <br> https://www.pluralsi
 https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/ <br> https://www.udemy.com/course/golang-the-ultimate-guide-to-microservices-in-go-part-1/ <br>
 <br>Other Tips / Hacks - <br> http://www.golangbootcamp.com/book/tricks_and_tips <br> https://github.com/cristaloleg/go-advice <br> https://golangvedu.wordpress.com <br>
 </details>
+
+<details>
+ <summary> GraphDB </summary>
+ <br>Category/Type - <br> Database <br>
+ <br>Official Documentation - <br> https://graphdb.ontotext.com/documentation/standard/ <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw <br> https://www.youtube.com/channel/UCvze3hU6OZBkB1vkhH2lH9Q <br>
+ https://www.youtube.com/playlist?list=PLSEiuYkICmDm5jgVZGCSk68Xg-U38duhc <br> https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ <br>
+ https://www.youtube.com/user/MicrosoftResearch <br> https://www.youtube.com/playlist?list=PL9Hl4pk2FsvWM9GWaguRhlCQ-pa-ERd4U <br>
+ https://www.youtube.com/playlist?list=PLqfPEK2RTgChcOZ6qHgSfwiBPCz2Bzdjh <br> https://www.youtube.com/playlist?list=PLvpt9xWchPkbS-XEY2ensW72JLTG_Sgkr <br>
+ <br>Useful Websites - <br> https://www.ontotext.com/knowledgehub/fundamentals/graphdb-fundamentals/ <br> https://www.javatpoint.com/what-is-graphdb <br>
+ https://www.tutorialspoint.com/Graph-Databases <br> https://neo4j.com/blog/data-modeling-basics/ <br> https://www.cl.cam.ac.uk/teaching/1920/Databases/graph-tutorial.html <br>
+ <br>Dedicated Github page - <br> https://github.com/jbmusso/awesome-graph <br> https://github.com/MichelDiz/Awesome-Dgraph <br>
+ <br>Best Courses - <br> https://www.coursera.org/lecture/nosql-databases/graph-databases-cbJ2A <br> https://www.pluralsight.com/courses/graph-databases-neo4j-introduction <br>
+ https://www.udemy.com/course/neo4j-graph-databases-with-cypher-game-of-thrones-edition/ <br> https://www.udemy.com/course/introduction-to-graph-databases-using-neo4j/ <br>
+ <br>Other Tips / Hacks - <br> https://www.ontotext.com/company/news/graphdb-devops-training/ <br> https://neo4j.com/developer/modeling-tips/ <br>
+ https://www.slideshare.net/neo4j/tips-and-tricks-for-graph-data-modeling <br>
+ <br>
+ </details>
 
 <details>
  <summary> GraphQL </summary>
@@ -711,6 +794,72 @@ https://www.udemy.com/course/jenkins-learn-continuous-integration/?LSNPUBID=JVFx
 <br>Other Tips / Hacks - <br>https://www.idalko.com/expert-tips-productivity-jira/<br>https://www.praqma.com/stories/get-20-jira-tips/<br>https://community.atlassian.com/t5/Jira-Software-articles/The-top-10-Jira-tips-amp-tricks-brought-to-you-by-the-Atlassian/ba-p/1198260<br>https://www.thedroidsonroids.com/blog/5-top-jira-tips-tricks-i-wish-i-knew-1-year-ago<br>
 <a href="https://www.eficode.com/hubfs/images/blogs/Imported_Blog_Media/jira-software-tips3.jpg">
   <img align="center" src="https://www.eficode.com/hubfs/images/blogs/Imported_Blog_Media/jira-software-tips3.jpg" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
+<summary>jQuery</summary>
+<br>
+Category/Type - <br>JavaScript library <br>
+<br>
+Official Documentation - <br>
+https://api.jquery.com/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=hMxGhHNOkCU <br>
+https://www.youtube.com/watch?v=HgvIox6ehkM <br>
+https://www.youtube.com/watch?v=2OMzGhlIZpg <br>
+https://www.youtube.com/watch?v=BWXggB-T1jQ <br>
+https://www.youtube.com/watch?v=ScoURsEM_yU <br>
+https://www.youtube.com/watch?v=a59kOE2Ma1Q <br>
+https://www.youtube.com/watch?v=plLQQmqfdQY <br>
+https://www.youtube.com/watch?v=jVe1GBCqFIE <br>
+<br>
+Useful Websites -
+<br>
+https://jquery.com/download/ <br>
+https://speckyboy.com/free-jquery-plugins/ <br>
+https://www.creativebloq.com/jquery/top-jquery-plugins-6133175 <br>
+https://code.tutsplus.com/tutorials/20-helpful-jquery-methods-you-should-be-using--net-10521 <br>
+https://www.coderomeos.org/15-helpful-jquery-methods-and-functions <br>
+https://www.smashingmagazine.com/useful-javascript-libraries-jquery-plugins-part-2/ <br>
+https://codeshack.io/20-useful-jquery-snippets/ <br>
+https://www.awwwards.com/websites/jquery-ui/ <br>
+https://deliciousthemes.com/30-jquery-plugins-you-should-implement-on-your-website/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/jquery/jquery <br>
+https://github.com/jquery/jquery-ui <br>
+https://github.com/zenorocha/jquery-github <br>
+https://github.com/petk/awesome-jquery <br>
+https://github.com/github/form-data-entries#readme <br>
+https://github.com/indrimuska/jquery-editable-select <br>
+https://github.com/jquery-boilerplate/jquery-boilerplate <br>
+https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know <br>
+<br>
+Best Courses - <br>
+https://www.codecademy.com/learn/learn-jquery <br>
+https://www.udemy.com/course/jquery-tutorial/ <br>
+https://www.udemy.com/course/jquery-course/ <br>
+https://www.udemy.com/course/learn-jquery-crash-course/ <br>
+https://www.udacity.com/course/intro-to-jquery--ud245 <br>
+https://www.lynda.com/jQuery-training-tutorials/246-0.html <br>
+https://www.pluralsight.com/courses/code-school-try-jquery <br>
+https://mdbootstrap.com/education/jquery/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.sitepoint.com/top-15-jquery-tricks/ <br>
+https://www.viralpatel.net/20-top-jquery-tips-tricks-for-jquery-programmers/ <br>
+https://www.htmlgoodies.com/beyond/javascript/top-10-jquery-tips-and-tricks.html <br>
+https://tutorialzine.com/2011/06/15-powerful-jquery-tips-and-tricks-for-developers <br>
+https://css-tricks.com/tag/jquery/ <br>
+https://www.webfx.com/blog/web-design/10-easy-jquery-tricks-for-designers/ <br>
+https://stackoverflow.com/questions/182630/jquery-tips-and-tricks <br>
+https://crunchify.com/5-cool-useful-jquery-tips-tricks-solutions/ <br>
+<br>
+<a href="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png">
+  <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" width="500" height="500"/>
 </a>
 <br><br><br>
 </details>
@@ -1513,6 +1662,69 @@ https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https:
 </details>
 
 <details>
+<summary>Vue.js </summary>
+<br>
+Category/Type - <br>Model–view–viewmodel front end JavaScript framework <br>
+<br>
+Official Documentation - <br>
+https://v3.vuejs.org/guide/introduction.html <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=4deVCNJq3qc <br>
+https://www.youtube.com/watch?v=-pdhDyr7jyQ <br>
+https://www.youtube.com/watch?v=YrxBCBibVo0 <br>
+https://www.youtube.com/watch?v=Wy9q22isx3U <br>
+https://www.youtube.com/watch?v=wVmSvDqojBc <br>
+https://www.youtube.com/watch?v=mZY1yyrlJWU <br>
+https://www.youtube.com/watch?v=DU4MvUMkk6c <br>
+<br>
+Useful Websites -
+<br>
+https://vuejs.org/v2/guide/installation.html <br>
+https://vuejs.org/v2/api/ <br>
+https://www.altexsoft.com/blog/engineering/pros-and-cons-of-vue-js/ <br>
+https://x-team.com/blog/11-top-vue-libraries/ <br>
+https://vegibit.com/27-awesome-vuejs-libraries/ <br>
+https://www.sitepoint.com/vue-js-tools-libraries/ <br>
+https://madewithvuejs.com/blog/the-best-vue-js-frameworks <br>
+https://morioh.com/p/f100a691e83d <br>
+https://medium.com/coding17/a-complete-list-of-vue-js-frameworks-6c3b9294f160 <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/vuejs/vue <br>
+https://github.com/vuejs/vue-cli <br>
+https://github.com/vuejs/vuejs.org <br>
+https://github.com/vuejs/vue-devtools <br>
+https://github.com/vuejs/vue-router <br>
+https://github.com/vuejs/vuex <br>
+https://github.com/vuejs/awesome-vue <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/vuejs-2-the-complete-guide/ <br>
+https://vueschool.io/courses/vuejs-3-fundamentals <br>
+https://vuejsdevelopers.com/ <br>
+https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ <br>
+https://vueschool.io/courses/the-vuejs-master-class <br>
+https://vuejs-course.com/ <br>
+https://www.codecademy.com/learn/learn-vue-js <br>
+<br>
+Other Tips / Hacks - <br>
+https://michaelnthiessen.com/26-time-saving-tips/ <br>
+https://learnvue.co/2020/01/7-simple-vuejs-tips-you-can-use-to-become-a-better-developer/ <br>
+https://www.telerik.com/blogs/12-tips-and-tricks-to-improve-your-vue-projects <br>
+https://dev.to/simonholdorf/10-tips-tricks-to-make-you-a-better-vuejs-developer-4n4d <br>
+https://itnext.io/a-few-handy-vue-js-tricks-832703cff426 <br>
+https://medium.com/vue-mastery/10-vue-js-pro-tips-from-vue-masters-2bf6131e7fe0 <br>
+https://medium.com/js-dojo/vuejs-tips-best-practices-39d9962bb255 <br>
+https://betterprogramming.pub/10-tips-and-tricks-to-make-you-a-better-vue-js-developer-afc74acaf388 <br>
+<br>
+<a href="https://cdn.iconscout.com/icon/free/png-512/vuejs-1175052.png">
+  <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/vuejs-1175052.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Vagrant </summary>
 <br>Category/Type - <br>Virtual Machine management software<br>
 <br>Official Documentation - <br>https://www.vagrantup.com/docs<br>
@@ -1614,6 +1826,20 @@ https://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/ <br>
 <a href="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp">
   <img align="center" src="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp" width="800" height="400"/>
   </details>
+
+  <details>
+<summary>Haskell</summary>
+<br>Category/Type - <br>Functional programming language<br>
+<br>Official Documentation - <br>https://www.haskell.org/documentation/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=F8OeEWt0Swg&list=PLJ5C_6qdAvBFJP1RiUrUUJI4GEhnJhgQw<br>https://www.youtube.com/watch?v=UIUlFQH4Cvo&list=PLoJC20gNfC2gpI7Dl6fg8uj1a-wfnWTH8<br>https://www.youtube.com/watch?v=Vgu82wiiZ90&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV<br>https://www.youtube.com/watch?v=Uva-sysnrEQ<br>
+<br>Useful Websites - <br>https://wiki.haskell.org/Haskell<br>https://www.haskell.org/tutorial/<br>https://www.tutorialspoint.com/haskell/index.htm<br>https://nptel.ac.in/courses/106/106/106106137/<br>"http://www.vex.net/~trebla/haskell/index.xhtml"<br>https://wiki.haskell.org/Learning_Haskell<br>https://www.schoolofhaskell.com/<br>
+<br>Dedicated Github page - <br>https://github.com/haskell"<br>https://github.com/bitemyapp/learnhaskell<br>
+https://github.com/haskell/directory<br>https://github.com/krispo/awesome-haskell<br>https://github.com/haskell/criterion<br>
+<br>Best Courses -<br>https://www.futurelearn.com/courses/functional-programming-haskell<br>https://www.udemy.com/course/haskell-data-analysis-made-easy/<br>https://hackr.io/tutorials/learn-haskell<br>https://www.classcentral.com/subject/haskell<br>http://learnyouahaskell.com/chapters<br>
+<br>Other Tips / Hacks -<br>https://wiki.haskell.org/Haskell_programming_tips<br>https://www.haskellforall.com/2017/10/advice-for-haskell-beginners.html<br>https://www.educative.io/blog/haskell-tutorial<br>https://making.pusher.com/top-tips-and-tools-for-optimising-haskell/<br>
+<a href="https://wiki.haskell.org/wikiupload/4/4a/HaskellLogoStyPreview-1.png">
+<img align="center" src="https://wiki.haskell.org/wikiupload/4/4a/HaskellLogoStyPreview-1.png" width="800" height="400"/>
+</details>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
