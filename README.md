@@ -1354,6 +1354,26 @@ https://www.smartly.io/blog/ruby-tricks-for-curious-developer <br>
 </details>
 
 <details>
+ <summary> Scala </summary>
+ <br>Category/Type - <br> Programming language <br>
+ <br>Official Documentation - <br> https://docs.scala-lang.org <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/user/javaboynavin <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/user/beaconelearning <br>
+ https://www.youtube.com/user/ProgrammingKnowledge <br> https://www.youtube.com/playlist?list=PLS1QulWo1RIagob5D6kMIAvu7DQC5VTh3 <br>
+ https://www.youtube.com/playlist?list=PLkz1SCf5iB4dZ2RNKCu7W9o2OtZweGY6x <br> https://www.youtube.com/playlist?list=PLEiEAq2VkUUK3tuBXyd01meHuDj7RLjHv <br>
+ https://www.youtube.com/playlist?list=PL9ooVrP1hQOGyFc60sExNX1qBWJyV5IMb <br>
+ <br>Useful Websites - <br> https://www.tutorialspoint.com/scala/index.htm <br> https://www.javatpoint.com/scala-tutorial <br> https://www.guru99.com/scala-tutorial.html <br>
+ https://www.geeksforgeeks.org/scala-tutorial-learn-scala-with-step-by-step-guide/ <br> https://www.scala-exercises.org <br> https://data-flair.training/blogs/scala-tutorial/ <br>
+ https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html <br>
+ <br>Dedicated Github page - <br> https://github.com/lauris/awesome-scala <br> https://github.com/uhub/awesome-scala <br> https://github.com/tindzk/awesome-scala-native <br>
+ <br>Best Courses - <br> https://www.coursera.org/specializations/scala <br> https://www.coursera.org/projects/oop-scala <br> https://www.udemy.com/course/apache-spark-with-scala-hands-on-with-big-data/ <br>
+ https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/ <br> https://www.udemy.com/course/taming-big-data-with-spark-streaming-hands-on/ <br>
+ https://www.pluralsight.com/courses/scala-big-picture <br>
+ <br>Other Tips / Hacks - <br> https://blog.rockthejvm.com/scala-syntax-tricks-for-expressiveness/ <br> https://pavelfatin.com/scala-collections-tips-and-tricks/ <br>
+ https://coderwall.com/t/Scala/popular <br> https://www.infoq.com/presentations/scala-tips-tricks/ <br> https://medium.com/analytics-vidhya/going-to-scala-from-python-some-tips-a6fcbd86be3 <br>
+ <br>
+ </details>
+
+<details>
 <summary>SciPy</summary>
 <br>
 Category/Type - <br>
