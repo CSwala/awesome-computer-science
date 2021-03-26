@@ -509,6 +509,24 @@ https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/ <br> 
 </details>
 
 <details>
+ <summary> GraphDb </summary>
+ <br>Category/Type - <br> Database <br>
+ <br>Official Documentation - <br> https://graphdb.ontotext.com/documentation/standard/ <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw <br> https://www.youtube.com/channel/UCvze3hU6OZBkB1vkhH2lH9Q <br>
+ https://www.youtube.com/playlist?list=PLSEiuYkICmDm5jgVZGCSk68Xg-U38duhc <br> https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ <br>
+ https://www.youtube.com/user/MicrosoftResearch <br> https://www.youtube.com/playlist?list=PL9Hl4pk2FsvWM9GWaguRhlCQ-pa-ERd4U <br>
+ https://www.youtube.com/playlist?list=PLqfPEK2RTgChcOZ6qHgSfwiBPCz2Bzdjh <br> https://www.youtube.com/playlist?list=PLvpt9xWchPkbS-XEY2ensW72JLTG_Sgkr <br>
+ <br>Useful Websites - <br> https://www.ontotext.com/knowledgehub/fundamentals/graphdb-fundamentals/ <br> https://www.javatpoint.com/what-is-graphdb <br>
+ https://www.tutorialspoint.com/Graph-Databases <br> https://neo4j.com/blog/data-modeling-basics/ <br> https://www.cl.cam.ac.uk/teaching/1920/Databases/graph-tutorial.html <br>
+ <br>Dedicated Github page - <br> https://github.com/jbmusso/awesome-graph <br> https://github.com/MichelDiz/Awesome-Dgraph <br>
+ <br>Best Courses - <br> https://www.coursera.org/lecture/nosql-databases/graph-databases-cbJ2A <br> https://www.pluralsight.com/courses/graph-databases-neo4j-introduction <br>
+ https://www.udemy.com/course/neo4j-graph-databases-with-cypher-game-of-thrones-edition/ <br> https://www.udemy.com/course/introduction-to-graph-databases-using-neo4j/ <br>
+ <br>Other Tips / Hacks - <br> https://www.ontotext.com/company/news/graphdb-devops-training/ <br> https://neo4j.com/developer/modeling-tips/ <br>
+ https://www.slideshare.net/neo4j/tips-and-tricks-for-graph-data-modeling <br>
+ <br>
+ </details>
+
+<details>
  <summary> GraphQL </summary>
  <br>Category/Type - <br> Data query and manipulation language <br>
  <br>Official Documentation - <br> https://graphql.org/learn/ <br>
