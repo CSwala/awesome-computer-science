@@ -716,6 +716,72 @@ https://www.udemy.com/course/jenkins-learn-continuous-integration/?LSNPUBID=JVFx
 </details>
 
 <details>
+<summary>jQuery</summary>
+<br>
+Category/Type - <br>JavaScript library <br>
+<br>
+Official Documentation - <br>
+https://api.jquery.com/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=hMxGhHNOkCU <br>
+https://www.youtube.com/watch?v=HgvIox6ehkM <br>
+https://www.youtube.com/watch?v=2OMzGhlIZpg <br>
+https://www.youtube.com/watch?v=BWXggB-T1jQ <br>
+https://www.youtube.com/watch?v=ScoURsEM_yU <br>
+https://www.youtube.com/watch?v=a59kOE2Ma1Q <br>
+https://www.youtube.com/watch?v=plLQQmqfdQY <br>
+https://www.youtube.com/watch?v=jVe1GBCqFIE <br>
+<br>
+Useful Websites -
+<br>
+https://jquery.com/download/ <br>
+https://speckyboy.com/free-jquery-plugins/ <br>
+https://www.creativebloq.com/jquery/top-jquery-plugins-6133175 <br>
+https://code.tutsplus.com/tutorials/20-helpful-jquery-methods-you-should-be-using--net-10521 <br>
+https://www.coderomeos.org/15-helpful-jquery-methods-and-functions <br>
+https://www.smashingmagazine.com/useful-javascript-libraries-jquery-plugins-part-2/ <br>
+https://codeshack.io/20-useful-jquery-snippets/ <br>
+https://www.awwwards.com/websites/jquery-ui/ <br>
+https://deliciousthemes.com/30-jquery-plugins-you-should-implement-on-your-website/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/jquery/jquery <br>
+https://github.com/jquery/jquery-ui <br>
+https://github.com/zenorocha/jquery-github <br>
+https://github.com/petk/awesome-jquery <br>
+https://github.com/github/form-data-entries#readme <br>
+https://github.com/indrimuska/jquery-editable-select <br>
+https://github.com/jquery-boilerplate/jquery-boilerplate <br>
+https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know <br>
+<br>
+Best Courses - <br>
+https://www.codecademy.com/learn/learn-jquery <br>
+https://www.udemy.com/course/jquery-tutorial/ <br>
+https://www.udemy.com/course/jquery-course/ <br>
+https://www.udemy.com/course/learn-jquery-crash-course/ <br>
+https://www.udacity.com/course/intro-to-jquery--ud245 <br>
+https://www.lynda.com/jQuery-training-tutorials/246-0.html <br>
+https://www.pluralsight.com/courses/code-school-try-jquery <br>
+https://mdbootstrap.com/education/jquery/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.sitepoint.com/top-15-jquery-tricks/ <br>
+https://www.viralpatel.net/20-top-jquery-tips-tricks-for-jquery-programmers/ <br>
+https://www.htmlgoodies.com/beyond/javascript/top-10-jquery-tips-and-tricks.html <br>
+https://tutorialzine.com/2011/06/15-powerful-jquery-tips-and-tricks-for-developers <br>
+https://css-tricks.com/tag/jquery/ <br>
+https://www.webfx.com/blog/web-design/10-easy-jquery-tricks-for-designers/ <br>
+https://stackoverflow.com/questions/182630/jquery-tips-and-tricks <br>
+https://crunchify.com/5-cool-useful-jquery-tips-tricks-solutions/ <br>
+<br>
+<a href="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png">
+  <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary> Keras </summary>
 <br>Category/Type - <br> API <br>
 <br>Official Documentation - <br> https://keras.io/api/ <br>
