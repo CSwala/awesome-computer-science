@@ -477,6 +477,71 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
 <br><br><br>
 </details>
 
+<details>
+<summary>Ember.js </summary>
+<br>
+Category/Type - <br>JavaScript web framework <br>
+<br>
+Official Documentation - <br>
+https://guides.emberjs.com/release/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=_JfNuppX1n8 <br>
+https://www.youtube.com/watch?v=50Ktfz8c34o <br>
+https://www.youtube.com/watch?v=T1SC44NJA_A <br>
+https://www.youtube.com/watch?v=1QHrlFlaXdI <br>
+https://www.youtube.com/watch?v=owDmPTSJkrg <br>
+https://www.youtube.com/watch?v=53OpEYA4zPQ <br>
+https://www.youtube.com/watch?v=tra0-u6hLTg <br>
+https://www.youtube.com/watch?v=eQUvN9Ujs1s <br>
+<br>
+Useful Websites -
+<br>
+https://www.sitepoint.com/ember-js-perfect-framework-web-applications/ <br>
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Ember_getting_started <br>
+https://project-awesome.org/ember-community-russia/awesome-ember <br>
+https://blog.newrelic.com/engineering/best-javascript-libraries-frameworks/ <br>
+https://www.toptal.com/javascript/a-step-by-step-guide-to-building-your-first-ember-js-app <br>
+https://blog.logrocket.com/getting-started-with-ember-js-in-2020/ <br>
+https://www.pluralsight.com/blog/software-development/7-reasons-to-use-ember-js <br>
+https://www.g2.com/products/ember-js/competitors/alternatives <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/emberjs/ember.js <br>
+https://github.com/emberjs/data <br>
+https://github.com/emberjs/ember-inspector <br>
+https://github.com/emberjs/ember-test-helpers <br>
+https://github.com/gothinkster/ember-realworld <br>
+https://github.com/ember-learn/ember-website <br>
+https://github.com/nmec/awesome-ember <br>
+https://github.com/ember-community-russia/awesome-ember <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/starting-with-ember-2/ <br>
+https://www.udemy.com/course/learning-ember-js/ <br>
+https://www.udemy.com/course/ember-learn-ember-by-building-an-ember-app-step-by-step/ <br>
+https://emberjs.com/learn/ <br>
+https://www.lynda.com/Ember-js-training-tutorials/5905-0.html <br>
+https://www.zeolearn.com/emberjs-training <br>
+https://www.pluralsight.com/courses/emberjs-fundamentals <br>
+https://www.eduonix.com/courses/Web-Development/Getting-Started-with-Ember.JS-Tutorials-from-Ground-Up <br>
+<br>
+Other Tips / Hacks - <br>
+https://neos.readthedocs.io/en/1.2/DeveloperGuide/UserInterface/EmberTipsTricks.html <br>
+https://www.netguru.com/blog/emberjs-resources <br>
+https://www.smashingmagazine.com/2013/11/an-in-depth-introduction-to-ember-js/ <br>
+https://gist.github.com/vasind/22122632be15f3bc98a092ab012524e2 <br>
+https://www.youtube.com/watch?v=kBhGXX4zbXw <br>
+https://www.youtube.com/watch?v=HL2bMjndviE <br>
+https://www.codesandnotes.com/ember-js/tips-for-optimizing-ember.js-performance/ <br>
+https://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/ <br>
+<br>
+<a href="https://emberjs.com/images/brand/ember-tomster-lockup-4c.svg">
+  <img align="center" src="https://emberjs.com/images/brand/ember-tomster-lockup-4c.svg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
  <details>
 <summary> GIMP </summary>
 <br>Category/Type - <br> Graphics editor <br>
