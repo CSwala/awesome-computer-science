@@ -833,6 +833,33 @@
 	
 	},
 
+	{	"Title" : "Apache HBase",
+		"Tag": "Database",
+		"Documentation" : "https://hbase.apache.org/book.html",
+		"YT1" : "https://www.youtube.com/user/edurekaIN",
+		"YT2" : "https://www.youtube.com/user/Simplilearn",
+		"YT3" : "https://www.youtube.com/user/intellipaaat",
+		"YT4" : "https://www.youtube.com/playlist?list=PLnnr5dBDLWOUIidwbJbukiohTDB8fq07p",
+		"YT5" : "https://www.youtube.com/playlist?list=PLn8-K2vXiem7ICOdc2R3GEdAvQz_SojOy",
+		"YT6" : "https://www.youtube.com/playlist?list=PLjDrWlBFXZWchNCAmlFHsTjwNcgmkVVHr",
+		"Website1": "https://www.tutorialspoint.com/hbase/index.htm",
+		"Website2": "https://www.guru99.com/hbase-tutorials.html",
+		"Website3": "https://www.javatpoint.com/hbase",
+		"Website4": "https://www.edureka.co/blog/hbase-tutorial",
+		"Website5": "https://www.simplilearn.com/tutorials/hadoop-tutorial/hbase",
+		"Website6": "https://intellipaat.com/blog/tutorial/hbase-tutorial/",
+		"Dedicated GH page1" : "https://github.com/rayokota/awesome-hbase",
+		"Dedicated GH page2" : "https://github.com/jacksu/awesome-hbase",
+		"Dedicated GH page3" : "https://github.com/awesomeguides/awesome-hbasedb",
+		"Course1" : "https://www.udemy.com/course/learn-by-example-hbase/",
+		"Course2" : "https://www.udemy.com/course/apache-hbase-course/",
+		"Course3" : "https://www.udemy.com/course/building-apache-hbase-applications/",
+		"Course4" : "https://www.udemy.com/course/mastering-apache-hbase-with-hands-on/",
+		"Tips1" : "https://www.educba.com/hbase-commands/",
+		"Tips2" : "http://techsquids.com/bd/hbase-scan-filters-tips-tricks/",
+		"Tips3" : "https://risdenk.gitbooks.io/hadoop_book/content/examples/apache_hbase.html"
+	},
+
 	{
 		"Title" : "Houdini",
 		"Tag" : "Software",
