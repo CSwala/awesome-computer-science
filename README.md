@@ -478,6 +478,26 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
 </details>
 
 <details>
+ <summary> Elasticsearch </summary>
+ <br>Category/Type - <br> Database <br>
+ <br>Official Documentation - <br> https://www.elastic.co/guide/index.html <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/user/intellipaaat <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br>
+ https://www.youtube.com/playlist?list=PLGZAAioH7ZlO7AstL9PZrqalK0fZutEXF <br> https://www.youtube.com/playlist?list=PLiBX6AfVW8jH9dg7BAjuO4xXM8JlHW5HM <br>
+ https://www.youtube.com/playlist?list=PLS1QulWo1RIYkDHcPXUtH4sqvQQMH3_TN <br>
+ <br>Useful Websites - <br> https://logz.io/blog/elasticsearch-tutorial/ <br> https://www.tutorialspoint.com/elasticsearch/index.htm <br>
+ https://stackify.com/elasticsearch-tutorial/ <br> https://www.javatpoint.com/elasticsearch <br> https://www.edureka.co/blog/elasticsearch-tutorial/ <br>
+ https://tsh.io/blog/elasticsearch-tutorial/ <br>
+ <br>Dedicated Github page - <br> https://github.com/dzharii/awesome-elasticsearch <br> https://github.com/jolicode/elasticsearch-cheatsheet <br>
+ https://github.com/leschenko/elasticsearch_autocomplete <br>
+ <br>Best Courses - <br> https://www.udemy.com/course/elasticsearch-complete-guide/ <br> https://www.udemy.com/course/complete-elasticsearch-masterclass-with-kibana-and-logstash/ <br>
+ https://www.udemy.com/course/elasticsearch-6-and-elastic-stack-in-depth-and-hands-on/ <br> https://www.udemy.com/course/elasticsearch-masterclass/ <br>
+ https://www.udemy.com/course/elasticsearch-in-action/ <br>
+ <br>Other Tips / Hacks - <br> https://cloudhero.io/elasticsearch-tips-and-tricks <br> https://www.fortisfio.com/tips-tricks-with-elasticsearch/ <br>
+ https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/ <br> https://dzone.com/articles/elasticsearch-dos-donts-and-pro-tips-and-security <br>
+ <br>
+ </details>
+
+<details>
 <summary>Ember.js </summary>
 <br>
 Category/Type - <br>JavaScript web framework <br>

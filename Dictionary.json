@@ -493,6 +493,35 @@
 		"Image1":"https://miro.medium.com/max/3532/1*nucyFw-E5Lotofy1WSWMqw.png " 
 
 	},
+
+	{	"Title" : "Elasticsearch",
+		"Tag": "Database",
+		"Documentation" : "https://www.elastic.co/guide/index.html",
+		"YT1" : "https://www.youtube.com/user/edurekaIN",
+		"YT2" : "https://www.youtube.com/user/intellipaaat",
+		"YT3" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+		"YT4" : "https://www.youtube.com/playlist?list=PLGZAAioH7ZlO7AstL9PZrqalK0fZutEXF",
+		"YT5" : "https://www.youtube.com/playlist?list=PLiBX6AfVW8jH9dg7BAjuO4xXM8JlHW5HM",
+		"YT6" : "https://www.youtube.com/playlist?list=PLS1QulWo1RIYkDHcPXUtH4sqvQQMH3_TN",
+		"Website1": "https://logz.io/blog/elasticsearch-tutorial/",
+		"Website2": "https://www.tutorialspoint.com/elasticsearch/index.htm",
+		"Website3": "https://stackify.com/elasticsearch-tutorial/",
+		"Website4": "https://www.javatpoint.com/elasticsearch",
+		"Website5": "https://www.edureka.co/blog/elasticsearch-tutorial/",
+		"Website6": "https://tsh.io/blog/elasticsearch-tutorial/",
+		"Dedicated GH page1" : "https://github.com/dzharii/awesome-elasticsearch",
+		"Dedicated GH page2" : "https://github.com/jolicode/elasticsearch-cheatsheet",
+		"Dedicated GH page3" : "https://github.com/leschenko/elasticsearch_autocomplete",
+		"Course1" : "https://www.udemy.com/course/elasticsearch-complete-guide/",
+		"Course2" : "https://www.udemy.com/course/complete-elasticsearch-masterclass-with-kibana-and-logstash/",
+		"Course3" : "https://www.udemy.com/course/elasticsearch-6-and-elastic-stack-in-depth-and-hands-on/",
+		"Course4" : "https://www.udemy.com/course/elasticsearch-masterclass/",
+		"Course5" : "https://www.udemy.com/course/elasticsearch-in-action/",
+		"Tips1" : "https://cloudhero.io/elasticsearch-tips-and-tricks",
+		"Tips2" : "https://www.fortisfio.com/tips-tricks-with-elasticsearch/",
+		"Tips3" : "https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/",
+		"Tips4" : "https://dzone.com/articles/elasticsearch-dos-donts-and-pro-tips-and-security"
+	},
 	
 	{	
 		"Title" : "Ember.js ",
