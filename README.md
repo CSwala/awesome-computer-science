@@ -967,6 +967,25 @@ https://blog.neuvector.com/article/hack-kubernetes-container <br>
 </details>
 
 <details>
+ <summary> Logstash </summary>
+ <br>Category/Type - <br> Data processing pipeline <br>
+ <br>Official Documentation - <br> https://www.elastic.co/guide/en/logstash/current/introduction.html <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/channel/UCu4mLxrAkMEcjK9N1yJOxyA <br> https://www.youtube.com/channel/UC9Rc1hpWHUju8O2rYHAUVXA <br>
+ https://www.youtube.com/channel/UCPzq-p1867fnr63xv1JhpNQ <br> https://www.youtube.com/playlist?list=PLS1QulWo1RIYkDHcPXUtH4sqvQQMH3_TN <br>
+ https://www.youtube.com/playlist?list=PLg4JjvpqNDT_LJ02wDzpPA7NAIITOzEUL <br> https://www.youtube.com/playlist?list=PL589M8KPPT1ayEOAK32jp9mqurID6tEOy <br>
+ <br>Useful Websites - <br> https://www.tutorialspoint.com/logstash/index.htm <br> https://www.elastic.co/guide/en/logstash/current/getting-started-with-logstash.html <br>
+ https://logz.io/blog/logstash-tutorial/ <br> https://aws.amazon.com/elasticsearch-service/resources/articles/logstash-tutorial/ <br>
+ https://www.toptal.com/java/using-logstash-to-streamline-email-notifications <br> https://www.elastic.co/guide/en/logstash/current/advanced-pipeline.html <br>
+ <br>Dedicated Github page - <br> https://github.com/hugo53/awesome-logging <br> https://github.com/alamin-mahamud/awesome-elasticsearch <br> https://github.com/70data/awesome-elastic-stack <br>
+ <br>Best Courses - <br> https://www.udemy.com/course/complete-elasticsearch-masterclass-with-kibana-and-logstash/ <br> https://www.udemy.com/course/processing-events-with-logstash/ <br>
+ https://www.udemy.com/course/elk-stack-2-learn-all-about-logstash-data-ingestion-tool/ <br> https://www.udemy.com/course/logstashfundamentals/ <br>
+ <br>Other Tips / Hacks - <br> https://www.elastic.co/guide/en/logstash/current/tips.html <br> https://medium.com/ableneo/best-practices-for-logstash-81e1eb6a6262 <br>
+ https://logz.io/blog/5-logstash-pitfalls-and-how-to-avoid-them/ <br> https://kreuzwerker.de/en/post/tips-and-tricks-for-better-log-analysis-with-kibana-part-3 <br>
+ https://www.tutorialspoint.com/logstash/logstash_quick_guide.htm <br>
+ <br>
+ </details>
+
+<details>
 <summary>Lua</summary>
 <br>Category/Type - <br>High-level programming language<br>
 <br>Official Documentation - <br>https://www.lua.org/docs.html<br>
