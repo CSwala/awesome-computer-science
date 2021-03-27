@@ -889,6 +889,23 @@ https://github.com/PacktPublishing/Keras-Tips-Tricks-and-Techniques <br> https:/
 </details>
 
 <details>
+ <summary> Kibana </summary>
+ <br>Category/Type - <br> Data visualization <br>
+ <br>Official Documentation - <br> https://www.elastic.co/guide/index.html <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/channel/UC70FzDDRiJZ6BUyxmolBXow <br>
+ https://www.youtube.com/channel/UC9Rc1hpWHUju8O2rYHAUVXA <br> https://www.youtube.com/playlist?list=PLS1QulWo1RIYkDHcPXUtH4sqvQQMH3_TN <br>
+ https://www.youtube.com/playlist?list=PLGZAAioH7ZlO7AstL9PZrqalK0fZutEXF <br> https://www.youtube.com/playlist?list=PLiBX6AfVW8jH9dg7BAjuO4xXM8JlHW5HM <br>
+ <br>Useful Websites - <br> https://www.tutorialspoint.com/kibana/index.htm <br> https://logz.io/blog/kibana-tutorial/ <br> https://www.javatpoint.com/kibana <br>
+ https://dzone.com/articles/kibana-tutorial-getting-started-part-1 <br> https://www.guru99.com/elk-stack-tutorial.html <br> https://www.digitalocean.com/community/tutorials/how-to-use-kibana-dashboards-and-visualizations <br>
+ <br>Dedicated Github page - <br> https://github.com/dzharii/awesome-elasticsearch <br> https://github.com/codingblocks/eck-k8s-skaffold <br> https://github.com/crazy-canux/awesome-monitoring <br>
+ <br>Best Courses - <br> https://www.udemy.com/course/complete-elasticsearch-masterclass-with-kibana-and-logstash/ <br> https://www.udemy.com/course/learn-kibana/ <br>
+ https://www.udemy.com/course/data-visualization-with-kibana/ <br> https://www.udemy.com/course/kibana-elk-stack-for-beginners/ <br>
+ <br>Other Tips / Hacks - <br> https://habr.com/en/post/505228/ <br> https://logz.io/blog/kibana-hacks/ <br> https://medium.com/kreuzwerker-gmbh/tips-tricks-for-better-log-analysis-with-kibana-part-1-7167af111310 <br>
+ https://www.elastic.co/webinars/hidden-gems-in-kibana <br> https://dzone.com/articles/kibana-hacks-5-tips-and-tricks <br> https://dev.to/kreuzwerker/tips-tricks-for-better-log-analysis-with-kibana-part-2-how-to-deal-with-unknown-fields-23mk <br>
+ <br>
+ </details>
+
+<details>
 <summary>Kotlin </summary>
 <br>Category/Type - <br>
 Programming Language<br>
