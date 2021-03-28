@@ -245,6 +245,22 @@ https://medium.com/@marinamakarova/26-tips-on-c-programming-61cb54900234<br><br>
 </details>
 
 <details>
+ <summary> Chef </summary>
+ <br>Category/Type - <br> Configuration management tool <br> 
+ <br>Official Documentation - <br> https://docs.chef.io <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/user/Simplilearn <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/playlist?list=PLTgRMOcmRb3PV9vZJXzfq1Mr6r_-qVmEh <br>
+https://www.youtube.com/playlist?list=PL11cZfNdwNyOPa_kLgCX0wDW3O00Sjydx <br> https://www.youtube.com/playlist?list=PLsgnv1SN76IJIiBg0e1lAIIAW1xZXPHF1 <br>
+ <br>Useful Websites - <br> https://www.tutorialspoint.com/chef/index.htm <br> https://learn.chef.io <br> https://www.edureka.co/blog/chef-tutorial/ <br>
+ https://www.simplilearn.com/chef-tutorial-article <br> https://www.digitalocean.com/community/tags/chef <br> https://medium.com/@ommore524/chef-tutorial-1-introduction-to-configuration-management-tool-cmt-chef-ff03a4eab5ad <br>
+ <br>Dedicated Github page - <br> https://github.com/obazoud/awesome-chef <br> https://github.com/learn-chef/awesome_customers_delivery <br>
+ <br>Best Courses - <br> https://www.udemy.com/course/chef-fundamentals-a-recipe-for-automating-infrastructure/ <br> https://www.udemy.com/course/learn-chef/ <br>
+ https://www.udemy.com/course/chef-essentials/ <br> https://www.udemy.com/course/understanding-chef-the-practical-guide/ <br>
+ <br>Other Tips / Hacks - <br> https://www.slideshare.net/opscode/chef-conf-windowsdougireton <br> http://wayne-yuen.blogspot.com/2017/03/using-chef-solo-with-cloudformation.html <br>
+ https://newcontext.com/tips-for-using-chef-zero-audit-mode-and-packer/ <br>
+ <br>
+ </details>
+
+<details>
 <summary>Cinema 4D</summary>
 <br>Category/Type - <br>Software<br>
 <br>Official Documentation - <br>https://help.maxon.net/r23/en-us/<br>
