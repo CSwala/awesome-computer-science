@@ -493,6 +493,35 @@
 		"Image1":"https://miro.medium.com/max/3532/1*nucyFw-E5Lotofy1WSWMqw.png " 
 
 	},
+
+	{	"Title" : "Elasticsearch",
+		"Tag": "Database",
+		"Documentation" : "https://www.elastic.co/guide/index.html",
+		"YT1" : "https://www.youtube.com/user/edurekaIN",
+		"YT2" : "https://www.youtube.com/user/intellipaaat",
+		"YT3" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+		"YT4" : "https://www.youtube.com/playlist?list=PLGZAAioH7ZlO7AstL9PZrqalK0fZutEXF",
+		"YT5" : "https://www.youtube.com/playlist?list=PLiBX6AfVW8jH9dg7BAjuO4xXM8JlHW5HM",
+		"YT6" : "https://www.youtube.com/playlist?list=PLS1QulWo1RIYkDHcPXUtH4sqvQQMH3_TN",
+		"Website1": "https://logz.io/blog/elasticsearch-tutorial/",
+		"Website2": "https://www.tutorialspoint.com/elasticsearch/index.htm",
+		"Website3": "https://stackify.com/elasticsearch-tutorial/",
+		"Website4": "https://www.javatpoint.com/elasticsearch",
+		"Website5": "https://www.edureka.co/blog/elasticsearch-tutorial/",
+		"Website6": "https://tsh.io/blog/elasticsearch-tutorial/",
+		"Dedicated GH page1" : "https://github.com/dzharii/awesome-elasticsearch",
+		"Dedicated GH page2" : "https://github.com/jolicode/elasticsearch-cheatsheet",
+		"Dedicated GH page3" : "https://github.com/leschenko/elasticsearch_autocomplete",
+		"Course1" : "https://www.udemy.com/course/elasticsearch-complete-guide/",
+		"Course2" : "https://www.udemy.com/course/complete-elasticsearch-masterclass-with-kibana-and-logstash/",
+		"Course3" : "https://www.udemy.com/course/elasticsearch-6-and-elastic-stack-in-depth-and-hands-on/",
+		"Course4" : "https://www.udemy.com/course/elasticsearch-masterclass/",
+		"Course5" : "https://www.udemy.com/course/elasticsearch-in-action/",
+		"Tips1" : "https://cloudhero.io/elasticsearch-tips-and-tricks",
+		"Tips2" : "https://www.fortisfio.com/tips-tricks-with-elasticsearch/",
+		"Tips3" : "https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/",
+		"Tips4" : "https://dzone.com/articles/elasticsearch-dos-donts-and-pro-tips-and-security"
+	},
 	
 	{	
 		"Title" : "Ember.js ",
@@ -802,6 +831,33 @@
 	"Tips6" : "https://dockerlabs.collabnix.com/docker/cheatsheet/ ",
 	"Image1":"https://miro.medium.com/max/2400/1*asSDJQpw1EQPFN-BqQSU0Q.png "
 	
+	},
+
+	{	"Title" : "Apache HBase",
+		"Tag": "Database",
+		"Documentation" : "https://hbase.apache.org/book.html",
+		"YT1" : "https://www.youtube.com/user/edurekaIN",
+		"YT2" : "https://www.youtube.com/user/Simplilearn",
+		"YT3" : "https://www.youtube.com/user/intellipaaat",
+		"YT4" : "https://www.youtube.com/playlist?list=PLnnr5dBDLWOUIidwbJbukiohTDB8fq07p",
+		"YT5" : "https://www.youtube.com/playlist?list=PLn8-K2vXiem7ICOdc2R3GEdAvQz_SojOy",
+		"YT6" : "https://www.youtube.com/playlist?list=PLjDrWlBFXZWchNCAmlFHsTjwNcgmkVVHr",
+		"Website1": "https://www.tutorialspoint.com/hbase/index.htm",
+		"Website2": "https://www.guru99.com/hbase-tutorials.html",
+		"Website3": "https://www.javatpoint.com/hbase",
+		"Website4": "https://www.edureka.co/blog/hbase-tutorial",
+		"Website5": "https://www.simplilearn.com/tutorials/hadoop-tutorial/hbase",
+		"Website6": "https://intellipaat.com/blog/tutorial/hbase-tutorial/",
+		"Dedicated GH page1" : "https://github.com/rayokota/awesome-hbase",
+		"Dedicated GH page2" : "https://github.com/jacksu/awesome-hbase",
+		"Dedicated GH page3" : "https://github.com/awesomeguides/awesome-hbasedb",
+		"Course1" : "https://www.udemy.com/course/learn-by-example-hbase/",
+		"Course2" : "https://www.udemy.com/course/apache-hbase-course/",
+		"Course3" : "https://www.udemy.com/course/building-apache-hbase-applications/",
+		"Course4" : "https://www.udemy.com/course/mastering-apache-hbase-with-hands-on/",
+		"Tips1" : "https://www.educba.com/hbase-commands/",
+		"Tips2" : "http://techsquids.com/bd/hbase-scan-filters-tips-tricks/",
+		"Tips3" : "https://risdenk.gitbooks.io/hadoop_book/content/examples/apache_hbase.html"
 	},
 
 	{
