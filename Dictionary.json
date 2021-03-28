@@ -277,6 +277,31 @@
 	"Tips6" : "https://medium.com/@marinamakarova/26-tips-on-c-programming-61cb54900234 "
 	},
 
+	{	"Title" : "Chef",
+		"Tag": "Configuration management tool",
+		"Documentation" : "https://docs.chef.io",
+		"YT1" : "https://www.youtube.com/user/Simplilearn",
+		"YT2" : "https://www.youtube.com/user/edurekaIN",
+		"YT3" : "https://www.youtube.com/playlist?list=PLTgRMOcmRb3PV9vZJXzfq1Mr6r_-qVmEh",
+		"YT4" : "https://www.youtube.com/playlist?list=PL11cZfNdwNyOPa_kLgCX0wDW3O00Sjydx",
+		"YT5" : "https://www.youtube.com/playlist?list=PLsgnv1SN76IJIiBg0e1lAIIAW1xZXPHF1",
+		"Website1": "https://www.tutorialspoint.com/chef/index.htm",
+		"Website2": "https://learn.chef.io",
+		"Website3": "https://www.edureka.co/blog/chef-tutorial/",
+		"Website4": "https://www.simplilearn.com/chef-tutorial-article",
+		"Website5": "https://www.digitalocean.com/community/tags/chef",
+		"Website6": "https://medium.com/@ommore524/chef-tutorial-1-introduction-to-configuration-management-tool-cmt-chef-ff03a4eab5ad",
+		"Dedicated GH page1" : "https://github.com/obazoud/awesome-chef",
+		"Dedicated GH page2" : "https://github.com/learn-chef/awesome_customers_delivery",
+		"Course1" : "https://www.udemy.com/course/chef-fundamentals-a-recipe-for-automating-infrastructure/",
+		"Course2" : "https://www.udemy.com/course/learn-chef/",
+		"Course3" : "https://www.udemy.com/course/chef-essentials/",
+		"Course4" : "https://www.udemy.com/course/understanding-chef-the-practical-guide/",
+		"Tips1" : "https://www.slideshare.net/opscode/chef-conf-windowsdougireton",
+		"Tips2" : "http://wayne-yuen.blogspot.com/2017/03/using-chef-solo-with-cloudformation.html",
+		"Tips3" : "https://newcontext.com/tips-for-using-chef-zero-audit-mode-and-packer/"
+	},
+
 	{
 		"Title" : "Cinema 4D",
 		"Tag" : "Software",
