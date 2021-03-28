@@ -730,6 +730,76 @@ https://www.elated.com/10-html-tips-for-beginners/<br>
 </details>
 
 <details>
+<summary>iOS</summary>
+<br>
+Category/Type - <br>Operating system <br>
+<br>
+Official Documentation - <br>
+https://developer.apple.com/ios/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=09TeUXjzpKs <br>
+https://www.youtube.com/watch?v=bZNAFkkUeKs <br>
+https://www.youtube.com/watch?v=yQtVucLRt5Y <br>
+https://www.youtube.com/watch?v=bUQz9ZWjsvc <br>
+https://www.youtube.com/watch?v=5b91dFhZz0g <br>
+https://www.youtube.com/watch?v=qePfXPEFTAY <br>
+https://www.youtube.com/watch?v=eUaVrFqMpcQ <br>
+https://www.youtube.com/watch?v=ot1AKV9kfAo <br>
+https://www.youtube.com/watch?v=ySa58y1SRy0 <br>
+<br>
+Useful Websites -
+<br>
+https://vikaskore.medium.com/a-overview-of-ios-frameworks-79fa2d195694 <br>
+https://instabug.com/blog/top-ios-libraries-and-frameworks/ <br>
+https://infinum.com/the-capsized-eight/top-10-most-useful-iOS-libraries <br>
+https://developer.apple.com/ <br>
+https://www.simplilearn.com/skills-required-to-become-an-ios-developer-article <br>
+https://www.ithands.com/blog/5-ios-app-development-tools/ <br>
+https://nevonprojects.com/ios-projects/ <br>
+https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/BuildABasicUI.html <br>
+https://medium.mybridge.co/21-amazing-open-source-ios-apps-written-in-swift-5e835afee98e <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/vsouza/awesome-ios <br>
+https://github.com/dkhamsing/open-source-ios-apps <br>
+https://github.com/GitHawkApp/GitHawk <br>
+https://github.com/wireapp/wire-ios <br>
+https://github.com/apple/swift <br>
+https://github.com/jogendra/example-ios-apps <br>
+https://github.com/TelegramMessenger/Telegram-iOS <br>
+https://github.com/matteocrippa/awesome-swift <br>
+https://github.com/iCHAIT/awesome-macOS <br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/specializations/app-development <br>
+https://www.coursera.org/learn/ios-app-development-swift-5 <br>
+https://www.coursera.org/learn/ios-app-development-basics <br>
+https://www.udemy.com/course/ios-13-app-development-bootcamp/ <br>
+https://www.udacity.com/course/ios-developer-nanodegree--nd003 <br>
+https://www.lynda.com/iOS-training-tutorials/413-0.html <br>
+https://developer.apple.com/learn/curriculum/ <br>
+https://www.edx.org/course/build-your-very-first-ios-app <br>
+https://www.edx.org/course/project-create-an-ios-app-from-start-to-finish <br>
+<br>
+Other Tips / Hacks - <br>
+https://savvyapps.com/blog/swift-tips-for-developers <br>
+https://levelup.gitconnected.com/tips-and-tricks-to-improve-your-swift-code-138a7d1e1bd8 <br>
+https://www.hackingwithswift.com/articles/106/10-quick-swift-tips <br>
+https://developerinsider.co/tips-to-become-a-better-swift-ios-developer/ <br>
+https://learn.g2.com/ios-development-tips <br>
+https://cocoacasts.com/category/tips-and-tricks <br>
+https://www.detroitlabs.com/blog/2017/04/13/17-xcode-tips-and-tricks-that-every-ios-developer-should-know/ <br>
+https://medium.com/snowdog-labs/37-xcode-tips-and-tricks-c8427784ba48 <br>
+https://www.raywenderlich.com/19019328-xcode-tips-and-tricks <br>
+<br>
+<a href="https://1000logos.net/wp-content/uploads/2017/02/iOS-Logo-2013.jpg">
+  <img align="center" src="https://1000logos.net/wp-content/uploads/2017/02/iOS-Logo-2013.jpg" width="900" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Java </summary>
 <br>Category/Type - <br>
 Programming Language<br>
