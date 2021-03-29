@@ -2402,6 +2402,37 @@
 	"Tips3" : "https://www.educative.io/blog/haskell-tutorial",
 	"Tips4" : "https://making.pusher.com/top-tips-and-tools-for-optimising-haskell/",
 	"Image1" : "https://wiki.haskell.org/wikiupload/4/4a/HaskellLogoStyPreview-1.png"
+},
+{
+	"Title" : "Elixir",
+	"Tag" : "Dynamic and Functional programming language",
+	"Documentation" : "https://elixir-lang.org/docs.html",
+	"YT1" : "https://www.youtube.com/watch?v=pBNOavRoNL0",
+	"YT2" : "https://www.youtube.com/watch?v=R8CeZazrDHo&list=PLJbE2Yu2zumAgKjSPyFtvYjP5LqgzafQq",
+	"YT3" : "https://www.youtube.com/watch?v=Jydr6UUYs2U&list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp",
+	"YT4" : "https://www.youtube.com/watch?v=CJT8wPnmjTM&list=RDQM5UTotFNHJYQ&start_radio=1",
+	"YT5":"https://www.youtube.com/watch?v=zApko_L_dU8",
+	"Website1" : "https://inquisitivedeveloper.com/lwm-elixir-64/",
+	"Website2" : "https://www.tutorialspoint.com/elixir/index.htm",
+	"Website3" : "https://serokell.io/blog/learn-elixir",
+	"Website4" : "https://thoughtbot.com/upcase/videos/intro-to-elixir",
+	"Website5" : "https://www.devglan.com/programming/elixir-tutorials",
+	"Website6" : "https://awesome-elixir.ru/",
+	"Dedicated GH page1" : "https://github.com/dwyl/learn-elixir",
+	"Dedicated GH page2" : "https://github.com/elixir-lang/elixir",
+	"Dedicated GH page3" : "https://github.com/h4cc/awesome-elixir",
+	"Dedicated GH page4" : "https://github.com/gopala-kr/code-rush-101/blob/master/something-learned/awesome-gh/awesome-augmented/awesomes/awesome-elixir.md",
+	"Dedicated GH page5" : "https://github.com/elixir-git/xgit",
+	"Course1" : "https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.INDIA_ti.8322&utm_content=deal4584&utm_term=_._ag_82381207818_._ad_437511380776_._kw__._de_c_._dm__._pl__._ti_dsa-774930032609_._li_9040198_._pd__._&matchtype=b&gclid=CjwKCAjwr_uCBhAFEiwAX8YJgRzKDPC_hAb0JMoFZ92TSg2_g7CqZ-I_SQkqXvzcAySBsf8pcNLjoBoCUUQQAvD_BwE",
+	"Course2" : "https://www.venturelessons.com/best-elixir-courses/",
+	"Course3" : "https://www.pluralsight.com/courses/elixir-getting-started",
+	"Course4" : "https://pragmaticstudio.com/elixir",
+	"Course5" :"https://elixirforum.com/c/learning-resources/courses/62",
+	"Tips1" : "https://medium.com/blackode/10-killer-elixir-tips-2a9be1bec9be",
+	"Tips2" : "https://nickjanetakis.com/blog/tag/elixir-tips-tricks-and-tutorials",
+	"Tips3" : "https://elixirforum.com/t/getting-things-done-with-elixir-tips/11196",
+	"Tips4" : "https://prograils.com/5-tips-for-elixir-phoenix-projects",
+	"Image1" : "https://elixir-lang.org/images/logo/logo.png"
 }
 	]
 
