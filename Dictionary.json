@@ -2433,6 +2433,37 @@
 	"Tips3" : "https://elixirforum.com/t/getting-things-done-with-elixir-tips/11196",
 	"Tips4" : "https://prograils.com/5-tips-for-elixir-phoenix-projects",
 	"Image1" : "https://elixir-lang.org/images/logo/logo.png"
+},
+{
+	"Title" : "Clojure",
+	"Tag" : "Programming language",
+	"Documentation" : "https://clojure.org/",
+	"YT1" : "https://www.youtube.com/watch?v=ciGyHkDuPAE",
+	"YT2" : "https://www.youtube.com/watch?v=uwRFOFvd-CU",
+	"YT3" : "https://www.youtube.com/watch?v=zFPiPBIkAcQ",
+	"YT4" : "https://www.youtube.com/watch?v=VSdnJDO-xdg&list=RDQMwPJCkEN8jNI&start_radio=1",
+	"YT5":"https://www.youtube.com/watch?v=VSdnJDO-xdg",
+	"Website1" : "https://www.tutorialspoint.com/clojure/index.htm",
+	"Website2" : "https://jaxenter.com/clojure-alternative-java-169315.html",
+	"Website3" : "https://clojure.org/guides/getting_started",
+	"Website4" : "https://www.baeldung.com/clojure",
+	"Website5" : "https://www.exoscale.com/syslog/clojure-application-tutorial/",
+	"Website6" : "https://gitconnected.com/learn/clojure",
+	"Dedicated GH page1" : "https://github.com/razum2um/awesome-clojure",
+	"Dedicated GH page2" : "https://github.com/mbuczko/awesome-clojure",
+	"Dedicated GH page3" : "https://github.com/kana-sama/awesome-clojure",
+	"Dedicated GH page4" : "https://github.com/hantuzun/awesome-clojurescript",
+	"Dedicated GH page5" : "https://github.com/markbastian/awesome-clojure",
+	"Course1" : "https://www.pluralsight.com/courses/functional-programming-clojure?aid=7010a000002BWq6AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=IN_Dynamic&utm_content=&gclid=Cj0KCQjw9YWDBhDyARIsADt6sGZcF_9PfrUMgYSnr9lW-WLLkmUX-V_RW72_D8C_M_OAqy0sSSPhyEUaAuLMEALw_wcB",
+	"Course2" : "https://www.udemy.com/course/communicating-sequential-processes-with-coreasync/",
+	"Course3" : "https://www.i-programmer.info/news/150-training-a-education/7489-free-online-clojure-mooc.html",
+	"Course4" : "https://www.toptal.com/clojure/clojurescript-tutorial-react-front-end",
+	"Course5" :"https://purelyfunctional.tv/",
+	"Tips1" : "https://medium.com/blackode/10-killer-elixir-tips-2a9be1bec9be",
+	"Tips2" : "https://nickjanetakis.com/blog/tag/elixir-tips-tricks-and-tutorials",
+	"Tips3" : "https://elixirforum.com/t/getting-things-done-with-elixir-tips/11196",
+	"Tips4" : "https://prograils.com/5-tips-for-elixir-phoenix-projects",
+	"Image1" : "https://elixir-lang.org/images/logo/logo.png"
 }
 	]
 

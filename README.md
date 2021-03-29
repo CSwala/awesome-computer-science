@@ -1999,6 +1999,18 @@ https://github.com/haskell/directory<br>https://github.com/krispo/awesome-haskel
 </details>
 <details>
 <summary>Elixir</summary>
+<br>Category/Type - <br>Programming language<br>
+<br>Official Documentation - <br>https://clojure.org/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=ciGyHkDuPAE<br>https://www.youtube.com/watch?v=uwRFOFvd-CU<br>https://www.youtube.com/watch?v=zFPiPBIkAcQ<br>https://www.youtube.com/watch?v=VSdnJDO-xdg&list=RDQMwPJCkEN8jNI&start_radio=1<br>https://www.youtube.com/watch?v=VSdnJDO-xdg<br>
+<br>Useful Websites - <br>https://www.tutorialspoint.com/clojure/index.htm<br>https://jaxenter.com/clojure-alternative-java-169315.html<br>https://clojure.org/guides/getting_started<br>https://www.exoscale.com/syslog/clojure-application-tutorial/<br>https://gitconnected.com/learn/clojure<br>
+<br>Dedicated Github page - <br>https://github.com/razum2um/awesome-clojure<br>https://github.com/mbuczko/awesome-clojure<br>https://github.com/kana-sama/awesome-clojure<br>https://github.com/hantuzun/awesome-clojurescript<br>https://github.com/markbastian/awesome-clojure<br>
+<br>Best Courses -<br>https://www.pluralsight.com/courses/functional-programming-clojure?aid=7010a000002BWq6AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=IN_Dynamic&utm_content=&gclid=Cj0KCQjw9YWDBhDyARIsADt6sGZcF_9PfrUMgYSnr9lW-WLLkmUX-V_RW72_D8C_M_OAqy0sSSPhyEUaAuLMEALw_wcB<br>https://www.i-programmer.info/news/150-training-a-education/7489-free-online-clojure-mooc.html<br>https://www.udemy.com/course/communicating-sequential-processes-with-coreasync/<br>https://www.toptal.com/clojure/clojurescript-tutorial-react-front-end<br>https://purelyfunctional.tv/<br>
+<br>Other Tips / Hacks -<br>https://medium.com/blackode/10-killer-elixir-tips-2a9be1bec9be<br>https://elixirforum.com/t/getting-things-done-with-elixir-tips/11196<br>https://nickjanetakis.com/blog/tag/elixir-tips-tricks-and-tutorials<br>https://prograils.com/5-tips-for-elixir-phoenix-projects<br>
+<a href="https://elixir-lang.org/images/logo/logo.png">
+<img align="center" src="https://elixir-lang.org/images/logo/logo.png" width="800" height="400"/>
+</details>
+<details>
+<summary>Clojure</summary>
 <br>Category/Type - <br>Dynamic and Functional programming language<br>
 <br>Official Documentation - <br>https://elixir-lang.org/docs.html<br>
 <br>Best YouTube creators - <br>https://www.youtube.com/watch?v=pBNOavRoNL0<br>https://www.youtube.com/watch?v=R8CeZazrDHo&list=PLJbE2Yu2zumAgKjSPyFtvYjP5LqgzafQq<br>https://www.youtube.com/watch?v=Jydr6UUYs2U&list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp<br>https://www.youtube.com/watch?v=CJT8wPnmjTM&list=RDQM5UTotFNHJYQ&start_radio=1<br>https://www.youtube.com/watch?v=zApko_L_dU8<br>
