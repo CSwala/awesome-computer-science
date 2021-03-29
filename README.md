@@ -1759,6 +1759,75 @@ https://heartbeat.fritz.ai/tensorflow-quick-tips-e394bc5fee15 <br> https://mediu
 </details>
 
 <details>
+<summary>TeamCity </summary>
+<br>
+Category/Type - <br>Software <br>
+<br>
+Official Documentation - <br>
+https://www.jetbrains.com/teamcity/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=OCnbC7wtXys <br>
+https://www.youtube.com/watch?v=HaBRWWuR47Q <br>
+https://www.youtube.com/watch?v=ey5_-p4gB6w <br>
+https://www.youtube.com/watch?v=XSuitxKaJ-I <br>
+https://www.youtube.com/watch?v=-MrOb-2EtSw <br>
+https://www.youtube.com/watch?v=2muXXD2-0jg <br>
+https://www.youtube.com/watch?v=5emP47sLD_k <br>
+<br>
+Useful Websites -
+<br>
+https://www.jetbrains.com/help/teamcity/installing-additional-plugins.html <br>
+https://blog.jetbrains.com/teamcity/2019/05/14-cool-teamcity-plugins-you-can-start-using-right-now/ <br>
+https://www.lambdatest.com/support/docs/teamcity-plugin/ <br>
+https://www.jetbrains.com/help/teamcity/rest-api.html <br>
+https://blog.jetbrains.com/teamcity/2020/12/new-teamcity-rest-api-documentation/ <br>
+https://dev.to/lornasw93/exploring-team-city-api-with-examples-55dm <br>
+https://www.jetbrains.com/help/teamcity/setting-up-an-external-database.html#Selecting+External+Database+Engine <br>
+https://www.jetbrains.com/help/teamcity/teamcity-data-directory.html <br>
+https://blog.jetbrains.com/teamcity/2019/08/test-automation-with-teamcity/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/rodm/gradle-teamcity-plugin <br>
+https://github.com/jonnyzzz/TeamCity.GitHub <br>
+https://github.com/JetBrains/teamcity-commit-hooks <br>
+https://github.com/JetBrains/teamcity-achievements <br>
+https://github.com/alexkvak/teamcity-slack <br>
+https://github.com/browserstack/teamcity-plugin <br>
+https://github.com/JetBrains/teamcity-test-metadata-demo <br>
+https://github.com/JetBrains/teamcity-project-status-widget <br>
+https://github.com/devopshq/teamcity <br>
+https://github.com/JetBrains/teamcity-invitations-plugin <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/teamcity-2017-build-and-deploy-the-modern-way/ <br>
+https://www.pluralsight.com/courses/teamcity-getting-started <br>
+https://www.excelr.com/teamcity-training <br>
+https://www.linkedin.com/learning/teamcity-2017-essential-training <br>
+https://tekslate.com/teamcity-training <br>
+https://www.keentechnologies.com/course/teamcity-online-training/ <br>
+https://www.lynda.com/TeamCity-tutorials/773040-0.html <br>
+https://mindmajix.com/teamcity-training <br>
+https://www.classcentral.com/course/pluralsight-teamcity-administration-28832 <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.nguyenquyhy.com/category/tips-tricks/ <br>
+https://blog.jetbrains.com/teamcity/category/tips-tricks/ <br>
+https://blog.jetbrains.com/teamcity/2013/09/user-interface-tips-and-tricks/ <br>
+https://medium.com/ios-development-tips-and-tricks/teamcity-for-ios-project-8def4089b938 <br>
+https://blog.petegoo.com/2015/03/14/teamcity-github/ <br>
+https://docs.roguewave.com/en/klocwork/2019/integratingwithteamcity <br>
+https://forum.katalon.com/t/teamcity-and-katalon-integration/14638 <br>
+https://holsson.wordpress.com/2017/05/02/teamcity-and-octopus-deploy-tips-and-tricks/ <br>
+https://docs.testproject.io/testproject-integrations/integration-with-teamcity <br>
+<br>
+<a href="https://www.incredibuild.com/wp-content/uploads/2020/09/Teamcity_Logo.png">
+  <img align="center" src="https://www.incredibuild.com/wp-content/uploads/2020/09/Teamcity_Logo.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary> Unity </summary>
 <br>Category/Type - <br>  Game engine <br>
 <br>Official Documentation - <br> https://docs.unity3d.com/Manual/index.html <br>
