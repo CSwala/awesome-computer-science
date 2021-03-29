@@ -245,6 +245,22 @@ https://medium.com/@marinamakarova/26-tips-on-c-programming-61cb54900234<br><br>
 </details>
 
 <details>
+ <summary> Chef </summary>
+ <br>Category/Type - <br> Configuration management tool <br> 
+ <br>Official Documentation - <br> https://docs.chef.io <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/user/Simplilearn <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/playlist?list=PLTgRMOcmRb3PV9vZJXzfq1Mr6r_-qVmEh <br>
+https://www.youtube.com/playlist?list=PL11cZfNdwNyOPa_kLgCX0wDW3O00Sjydx <br> https://www.youtube.com/playlist?list=PLsgnv1SN76IJIiBg0e1lAIIAW1xZXPHF1 <br>
+ <br>Useful Websites - <br> https://www.tutorialspoint.com/chef/index.htm <br> https://learn.chef.io <br> https://www.edureka.co/blog/chef-tutorial/ <br>
+ https://www.simplilearn.com/chef-tutorial-article <br> https://www.digitalocean.com/community/tags/chef <br> https://medium.com/@ommore524/chef-tutorial-1-introduction-to-configuration-management-tool-cmt-chef-ff03a4eab5ad <br>
+ <br>Dedicated Github page - <br> https://github.com/obazoud/awesome-chef <br> https://github.com/learn-chef/awesome_customers_delivery <br>
+ <br>Best Courses - <br> https://www.udemy.com/course/chef-fundamentals-a-recipe-for-automating-infrastructure/ <br> https://www.udemy.com/course/learn-chef/ <br>
+ https://www.udemy.com/course/chef-essentials/ <br> https://www.udemy.com/course/understanding-chef-the-practical-guide/ <br>
+ <br>Other Tips / Hacks - <br> https://www.slideshare.net/opscode/chef-conf-windowsdougireton <br> http://wayne-yuen.blogspot.com/2017/03/using-chef-solo-with-cloudformation.html <br>
+ https://newcontext.com/tips-for-using-chef-zero-audit-mode-and-packer/ <br>
+ <br>
+ </details>
+
+<details>
 <summary>Cinema 4D</summary>
 <br>Category/Type - <br>Software<br>
 <br>Official Documentation - <br>https://help.maxon.net/r23/en-us/<br>
@@ -760,6 +776,76 @@ https://www.elated.com/10-html-tips-for-beginners/<br>
 <br>Other Tips / Hacks - <br>https://za.pinterest.com/biancaprinsloo/inkscape-tips-tricks/<br>https://design.tutsplus.com/articles/back-to-school-28-easy-inkscape-tutorials--cms-21870<br>https://inkscape.org/doc/tutorials/tips/tutorial-tips.html<br>https://fireflysemantics.medium.com/inkscape-tips-and-tricks-56bf29e704a8<br>
 <a href="https://fedoramagazine.org/wp-content/uploads/2016/10/inkscape-gettingstarted-945x400.png">
   <img align="center" src="https://fedoramagazine.org/wp-content/uploads/2016/10/inkscape-gettingstarted-945x400.png" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
+<summary>iOS</summary>
+<br>
+Category/Type - <br>Operating system <br>
+<br>
+Official Documentation - <br>
+https://developer.apple.com/ios/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=09TeUXjzpKs <br>
+https://www.youtube.com/watch?v=bZNAFkkUeKs <br>
+https://www.youtube.com/watch?v=yQtVucLRt5Y <br>
+https://www.youtube.com/watch?v=bUQz9ZWjsvc <br>
+https://www.youtube.com/watch?v=5b91dFhZz0g <br>
+https://www.youtube.com/watch?v=qePfXPEFTAY <br>
+https://www.youtube.com/watch?v=eUaVrFqMpcQ <br>
+https://www.youtube.com/watch?v=ot1AKV9kfAo <br>
+https://www.youtube.com/watch?v=ySa58y1SRy0 <br>
+<br>
+Useful Websites -
+<br>
+https://vikaskore.medium.com/a-overview-of-ios-frameworks-79fa2d195694 <br>
+https://instabug.com/blog/top-ios-libraries-and-frameworks/ <br>
+https://infinum.com/the-capsized-eight/top-10-most-useful-iOS-libraries <br>
+https://developer.apple.com/ <br>
+https://www.simplilearn.com/skills-required-to-become-an-ios-developer-article <br>
+https://www.ithands.com/blog/5-ios-app-development-tools/ <br>
+https://nevonprojects.com/ios-projects/ <br>
+https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/BuildABasicUI.html <br>
+https://medium.mybridge.co/21-amazing-open-source-ios-apps-written-in-swift-5e835afee98e <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/vsouza/awesome-ios <br>
+https://github.com/dkhamsing/open-source-ios-apps <br>
+https://github.com/GitHawkApp/GitHawk <br>
+https://github.com/wireapp/wire-ios <br>
+https://github.com/apple/swift <br>
+https://github.com/jogendra/example-ios-apps <br>
+https://github.com/TelegramMessenger/Telegram-iOS <br>
+https://github.com/matteocrippa/awesome-swift <br>
+https://github.com/iCHAIT/awesome-macOS <br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/specializations/app-development <br>
+https://www.coursera.org/learn/ios-app-development-swift-5 <br>
+https://www.coursera.org/learn/ios-app-development-basics <br>
+https://www.udemy.com/course/ios-13-app-development-bootcamp/ <br>
+https://www.udacity.com/course/ios-developer-nanodegree--nd003 <br>
+https://www.lynda.com/iOS-training-tutorials/413-0.html <br>
+https://developer.apple.com/learn/curriculum/ <br>
+https://www.edx.org/course/build-your-very-first-ios-app <br>
+https://www.edx.org/course/project-create-an-ios-app-from-start-to-finish <br>
+<br>
+Other Tips / Hacks - <br>
+https://savvyapps.com/blog/swift-tips-for-developers <br>
+https://levelup.gitconnected.com/tips-and-tricks-to-improve-your-swift-code-138a7d1e1bd8 <br>
+https://www.hackingwithswift.com/articles/106/10-quick-swift-tips <br>
+https://developerinsider.co/tips-to-become-a-better-swift-ios-developer/ <br>
+https://learn.g2.com/ios-development-tips <br>
+https://cocoacasts.com/category/tips-and-tricks <br>
+https://www.detroitlabs.com/blog/2017/04/13/17-xcode-tips-and-tricks-that-every-ios-developer-should-know/ <br>
+https://medium.com/snowdog-labs/37-xcode-tips-and-tricks-c8427784ba48 <br>
+https://www.raywenderlich.com/19019328-xcode-tips-and-tricks <br>
+<br>
+<a href="https://1000logos.net/wp-content/uploads/2017/02/iOS-Logo-2013.jpg">
+  <img align="center" src="https://1000logos.net/wp-content/uploads/2017/02/iOS-Logo-2013.jpg" width="900" height="500"/>
 </a>
 <br><br><br>
 </details>
