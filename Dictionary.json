@@ -421,6 +421,33 @@
 
 	},
 
+	{	"Title" : "CryEngine",
+		"Tag": "Game engine",
+		"Documentation" : "https://docs.cryengine.com",
+		"YT1" : "https://www.youtube.com/user/CryDevPortal",
+		"YT2" : "https://www.youtube.com/user/quixelteddy",
+		"YT3" : "https://www.youtube.com/user/superroblox",
+		"YT4" : "https://www.youtube.com/playlist?list=PLnzAsQDGw0WVOe48mA5a6WCIvRIpttaOF",
+		"YT5" : "https://www.youtube.com/playlist?list=PL6I_h13LSNC7dGxtrEJwkt8NnuDCjVTbl",
+		"YT6" : "https://www.youtube.com/playlist?list=PLG5XT5TF5T6j28ZFNSLZiplX16Il6117_",
+		"YT7" : "https://www.youtube.com/playlist?list=PLYnbKITbqv7BgLbTynsBwmOfk8pfiGpei",
+		"YT8" : "https://www.youtube.com/playlist?list=PLpCgy91Y5vMtzRchqgN7TO2mB7p_LO9LL",
+		"Website1": "https://www.cryengine.com/tutorials",
+		"Website2": "https://www.worldofleveldesign.com/categories/cat-cryengine3.php",
+		"Website3": "https://gamedevelopment.tutsplus.com/articles/how-to-learn-cryengine-3-sdk--gamedev-10166",
+		"Website4": "https://tutorials.cgrecord.net/2019/09/cryengine-tutorial-creating-forest.html",
+		"Dedicated GH page1" : "https://github.com/AmilsonJunior/awesome-cryengine",
+		"Dedicated GH page2" : "https://github.com/vilhelmhammer/awesomeness",
+		"Dedicated GH page3" : "https://github.com/adampagedev/Cryengine3sdk.com-Community-Game",
+		"Course1" : "https://www.pluralsight.com/courses/introduction-cryengine-787",
+		"Course2" : "https://www.udemy.com/course/learn-the-basics-of-building-levels-with-cryengine/",
+		"Course3" : "https://www.udemy.com/course/3dmotive-learn-modular-level-building-for-cryengine-with-maya/",
+		"Course4" : "https://www.udemy.com/course/3dmotive-texturing-an-industrial-door-with-ndo-for-cryengine-3/",
+		"Tips1" : "https://www.pluralsight.com/courses/tips-tricks-cryengine-939",
+		"Tips2" : "https://www.cryengine.com/news/view/tips-and-tricks-cherrypicking-from-gamesdk",
+		"Tips3" : "https://www.facebook.com/crytek/posts/get-tips-tricks-and-a-tutorial-about-how-to-make-particle-effects-with-cryengine/10160719114920287/"
+	},
+
 
 	{	"Title" : "CUDA",
 		"Tag": "Application Programming Interfaces",
