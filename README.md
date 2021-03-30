@@ -1660,6 +1660,23 @@ https://www.smartly.io/blog/ruby-tricks-for-curious-developer <br>
 </details>
 
 <details>
+ <summary> Salt </summary>
+ <br>Category/Type - <br> IT automation <br>
+ <br>Official Documentation - <br> https://docs.saltproject.io/en/latest/ <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/user/Simplilearn <br> https://www.youtube.com/user/SaltStack <br> https://www.youtube.com/channel/UCdFn-4mDZy8jd3x_JyVCLbQ <br>
+ https://www.youtube.com/playlist?list=PLgGQIE0cGrkiDRmJ3YWBKlI2KuYfFvfzV <br> https://www.youtube.com/playlist?list=PL9svBjLDUl_8Cy3BWOfmeWwWgnCc6_eLb <br>
+ https://www.youtube.com/playlist?list=PL6TwUbrFsOuMc_V_3tpvn6DeQiyTSqScU <br>
+ <br>Useful Websites - <br> https://www.acte.in/saltstack-tutorial/ <br> https://www.tutorialspoint.com/saltstack/index.htm <br>
+ https://www.digitalocean.com/community/tutorials/an-introduction-to-saltstack-terminology-and-concepts <br> https://docs.saltproject.io/en/latest/topics/tutorials/walkthrough.html <br>
+ <br>Dedicated Github page - <br> https://github.com/hbokh/awesome-saltstack <br> https://github.com/visualphoenix/awesome-saltstack <br>
+ <br>Best Courses - <br> https://www.udemy.com/course/mastering-saltstack-from-ground-to-cloud/ <br> https://www.udemy.com/course/learning-salt/ <br>
+ https://www.udemy.com/course/learning-path-automation-with-ansible-puppet-and-salt/ <br> 
+ <br>Other Tips / Hacks - <br> https://help.saltstack.com/hc/en-us/sections/360007948432-Command-Tips <br> https://docs.saltproject.io/en/latest/topics/hardening.html <br>
+ https://www.linode.com/docs/guides/beginners-guide-to-salt/ <br>
+ <br>
+ </details>
+
+<details>
  <summary> Scala </summary>
  <br>Category/Type - <br> Programming language <br>
  <br>Official Documentation - <br> https://docs.scala-lang.org <br>
