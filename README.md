@@ -259,8 +259,8 @@ https://www.youtube.com/playlist?list=PL11cZfNdwNyOPa_kLgCX0wDW3O00Sjydx <br> ht
  https://newcontext.com/tips-for-using-chef-zero-audit-mode-and-packer/ <br>
  <br>
  </details>
-
-<details>
+ 
+ <details>
 <summary>Cinema 4D</summary>
 <br>Category/Type - <br>Software<br>
 <br>Official Documentation - <br>https://help.maxon.net/r23/en-us/<br>
@@ -274,6 +274,19 @@ https://www.youtube.com/playlist?list=PL11cZfNdwNyOPa_kLgCX0wDW3O00Sjydx <br> ht
 </a>
 <br><br><br>
 </details>
+<details>
+<summary>Clojure</summary>
+<br>Category/Type - <br>Dynamic and Functional programming language<br>
+<br>Official Documentation - <br>https://elixir-lang.org/docs.html<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=pBNOavRoNL0<br>https://www.youtube.com/watch?v=R8CeZazrDHo&list=PLJbE2Yu2zumAgKjSPyFtvYjP5LqgzafQq<br>https://www.youtube.com/watch?v=Jydr6UUYs2U&list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp<br>https://www.youtube.com/watch?v=CJT8wPnmjTM&list=RDQM5UTotFNHJYQ&start_radio=1<br>https://www.youtube.com/watch?v=zApko_L_dU8<br>
+<br>Useful Websites - <br>https://www.tutorialspoint.com/elixir/index.htm<br>https://inquisitivedeveloper.com/lwm-elixir-64/<br>https://serokell.io/blog/learn-elixir<br>https://thoughtbot.com/upcase/videos/intro-to-elixir<br>https://www.devglan.com/programming/elixir-tutorials<br>https://awesome-elixir.ru/<br>
+<br>Dedicated Github page - <br>https://github.com/dwyl/learn-elixir<br>https://github.com/elixir-lang/elixir<br>https://github.com/h4cc/awesome-elixir<br>https://github.com/gopala-kr/code-rush-101/blob/master/something-learned/awesome-gh/awesome-augmented/awesomes/awesome-elixir.md<br>hhttps://github.com/elixir-git/xgit<br>
+<br>Best Courses -<br>https://elixirforum.com/c/learning-resources/courses/62<br>hhttps://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.INDIA_ti.8322&utm_content=deal4584&utm_term=_._ag_82381207818_._ad_437511380776_._kw__._de_c_._dm__._pl__._ti_dsa-774930032609_._li_9040198_._pd__._&matchtype=b&gclid=CjwKCAjwr_uCBhAFEiwAX8YJgRzKDPC_hAb0JMoFZ92TSg2_g7CqZ-I_SQkqXvzcAySBsf8pcNLjoBoCUUQQAvD_BwE<br>https://www.venturelessons.com/best-elixir-courses/<br>https://www.pluralsight.com/courses/elixir-getting-started<br>https://pragmaticstudio.com/elixir<br>
+<br>Other Tips / Hacks -<br>https://medium.com/blackode/10-killer-elixir-tips-2a9be1bec9be<br>https://elixirforum.com/t/getting-things-done-with-elixir-tips/11196<br>https://nickjanetakis.com/blog/tag/elixir-tips-tricks-and-tutorials<br>https://prograils.com/5-tips-for-elixir-phoenix-projects<br>
+<a href="https://elixir-lang.org/images/logo/logo.png">
+<img align="center" src="https://elixir-lang.org/images/logo/logo.png" width="800" height="400"/>
+</details>
+
 
 <details>
 <summary>Competitive Programming</summary>
@@ -512,6 +525,18 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
  https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/ <br> https://dzone.com/articles/elasticsearch-dos-donts-and-pro-tips-and-security <br>
  <br>
  </details>
+ <details>
+<summary>Elixir</summary>
+<br>Category/Type - <br>Dyanamic Programming language<br>
+<br>Official Documentation - <br>https://elixir-lang.org/docs.html<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=pBNOavRoNL0<br>hhttps://www.youtube.com/watch?v=R8CeZazrDHo&list=PLJbE2Yu2zumAgKjSPyFtvYjP5LqgzafQq<br>https://www.youtube.com/watch?v=Jydr6UUYs2U&list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp<br>https://www.youtube.com/watch?v=CJT8wPnmjTM&list=RDQM5UTotFNHJYQ&start_radio=1<br>https://www.youtube.com/watch?v=zApko_L_dU8<br>
+<br>Useful Websites - <br>https://inquisitivedeveloper.com/lwm-elixir-64/<br>https://www.tutorialspoint.com/elixir/index.htm<br>https://serokell.io/blog/learn-elixir<br>https://thoughtbot.com/upcase/videos/intro-to-elixir<br>https://www.devglan.com/programming/elixir-tutorials<br>
+<br>Dedicated Github page - <br>https://github.com/dwyl/learn-elixir<br>https://github.com/elixir-lang/elixir<br>https://github.com/h4cc/awesome-elixir<br>https://github.com/gopala-kr/code-rush-101/blob/master/something-learned/awesome-gh/awesome-augmented/awesomes/awesome-elixir.md<br>https://github.com/elixir-git/xgit<br>
+<br>Best Courses -<br>https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.INDIA_ti.8322&utm_content=deal4584&utm_term=_._ag_82381207818_._ad_437511380776_._kw__._de_c_._dm__._pl__._ti_dsa-774930032609_._li_9040198_._pd__._&matchtype=b&gclid=CjwKCAjwr_uCBhAFEiwAX8YJgRzKDPC_hAb0JMoFZ92TSg2_g7CqZ-I_SQkqXvzcAySBsf8pcNLjoBoCUUQQAvD_BwE<br>https://www.venturelessons.com/best-elixir-courses/<br>https://www.pluralsight.com/courses/elixir-getting-started<br>https://pragmaticstudio.com/elixir<br>https://elixirforum.com/c/learning-resources/courses/62<br>
+<br>Other Tips / Hacks -<br>https://medium.com/blackode/10-killer-elixir-tips-2a9be1bec9be<br>https://elixirforum.com/t/getting-things-done-with-elixir-tips/11196<br>https://nickjanetakis.com/blog/tag/elixir-tips-tricks-and-tutorials<br>https://prograils.com/5-tips-for-elixir-phoenix-projects<br>
+<a href="https://elixir-lang.org/images/logo/logo.png">
+<img align="center" src="https://elixir-lang.org/images/logo/logo.png" width="800" height="400"/>
+</details>
 
 <details>
 <summary>Ember.js </summary>
@@ -662,6 +687,20 @@ https://www.javatpoint.com/groovy <br>
 <br>Best Courses - <br> https://www.pluralsight.com/courses/groovy-fundamentals <br> https://www.udemy.com/course/apache-groovy/ <br> 
 <br>Other Tips / Hacks - <br> https://docs.oracle.com/en/cloud/saas/applications-common/20b/cgsac/groovy-tips-and-techniques.html#groovy-tips-and-techniques <br>
 https://www.infoq.com/presentations/groovy-features/ <br>
+</details>
+
+<details>
+<summary>Haskell</summary>
+<br>Category/Type - <br>Functional programming language<br>
+<br>Official Documentation - <br>https://www.haskell.org/documentation/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=F8OeEWt0Swg&list=PLJ5C_6qdAvBFJP1RiUrUUJI4GEhnJhgQw<br>https://www.youtube.com/watch?v=UIUlFQH4Cvo&list=PLoJC20gNfC2gpI7Dl6fg8uj1a-wfnWTH8<br>https://www.youtube.com/watch?v=Vgu82wiiZ90&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV<br>https://www.youtube.com/watch?v=Uva-sysnrEQ<br>
+<br>Useful Websites - <br>https://wiki.haskell.org/Haskell<br>https://www.haskell.org/tutorial/<br>https://www.tutorialspoint.com/haskell/index.htm<br>https://nptel.ac.in/courses/106/106/106106137/<br>"http://www.vex.net/~trebla/haskell/index.xhtml"<br>https://wiki.haskell.org/Learning_Haskell<br>https://www.schoolofhaskell.com/<br>
+<br>Dedicated Github page - <br>https://github.com/haskell"<br>https://github.com/bitemyapp/learnhaskell<br>
+https://github.com/haskell/directory<br>https://github.com/krispo/awesome-haskell<br>https://github.com/haskell/criterion<br>
+<br>Best Courses -<br>https://www.futurelearn.com/courses/functional-programming-haskell<br>https://www.udemy.com/course/haskell-data-analysis-made-easy/<br>https://hackr.io/tutorials/learn-haskell<br>https://www.classcentral.com/subject/haskell<br>http://learnyouahaskell.com/chapters<br>
+<br>Other Tips / Hacks -<br>https://wiki.haskell.org/Haskell_programming_tips<br>https://www.haskellforall.com/2017/10/advice-for-haskell-beginners.html<br>https://www.educative.io/blog/haskell-tutorial<br>https://making.pusher.com/top-tips-and-tools-for-optimising-haskell/<br>
+<a href="https://wiki.haskell.org/wikiupload/4/4a/HaskellLogoStyPreview-1.png">
+<img align="center" src="https://wiki.haskell.org/wikiupload/4/4a/HaskellLogoStyPreview-1.png" width="800" height="400"/>
 </details>
 
 <details>
@@ -1660,6 +1699,23 @@ https://www.smartly.io/blog/ruby-tricks-for-curious-developer <br>
 </details>
 
 <details>
+ <summary> Salt </summary>
+ <br>Category/Type - <br> IT automation <br>
+ <br>Official Documentation - <br> https://docs.saltproject.io/en/latest/ <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/user/Simplilearn <br> https://www.youtube.com/user/SaltStack <br> https://www.youtube.com/channel/UCdFn-4mDZy8jd3x_JyVCLbQ <br>
+ https://www.youtube.com/playlist?list=PLgGQIE0cGrkiDRmJ3YWBKlI2KuYfFvfzV <br> https://www.youtube.com/playlist?list=PL9svBjLDUl_8Cy3BWOfmeWwWgnCc6_eLb <br>
+ https://www.youtube.com/playlist?list=PL6TwUbrFsOuMc_V_3tpvn6DeQiyTSqScU <br>
+ <br>Useful Websites - <br> https://www.acte.in/saltstack-tutorial/ <br> https://www.tutorialspoint.com/saltstack/index.htm <br>
+ https://www.digitalocean.com/community/tutorials/an-introduction-to-saltstack-terminology-and-concepts <br> https://docs.saltproject.io/en/latest/topics/tutorials/walkthrough.html <br>
+ <br>Dedicated Github page - <br> https://github.com/hbokh/awesome-saltstack <br> https://github.com/visualphoenix/awesome-saltstack <br>
+ <br>Best Courses - <br> https://www.udemy.com/course/mastering-saltstack-from-ground-to-cloud/ <br> https://www.udemy.com/course/learning-salt/ <br>
+ https://www.udemy.com/course/learning-path-automation-with-ansible-puppet-and-salt/ <br> 
+ <br>Other Tips / Hacks - <br> https://help.saltstack.com/hc/en-us/sections/360007948432-Command-Tips <br> https://docs.saltproject.io/en/latest/topics/hardening.html <br>
+ https://www.linode.com/docs/guides/beginners-guide-to-salt/ <br>
+ <br>
+ </details>
+
+<details>
  <summary> Scala </summary>
  <br>Category/Type - <br> Programming language <br>
  <br>Official Documentation - <br> https://docs.scala-lang.org <br>
@@ -1756,6 +1812,75 @@ https://heartbeat.fritz.ai/tensorflow-quick-tips-e394bc5fee15 <br> https://mediu
 <a href="https://www.slideteam.net/media/catalog/product/cache/960x720/d/a/data_science_half_yearly_learning_roadmap_slide01.jpg">
   <img align="center" src="https://www.slideteam.net/media/catalog/product/cache/960x720/d/a/data_science_half_yearly_learning_roadmap_slide01.jpg" width="500" height="500"/>
 </a>
+</details>
+
+<details>
+<summary>TeamCity </summary>
+<br>
+Category/Type - <br>Software <br>
+<br>
+Official Documentation - <br>
+https://www.jetbrains.com/teamcity/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=OCnbC7wtXys <br>
+https://www.youtube.com/watch?v=HaBRWWuR47Q <br>
+https://www.youtube.com/watch?v=ey5_-p4gB6w <br>
+https://www.youtube.com/watch?v=XSuitxKaJ-I <br>
+https://www.youtube.com/watch?v=-MrOb-2EtSw <br>
+https://www.youtube.com/watch?v=2muXXD2-0jg <br>
+https://www.youtube.com/watch?v=5emP47sLD_k <br>
+<br>
+Useful Websites -
+<br>
+https://www.jetbrains.com/help/teamcity/installing-additional-plugins.html <br>
+https://blog.jetbrains.com/teamcity/2019/05/14-cool-teamcity-plugins-you-can-start-using-right-now/ <br>
+https://www.lambdatest.com/support/docs/teamcity-plugin/ <br>
+https://www.jetbrains.com/help/teamcity/rest-api.html <br>
+https://blog.jetbrains.com/teamcity/2020/12/new-teamcity-rest-api-documentation/ <br>
+https://dev.to/lornasw93/exploring-team-city-api-with-examples-55dm <br>
+https://www.jetbrains.com/help/teamcity/setting-up-an-external-database.html#Selecting+External+Database+Engine <br>
+https://www.jetbrains.com/help/teamcity/teamcity-data-directory.html <br>
+https://blog.jetbrains.com/teamcity/2019/08/test-automation-with-teamcity/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/rodm/gradle-teamcity-plugin <br>
+https://github.com/jonnyzzz/TeamCity.GitHub <br>
+https://github.com/JetBrains/teamcity-commit-hooks <br>
+https://github.com/JetBrains/teamcity-achievements <br>
+https://github.com/alexkvak/teamcity-slack <br>
+https://github.com/browserstack/teamcity-plugin <br>
+https://github.com/JetBrains/teamcity-test-metadata-demo <br>
+https://github.com/JetBrains/teamcity-project-status-widget <br>
+https://github.com/devopshq/teamcity <br>
+https://github.com/JetBrains/teamcity-invitations-plugin <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/teamcity-2017-build-and-deploy-the-modern-way/ <br>
+https://www.pluralsight.com/courses/teamcity-getting-started <br>
+https://www.excelr.com/teamcity-training <br>
+https://www.linkedin.com/learning/teamcity-2017-essential-training <br>
+https://tekslate.com/teamcity-training <br>
+https://www.keentechnologies.com/course/teamcity-online-training/ <br>
+https://www.lynda.com/TeamCity-tutorials/773040-0.html <br>
+https://mindmajix.com/teamcity-training <br>
+https://www.classcentral.com/course/pluralsight-teamcity-administration-28832 <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.nguyenquyhy.com/category/tips-tricks/ <br>
+https://blog.jetbrains.com/teamcity/category/tips-tricks/ <br>
+https://blog.jetbrains.com/teamcity/2013/09/user-interface-tips-and-tricks/ <br>
+https://medium.com/ios-development-tips-and-tricks/teamcity-for-ios-project-8def4089b938 <br>
+https://blog.petegoo.com/2015/03/14/teamcity-github/ <br>
+https://docs.roguewave.com/en/klocwork/2019/integratingwithteamcity <br>
+https://forum.katalon.com/t/teamcity-and-katalon-integration/14638 <br>
+https://holsson.wordpress.com/2017/05/02/teamcity-and-octopus-deploy-tips-and-tricks/ <br>
+https://docs.testproject.io/testproject-integrations/integration-with-teamcity <br>
+<br>
+<a href="https://www.incredibuild.com/wp-content/uploads/2020/09/Teamcity_Logo.png">
+  <img align="center" src="https://www.incredibuild.com/wp-content/uploads/2020/09/Teamcity_Logo.png" width="500" height="500"/>
+</a>
+<br><br><br>
 </details>
 
 <details>
@@ -1983,21 +2108,7 @@ https://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/ <br>
 <a href="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp">
   <img align="center" src="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp" width="800" height="400"/>
   </details>
-
-  <details>
-<summary>Haskell</summary>
-<br>Category/Type - <br>Functional programming language<br>
-<br>Official Documentation - <br>https://www.haskell.org/documentation/<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=F8OeEWt0Swg&list=PLJ5C_6qdAvBFJP1RiUrUUJI4GEhnJhgQw<br>https://www.youtube.com/watch?v=UIUlFQH4Cvo&list=PLoJC20gNfC2gpI7Dl6fg8uj1a-wfnWTH8<br>https://www.youtube.com/watch?v=Vgu82wiiZ90&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV<br>https://www.youtube.com/watch?v=Uva-sysnrEQ<br>
-<br>Useful Websites - <br>https://wiki.haskell.org/Haskell<br>https://www.haskell.org/tutorial/<br>https://www.tutorialspoint.com/haskell/index.htm<br>https://nptel.ac.in/courses/106/106/106106137/<br>"http://www.vex.net/~trebla/haskell/index.xhtml"<br>https://wiki.haskell.org/Learning_Haskell<br>https://www.schoolofhaskell.com/<br>
-<br>Dedicated Github page - <br>https://github.com/haskell"<br>https://github.com/bitemyapp/learnhaskell<br>
-https://github.com/haskell/directory<br>https://github.com/krispo/awesome-haskell<br>https://github.com/haskell/criterion<br>
-<br>Best Courses -<br>https://www.futurelearn.com/courses/functional-programming-haskell<br>https://www.udemy.com/course/haskell-data-analysis-made-easy/<br>https://hackr.io/tutorials/learn-haskell<br>https://www.classcentral.com/subject/haskell<br>http://learnyouahaskell.com/chapters<br>
-<br>Other Tips / Hacks -<br>https://wiki.haskell.org/Haskell_programming_tips<br>https://www.haskellforall.com/2017/10/advice-for-haskell-beginners.html<br>https://www.educative.io/blog/haskell-tutorial<br>https://making.pusher.com/top-tips-and-tools-for-optimising-haskell/<br>
-<a href="https://wiki.haskell.org/wikiupload/4/4a/HaskellLogoStyPreview-1.png">
-<img align="center" src="https://wiki.haskell.org/wikiupload/4/4a/HaskellLogoStyPreview-1.png" width="800" height="400"/>
-</details>
-
+  
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
