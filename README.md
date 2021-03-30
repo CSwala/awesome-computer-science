@@ -259,8 +259,8 @@ https://www.youtube.com/playlist?list=PL11cZfNdwNyOPa_kLgCX0wDW3O00Sjydx <br> ht
  https://newcontext.com/tips-for-using-chef-zero-audit-mode-and-packer/ <br>
  <br>
  </details>
-
-<details>
+ 
+ <details>
 <summary>Cinema 4D</summary>
 <br>Category/Type - <br>Software<br>
 <br>Official Documentation - <br>https://help.maxon.net/r23/en-us/<br>
@@ -274,6 +274,19 @@ https://www.youtube.com/playlist?list=PL11cZfNdwNyOPa_kLgCX0wDW3O00Sjydx <br> ht
 </a>
 <br><br><br>
 </details>
+<details>
+<summary>Clojure</summary>
+<br>Category/Type - <br>Dynamic and Functional programming language<br>
+<br>Official Documentation - <br>https://elixir-lang.org/docs.html<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=pBNOavRoNL0<br>https://www.youtube.com/watch?v=R8CeZazrDHo&list=PLJbE2Yu2zumAgKjSPyFtvYjP5LqgzafQq<br>https://www.youtube.com/watch?v=Jydr6UUYs2U&list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp<br>https://www.youtube.com/watch?v=CJT8wPnmjTM&list=RDQM5UTotFNHJYQ&start_radio=1<br>https://www.youtube.com/watch?v=zApko_L_dU8<br>
+<br>Useful Websites - <br>https://www.tutorialspoint.com/elixir/index.htm<br>https://inquisitivedeveloper.com/lwm-elixir-64/<br>https://serokell.io/blog/learn-elixir<br>https://thoughtbot.com/upcase/videos/intro-to-elixir<br>https://www.devglan.com/programming/elixir-tutorials<br>https://awesome-elixir.ru/<br>
+<br>Dedicated Github page - <br>https://github.com/dwyl/learn-elixir<br>https://github.com/elixir-lang/elixir<br>https://github.com/h4cc/awesome-elixir<br>https://github.com/gopala-kr/code-rush-101/blob/master/something-learned/awesome-gh/awesome-augmented/awesomes/awesome-elixir.md<br>hhttps://github.com/elixir-git/xgit<br>
+<br>Best Courses -<br>https://elixirforum.com/c/learning-resources/courses/62<br>hhttps://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.INDIA_ti.8322&utm_content=deal4584&utm_term=_._ag_82381207818_._ad_437511380776_._kw__._de_c_._dm__._pl__._ti_dsa-774930032609_._li_9040198_._pd__._&matchtype=b&gclid=CjwKCAjwr_uCBhAFEiwAX8YJgRzKDPC_hAb0JMoFZ92TSg2_g7CqZ-I_SQkqXvzcAySBsf8pcNLjoBoCUUQQAvD_BwE<br>https://www.venturelessons.com/best-elixir-courses/<br>https://www.pluralsight.com/courses/elixir-getting-started<br>https://pragmaticstudio.com/elixir<br>
+<br>Other Tips / Hacks -<br>https://medium.com/blackode/10-killer-elixir-tips-2a9be1bec9be<br>https://elixirforum.com/t/getting-things-done-with-elixir-tips/11196<br>https://nickjanetakis.com/blog/tag/elixir-tips-tricks-and-tutorials<br>https://prograils.com/5-tips-for-elixir-phoenix-projects<br>
+<a href="https://elixir-lang.org/images/logo/logo.png">
+<img align="center" src="https://elixir-lang.org/images/logo/logo.png" width="800" height="400"/>
+</details>
+
 
 <details>
 <summary>Competitive Programming</summary>
@@ -512,6 +525,18 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
  https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/ <br> https://dzone.com/articles/elasticsearch-dos-donts-and-pro-tips-and-security <br>
  <br>
  </details>
+ <details>
+<summary>Elixir</summary>
+<br>Category/Type - <br>Dyanamic Programming language<br>
+<br>Official Documentation - <br>https://elixir-lang.org/docs.html<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=pBNOavRoNL0<br>hhttps://www.youtube.com/watch?v=R8CeZazrDHo&list=PLJbE2Yu2zumAgKjSPyFtvYjP5LqgzafQq<br>https://www.youtube.com/watch?v=Jydr6UUYs2U&list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp<br>https://www.youtube.com/watch?v=CJT8wPnmjTM&list=RDQM5UTotFNHJYQ&start_radio=1<br>https://www.youtube.com/watch?v=zApko_L_dU8<br>
+<br>Useful Websites - <br>https://inquisitivedeveloper.com/lwm-elixir-64/<br>https://www.tutorialspoint.com/elixir/index.htm<br>https://serokell.io/blog/learn-elixir<br>https://thoughtbot.com/upcase/videos/intro-to-elixir<br>https://www.devglan.com/programming/elixir-tutorials<br>
+<br>Dedicated Github page - <br>https://github.com/dwyl/learn-elixir<br>https://github.com/elixir-lang/elixir<br>https://github.com/h4cc/awesome-elixir<br>https://github.com/gopala-kr/code-rush-101/blob/master/something-learned/awesome-gh/awesome-augmented/awesomes/awesome-elixir.md<br>https://github.com/elixir-git/xgit<br>
+<br>Best Courses -<br>https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.INDIA_ti.8322&utm_content=deal4584&utm_term=_._ag_82381207818_._ad_437511380776_._kw__._de_c_._dm__._pl__._ti_dsa-774930032609_._li_9040198_._pd__._&matchtype=b&gclid=CjwKCAjwr_uCBhAFEiwAX8YJgRzKDPC_hAb0JMoFZ92TSg2_g7CqZ-I_SQkqXvzcAySBsf8pcNLjoBoCUUQQAvD_BwE<br>https://www.venturelessons.com/best-elixir-courses/<br>https://www.pluralsight.com/courses/elixir-getting-started<br>https://pragmaticstudio.com/elixir<br>https://elixirforum.com/c/learning-resources/courses/62<br>
+<br>Other Tips / Hacks -<br>https://medium.com/blackode/10-killer-elixir-tips-2a9be1bec9be<br>https://elixirforum.com/t/getting-things-done-with-elixir-tips/11196<br>https://nickjanetakis.com/blog/tag/elixir-tips-tricks-and-tutorials<br>https://prograils.com/5-tips-for-elixir-phoenix-projects<br>
+<a href="https://elixir-lang.org/images/logo/logo.png">
+<img align="center" src="https://elixir-lang.org/images/logo/logo.png" width="800" height="400"/>
+</details>
 
 <details>
 <summary>Ember.js </summary>
@@ -662,6 +687,20 @@ https://www.javatpoint.com/groovy <br>
 <br>Best Courses - <br> https://www.pluralsight.com/courses/groovy-fundamentals <br> https://www.udemy.com/course/apache-groovy/ <br> 
 <br>Other Tips / Hacks - <br> https://docs.oracle.com/en/cloud/saas/applications-common/20b/cgsac/groovy-tips-and-techniques.html#groovy-tips-and-techniques <br>
 https://www.infoq.com/presentations/groovy-features/ <br>
+</details>
+
+<details>
+<summary>Haskell</summary>
+<br>Category/Type - <br>Functional programming language<br>
+<br>Official Documentation - <br>https://www.haskell.org/documentation/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=F8OeEWt0Swg&list=PLJ5C_6qdAvBFJP1RiUrUUJI4GEhnJhgQw<br>https://www.youtube.com/watch?v=UIUlFQH4Cvo&list=PLoJC20gNfC2gpI7Dl6fg8uj1a-wfnWTH8<br>https://www.youtube.com/watch?v=Vgu82wiiZ90&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV<br>https://www.youtube.com/watch?v=Uva-sysnrEQ<br>
+<br>Useful Websites - <br>https://wiki.haskell.org/Haskell<br>https://www.haskell.org/tutorial/<br>https://www.tutorialspoint.com/haskell/index.htm<br>https://nptel.ac.in/courses/106/106/106106137/<br>"http://www.vex.net/~trebla/haskell/index.xhtml"<br>https://wiki.haskell.org/Learning_Haskell<br>https://www.schoolofhaskell.com/<br>
+<br>Dedicated Github page - <br>https://github.com/haskell"<br>https://github.com/bitemyapp/learnhaskell<br>
+https://github.com/haskell/directory<br>https://github.com/krispo/awesome-haskell<br>https://github.com/haskell/criterion<br>
+<br>Best Courses -<br>https://www.futurelearn.com/courses/functional-programming-haskell<br>https://www.udemy.com/course/haskell-data-analysis-made-easy/<br>https://hackr.io/tutorials/learn-haskell<br>https://www.classcentral.com/subject/haskell<br>http://learnyouahaskell.com/chapters<br>
+<br>Other Tips / Hacks -<br>https://wiki.haskell.org/Haskell_programming_tips<br>https://www.haskellforall.com/2017/10/advice-for-haskell-beginners.html<br>https://www.educative.io/blog/haskell-tutorial<br>https://making.pusher.com/top-tips-and-tools-for-optimising-haskell/<br>
+<a href="https://wiki.haskell.org/wikiupload/4/4a/HaskellLogoStyPreview-1.png">
+<img align="center" src="https://wiki.haskell.org/wikiupload/4/4a/HaskellLogoStyPreview-1.png" width="800" height="400"/>
 </details>
 
 <details>
@@ -1983,46 +2022,7 @@ https://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/ <br>
 <a href="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp">
   <img align="center" src="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp" width="800" height="400"/>
   </details>
-
-  <details>
-<summary>Haskell</summary>
-<br>Category/Type - <br>Functional programming language<br>
-<br>Official Documentation - <br>https://www.haskell.org/documentation/<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=F8OeEWt0Swg&list=PLJ5C_6qdAvBFJP1RiUrUUJI4GEhnJhgQw<br>https://www.youtube.com/watch?v=UIUlFQH4Cvo&list=PLoJC20gNfC2gpI7Dl6fg8uj1a-wfnWTH8<br>https://www.youtube.com/watch?v=Vgu82wiiZ90&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV<br>https://www.youtube.com/watch?v=Uva-sysnrEQ<br>
-<br>Useful Websites - <br>https://wiki.haskell.org/Haskell<br>https://www.haskell.org/tutorial/<br>https://www.tutorialspoint.com/haskell/index.htm<br>https://nptel.ac.in/courses/106/106/106106137/<br>"http://www.vex.net/~trebla/haskell/index.xhtml"<br>https://wiki.haskell.org/Learning_Haskell<br>https://www.schoolofhaskell.com/<br>
-<br>Dedicated Github page - <br>https://github.com/haskell"<br>https://github.com/bitemyapp/learnhaskell<br>
-https://github.com/haskell/directory<br>https://github.com/krispo/awesome-haskell<br>https://github.com/haskell/criterion<br>
-<br>Best Courses -<br>https://www.futurelearn.com/courses/functional-programming-haskell<br>https://www.udemy.com/course/haskell-data-analysis-made-easy/<br>https://hackr.io/tutorials/learn-haskell<br>https://www.classcentral.com/subject/haskell<br>http://learnyouahaskell.com/chapters<br>
-<br>Other Tips / Hacks -<br>https://wiki.haskell.org/Haskell_programming_tips<br>https://www.haskellforall.com/2017/10/advice-for-haskell-beginners.html<br>https://www.educative.io/blog/haskell-tutorial<br>https://making.pusher.com/top-tips-and-tools-for-optimising-haskell/<br>
-<a href="https://wiki.haskell.org/wikiupload/4/4a/HaskellLogoStyPreview-1.png">
-<img align="center" src="https://wiki.haskell.org/wikiupload/4/4a/HaskellLogoStyPreview-1.png" width="800" height="400"/>
-</details>
-<details>
-<summary>Elixir</summary>
-<br>Category/Type - <br>Programming language<br>
-<br>Official Documentation - <br>https://clojure.org/<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=ciGyHkDuPAE<br>https://www.youtube.com/watch?v=uwRFOFvd-CU<br>https://www.youtube.com/watch?v=zFPiPBIkAcQ<br>https://www.youtube.com/watch?v=VSdnJDO-xdg&list=RDQMwPJCkEN8jNI&start_radio=1<br>https://www.youtube.com/watch?v=VSdnJDO-xdg<br>
-<br>Useful Websites - <br>https://www.tutorialspoint.com/clojure/index.htm<br>https://jaxenter.com/clojure-alternative-java-169315.html<br>https://clojure.org/guides/getting_started<br>https://www.exoscale.com/syslog/clojure-application-tutorial/<br>https://gitconnected.com/learn/clojure<br>
-<br>Dedicated Github page - <br>https://github.com/razum2um/awesome-clojure<br>https://github.com/mbuczko/awesome-clojure<br>https://github.com/kana-sama/awesome-clojure<br>https://github.com/hantuzun/awesome-clojurescript<br>https://github.com/markbastian/awesome-clojure<br>
-<br>Best Courses -<br>https://www.pluralsight.com/courses/functional-programming-clojure?aid=7010a000002BWq6AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=IN_Dynamic&utm_content=&gclid=Cj0KCQjw9YWDBhDyARIsADt6sGZcF_9PfrUMgYSnr9lW-WLLkmUX-V_RW72_D8C_M_OAqy0sSSPhyEUaAuLMEALw_wcB<br>https://www.i-programmer.info/news/150-training-a-education/7489-free-online-clojure-mooc.html<br>https://www.udemy.com/course/communicating-sequential-processes-with-coreasync/<br>https://www.toptal.com/clojure/clojurescript-tutorial-react-front-end<br>https://purelyfunctional.tv/<br>
-<br>Other Tips / Hacks -<br>https://medium.com/blackode/10-killer-elixir-tips-2a9be1bec9be<br>https://elixirforum.com/t/getting-things-done-with-elixir-tips/11196<br>https://nickjanetakis.com/blog/tag/elixir-tips-tricks-and-tutorials<br>https://prograils.com/5-tips-for-elixir-phoenix-projects<br>
-<a href="https://elixir-lang.org/images/logo/logo.png">
-<img align="center" src="https://elixir-lang.org/images/logo/logo.png" width="800" height="400"/>
-</details>
-<details>
-<summary>Clojure</summary>
-<br>Category/Type - <br>Dynamic and Functional programming language<br>
-<br>Official Documentation - <br>https://elixir-lang.org/docs.html<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=pBNOavRoNL0<br>https://www.youtube.com/watch?v=R8CeZazrDHo&list=PLJbE2Yu2zumAgKjSPyFtvYjP5LqgzafQq<br>https://www.youtube.com/watch?v=Jydr6UUYs2U&list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp<br>https://www.youtube.com/watch?v=CJT8wPnmjTM&list=RDQM5UTotFNHJYQ&start_radio=1<br>https://www.youtube.com/watch?v=zApko_L_dU8<br>
-<br>Useful Websites - <br>https://www.tutorialspoint.com/elixir/index.htm<br>https://inquisitivedeveloper.com/lwm-elixir-64/<br>https://serokell.io/blog/learn-elixir<br>https://thoughtbot.com/upcase/videos/intro-to-elixir<br>https://www.devglan.com/programming/elixir-tutorials<br>https://awesome-elixir.ru/<br>
-<br>Dedicated Github page - <br>https://github.com/dwyl/learn-elixir<br>https://github.com/elixir-lang/elixir<br>https://github.com/h4cc/awesome-elixir<br>https://github.com/gopala-kr/code-rush-101/blob/master/something-learned/awesome-gh/awesome-augmented/awesomes/awesome-elixir.md<br>hhttps://github.com/elixir-git/xgit<br>
-<br>Best Courses -<br>https://elixirforum.com/c/learning-resources/courses/62<br>hhttps://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.INDIA_ti.8322&utm_content=deal4584&utm_term=_._ag_82381207818_._ad_437511380776_._kw__._de_c_._dm__._pl__._ti_dsa-774930032609_._li_9040198_._pd__._&matchtype=b&gclid=CjwKCAjwr_uCBhAFEiwAX8YJgRzKDPC_hAb0JMoFZ92TSg2_g7CqZ-I_SQkqXvzcAySBsf8pcNLjoBoCUUQQAvD_BwE<br>https://www.venturelessons.com/best-elixir-courses/<br>https://www.pluralsight.com/courses/elixir-getting-started<br>https://pragmaticstudio.com/elixir<br>
-<br>Other Tips / Hacks -<br>https://medium.com/blackode/10-killer-elixir-tips-2a9be1bec9be<br>https://elixirforum.com/t/getting-things-done-with-elixir-tips/11196<br>https://nickjanetakis.com/blog/tag/elixir-tips-tricks-and-tutorials<br>https://prograils.com/5-tips-for-elixir-phoenix-projects<br>
-<a href="https://elixir-lang.org/images/logo/logo.png">
-<img align="center" src="https://elixir-lang.org/images/logo/logo.png" width="800" height="400"/>
-</details>
-
-
+  
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
