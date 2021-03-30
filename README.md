@@ -1771,7 +1771,7 @@ https://www.smartly.io/blog/ruby-tricks-for-curious-developer <br>
  <summary> Rust </summary>
  <br>Category/Type - <br> Programming Language <br>
  <br>Official Documentation - <br> https://doc.rust-lang.org/nightly/ <br>
- <br>Best YouTube creators - <br> 		"YT1" : "https://www.youtube.com/watch?v=zF34dRivLOw",
+ <br>Best YouTube creators - <br>"https://www.youtube.com/watch?v=zF34dRivLOw",
  <br> https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL <br> https://www.youtube.com/watch?v=KLMtnA2mGKs<br>
 https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW <br> https://www.youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb <br>
  https://www.youtube.com/playlist?list=PLK_g1a_cAfaaAO6io1Tluy7EZXhAAK1lC <br>
