@@ -19,7 +19,7 @@
 
 
 <details>
-<summary>Android </summary>
+<summary>Android</summary>
 <br>Category/Type - <br>OS<br>
 <br>Official Documentation - <br>https://developer.android.com/docs<br>
 <br>Best YouTube creators - <br>https://www.youtube.com/channel/UC9M7-jzdU8CVrQo1JwmIdWA<br>https://www.youtube.com/channel/UCB2B0AuQgk6eOMbWR7qiqew<br>https://www.youtube.com/channel/UC58_wzhvJta3hDSPvRLDAqg<br>https://www.youtube.com/channel/UCl6DxakCjDR5AfRwWhWNbMg<br>
@@ -34,7 +34,70 @@
 </details>
 
 <details>
-<summary>Ansible </summary>
+<summary>Angular JS</summary>
+<br>
+Category/Type - <br>Web Framework <br>
+<br>
+Official Documentation - <br>
+https://angular.io/docs <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=zKkUN-mJtPQ <br>
+https://www.youtube.com/watch?v=0E4TDq75rDE <br>
+https://www.youtube.com/watch?v=OPxeCiy0RdY <br>
+https://www.youtube.com/watch?v=FlUCU13dJyo <br>
+https://www.youtube.com/watch?v=s3qZF4jhgDo <br>
+https://www.youtube.com/watch?v=aCOBakZSdmE <br>
+https://www.youtube.com/watch?v=nYVz71Q12yE <br>
+https://www.youtube.com/watch?v=QETUuZ27N0w <br>
+<br>
+Useful Websites -
+<br>
+https://angularjs.org/ <br>
+https://clockwise.software/blog/best-angular-applications/ <br>
+https://stfalcon.com/en/blog/post/large-websites-using-AngularJS <br>
+https://www.creative-tim.com/blog/angularjs/angular-js-75-examples-websites-applications-experiments/ <br>
+https://wiredelta.com/10-most-popular-angular-websites-of-2020/ <br>
+https://www.zarantech.com/blog/top-15-websites-and-applications-built-with-angularjs/ <br>
+https://codecondo.com/15-best-resources-for-developers-to-learn-angularjs/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/angular/angular.js/ <br>
+https://github.com/angular/angularjs.org <br>
+https://github.com/gothinkster/angularjs-realworld-example-app <br>
+https://github.com/PatrickJS/awesome-angular <br>
+https://github.com/DanWahlin/CustomerManager <br>
+https://github.com/angular/angular-seed <br>
+https://github.com/RevillWeb/angularjs-by-example <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/learn-angularjs/ <br>
+https://www.udemy.com/course/angularjs-for-beginners-udemy/ <br>
+https://www.coursera.org/learn/single-page-web-apps-with-angularjs <br>
+https://www.coursera.org/specializations/full-stack-mobile-app-development <br>
+https://www.coursera.org/learn/angular <br>
+https://www.udemy.com/course/maruti-angularjs/ <br>
+https://www.classcentral.com/course/edx-angularjs-framework-fundamentals-7377 <br>
+https://www.codecademy.com/learn/learn-angularjs <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.keycdn.com/blog/angular-performance <br>
+https://www.techbeamers.com/angularjs-tutorial-beginners-essential-tips-tricks/ <br>
+https://www.toptal.com/angular-js/tips-and-practices <br>
+https://www.kiuwan.com/14-tips-for-developing-angularjs-applications/ <br>
+https://eng.localytics.com/tips-and-tricks-for-debugging-unfamiliar-angularjs-code/ <br>
+https://dzone.com/articles/10-tips-for-using-angularjs <br>
+https://medium.com/@tristate/14-tips-to-use-angularjs-effectively-afcaf69d674e <br>
+https://css-tricks.com/using-angularjs-for-data-visualisations/ <br>
+<br>
+<a href="https://cdn.iconscout.com/icon/free/png-256/angularjs-1175205.png">
+  <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/angularjs-1175205.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
+<summary>Ansible</summary>
 <br>Category/Type - <br>IT Configuration Management, Deployment & Orchestration tool<br>
 <br>Official Documentation - <br>https://docs.ansible.com<br>
 <br>Best YouTube creators - <br>https://www.youtube.com/user/Simplilearn <br>https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA <br>
@@ -52,7 +115,7 @@ https://www.udemy.com/course/diveintoansible/ <br> https://www.udemy.com/course/
 </details>
 
 <details>
- <summary> Apache Hadoop </summary>
+ <summary>Apache Hadoop</summary>
  <br>Category/Type - <br> Distributed storage and processing of big data <br>
  <br>Official Documentation - <br> http://hadoop.apache.org/docs/current/ <br>
  <br>Best YouTube creators - <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/user/Simplilearn <br> https://www.youtube.com/user/beaconelearning <br>
@@ -71,8 +134,23 @@ https://www.pluralsight.com/courses/building-blocks-hadoop-hdfs-mapreduce-yarn <
  <br>
  </details>
 
+ <details>
+ <summary>Apache HBase</summary>
+ <br>Category/Type - <br> Database <br>
+ <br>Official Documentation - <br> https://hbase.apache.org/book.html <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/user/Simplilearn <br> https://www.youtube.com/user/intellipaaat <br>
+ https://www.youtube.com/playlist?list=PLnnr5dBDLWOUIidwbJbukiohTDB8fq07p <br> https://www.youtube.com/playlist?list=PLn8-K2vXiem7ICOdc2R3GEdAvQz_SojOy <br> https://www.youtube.com/playlist?list=PLjDrWlBFXZWchNCAmlFHsTjwNcgmkVVHr <br>
+ <br>Useful Websites - <br> https://www.tutorialspoint.com/hbase/index.htm <br> https://www.guru99.com/hbase-tutorials.html <br> https://www.javatpoint.com/hbase <br>
+ https://www.edureka.co/blog/hbase-tutorial <br> https://www.simplilearn.com/tutorials/hadoop-tutorial/hbase <br> https://intellipaat.com/blog/tutorial/hbase-tutorial/ <br>
+ <br>Dedicated Github page - <br> https://github.com/rayokota/awesome-hbase <br> https://github.com/jacksu/awesome-hbase <br> https://github.com/awesomeguides/awesome-hbasedb <br>
+ <br>Best Courses - <br> https://www.udemy.com/course/learn-by-example-hbase/ <br> https://www.udemy.com/course/apache-hbase-course/ <br> https://www.udemy.com/course/building-apache-hbase-applications/ <br>
+ https://www.udemy.com/course/mastering-apache-hbase-with-hands-on/ <br>
+ <br>Other Tips / Hacks - <br> https://www.educba.com/hbase-commands/ <br> http://techsquids.com/bd/hbase-scan-filters-tips-tricks/ <br> https://risdenk.gitbooks.io/hadoop_book/content/examples/apache_hbase.html <br>
+ <br>
+ </details>
+
 <details>
- <summary> Apache Kafka </summary>
+ <summary>Apache Kafka</summary>
  <br>Category/Type - <br> Distributed computing <br>
  <br>Official Documentation - <br> https://kafka.apache.org/documentation/ <br>
  <br>Best YouTube creators - <br> https://www.youtube.com/user/Nephaste20 <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/channel/UCmZz-Gj3caLLzEWBtbYUXaA <br>
@@ -91,7 +169,7 @@ https://www.slideshare.net/AllThingsOpen/tips-and-tricks-for-operating-apache-ka
  </details>
 
 <details>
-<summary>Apache OpenJPA </summary>
+<summary>Apache OpenJPA</summary>
 <br>Category/Type - <br>object-relational mapping (ORM)<br>
 <br>Official Documentation - <br>http://openjpa.apache.org/documentation.html<br>
 <br>Best YouTube creators - <br>https://www.youtube.com/watch?v=otinfgwkMbY<br> https://www.youtube.com/watch?v=OzZcW7XgiPA<br>
@@ -103,7 +181,7 @@ https://www.slideshare.net/AllThingsOpen/tips-and-tricks-for-operating-apache-ka
 </details>
 
 <details>
-<summary>Apache Spark </summary>
+<summary>Apache Spark</summary>
 <br>
 Category/Type - <br>Software <br>
 <br>
@@ -171,7 +249,7 @@ https://databricks.com/blog/2020/10/29/ten-simple-databricks-notebook-tips-trick
 </details>
 
 <details>
-<summary>Apache Storm </summary>
+<summary>Apache Storm</summary>
 <br>
 Category/Type - <br>Computer program <br>
 <br>
@@ -240,70 +318,7 @@ https://sergeytihon.com/2015/08/18/real-time-analytics-with-apache-storm-now-in-
 </details>
 
 <details>
-<summary>Angular JS </summary>
-<br>
-Category/Type - <br>Web Framework <br>
-<br>
-Official Documentation - <br>
-https://angular.io/docs <br>
-<br>
-Best YouTube creators - <br>
-https://www.youtube.com/watch?v=zKkUN-mJtPQ <br>
-https://www.youtube.com/watch?v=0E4TDq75rDE <br>
-https://www.youtube.com/watch?v=OPxeCiy0RdY <br>
-https://www.youtube.com/watch?v=FlUCU13dJyo <br>
-https://www.youtube.com/watch?v=s3qZF4jhgDo <br>
-https://www.youtube.com/watch?v=aCOBakZSdmE <br>
-https://www.youtube.com/watch?v=nYVz71Q12yE <br>
-https://www.youtube.com/watch?v=QETUuZ27N0w <br>
-<br>
-Useful Websites -
-<br>
-https://angularjs.org/ <br>
-https://clockwise.software/blog/best-angular-applications/ <br>
-https://stfalcon.com/en/blog/post/large-websites-using-AngularJS <br>
-https://www.creative-tim.com/blog/angularjs/angular-js-75-examples-websites-applications-experiments/ <br>
-https://wiredelta.com/10-most-popular-angular-websites-of-2020/ <br>
-https://www.zarantech.com/blog/top-15-websites-and-applications-built-with-angularjs/ <br>
-https://codecondo.com/15-best-resources-for-developers-to-learn-angularjs/ <br>
-<br>
-Dedicated Github page - <br>
-https://github.com/angular/angular.js/ <br>
-https://github.com/angular/angularjs.org <br>
-https://github.com/gothinkster/angularjs-realworld-example-app <br>
-https://github.com/PatrickJS/awesome-angular <br>
-https://github.com/DanWahlin/CustomerManager <br>
-https://github.com/angular/angular-seed <br>
-https://github.com/RevillWeb/angularjs-by-example <br>
-<br>
-Best Courses - <br>
-https://www.udemy.com/course/learn-angularjs/ <br>
-https://www.udemy.com/course/angularjs-for-beginners-udemy/ <br>
-https://www.coursera.org/learn/single-page-web-apps-with-angularjs <br>
-https://www.coursera.org/specializations/full-stack-mobile-app-development <br>
-https://www.coursera.org/learn/angular <br>
-https://www.udemy.com/course/maruti-angularjs/ <br>
-https://www.classcentral.com/course/edx-angularjs-framework-fundamentals-7377 <br>
-https://www.codecademy.com/learn/learn-angularjs <br>
-<br>
-Other Tips / Hacks - <br>
-https://www.keycdn.com/blog/angular-performance <br>
-https://www.techbeamers.com/angularjs-tutorial-beginners-essential-tips-tricks/ <br>
-https://www.toptal.com/angular-js/tips-and-practices <br>
-https://www.kiuwan.com/14-tips-for-developing-angularjs-applications/ <br>
-https://eng.localytics.com/tips-and-tricks-for-debugging-unfamiliar-angularjs-code/ <br>
-https://dzone.com/articles/10-tips-for-using-angularjs <br>
-https://medium.com/@tristate/14-tips-to-use-angularjs-effectively-afcaf69d674e <br>
-https://css-tricks.com/using-angularjs-for-data-visualisations/ <br>
-<br>
-<a href="https://cdn.iconscout.com/icon/free/png-256/angularjs-1175205.png">
-  <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/angularjs-1175205.png" width="500" height="500"/>
-</a>
-<br><br><br>
-</details>
-
-<details>
-<summary>Blender </summary>
+<summary>Blender</summary>
 <br>Category/Type - <br>3D modeling and animation program<br>
 <br>Official Documentation - <br>https://docs.blender.org/manual/en/latest/<br>
 <br>Best YouTube creators - <br> https://www.youtube.com/user/AndrewPPrice <br> https://www.youtube.com/user/BlenderInstitute <br>
@@ -348,7 +363,7 @@ https://hackerthemes.com/bootstrap-cheatsheet/<br>
 </details>
 
 <details>
-<summary> C# </summary>
+<summary>C#</summary>
 <br>Category/Type - <br> Programming language <br>
 <br>Official Documentation - <br> https://docs.microsoft.com/en-us/dotnet/csharp/ <br> 
 <br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww <br>
@@ -370,7 +385,7 @@ https://www.pluralsight.com/guides/tips-for-writing-better-c-code <br> https://w
 </details>
 
 <details>
-<summary>C++ </summary>
+<summary>C++</summary>
 <br>Category/Type - <br>Programming Language<br>
 <br>Official Documentation - <br>https://devdocs.io/cpp/<br>
 <br>Best YouTube creators - <br>https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ<br>https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww<br>https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg<br>
@@ -382,7 +397,7 @@ https://medium.com/@marinamakarova/26-tips-on-c-programming-61cb54900234<br><br>
 </details>
 
 <details>
- <summary> Chef </summary>
+ <summary>Chef</summary>
  <br>Category/Type - <br> Configuration management tool <br> 
  <br>Official Documentation - <br> https://docs.chef.io <br>
  <br>Best YouTube creators - <br> https://www.youtube.com/user/Simplilearn <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/playlist?list=PLTgRMOcmRb3PV9vZJXzfq1Mr6r_-qVmEh <br>
@@ -411,6 +426,7 @@ https://www.youtube.com/playlist?list=PL11cZfNdwNyOPa_kLgCX0wDW3O00Sjydx <br> ht
 </a>
 <br><br><br>
 </details>
+
 <details>
 <summary>Clojure</summary>
 <br>Category/Type - <br>Dynamic and Functional programming language<br>
@@ -421,9 +437,8 @@ https://www.youtube.com/playlist?list=PL11cZfNdwNyOPa_kLgCX0wDW3O00Sjydx <br> ht
 <br>Best Courses -<br>https://elixirforum.com/c/learning-resources/courses/62<br>hhttps://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.INDIA_ti.8322&utm_content=deal4584&utm_term=_._ag_82381207818_._ad_437511380776_._kw__._de_c_._dm__._pl__._ti_dsa-774930032609_._li_9040198_._pd__._&matchtype=b&gclid=CjwKCAjwr_uCBhAFEiwAX8YJgRzKDPC_hAb0JMoFZ92TSg2_g7CqZ-I_SQkqXvzcAySBsf8pcNLjoBoCUUQQAvD_BwE<br>https://www.venturelessons.com/best-elixir-courses/<br>https://www.pluralsight.com/courses/elixir-getting-started<br>https://pragmaticstudio.com/elixir<br>
 <br>Other Tips / Hacks -<br>https://medium.com/blackode/10-killer-elixir-tips-2a9be1bec9be<br>https://elixirforum.com/t/getting-things-done-with-elixir-tips/11196<br>https://nickjanetakis.com/blog/tag/elixir-tips-tricks-and-tutorials<br>https://prograils.com/5-tips-for-elixir-phoenix-projects<br>
 <a href="https://elixir-lang.org/images/logo/logo.png">
-<img align="center" src="https://elixir-lang.org/images/logo/logo.png" width="800" height="400"/>
+<img align="center" src="https://elixir-lang.org/images/logo/logo.png" width="800" height="400"/></a>
 </details>
-
 
 <details>
 <summary>Competitive Programming</summary>
@@ -496,7 +511,7 @@ https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/<br>
 </details>
 
 <details>
-<summary> CUDA </summary>
+<summary>CUDA</summary>
 <br>Category/Type - <br> Application Programming Interfaces <br>
 <br>Official Documentation - <br> https://docs.nvidia.com/cuda/ <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK <br>
@@ -509,6 +524,22 @@ https://cuda-tutorial.readthedocs.io/en/latest/tutorials/tutorial01/ <br>
 https://www.udemy.com/course/introduction-to-gpu-computing-with-cuda/ <br>
 <br>Other Tips / Hacks - <br> https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=dc7112-cuda+optimization+tips%2C+tricks+and+techniques <br>
 https://medium.com/@sciencemonk/cuda-programming-tips-and-tricks-12d60310817a <br> https://www.quora.com/What-are-some-CUDA-tricks-and-optimizations <br> <br>
+</details>
+
+<details>
+<summary>Dart</summary>
+<br>Category/Type - <br>Programming language<br>
+<br>Official Documentation - <br>https://dart.dev/guides<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=OLjyCy-7U2U <br>https://www.youtube.com/watch?v=5rtujDjt50I&list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q <br>https://www.youtube.com/watch?v=Ej_Pcr4uC2Q <br>https://www.youtube.com/watch?v=L9onVn8QRaE&list=PLNnAcB93JKV_R1aZc7ZbQRsiEyeDLUpE- <br>
+<br>Useful Websites - <br>https://dart.dev/ <br>https://news.dartlang.org/2012/03/14-cool-projects-from-dart-community.html <br>https://www.reddit.com/r/FlutterDev/?f=flair_name%3A%22Dart%22 <br> https://www.reddit.com/r/dartlang/ <br>https://learnpracticeandshare.com/awesome-dart-massive-collection-of-resources/ <br>
+ https://medium.com/codechai/dart-awesome-cheat-sheet-for-flutter-beginners-d8cb52c978e1 <br>
+<br>Dedicated Github page - <br>https://github.com/yissachar/awesome-dart <br>https://github.com/smartherd/DartTutorial <br>https://github.com/Dart-Code/Dart-Code <br>https://github.com/dart-lang/googleapis <br>
+<br>Best Courses - <br>https://www.udemy.com/course/dartlang/ <br>https://www.udemy.com/course/dart-beginners-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-1ayowRC6m5rAZg8ja6J6vg&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads <br>https://www.udemy.com/course/dart-intermediate-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-Etyzj0FD7fIgZFZJU790rw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads <br>https://www.udemy.com/course/dart-advanced-course/ <br>https://dart.academy/ <br>https://courses.learncodeonline.in/learn/Dart-Programming-Language <br>
+<br>Other Tips / Hacks - <br>https://codewithandrea.com/videos/top-dart-tips-and-tricks-for-flutter-devs/ <br>https://dartsguide.net/guides/pro-dart-tips/ <br>https://www.educative.io/blog/dart-tips-tricks <br><br>
+<a href="https://miro.medium.com/max/3532/1*nucyFw-E5Lotofy1WSWMqw.png">
+  <img align="center" src="https://miro.medium.com/max/3532/1*nucyFw-E5Lotofy1WSWMqw.png" width="900" height="500"/>
+</a>
+<br><br><br>
 </details>
 
 <details>
@@ -556,7 +587,7 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 </details>
 
 <details>
-<summary> DirectX </summary>
+<summary>DirectX</summary>
 <br>Category/Type - <br> Application Programming Interfaces <br>
 <br>Official Documentation - <br> https://docs.microsoft.com/en-us/windows/win32/getting-started-with-directx-graphics <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/playlist?list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD <br>
@@ -582,7 +613,7 @@ https://pdfslide.net/documents/shaderx-shader-programming-tips-tricks-with-direc
 </details>
 
 <details>
-<summary>Docker </summary>
+<summary>Docker</summary>
 <br>
 Category/Type - <br>
 PaaS Development Tool<br>
@@ -628,23 +659,7 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
 </details>
 
 <details>
-<summary>Dart </summary>
-<br>Category/Type - <br>Programming language<br>
-<br>Official Documentation - <br>https://dart.dev/guides<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=OLjyCy-7U2U <br>https://www.youtube.com/watch?v=5rtujDjt50I&list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q <br>https://www.youtube.com/watch?v=Ej_Pcr4uC2Q <br>https://www.youtube.com/watch?v=L9onVn8QRaE&list=PLNnAcB93JKV_R1aZc7ZbQRsiEyeDLUpE- <br>
-<br>Useful Websites - <br>https://dart.dev/ <br>https://news.dartlang.org/2012/03/14-cool-projects-from-dart-community.html <br>https://www.reddit.com/r/FlutterDev/?f=flair_name%3A%22Dart%22 <br> https://www.reddit.com/r/dartlang/ <br>https://learnpracticeandshare.com/awesome-dart-massive-collection-of-resources/ <br>
- https://medium.com/codechai/dart-awesome-cheat-sheet-for-flutter-beginners-d8cb52c978e1 <br>
-<br>Dedicated Github page - <br>https://github.com/yissachar/awesome-dart <br>https://github.com/smartherd/DartTutorial <br>https://github.com/Dart-Code/Dart-Code <br>https://github.com/dart-lang/googleapis <br>
-<br>Best Courses - <br>https://www.udemy.com/course/dartlang/ <br>https://www.udemy.com/course/dart-beginners-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-1ayowRC6m5rAZg8ja6J6vg&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads <br>https://www.udemy.com/course/dart-intermediate-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-Etyzj0FD7fIgZFZJU790rw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads <br>https://www.udemy.com/course/dart-advanced-course/ <br>https://dart.academy/ <br>https://courses.learncodeonline.in/learn/Dart-Programming-Language <br>
-<br>Other Tips / Hacks - <br>https://codewithandrea.com/videos/top-dart-tips-and-tricks-for-flutter-devs/ <br>https://dartsguide.net/guides/pro-dart-tips/ <br>https://www.educative.io/blog/dart-tips-tricks <br><br>
-<a href="https://miro.medium.com/max/3532/1*nucyFw-E5Lotofy1WSWMqw.png">
-  <img align="center" src="https://miro.medium.com/max/3532/1*nucyFw-E5Lotofy1WSWMqw.png" width="900" height="500"/>
-</a>
-<br><br><br>
-</details>
-
-<details>
- <summary> Elasticsearch </summary>
+ <summary>Elasticsearch</summary>
  <br>Category/Type - <br> Database <br>
  <br>Official Documentation - <br> https://www.elastic.co/guide/index.html <br>
  <br>Best YouTube creators - <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/user/intellipaaat <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br>
@@ -662,7 +677,8 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
  https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/ <br> https://dzone.com/articles/elasticsearch-dos-donts-and-pro-tips-and-security <br>
  <br>
  </details>
- <details>
+
+<details>
 <summary>Elixir</summary>
 <br>Category/Type - <br>Dyanamic Programming language<br>
 <br>Official Documentation - <br>https://elixir-lang.org/docs.html<br>
@@ -676,7 +692,7 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
 </details>
 
 <details>
-<summary>Ember.js </summary>
+<summary>Ember.js</summary>
 <br>
 Category/Type - <br>JavaScript web framework <br>
 <br>
@@ -741,7 +757,7 @@ https://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/ <br>
 </details>
 
  <details>
-<summary> GIMP </summary>
+<summary>GIMP</summary>
 <br>Category/Type - <br> Graphics editor <br>
 <br>Official Documentation - <br> https://www.gimp.org/docs/ <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/user/darkskeletontuts <br> https://www.youtube.com/user/DaViesMediaDesign <br>
@@ -757,7 +773,7 @@ https://www.pcgamer.com/10-sweet-gimp-photo-editing-tricks-to-wean-you-off-photo
 </details>
 
 <details>
-<summary> Go </summary>
+<summary>Go</summary>
 <br>Category/Type - <br> Programming language <br>
 <br>Official Documentation - <br> https://golang.org/doc/ <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/javaboynavin <br>
@@ -772,7 +788,7 @@ https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/ <br> 
 </details>
 
 <details>
- <summary> GraphDB </summary>
+ <summary>GraphDB</summary>
  <br>Category/Type - <br> Database <br>
  <br>Official Documentation - <br> https://graphdb.ontotext.com/documentation/standard/ <br>
  <br>Best YouTube creators - <br> https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw <br> https://www.youtube.com/channel/UCvze3hU6OZBkB1vkhH2lH9Q <br>
@@ -790,7 +806,7 @@ https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/ <br> 
  </details>
 
 <details>
- <summary> GraphQL </summary>
+ <summary>GraphQL</summary>
  <br>Category/Type - <br> Data query and manipulation language <br>
  <br>Official Documentation - <br> https://graphql.org/learn/ <br>
  <br>Best YouTube creators - <br> https://www.youtube.com/user/hiteshitube <br> https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg <br>
@@ -813,7 +829,7 @@ https://www.udemy.com/course/graphql-apollo-server-api-nodejs-mongodb/ <br>
  </details>
 
 <details>
-<summary> Groovy </summary>
+<summary>Groovy</summary>
 <br>Category/Type - <br> Programming language <br>
 <br>Official Documentation - <br> http://docs.groovy-lang.org/next/html/documentation/ <br> 
 <br>Best YouTube creators - <br> https://www.youtube.com/user/derekbanas <br> https://www.youtube.com/channel/UCTt7pyY-o0eltq14glaG5dg <br>
@@ -841,22 +857,7 @@ https://github.com/haskell/directory<br>https://github.com/krispo/awesome-haskel
 </details>
 
 <details>
- <summary> Apache HBase </summary>
- <br>Category/Type - <br> Database <br>
- <br>Official Documentation - <br> https://hbase.apache.org/book.html <br>
- <br>Best YouTube creators - <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/user/Simplilearn <br> https://www.youtube.com/user/intellipaaat <br>
- https://www.youtube.com/playlist?list=PLnnr5dBDLWOUIidwbJbukiohTDB8fq07p <br> https://www.youtube.com/playlist?list=PLn8-K2vXiem7ICOdc2R3GEdAvQz_SojOy <br> https://www.youtube.com/playlist?list=PLjDrWlBFXZWchNCAmlFHsTjwNcgmkVVHr <br>
- <br>Useful Websites - <br> https://www.tutorialspoint.com/hbase/index.htm <br> https://www.guru99.com/hbase-tutorials.html <br> https://www.javatpoint.com/hbase <br>
- https://www.edureka.co/blog/hbase-tutorial <br> https://www.simplilearn.com/tutorials/hadoop-tutorial/hbase <br> https://intellipaat.com/blog/tutorial/hbase-tutorial/ <br>
- <br>Dedicated Github page - <br> https://github.com/rayokota/awesome-hbase <br> https://github.com/jacksu/awesome-hbase <br> https://github.com/awesomeguides/awesome-hbasedb <br>
- <br>Best Courses - <br> https://www.udemy.com/course/learn-by-example-hbase/ <br> https://www.udemy.com/course/apache-hbase-course/ <br> https://www.udemy.com/course/building-apache-hbase-applications/ <br>
- https://www.udemy.com/course/mastering-apache-hbase-with-hands-on/ <br>
- <br>Other Tips / Hacks - <br> https://www.educba.com/hbase-commands/ <br> http://techsquids.com/bd/hbase-scan-filters-tips-tricks/ <br> https://risdenk.gitbooks.io/hadoop_book/content/examples/apache_hbase.html <br>
- <br>
- </details>
-
-<details>
-<summary>Heroku </summary>
+<summary>Heroku</summary>
 <br>Category/Type - Cloud Application Platform<br>
 <br>Official Documentation - <br> https://devcenter.heroku.com/categories/reference <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/watch?v=aUW5GAFhu6s<br> https://www.youtube.com/playlist?list=PL7hyQeCP1V6SLJOBVgh5gVnHwBFyEqF6a<br>
@@ -870,7 +871,7 @@ https://www.udemy.com/course/salesforce-integration-with-heroku/<br>
 </details>
 
 <details>
-<summary>Hibernate </summary>
+<summary>Hibernate</summary>
 <br>Category/Type - object-relational mapping(ORM)<br>
 <br>Official Documentation - <br> https://hibernate.org/orm/documentation/5.4/ <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/watch?v=7iFfbCBQlg8<br> https://www.youtube.com/watch?v=JR7-EdxDSf0<br>
@@ -884,7 +885,22 @@ https://www.youtube.com/watch?v=KHohVibqePw<br>
 </details>
 
 <details>
-<summary>HTML </summary>
+<summary>Houdini</summary>
+<br>Category/Type - <br>Software<br>
+<br>Official Documentation - <br>https://www.sidefx.com/docs/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=K7UAVUzRP4Q<br>https://www.youtube.com/watch?v=3CxsGkLyn7U<br>https://www.youtube.com/watch?v=Tsv8UGqDibc<br>https://www.youtube.com/watch?v=emEux6cGOww<br>https://www.youtube.com/watch?v=SnGSCO0CwAc<br>
+<br>Useful Websites - <br>https://hackr.io/tutorials/learn-houdini<br>https://www.rebelway.net/tutorials/<br>http://www.appliedhoudini.com<br>https://conceptartempire.com/houdini-tutorials/<br>https://thevfxschool.com<br>http://wordpress.discretization.de/houdini/<br>
+<br>Dedicated Github page - <br>https://github.com/GoogleChromeLabs/houdini-samples<br>https://github.com/jhorikawa/HoudiniHowtos<br>https://github.com/kiryha/Houdini<br>https://github.com/sideeffects/HoudiniEngineForUnreal<br>https://github.com/CSSHoudini/awesome-css-houdini<br>
+<br>Best Courses - <br>https://www.pluralsight.com/browse/creative-professional/3d-vfx/houdini<br>https://www.cgspectrum.com/courses/advanced-houdini-fx-diploma<br>https://www.udemy.com/course/houdini-create-full-cg-chocolate-commercial-in-houdini/<br>https://thevfxschool.com<br>https://coursesity.com/course-detail/houdini-155-dynamics-and-simulation<br>
+<br>Other Tips / Hacks - <br>https://in.pinterest.com/davorkronja/houdini-tips-and-tricks/<br>https://www.sidefx.com/docs/houdini/tops/tips.html<br>https://www.ftrack.com/en/2020/10/7-tips-to-increase-your-efficiency-with-sidefx-houdini.html<br>https://www.creativebloq.com/advice/15-top-houdini-tips<br>
+<a href="https://cdn.conceptartempire.com/images/06/5374/01-houdini-software-polygons.jpg">
+  <img align="center" src="https://cdn.conceptartempire.com/images/06/5374/01-houdini-software-polygons.jpg" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
+<summary>HTML</summary>
 <br>Category/Type - Markup Language<br>
 <br>Official Documentation - <br>https://html.spec.whatwg.org/<br>
 <br>Best YouTube Creators - <br>
@@ -924,21 +940,6 @@ https://hacks.mozilla.org/2016/08/a-few-html-tips/<br>
 https://www.simplehtmlguide.com/cheatsheet.php<br>
 https://www.freelancer.com/articles/web-development/13-cool-tricks-for-html<br>
 https://www.elated.com/10-html-tips-for-beginners/<br>
-</details>
-
-<details>
-<summary>Houdini</summary>
-<br>Category/Type - <br>Software<br>
-<br>Official Documentation - <br>https://www.sidefx.com/docs/<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=K7UAVUzRP4Q<br>https://www.youtube.com/watch?v=3CxsGkLyn7U<br>https://www.youtube.com/watch?v=Tsv8UGqDibc<br>https://www.youtube.com/watch?v=emEux6cGOww<br>https://www.youtube.com/watch?v=SnGSCO0CwAc<br>
-<br>Useful Websites - <br>https://hackr.io/tutorials/learn-houdini<br>https://www.rebelway.net/tutorials/<br>http://www.appliedhoudini.com<br>https://conceptartempire.com/houdini-tutorials/<br>https://thevfxschool.com<br>http://wordpress.discretization.de/houdini/<br>
-<br>Dedicated Github page - <br>https://github.com/GoogleChromeLabs/houdini-samples<br>https://github.com/jhorikawa/HoudiniHowtos<br>https://github.com/kiryha/Houdini<br>https://github.com/sideeffects/HoudiniEngineForUnreal<br>https://github.com/CSSHoudini/awesome-css-houdini<br>
-<br>Best Courses - <br>https://www.pluralsight.com/browse/creative-professional/3d-vfx/houdini<br>https://www.cgspectrum.com/courses/advanced-houdini-fx-diploma<br>https://www.udemy.com/course/houdini-create-full-cg-chocolate-commercial-in-houdini/<br>https://thevfxschool.com<br>https://coursesity.com/course-detail/houdini-155-dynamics-and-simulation<br>
-<br>Other Tips / Hacks - <br>https://in.pinterest.com/davorkronja/houdini-tips-and-tricks/<br>https://www.sidefx.com/docs/houdini/tops/tips.html<br>https://www.ftrack.com/en/2020/10/7-tips-to-increase-your-efficiency-with-sidefx-houdini.html<br>https://www.creativebloq.com/advice/15-top-houdini-tips<br>
-<a href="https://cdn.conceptartempire.com/images/06/5374/01-houdini-software-polygons.jpg">
-  <img align="center" src="https://cdn.conceptartempire.com/images/06/5374/01-houdini-software-polygons.jpg" width="800" height="400"/>
-</a>
-<br><br><br>
 </details>
 
 <details>
@@ -1027,7 +1028,7 @@ https://www.raywenderlich.com/19019328-xcode-tips-and-tricks <br>
 </details>
 
 <details>
-<summary>Java </summary>
+<summary>Java</summary>
 <br>Category/Type - <br>
 Programming Language<br>
 <br>
@@ -1063,7 +1064,7 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 </details>
 
 <details>
-<summary>Jenkins </summary>
+<summary>Jenkins</summary>
 <br>Category/Type - <br>automation tool<br>
 <br>Official Documentation - <br>https://www.jenkins.io/doc/<br>
 <br>Best YouTube creators - <br>https://www.youtube.com/watch?v=FX322RVNGj4<br>https://www.youtube.com/watch?v=p7-U1_E_j3w<br>https://www.youtube.com/watch?v=woMAXn4e8NA<br>https://www.youtube.com/watch?v=7KCS70sCoK0<br>
@@ -1081,7 +1082,7 @@ https://www.udemy.com/course/jenkins-learn-continuous-integration/?LSNPUBID=JVFx
 </details>
 
 <details>
-<summary>Jira </summary>
+<summary>Jira</summary>
 <br>Category/Type - <br>Bug tracking software<br>
 <br>Official Documentation - <br>https://confluence.atlassian.com/jira/jira-documentation-1556.html<br>
 <br>Best YouTube creators - <br>https://www.youtube.com/watch?v=uM_m6EzMg3k<br>https://www.youtube.com/watch?v=GnG6RPSRLCs<br>https://www.youtube.com/watch?v=d0M2s0KiIrc&list=PLL34mf651faOpDaNGr4tt6FF_nUYb7ypt<br>https://www.youtube.com/watch?v=VTcQJciaPu4<br>
@@ -1162,7 +1163,7 @@ https://crunchify.com/5-cool-useful-jquery-tips-tricks-solutions/ <br>
 </details>
 
 <details>
-<summary> Keras </summary>
+<summary>Keras</summary>
 <br>Category/Type - <br> API <br>
 <br>Official Documentation - <br> https://keras.io/api/ <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/edurekaIN <br>
@@ -1186,7 +1187,7 @@ https://github.com/PacktPublishing/Keras-Tips-Tricks-and-Techniques <br> https:/
 </details>
 
 <details>
- <summary> Kibana </summary>
+ <summary>Kibana</summary>
  <br>Category/Type - <br> Data visualization <br>
  <br>Official Documentation - <br> https://www.elastic.co/guide/index.html <br>
  <br>Best YouTube creators - <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/channel/UC70FzDDRiJZ6BUyxmolBXow <br>
@@ -1203,7 +1204,7 @@ https://github.com/PacktPublishing/Keras-Tips-Tricks-and-Techniques <br> https:/
  </details>
 
 <details>
-<summary>Kotlin </summary>
+<summary>Kotlin</summary>
 <br>Category/Type - <br>
 Programming Language<br>
 <br>
@@ -1234,7 +1235,7 @@ https://twitter.com/kotlin?lang=en<br>
 </details>
 
 <details>
-<summary>Kubernetes </summary>
+<summary>Kubernetes</summary>
 <br>Category/Type - <br> container-orchestration system<br>
 <br>Official Documentation - <br> https://kubernetes.io/docs/home/ <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/watch?v=X48VuDVv0do <br>https://www.youtube.com/watch?v=F-p_7XaEC84
@@ -1264,7 +1265,7 @@ https://blog.neuvector.com/article/hack-kubernetes-container <br>
 </details>
 
 <details>
- <summary> Logstash </summary>
+ <summary>Logstash</summary>
  <br>Category/Type - <br> Data processing pipeline <br>
  <br>Official Documentation - <br> https://www.elastic.co/guide/en/logstash/current/introduction.html <br>
  <br>Best YouTube creators - <br> https://www.youtube.com/channel/UCu4mLxrAkMEcjK9N1yJOxyA <br> https://www.youtube.com/channel/UC9Rc1hpWHUju8O2rYHAUVXA <br>
@@ -1340,7 +1341,7 @@ https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat
 </details>
 
 <details>
-<summary>Maya </summary>
+<summary>Maya</summary>
 <br>Category/Type - <br>3D modeling and animation program<br>
 <br>Official Documentation - <br>https://knowledge.autodesk.com/support/maya/getting-started/caas/simplecontent/content/maya-documentation.html<br>
 <br>Best YouTube creators - <br> https://www.youtube.com/user/Autodesk <br> https://www.youtube.com/user/MayaHowTos 
@@ -1358,6 +1359,21 @@ https://www.udemy.com/course/complete-maya-fluids-bootcamp/ <br> https://www.ude
 <br><br><br>
 </details>
 
+ <details>
+ <summary>Metal</summary>
+ <br>Category/Type - <br> GPU-accelerated graphics and compute framework <br>
+ <br>Official Documentation - <br> https://developer.apple.com/documentation/metal <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/playlist?list=PL23Revp-82LJG3vcDPm8w7b5HTKjBOY0W <br> https://www.youtube.com/playlist?list=PLEXt1-oJUa4CeZsjC7Tpk6eUgx3WEgMi9 <br>
+ https://www.youtube.com/playlist?list=PLEXt1-oJUa4BVgjZt9tK2MhV_DW7PVDsg <br> https://www.youtube.com/channel/UC2YJDV1JrhdJ0Tkyy3gWhuw <br> https://www.youtube.com/user/rwenderlich <br>
+ <br>Useful Websites - <br> https://www.raywenderlich.com/7475-metal-tutorial-getting-started <br> https://developer.apple.com/metal/sample-code/ <br>
+ https://donaldpinckney.com/metal/2018/07/05/metal-intro-1.html <br> https://metalbyexample.com <br> http://englishonlineclub.com/pdf/Metal%20Programming%20Guide%20-%20Comprehensive%20Tutorial%20and%20Reference%20via%20Swift%20(Rough%20Cuts)%20[EnglishOnlineClub.com].pdf <br>
+ <br>Dedicated Github page - <br> https://github.com/dehesa/Metal <br> https://github.com/Hi-Rez/Satin <br> https://github.com/twohyjr/Metal-Game-Engine-Tutorial <br>
+ https://github.com/colin1994/Metal-Practice <br> https://github.com/atveit/SwiftMetalForOSX <br>
+ <br>Best Courses - <br> https://www.udemy.com/course/ios-13-app-development-bootcamp/ <br> https://www.udemy.com/course/ios11-app-development-bootcamp/ <br>
+ https://www.udemy.com/course/devslopes-ios10/ <br>
+ <br>Other Tips / Hacks - <br> https://developer.apple.com/videos/play/wwdc2017/607/ <br> https://developer.apple.com/library/archive/documentation/3DDrawing/Conceptual/MTLBestPracticesGuide/index.html <br>
+ </details>
+
 <details>
 <summary>Modo</summary>
 <br>Category/Type - <br>Software<br>
@@ -1373,24 +1389,8 @@ https://www.udemy.com/course/complete-maya-fluids-bootcamp/ <br> https://www.ude
 <br><br><br>
 </details>
 
- <details>
- <summary> Metal </summary>
- <br>Category/Type - <br> GPU-accelerated graphics and compute framework <br>
- <br>Official Documentation - <br> https://developer.apple.com/documentation/metal <br>
- <br>Best YouTube creators - <br> https://www.youtube.com/playlist?list=PL23Revp-82LJG3vcDPm8w7b5HTKjBOY0W <br> https://www.youtube.com/playlist?list=PLEXt1-oJUa4CeZsjC7Tpk6eUgx3WEgMi9 <br>
- https://www.youtube.com/playlist?list=PLEXt1-oJUa4BVgjZt9tK2MhV_DW7PVDsg <br> https://www.youtube.com/channel/UC2YJDV1JrhdJ0Tkyy3gWhuw <br> https://www.youtube.com/user/rwenderlich <br>
- <br>Useful Websites - <br> https://www.raywenderlich.com/7475-metal-tutorial-getting-started <br> https://developer.apple.com/metal/sample-code/ <br>
- https://donaldpinckney.com/metal/2018/07/05/metal-intro-1.html <br> https://metalbyexample.com <br> http://englishonlineclub.com/pdf/Metal%20Programming%20Guide%20-%20Comprehensive%20Tutorial%20and%20Reference%20via%20Swift%20(Rough%20Cuts)%20[EnglishOnlineClub.com].pdf <br>
- <br>Dedicated Github page - <br> https://github.com/dehesa/Metal <br> https://github.com/Hi-Rez/Satin <br> https://github.com/twohyjr/Metal-Game-Engine-Tutorial <br>
- https://github.com/colin1994/Metal-Practice <br> https://github.com/atveit/SwiftMetalForOSX <br>
- <br>Best Courses - <br> https://www.udemy.com/course/ios-13-app-development-bootcamp/ <br> https://www.udemy.com/course/ios11-app-development-bootcamp/ <br>
- https://www.udemy.com/course/devslopes-ios10/ <br>
- <br>Other Tips / Hacks - <br> https://developer.apple.com/videos/play/wwdc2017/607/ <br> https://developer.apple.com/library/archive/documentation/3DDrawing/Conceptual/MTLBestPracticesGuide/index.html <br>
- </details>
-
-
 <details>
-<summary>MongoDB </summary>
+<summary>MongoDB</summary>
 <br>Category/Type - <br>Document-oriented database<br>
 <br>Official Documentation - <br> https://docs.mongodb.com <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/user/MongoDB <br> https://www.youtube.com/user/TechGuyWeb <br> 
@@ -1409,7 +1409,7 @@ https://www.mongodb.com/presentations/tips-and-tricks-for-query-performance-let-
 </details>
 
 <details>
-<summary> Nginx </summary>
+<summary>Nginx</summary>
 <br>Category/Type - <br> Web server <br> 
 <br>Official Documentation - <br> https://nginx.org/en/docs/ <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/user/hiteshitube <br>
@@ -1428,7 +1428,7 @@ https://www.freecodecamp.org/news/powerful-ways-to-supercharge-your-nginx-server
 </details>
 
 <details>
-<summary>NLTK </summary>
+<summary>NLTK</summary>
 <br>Category/Type - <br>Python Library<br>
 <br>Official Documentation - <br>https://www.nltk.org/<br>
 <br>Best YouTube creators - <br>https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL <br>https://www.youtube.com/watch?v=WYge0KZBhe0 <br>https://www.youtube.com/watch?v=X2vAabgKiuM<br>https://www.youtube.com/watch?v=U8m5ug9Q54M<br>https://www.youtube.com/watch?v=bgFKoaKX3ec<br>https://www.youtube.com/watch?v=YB7XXDXIusg
@@ -1439,7 +1439,7 @@ https://www.freecodecamp.org/news/powerful-ways-to-supercharge-your-nginx-server
 </details>
 
 <details>
-<summary> Node.js </summary>
+<summary>Node.js</summary>
 <br>Category/Type - <br> Programming language <br>
 <br>Official Documentation - <br> https://nodejs.org/en/docs/ <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/user/programmingwithmosh <br> https://www.youtube.com/user/javaboynavin <br>
@@ -1518,7 +1518,7 @@ https://predictivehacks.com/tips-about-numpy-arrays/
 </details>
 
 <details>
-<summary>OpenCv</summary>
+<summary>OpenCV</summary>
 <br>
 Category/Type - <br>
 Python Module<br>
@@ -1618,7 +1618,7 @@ https://www.dataschool.io/future-of-pandas/
 </details>
 
 <details>
-<summary>PHP </summary>
+<summary>PHP</summary>
 <br>Category/Type - <br>Programming Language<br>
 <br>Official Documentation - <br> https://www.php.net/docs.php <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR <br> https://www.youtube.com/playlist?list=PL442FA2C127377F07 <br>
@@ -1636,7 +1636,7 @@ https://websitesetup.org/php-cheat-sheet/ <br> https://www.smashingmagazine.com/
 </details>
 
 <details>
-<summary>PostgreSQL </summary>
+<summary>PostgreSQL</summary>
 <br>Category/Type - <br>Relational Database Management System<br>
 <br>Official Documentation - <br> https://www.postgresql.org/docs/ <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/edurekaIN <br>
@@ -1654,7 +1654,7 @@ https://pgdash.io/blog/postgres-psql-tips-tricks.html <br> https://www.enterpris
 </details>
 
 <details>
-<summary>Puppet  </summary>
+<summary>Puppet </summary>
 <br>Category/Type - <br>IT automation<br>
 <br>Official Documentation - <br>https://puppet.com/docs/puppet/5.5/puppet_index.html<br>
 <br>Best YouTube creators - <br>https://www.youtube.com/watch?v=PL_J5Gj3GAQ <br> https://www.youtube.com/watch?v=QFcqvBk1gNA <br>
@@ -1673,7 +1673,7 @@ https://www.udemy.com/course/learn-puppet/ <br> https://www.udemy.com/course/lea
 </details>
 
 <details>
-<summary>Python </summary>
+<summary>Python</summary>
 <br>Category/Type - <br>
 Open Source Programming Language<br>
 <br>Official Documentation - <br>
@@ -1698,7 +1698,7 @@ https://github.com/topics/python
 </details>
 
 <details>
-<summary> PyTorch </summary>
+<summary>PyTorch</summary>
 <br>Category/Type - <br> Machine Learning Library <br> 
 <br>Official Documentation - <br> https://pytorch.org/docs/stable/index.html <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/edurekaIN <br>
@@ -1739,7 +1739,7 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 </details>
 
 <details>
-<summary>ReactJS </summary>
+<summary>ReactJS</summary>
 <br>Category/Type - <br>JavaScript Framework<br>
 <br>Official Documentation - <br>https://reactjs.org/docs/getting-started.html<br>
 <br>Best YouTube creators - <br>https://www.youtube.com/user/TechGuyWeb
@@ -1765,7 +1765,7 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 </details> 
 
 <details>
- <summary> Redis </summary>
+ <summary>Redis</summary>
  <br>Category/Type - <br> In-memory key–value database <br>
  <br>Official Documentation - <br> https://redis.io/documentation <br>
  <br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/TechGuyWeb <br>
@@ -1783,7 +1783,7 @@ https://www.udemy.com/course/redis-bootcamp-for-beginners/ <br> https://www.udem
  </details>
 
 <details>
-<summary>Ruby </summary>
+<summary>Ruby</summary>
 <br>
 Category/Type - <br>Programming language <br>
 <br>
@@ -1836,7 +1836,7 @@ https://www.smartly.io/blog/ruby-tricks-for-curious-developer <br>
 </details>
 
 <details>
- <summary> Rust </summary>
+ <summary>Rust</summary>
  <br>Category/Type - <br> Programming Language <br>
  <br>Official Documentation - <br> https://doc.rust-lang.org/nightly/ <br>
  <br>Best YouTube creators - <br>https://www.youtube.com/watch?v=zF34dRivLOw
@@ -1854,7 +1854,7 @@ https://www.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/ <br> https
  </details>
 
 <details>
- <summary> Salt </summary>
+ <summary>Salt</summary>
  <br>Category/Type - <br> IT automation <br>
  <br>Official Documentation - <br> https://docs.saltproject.io/en/latest/ <br>
  <br>Best YouTube creators - <br> https://www.youtube.com/user/Simplilearn <br> https://www.youtube.com/user/SaltStack <br> https://www.youtube.com/channel/UCdFn-4mDZy8jd3x_JyVCLbQ <br>
@@ -1871,7 +1871,7 @@ https://www.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/ <br> https
  </details>
 
 <details>
- <summary> Scala </summary>
+ <summary>Scala</summary>
  <br>Category/Type - <br> Programming language <br>
  <br>Official Documentation - <br> https://docs.scala-lang.org <br>
  <br>Best YouTube creators - <br> https://www.youtube.com/user/javaboynavin <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/user/beaconelearning <br>
@@ -1927,7 +1927,7 @@ https://ugoproto.github.io/ugo_py_doc/pdf/Python_SciPy_Cheat_Sheet_Linear_Algebr
 </details>
 
 <details>
-<summary> Swift </summary>
+<summary>Swift</summary>
 <br>Category/Type - <br> Programming language <br>
 <br>Official Documentation - <br> https://developer.apple.com/documentation/swift <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/user/edurekaIN <br> 
@@ -1945,32 +1945,7 @@ https://www.udemy.com/course/swift-programming/ <br> https://www.udacity.com/cou
 </details>
 
 <details>
-<summary> TensorFlow </summary>
-<br>Category/Type - <br> Machine Learning Library <br>
-<br>Official Documentation - <br> https://www.tensorflow.org/guide <br>
-<br>Best YouTube creators - <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> 
-https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ <br> https://www.youtube.com/user/Simplilearn <br> https://www.youtube.com/channel/UC8QMvQrV1bsK7WO37QpSxSg <br>
-https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx <br> https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S <br>
-https://www.youtube.com/playlist?list=PLQY2H8rRoyvyK5aEDAI3wUUqC_F0oEroL <br> https://www.youtube.com/playlist?list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb <br>
-<br>Useful Websites - <br> https://www.tensorflow.org/tutorials <br> https://www.tutorialspoint.com/tensorflow/index.htm <br> https://www.datacamp.com/community/tutorials/tensorflow-tutorial <br>
-https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/ <br> https://www.guru99.com/tensorflow-tutorial.html <br>
-https://www.simplilearn.com/tutorials/deep-learning-tutorial/tensorflow <br>
-<br>Dedicated Github page - <br> https://github.com/tensorflow/tensorflow <br> https://github.com/jtoy/awesome-tensorflow <br> https://github.com/TensorFlowKR/awesome_tensorflow_implementations <br>
-https://github.com/Amin-Tgz/awesome-tensorflow-2 <br> https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources <br> 
-<br>Best Courses - <br> https://www.coursera.org/specializations/tensorflow-advanced-techniques <br> https://www.coursera.org/specializations/tensorflow2-deeplearning <br> 
-https://www.coursera.org/specializations/machine-learning-tensorflow-gcp <br> https://www.coursera.org/projects/getting-started-tensorflow-2 <br> https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187 <br>
-https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/ <br> https://www.udemy.com/course/deep-learning-tensorflow-2/ <br>
-https://www.udemy.com/course/machine-learning-with-tensorflow-for-business-intelligence/ <br> 
-<br>Other Tips / Hacks - <br> https://www.kdnuggets.com/2020/04/tensorflow-dev-summit-2020-top-10-tricks-tensorflow-colabs.html <br>
-https://towardsdatascience.com/10-tensorflow-tricks-every-ml-practitioner-must-know-96b860e53c1 <br> https://gist.github.com/dusenberrymw/05c8543e4b05a7c143bbb014fd3d6bcb <br>
-https://heartbeat.fritz.ai/tensorflow-quick-tips-e394bc5fee15 <br> https://medium.com/decathlondevelopers/10-tips-to-improve-your-machine-learning-models-with-tensorflow-ba7c724761e2 <br>
-<a href="https://www.slideteam.net/media/catalog/product/cache/960x720/d/a/data_science_half_yearly_learning_roadmap_slide01.jpg">
-  <img align="center" src="https://www.slideteam.net/media/catalog/product/cache/960x720/d/a/data_science_half_yearly_learning_roadmap_slide01.jpg" width="500" height="500"/>
-</a>
-</details>
-
-<details>
-<summary>TeamCity </summary>
+<summary>TeamCity</summary>
 <br>
 Category/Type - <br>Software <br>
 <br>
@@ -2039,7 +2014,32 @@ https://docs.testproject.io/testproject-integrations/integration-with-teamcity <
 </details>
 
 <details>
-<summary> Unity </summary>
+<summary>TensorFlow</summary>
+<br>Category/Type - <br> Machine Learning Library <br>
+<br>Official Documentation - <br> https://www.tensorflow.org/guide <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> 
+https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ <br> https://www.youtube.com/user/Simplilearn <br> https://www.youtube.com/channel/UC8QMvQrV1bsK7WO37QpSxSg <br>
+https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx <br> https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S <br>
+https://www.youtube.com/playlist?list=PLQY2H8rRoyvyK5aEDAI3wUUqC_F0oEroL <br> https://www.youtube.com/playlist?list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb <br>
+<br>Useful Websites - <br> https://www.tensorflow.org/tutorials <br> https://www.tutorialspoint.com/tensorflow/index.htm <br> https://www.datacamp.com/community/tutorials/tensorflow-tutorial <br>
+https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/ <br> https://www.guru99.com/tensorflow-tutorial.html <br>
+https://www.simplilearn.com/tutorials/deep-learning-tutorial/tensorflow <br>
+<br>Dedicated Github page - <br> https://github.com/tensorflow/tensorflow <br> https://github.com/jtoy/awesome-tensorflow <br> https://github.com/TensorFlowKR/awesome_tensorflow_implementations <br>
+https://github.com/Amin-Tgz/awesome-tensorflow-2 <br> https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources <br> 
+<br>Best Courses - <br> https://www.coursera.org/specializations/tensorflow-advanced-techniques <br> https://www.coursera.org/specializations/tensorflow2-deeplearning <br> 
+https://www.coursera.org/specializations/machine-learning-tensorflow-gcp <br> https://www.coursera.org/projects/getting-started-tensorflow-2 <br> https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187 <br>
+https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/ <br> https://www.udemy.com/course/deep-learning-tensorflow-2/ <br>
+https://www.udemy.com/course/machine-learning-with-tensorflow-for-business-intelligence/ <br> 
+<br>Other Tips / Hacks - <br> https://www.kdnuggets.com/2020/04/tensorflow-dev-summit-2020-top-10-tricks-tensorflow-colabs.html <br>
+https://towardsdatascience.com/10-tensorflow-tricks-every-ml-practitioner-must-know-96b860e53c1 <br> https://gist.github.com/dusenberrymw/05c8543e4b05a7c143bbb014fd3d6bcb <br>
+https://heartbeat.fritz.ai/tensorflow-quick-tips-e394bc5fee15 <br> https://medium.com/decathlondevelopers/10-tips-to-improve-your-machine-learning-models-with-tensorflow-ba7c724761e2 <br>
+<a href="https://www.slideteam.net/media/catalog/product/cache/960x720/d/a/data_science_half_yearly_learning_roadmap_slide01.jpg">
+  <img align="center" src="https://www.slideteam.net/media/catalog/product/cache/960x720/d/a/data_science_half_yearly_learning_roadmap_slide01.jpg" width="500" height="500"/>
+</a>
+</details>
+
+<details>
+<summary>Unity</summary>
 <br>Category/Type - <br>  Game engine <br>
 <br>Official Documentation - <br> https://docs.unity3d.com/Manual/index.html <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/user/Unity3D <br> https://www.youtube.com/user/Brackeys <br> https://www.youtube.com/channel/UCX_b3NNQN5bzExm-22-NVVg <br>
@@ -2063,7 +2063,7 @@ http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/ <
 </details>
 
 <details>
-<summary> Unreal Engine </summary>
+<summary>Unreal Engine</summary>
 <br>Category/Type - <br>  Game engine <br>
 <br>Official Documentation - <br> https://docs.unrealengine.com/en-US/index.html <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/user/UnrealDevelopmentKit <br> https://www.youtube.com/channel/UCgmX4icpN3HnOOwYtmyYz2w <br>
@@ -2084,22 +2084,22 @@ https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https:
 </details>
 
 <details>
-<summary>Vulkan</summary>
-<br>Category/Type - <br>Computer application<br>
-<br>Official Documentation - <br>https://www.khronos.org/registry/vulkan/specs/1.2/styleguide.html<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=dttr3OGVewQ<br>https://www.youtube.com/watch?v=5mq8y_z7BWQ<br>https://www.youtube.com/watch?v=_riranMmtvI<br>https://www.youtube.com/watch?v=wHt5wcxIPcE&list=PLUXvZMiAqNbK8jd7s52BIDtCbZnKNGp0P<br>
-<br>Useful Websites - <br>https://developer.nvidia.com/vulkan<br>https://www.khronos.org/vulkan/<br>https://developer.android.com/ndk/guides/graphics<br>https://www.amd.com/en/technologies/vulkan<br>
-<br>Dedicated Github page - <br>https://github.com/SaschaWillems/Vulkan<br>https://github.com/Overv/VulkanTutorial<br>https://github.com/LunarG/VulkanSamples<br>https://github.com/KhronosGroup/Vulkan-Docs<br>
-<br>Best Courses - <br>https://www.udemy.com/course/learn-the-vulkan-api-with-cpp/<br>https://vulkan-tutorial.com<br>https://www.oreilly.com/library/view/vulkan-programming/9781786460714/video1_1.html<br>https://dl.acm.org/doi/abs/10.1145/3388769.3407508<br>
-<br>Other Tips / Hacks - <br>https://developer.nvidia.com/blog/vulkan-dos-donts/<br>https://www.reddit.com/r/vulkan/comments/5jzg58/tips_on_abstracting_vulkan/<br>https://developer.android.com/ndk/guides/graphics/design-notes<br>https://gpuopen.com/wp-content/uploads/2016/05/Most-common-mistakes-in-Vulkan-apps.pdf<br>
-<a href="https://en.wikipedia.org/wiki/File:Vulkan_RGB_Dec16.svg">
-  <img align="center" src="https://en.wikipedia.org/wiki/File:Vulkan_RGB_Dec16.svg" width="800" height="400"/>
+<summary>Vagrant</summary>
+<br>Category/Type - <br>Virtual Machine management software<br>
+<br>Official Documentation - <br>https://www.vagrantup.com/docs<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=vBreXjkizgo<br>https://www.youtube.com/watch?v=a6W1hF9CgDQ<br>https://www.youtube.com/watch?v=bu9SrecfjWo&list=PLMWwct3_kb-358XZdnN66zb3HaU97DSQ0<br>https://www.youtube.com/watch?v=o5yYsnPALxQ<br>
+<br>Useful Websites - <br>https://learn.hashicorp.com/collections/vagrant/getting-started<br>https://opensource.com/resources/vagrant<br>https://www.accesstomemory.org/en/docs/2.5/dev-manual/env/vagrant/<br>https://semaphoreci.com/community/tutorials/getting-started-with-vagrant<br>
+<br>Dedicated Github page - <br>https://github.com/hashicorp/vagrant<br>https://github.com/geerlingguy/ansible-vagrant-examples<br>https://github.com/jedi4ever/veewee<br>https://github.com/fideloper/Vaprobash<br>
+<br>Best Courses - <br>https://hackr.io/tutorials/learn-vagrant<br>https://www.lynda.com/Vagrant-tutorials/750017-0.html<br>https://www.udemy.com/course/vagrant-up/<br>https://www.udemy.com/course/vagrant-quick-start/<br>
+<br>Other Tips / Hacks - <br>https://techcommunity.microsoft.com/t5/virtualization/vagrant-and-hyper-v-tips-and-tricks/ba-p/382373<br>https://www.vagrantup.com/docs/vagrantfile/tips<br>https://technology.amis.nl/continuous-delivery/provisioning/6-tips-to-make-your-life-with-vagrant-even-better/<br>https://argonsys.com/microsoft-cloud/library/vagrant-and-hyper-v-tips-and-tricks/<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MediaWiki_Vagrant_Visualization.jpg/900px-MediaWiki_Vagrant_Visualization.jpg">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MediaWiki_Vagrant_Visualization.jpg/900px-MediaWiki_Vagrant_Visualization.jpg" width="800" height="400"/>
 </a>
 <br><br><br>
 </details>
 
 <details>
-<summary>Vue.js </summary>
+<summary>Vue.js</summary>
 <br>
 Category/Type - <br>Model–view–viewmodel front end JavaScript framework <br>
 <br>
@@ -2162,22 +2162,22 @@ https://betterprogramming.pub/10-tips-and-tricks-to-make-you-a-better-vue-js-dev
 </details>
 
 <details>
-<summary>Vagrant </summary>
-<br>Category/Type - <br>Virtual Machine management software<br>
-<br>Official Documentation - <br>https://www.vagrantup.com/docs<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=vBreXjkizgo<br>https://www.youtube.com/watch?v=a6W1hF9CgDQ<br>https://www.youtube.com/watch?v=bu9SrecfjWo&list=PLMWwct3_kb-358XZdnN66zb3HaU97DSQ0<br>https://www.youtube.com/watch?v=o5yYsnPALxQ<br>
-<br>Useful Websites - <br>https://learn.hashicorp.com/collections/vagrant/getting-started<br>https://opensource.com/resources/vagrant<br>https://www.accesstomemory.org/en/docs/2.5/dev-manual/env/vagrant/<br>https://semaphoreci.com/community/tutorials/getting-started-with-vagrant<br>
-<br>Dedicated Github page - <br>https://github.com/hashicorp/vagrant<br>https://github.com/geerlingguy/ansible-vagrant-examples<br>https://github.com/jedi4ever/veewee<br>https://github.com/fideloper/Vaprobash<br>
-<br>Best Courses - <br>https://hackr.io/tutorials/learn-vagrant<br>https://www.lynda.com/Vagrant-tutorials/750017-0.html<br>https://www.udemy.com/course/vagrant-up/<br>https://www.udemy.com/course/vagrant-quick-start/<br>
-<br>Other Tips / Hacks - <br>https://techcommunity.microsoft.com/t5/virtualization/vagrant-and-hyper-v-tips-and-tricks/ba-p/382373<br>https://www.vagrantup.com/docs/vagrantfile/tips<br>https://technology.amis.nl/continuous-delivery/provisioning/6-tips-to-make-your-life-with-vagrant-even-better/<br>https://argonsys.com/microsoft-cloud/library/vagrant-and-hyper-v-tips-and-tricks/<br>
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MediaWiki_Vagrant_Visualization.jpg/900px-MediaWiki_Vagrant_Visualization.jpg">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MediaWiki_Vagrant_Visualization.jpg/900px-MediaWiki_Vagrant_Visualization.jpg" width="800" height="400"/>
+<summary>Vulkan</summary>
+<br>Category/Type - <br>Computer application<br>
+<br>Official Documentation - <br>https://www.khronos.org/registry/vulkan/specs/1.2/styleguide.html<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=dttr3OGVewQ<br>https://www.youtube.com/watch?v=5mq8y_z7BWQ<br>https://www.youtube.com/watch?v=_riranMmtvI<br>https://www.youtube.com/watch?v=wHt5wcxIPcE&list=PLUXvZMiAqNbK8jd7s52BIDtCbZnKNGp0P<br>
+<br>Useful Websites - <br>https://developer.nvidia.com/vulkan<br>https://www.khronos.org/vulkan/<br>https://developer.android.com/ndk/guides/graphics<br>https://www.amd.com/en/technologies/vulkan<br>
+<br>Dedicated Github page - <br>https://github.com/SaschaWillems/Vulkan<br>https://github.com/Overv/VulkanTutorial<br>https://github.com/LunarG/VulkanSamples<br>https://github.com/KhronosGroup/Vulkan-Docs<br>
+<br>Best Courses - <br>https://www.udemy.com/course/learn-the-vulkan-api-with-cpp/<br>https://vulkan-tutorial.com<br>https://www.oreilly.com/library/view/vulkan-programming/9781786460714/video1_1.html<br>https://dl.acm.org/doi/abs/10.1145/3388769.3407508<br>
+<br>Other Tips / Hacks - <br>https://developer.nvidia.com/blog/vulkan-dos-donts/<br>https://www.reddit.com/r/vulkan/comments/5jzg58/tips_on_abstracting_vulkan/<br>https://developer.android.com/ndk/guides/graphics/design-notes<br>https://gpuopen.com/wp-content/uploads/2016/05/Most-common-mistakes-in-Vulkan-apps.pdf<br>
+<a href="https://en.wikipedia.org/wiki/File:Vulkan_RGB_Dec16.svg">
+  <img align="center" src="https://en.wikipedia.org/wiki/File:Vulkan_RGB_Dec16.svg" width="800" height="400"/>
 </a>
 <br><br><br>
 </details>
 
 <details>
-<summary>WebGL </summary>
+<summary>WebGL</summary>
 <br>Category/Type - <br>Programming language<br>
 <br>Official Documentation - <br>https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API<br>
 <br>Best YouTube creators - <br>https://www.youtube.com/watch?v=bP7_FeP9kU4&list=PL2935W76vRNHFpPUuqmLoGCzwx_8eq5yK<br>https://www.youtube.com/watch?v=kB0ZVUrI4Aw<br>https://www.youtube.com/watch?v=nqiKWXUX-o8<br>https://www.youtube.com/watch?v=XNbtwyWh9HA<br>
@@ -2192,7 +2192,7 @@ https://betterprogramming.pub/10-tips-and-tricks-to-make-you-a-better-vue-js-dev
 </details>
   
 <details>  
-<summary>WordPress </summary>
+<summary>WordPress</summary>
 <br>
 Category/Type - <br>Application programming interface <br>
 <br>
