@@ -770,6 +770,58 @@ https://www.coursera.org/specializations/google-golang <br> https://www.pluralsi
 https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/ <br> https://www.udemy.com/course/golang-the-ultimate-guide-to-microservices-in-go-part-1/ <br>
 <br>Other Tips / Hacks - <br> http://www.golangbootcamp.com/book/tricks_and_tips <br> https://github.com/cristaloleg/go-advice <br> https://golangvedu.wordpress.com <br>
 </details>
+<details>
+<summary>Godot</summary>
+<br>
+Category/Type - <br>Game Engine<br>
+<br>
+Official Documentation - <br>
+https://godotengine.org/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Mc13Z2gboEk <br>
+https://www.youtube.com/watch?v=UcdwP1Q2UlU<br>
+https://www.youtube.com/watch?v=UcdwP1Q2UlU <br>
+https://www.youtube.com/watch?v=QftpPI5iYrY <br>
+https://www.youtube.com/watch?v=VeCrE-ge8xM <br>
+<br>
+Useful Websites -
+<br>
+https://godotengine.org/article/showcase-your-godot-game-our-website<br>
+https://www.javatpoint.com/godot<br>
+https://docs.godotengine.org/en/stable/getting_started/step_by_step/index.html <br>
+https://www.gdquest.com/tutorial/godot/learning-paths/beginner/<br>
+https://www.tutorialspoint.com/godot_101_andndash_game_engine_foundations/index.asp <br>
+https://godotengine.org/qa/53258/how-to-make-a-point-and-click-game <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/godotengine/awesome-godot<br>
+https://github.com/hto/awesome-godot <br>
+https://github.com/nonunknown/godot-powerful <br>
+https://github.com/godotengine/godot<br>
+https://github.com/PacktPublishing/Godot-Game-Engine-Projects <br>
+https://github.com/TutorialDoctor/TD-Godot-Games<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/gg-godot/ <br>
+https://godottutorials.pro/ <br>
+https://academy.zenva.com/product/godot-101-game-engine-foundations/ <br>
+https://www.skillshare.com/browse/godot <br>
+https://godottutorials.pro/complete-course/ <br>
+https://www.gdquest.com/tutorial/godot/legacy/30-days-of-tutorials/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.gotut.net/godot-tips/<br>
+https://docs.godotengine.org/en/stable/tutorials/optimization/general_optimization.html<br>
+https://godotengine.org/qa/57294/looking-for-some-tips-to-speed-up-my-game <br>
+https://www.reddit.com/r/godot/comments/9r2ngg/10_tips_for_using_the_godot_engine/<br>
+https://steamcommunity.com/app/404790/discussions/0/412448158143539851/?l=french<br>
+<br>
+<a href="https://godotengine.org/themes/godotengine/assets/logo.svg">
+  <img align="center" src="https://godotengine.org/themes/godotengine/assets/logo.svg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 
 <details>
  <summary> GraphDB </summary>
