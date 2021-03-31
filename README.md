@@ -1776,12 +1776,12 @@ https://www.smartly.io/blog/ruby-tricks-for-curious-developer <br>
 https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW <br> https://www.youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb <br>
  https://www.youtube.com/playlist?list=PLK_g1a_cAfaaAO6io1Tluy7EZXhAAK1lC <br>
  <br>Useful Websites - <br>https://www.rust-lang.org/ <br> https://www.javatpoint.com/rust-tutorial<br>
-https://www.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/ <br> https://www.tutorialspoint.com/rust/index.htm <br>
- <br>Dedicated Github page - <br> https://github.com/rust-lang/rust <br> https://github.com/rust-unofficial/awesome-rust <br>https://github.com/rust-lang/rustlings<br> https://github.com/learning-rust/site <br>
+https://www.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/ <br> https://www.tutorialspoint.com/rust/index.htm <br> https://stevedonovan.github.io/rust-gentle-intro/<br>https://aml3.github.io/RustTutorial/html/toc.html?ref=hackr.io
+ <br>Dedicated Github page - <br> https://github.com/rust-lang/rust <br> https://github.com/rust-unofficial/awesome-rust <br>https://github.com/rust-lang/rustlings<br> https://github.com/learning-rust/site <br>https://github.com/SergioBenitez/Rocket<br> https://github.com/rust-lang/rust-by-example<br>
  <br>Best Courses - <br> https://www.udemy.com/course/rust-fundamentals/ <br> https://www.udemy.com/course/rust-lang/ <br>
- https://www.udemy.com/course/ultimate-rust-crash-course/ <br> https://www.udemy.com/course/rust-coding-for-beginners/<br>
+ https://www.udemy.com/course/ultimate-rust-crash-course/ <br> https://www.udemy.com/course/rust-coding-for-beginners/<br>https://www.udemy.com/course/rust-building-reusable-code-with-rust-from-scratch/<br>https://www.udemy.com/course/rust-programming-recipes/
  <br>Other Tips / Hacks - <br> https://mudit.blog/rust-tips-and-tricks/ <br> https://thesquareplanet.com/blog/rust-tips-and-tricks/ <br>
- https://upsuper.github.io/rust-cheatsheet/ <br> https://spin.atomicobject.com/2014/05/09/tips-learning-rust/ <br>
+ https://upsuper.github.io/rust-cheatsheet/ <br> https://spin.atomicobject.com/2014/05/09/tips-learning-rust/ <br>https://github.com/anshulrgoyal/rust-web-developer-roadmap<br>https://github.com/rustkas/Tip-and-Tricks-Rust-Programming<br>
  <br>
  </details>
 
