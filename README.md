@@ -2071,6 +2071,72 @@ https://ugoproto.github.io/ugo_py_doc/pdf/Python_SciPy_Cheat_Sheet_Linear_Algebr
 </details>
 
 <details>
+<summary>Solidity </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://docs.soliditylang.org/en/v0.8.3/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=ipwxYa-F1uY <br>
+https://www.youtube.com/watch?v=YjbIrNRqiYU <br>
+https://www.youtube.com/watch?v=XUiYCwG8Uas <br>
+https://www.youtube.com/watch?v=v_hU0jPtLto <br>
+https://www.youtube.com/watch?v=XdrScruyYtk <br>
+https://www.youtube.com/watch?v=p3C7jljTXaA <br>
+https://www.youtube.com/watch?v=MnSmc7Hto2k&t=1s <br>
+https://www.youtube.com/watch?v=xxJfQJ5bMfw <br>
+https://www.youtube.com/watch?v=OZVBfXb2Yfc <br>
+<br>
+Useful Websites -
+<br>
+https://docs.soliditylang.org/en/v0.5.3/resources.html <br>
+https://stackoverflow.com/questions/51084693/best-ide-plugin-for-develop-solidity <br>
+https://www.bitdegree.org/learn/solidity-examples <br>
+https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html <br>
+https://docs.soliditylang.org/en/v0.4.24/solidity-by-example.html <br>
+https://medium.com/devslopes-blog/solidity-is-the-weirdest-9d3c22f2c196#:~:text=It%20is%20statically%20typed%2C%20supports,signature%20crypto%20wallets%2C%20and%20more. <br>
+https://www.blockchain-council.org/ethereum/how-to-learn-solidity-and-become-a-solidity-developer/ <br>
+https://www.codementor.io/@rogargon/exercise-simple-solidity-smart-contract-for-ethereum-blockchain-m736khtby <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/bkrem/awesome-solidity <br>
+https://github.com/ethereum/solidity <br>
+https://github.com/ethereum/solidity-examples <br>
+https://github.com/willitscale/learning-solidity <br>
+https://github.com/ajlopez/SoliditySamples <br>
+https://github.com/OpenZeppelin/solidity-docgen <br>
+https://github.com/pbrudny/learning-solidity-2018 <br>
+https://github.com/BlockchainLabsNZ/awesome-solidity <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/ <br>
+https://www.blockchain-council.org/certifications/certified-solidity-developer/ <br>
+https://www.bitdegree.org/course/learn-solidity-space-doggos <br>
+https://www.bitdegree.org/courses/solidity-smart-contract/ <br>
+https://gitconnected.com/learn/solidity <br>
+https://www.linkedin.com/learning/blockchain-learning-solidity <br>
+https://www.nobleprog.com/solidity-training <br>
+https://www.classcentral.com/course/udemy-solidity-smart-contracts-build-dapps-in-eth-33070 <br>
+<br>
+Other Tips / Hacks - <br>
+https://medium.com/hackernoon/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148 <br>
+https://withintent.com/blog/solidity-tips-and-tricks-from-java-developer/ <br>
+https://blog.polymath.network/solidity-tips-and-tricks-to-save-gas-and-reduce-bytecode-size-c44580b218e6 <br>
+https://blog.aragon.one/tips-and-tricks-to-get-started-with-solidity/ <br>
+https://michalzalecki.com/ebooks/ethereum-30-tips-tricks-for-solidity-developers.html <br>
+https://mudit.blog/solidity-gas-optimization-tips/ <br>
+https://docs.soliditylang.org/en/v0.5.10/miscellaneous.html <br>
+https://medium.com/@davekaj/solidity-tips-and-tricks-for-beginners-building-their-first-dapp-on-ethereum-fed32d6a19ac <br>
+<br>
+<a href="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png">
+  <img align="center" src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png" width="900" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Swift</summary>
 <br>Category/Type - <br> Programming language <br>
 <br>Official Documentation - <br> https://developer.apple.com/documentation/swift <br>
