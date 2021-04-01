@@ -1078,6 +1078,62 @@ https://www.raywenderlich.com/19019328-xcode-tips-and-tricks <br>
 </a>
 <br><br><br>
 </details>
+<details>
+<summary>Ionic</summary>
+<br>
+Category/Type - <br>Framework <br>
+<br>
+Official Documentation - <br>
+https://ionicframework.com/docs <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=r2ga-iXS5i4 <br>
+https://www.youtube.com/watch?v=AvbuIRg8_Jg <br>
+https://www.youtube.com/watch?v=whnA4Eod3xo <br>
+https://www.youtube.com/watch?v=s3AHIA-dII0&list=PLQOZG4p55fDRCEZgBDN5GwHpITdg5H0Ne <br>
+https://www.youtube.com/watch?v=0jamhGf-8ww&list=PLYxzS__5yYQljbuGjaeugpqs9U07gS5P5<br>
+https://www.youtube.com/watch?v=CGiqPTK7EoM&list=PLz5rnvLVJX5UEDbxBypmXHdxlReX47Qdn <br>
+https://www.youtube.com/watch?v=qTdwUpQRptc <br>
+<br>
+Useful Websites -
+<br>
+https://ionicframework.com/docs/angular/your-first-app <br>
+https://www.tutorialspoint.com/ionic/index.htm <br>
+https://www.javatpoint.com/ionic<br>
+https://ionicthemes.com/tutorials/about/build-a-complete-mobile-app-with-ionic-framework<br>
+https://ccoenraets.github.io/ionic-tutorial/ <br>
+https://codeburst.io/part-1-simple-ionic-tutorial-from-scratch-from-0-to-live-app-9a79db510a90<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/Alexintosh/Awesome-Ionic<br>
+https://github.com/candelibas/awesome-ionic<br>
+https://github.com/lanceli/awesome-ionic<br>
+https://github.com/vagnersabadi/awesome-components-ionic <br>
+https://github.com/chrisbernal/awesome-ionic<br>
+https://github.com/rathoreabhijeet/awesome-ionic-4<br>
+https://github.com/Alexintosh/Awesome-Ionic/blob/master/ionic-angular.md <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/?gclid=CjwKCAjw3pWDBhB3EiwAV1c5rNzQsueCVQhJxyghQs_XPYKfRPVeJZ6Zw_LISKWDso7QP8E-eEaiihoCsNwQAvD_BwE&matchtype=e&utm_campaign=LongTail_la.EN_cc.INDIA&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_78875695323_._ad_387396956791_._kw_ionic+course_._de_c_._dm__._pl__._ti_kwd-821929915867_._li_9040198_._pd__._<br>
+https://www.linkedin.com/learning/ionic-4-0-essential-training <br>
+https://www.knowledgehut.com/mobile-app-development/ionic-training<br>
+https://hackr.io/tutorials/learn-ionic<br>
+https://www.classcentral.com/course/ionic-cordova-8683<br>
+https://ionicacademy.com/course-listing/<br>
+https://www.joshmorony.com/elite/<br>
+<br>
+Other Tips / Hacks - <br>
+https://dzone.com/articles/5-tips-for-building-ionic-framework-apps-2<br>
+https://aptude.com/blog/entry/7-tips-and-tricks-for-developing-hybrid-mobile-apps-with-the-ionic-framework/<br>
+https://www.sitepoint.com/5-ionic-app-development-tips-tricks/ <br>
+https://www.packtpub.com/product/ionic-framework-tips-tricks-and-techniques-video/9781838642952<br>
+https://devdactic.com/building-websites-ionic-4/ <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png" width="900" height="500"/>
+</a>
+<br><br><br>
+</details>
 
 <details>
 <summary>Java</summary>

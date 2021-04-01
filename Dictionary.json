@@ -1237,6 +1237,47 @@
 	"Tips9" : "https://www.raywenderlich.com/19019328-xcode-tips-and-tricks ",
 	"Image1":"https://1000logos.net/wp-content/uploads/2017/02/iOS-Logo-2013.jpg" 
 
+	}
+	,
+	
+	{	
+	"Title" : "Ionic",
+	"Tag": "Framework",
+	"Documentation" : "https://ionicframework.com/docs ",
+	"YT1 " :"https://www.youtube.com/watch?v=r2ga-iXS5i4 ",
+	"YT2 " :"https://www.youtube.com/watch?v=AvbuIRg8_Jg",
+	"YT3 " :"https://www.youtube.com/watch?v=whnA4Eod3xo",
+	"YT4 " :"https://www.youtube.com/watch?v=s3AHIA-dII0&list=PLQOZG4p55fDRCEZgBDN5GwHpITdg5H0Ne",
+	"YT5 " :"https://www.youtube.com/watch?v=0jamhGf-8ww&list=PLYxzS__5yYQljbuGjaeugpqs9U07gS5P5",
+	"YT6 " :"https://www.youtube.com/watch?v=CGiqPTK7EoM&list=PLz5rnvLVJX5UEDbxBypmXHdxlReX47Qdn",
+	"YT7 " :"https://www.youtube.com/watch?v=qTdwUpQRptc",
+	"Website1": "https://ionicframework.com/docs/angular/your-first-app",
+	"Website2": "https://www.tutorialspoint.com/ionic/index.htm ",
+	"Website3": "https://www.javatpoint.com/ionic ",
+	"Website4": "https://ionicthemes.com/tutorials/about/build-a-complete-mobile-app-with-ionic-framework",
+	"Website5": "https://ccoenraets.github.io/ionic-tutorial/",
+	"Website6": "https://codeburst.io/part-1-simple-ionic-tutorial-from-scratch-from-0-to-live-app-9a79db510a90",
+	"Dedicated GH page1" : "https://github.com/Alexintosh/Awesome-Ionic",
+	"Dedicated GH page2" : "https://github.com/candelibas/awesome-ionic ",
+	"Dedicated GH page3" : "https://github.com/lanceli/awesome-ionic",
+	"Dedicated GH page4" : "https://github.com/vagnersabadi/awesome-components-ionic",
+	"Dedicated GH page5" : "https://github.com/chrisbernal/awesome-ionic",
+	"Dedicated GH page6" : "https://github.com/rathoreabhijeet/awesome-ionic-4",
+	"Dedicated GH page7" : "https://github.com/Alexintosh/Awesome-Ionic/blob/master/ionic-angular.md",
+	"Course1" : "https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/?gclid=CjwKCAjw3pWDBhB3EiwAV1c5rNzQsueCVQhJxyghQs_XPYKfRPVeJZ6Zw_LISKWDso7QP8E-eEaiihoCsNwQAvD_BwE&matchtype=e&utm_campaign=LongTail_la.EN_cc.INDIA&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_78875695323_._ad_387396956791_._kw_ionic+course_._de_c_._dm__._pl__._ti_kwd-821929915867_._li_9040198_._pd__._",
+	"Course2" : "https://www.linkedin.com/learning/ionic-4-0-essential-training",
+	"Course3" : "https://www.knowledgehut.com/mobile-app-development/ionic-training ",
+	"Course4" : "https://hackr.io/tutorials/learn-ionic",
+	"Course5" : "https://www.classcentral.com/course/ionic-cordova-8683",
+	"Course6" : "https://ionicacademy.com/course-listing/",
+	"Course7" : "https://www.joshmorony.com/elite/",
+	"Tips1" : "https://dzone.com/articles/5-tips-for-building-ionic-framework-apps-2 ",
+	"Tips2" : "https://aptude.com/blog/entry/7-tips-and-tricks-for-developing-hybrid-mobile-apps-with-the-ionic-framework/",
+	"Tips3" : "https://www.sitepoint.com/5-ionic-app-development-tips-tricks/",
+	"Tips4" : "https://www.packtpub.com/product/ionic-framework-tips-tricks-and-techniques-video/9781838642952",
+	"Tips5" : "https://devdactic.com/building-websites-ionic-4/",
+	"Image1":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png" 
+
 	},
 
 	{
