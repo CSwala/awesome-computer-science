@@ -1317,6 +1317,49 @@ https://blog.neuvector.com/article/hack-kubernetes-container <br>
 </details>
 
 <details>
+<summary>Lisp</summary>
+<br>Category/Type - <br>
+family of programming languages<br>
+<br>
+Official Documentation - <br>
+https://common-lisp.net/documentation<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=ymSq4wHrqyU<br>
+https://www.youtube.com/watch?v=SepxCxkMJVc<br>
+https://www.youtube.com/watch?v=EbKF9OHyGWc<br>
+https://www.youtube.com/watch?v=ShqGe9PJF70<br>
+https://www.youtube.com/watch?v=3GEAINRCbJ4<br>
+<br>Useful Websites - <br>
+https://www.tutorialspoint.com/lisp/index.htm<br>
+https://www2.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/1/tutorial1.html<br>
+https://www.whoishostingthis.com/resources/lisp/<br>
+https://cs.gmu.edu/~sean/lisp/LispTutorial.html<br>
+https://people.cs.pitt.edu/~milos/courses/cs2740/Lectures/LispTutorial.pdf<br>
+https://www.radford.edu/~nokie/classes/380/LISP.html<br>
+<br>Dedicated Github page - <br>
+https://github.com/CodyReichert/awesome-cl<br>
+https://github.com/GustavBertram/awesome-common-lisp-learning<br>
+https://github.com/dundalek/awesome-lisp-languages<br>
+https://github.com/azzamsa/awesome-lisp-companies<br>
+https://github.com/vindarel/curated-awesome-cl<br>
+<br>Best Courses - <br>
+https://www2.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/<br>
+https://www.youtube.com/watch?v=ymSq4wHrqyU<br>
+https://www.udemy.com/course/lisp-programming-language/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-406594358574_._li_9040198_._pd__._&matchtype=b&gclid=CjwKCAjw3pWDBhB3EiwAV1c5rJHNIwv6YruImGkmIhJW7xxvW-lFOgJO-0M2yCwzxQVyR7WZs6R3nBoCVXsQAvD_BwE<br>
+http://www.ai.sri.com/~delacaze/alu-site/alu/table/learn.htm<br>
+<br>Other Tips / Hacks - <br>
+https://blog.bricsys.com/7-tips-for-lisp-programming-customizing-bricscad-p25/#:~:text=Tip%20%231.&text=LISP%20code%20must%20be%20written,Word%2C%20then%20save%20as%20a%20.<br>
+https://www.tutorialspoint.com/lisp/lisp_quick_guide.htm<br>
+https://ccrma.stanford.edu/CCRMA/Courses/AlgoComp/cm/doc/contrib/lispstyle.html<br>
+https://www.codementor.io/lisp-experts<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/1200px-Lisp_logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/1200px-Lisp_logo.svg.png" width="800" height="400"/>
+</a>
+<br>
+</details>
+
+<details>
  <summary>Logstash</summary>
  <br>Category/Type - <br> Data processing pipeline <br>
  <br>Official Documentation - <br> https://www.elastic.co/guide/en/logstash/current/introduction.html <br>
