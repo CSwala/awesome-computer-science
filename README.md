@@ -1625,6 +1625,55 @@ https://www.kaggle.com/learn-forum/158267
 <br><br><br>
 </details>
 
+<details>
+<summary>OpenShift</summary>
+<br>
+Category/Type - <br>
+online development environment<br>
+<br>
+Official Documentation - <br>
+https://docs.openshift.com/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=dAWPuqZwlOA<br>
+https://www.youtube.com/watch?v=kE1uhXeaTYk<br>
+https://www.youtube.com/watch?v=ykx8gAD9vAw&list=PL2We04F3Y_43DDcvM1bAxF7YIPglrMdif<br>
+youtube.com/watch?v=XD8Xnjpdrgs<br>
+https://www.youtube.com/watch?v=65BnTLcDAJI<br>
+https://www.youtube.com/watch?v=b5THfQzVUqk&list=PLhV-iLfTG06gm2NlH1UIisfWH-25ezJxE<br>
+https://www.youtube.com/watch?v=ZTl9CjiAIXo&list=PLzrHI8HSH3T2SRA2Hh-DPPtQAyTRrEYu5<br>
+<br>
+Useful Websites -
+https://docs.openshift.com/container-platform/4.2/welcome/index.html<br>
+https://www.tutorialspoint.com/openshift/index.htm<br>
+https://learn.openshift.com/<br>
+https://www.openshift.com/blog/openshift-3-walkthrough<br>
+https://awesomeopensource.com/projects/openshift<br>
+https://www.openshift.com/blog/deploying-to-openshift-using-github-actions<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/oscp/awesome-openshift3<br>
+https://github.com/dudash/openshift-is-awesome<br>
+https://github.com/operator-framework/awesome-operators<br>
+https://github.com/openshift/okd<br>
+https://github.com/ramitsurana/awesome-kubernetes<br>
+<br>
+Best Courses - <br>
+https://www.katacoda.com/openshift<br>
+https://www.udemy.com/course/openshift-for-developers/<br>
+https://www.pluralsight.com/paths/introduction-to-application-development-for-red-hat-openshift-container-platform?aid=7010a000002BWq6AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=IN_Dynamic&utm_content=&gclid=CjwKCAjwu5CDBhB9EiwA0w6sLWYQUZUDWz6QOFZgn9gzGe4bJT44wX_hXKwmPaiUvXs5CMawr5bsjxoC7DwQAvD_BwE<br>
+https://www.pyimagesearch.com/free-opencv-computer-vision-deep-learning-crash-course/<br>
+https://www.edx.org/course/fundamentals-of-containers-kubernetes-and-red-hat<br>
+<br>
+Other Tips / Hacks - <br>
+http://jstakun.blogspot.com/<br>
+https://www.redhat.com/sysadmin/quick-tips-oc-client<br>
+https://www.linux.com/news/quick-tips-for-the-openshift-oc-client/<br>
+https://www.reddit.com/r/openshift/comments/8fu2ib/openshift_container_platform_load_testing_tips/
+<br><br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/200px-OpenShift-LogoType.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/200px-OpenShift-LogoType.svg.png" width="500" height="500"/>
+</a>
 </details>
 <details>
 <summary>Pandas</summary>
