@@ -2192,6 +2192,60 @@ https://medium.com/@davekaj/solidity-tips-and-tricks-for-beginners-building-thei
 </details>
 
 <details>
+<summary>Stencyl </summary>
+<br>
+Category/Type - <br>Game Engine" <br>
+<br>
+Official Documentation - <br>
+http://www.stencyl.com/help/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=WNivH0vmnkI&list=PLGxqbtM7UZzTkUOGGtuXK3uUbTK5_nBSe<br>
+https://www.youtube.com/watch?v=EOm17fGYZd8&list=PLbBum5AW7RMI7Ft-v0_4jbVAZYZ9XQd1k<br>
+https://www.youtube.com/watch?v=jo1mCmUDQHw<br>
+https://www.youtube.com/watch?v=lAtOSgiy4N8<br>
+https://www.youtube.com/watch?v=O3bL6qKIUFY&list=PLAr4r-mY4OYNgI8i-IWf-Q5VuJdpMRtbq<br>
+https://www.youtube.com/watch?v=9MmN8oSpZwg<br>
+https://www.youtube.com/watch?v=I8KKZddfu-o <br>
+<br>
+Useful Websites -
+<br>
+https://www.girlsmakegames.com/stencyl-tutorials<br>
+https://code.tutsplus.com/tutorials/an-introduction-to-stencyl--cms-19834 <br>
+https://www.sitepoint.com/building-mobile-games-stencyl/<br>
+https://blog.en.uptodown.com/create-game-stencyl/<br>
+https://cartoonsmart.com/game-development-with-stencyl-tutorial-index/<br>
+https://www.packtpub.com/product/learning-stencyl-3-x-game-development-beginner-s-guide/9781849695961 <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/Stencyl<br>
+https://github.com/Stencyl/stencylpedia<br>
+https://github.com/Kavex/GameDev-Resources<br>
+https://github.com/pault84/awesome-gamedev <br>
+https://github.com/topics/game-networking?l=c%2B%2B<br>
+https://github.com/ellisonleao/magictools<br>
+<br>
+Best Courses - <br>
+http://www.stencyl.com/help/start/<br>
+https://www.udemy.com/course/create-your-first-computer-game-with-stencyl/ <br>
+https://lms.pps.net/courses/11326/assignments/9136?module_item_id=14003<br>
+https://www.lynda.com/Stencyl-tutorials/8516-0.html<br>
+https://www.monsterindia.com/courses-certifications/technology/create-games-with-stencyl-no-coding-required/1709<br>
+<br>
+Other Tips / Hacks - <br>
+http://community.stencyl.com/index.php?topic=54852.0 <br>
+https://www.reddit.com/r/gamedev/comments/60rtyk/any_love_for_stencyl/<br>
+https://www.unixmen.com/stencyl-design-play-anywhere/<br>
+https://www.online-tech-tips.com/software-reviews/6-tools-you-can-use-to-make-your-own-games/ <br>
+https://stencyltutorials.wordpress.com/tag/tricks/<br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Stencyl_logotype.svg/245px-Stencyl_logotype.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Stencyl_logotype.svg/245px-Stencyl_logotype.svg.png" width="900" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Swift</summary>
 <br>Category/Type - <br> Programming language <br>
 <br>Official Documentation - <br> https://developer.apple.com/documentation/swift <br>
