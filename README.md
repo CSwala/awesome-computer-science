@@ -2126,6 +2126,73 @@ https://ugoproto.github.io/ugo_py_doc/pdf/Python_SciPy_Cheat_Sheet_Linear_Algebr
 </details>
 
 <details>
+<summary>Selenium </summary>
+<br>
+Category/Type - <br>Software <br>
+<br>
+Official Documentation - <br>
+https://www.selenium.dev/documentation/en/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=5FUdrBq-WFo <br>
+https://www.youtube.com/watch?v=FRn5J31eAMw <br>
+https://www.youtube.com/watch?v=Jdkrj2lDAEY <br>
+https://www.youtube.com/watch?v=cobEbkTwbwY <br>
+https://www.youtube.com/watch?v=KuroMweAojE <br>
+https://www.youtube.com/watch?v=WzuJANOPLyQ <br>
+https://www.youtube.com/watch?v=mOAXEQevCAE <br>
+https://www.youtube.com/watch?v=18Ak1ZL_lDY <br>
+<br>
+Useful Websites -
+<br>
+https://www.selenium.dev/ <br>
+https://www.selenium.dev/downloads/ <br>
+https://selenium-python.readthedocs.io/ <br>
+https://www.lambdatest.com/blog/selenium-webdriver-with-python/ <br>
+https://www.reddit.com/r/selenium/ <br>
+https://www.selenium.dev/projects/ <br>
+https://www.npmjs.com/package/selenium-webdriver <br>
+https://www.guru99.com/first-webdriver-script.html <br>
+https://www.lambdatest.com/blog/selenium-webdriver-tutorial-with-examples/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/SeleniumHQ/selenium <br>
+https://github.com/SeleniumHQ/selenium-ide <br>
+https://github.com/in28minutes/automation-testing-with-java-and-selenium <br>
+https://github.com/nadvolod/selenium-java <br>
+https://github.com/SeleniumHQ/seleniumhq.github.io <br>
+https://github.com/christian-bromann/awesome-selenium <br>
+https://github.com/chaconnewu/awesome-augmented <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/ <br>
+https://www.udemy.com/course/selenium-webdriver-with-java-testng-and-log4j/ <br>
+https://www.udemy.com/course/selenium-with-c/ <br>
+https://www.udemy.com/course/selenium-training/ <br>
+https://www.udemy.com/course/cucumber-bdd-selenium-java-complete-automation-course/ <br>
+https://www.simplilearn.com/selenium-certification-training <br>
+https://www.edureka.co/selenium-certification-training <br>
+https://www.h2kinfosys.com/courses/selenium-webdriver-junit-training-course/ <br>
+https://www.guru99.com/selenium-tutorial.html <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.automatetheplanet.com/advanced-webdriver-tips-tricks-java/ <br>
+https://www.browserstack.com/guide/selenium-webdriver-tricks <br>
+https://www.automatetheplanet.com/advanced-webdriver-tips-tricks-part-1/ <br>
+https://www.lambdatest.com/blog/tips-for-test-automation-with-selenium/ <br>
+https://www.techbeamers.com/selenium-webdriver-coding-tips/ <br>
+https://www.codeproject.com/Articles/1078541/Advanced-WebDriver-Tips-and-Tricks-Part <br>
+https://digital.ai/catalyst-blog/discover-the-top-tips-and-tricks-of-the-selenium-webdriver <br>
+https://dzone.com/articles/discover-the-top-tips-and-tricks-of-the-selenium-w <br>
+https://www.javacodegeeks.com/2019/09/selenium-scripting-tips-tricks.html <br>
+<br>
+<a href="https://www.selenium.dev/images/selenium_logo_square_green.png">
+  <img align="center" src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Solidity </summary>
 <br>
 Category/Type - <br>Programming language <br>
