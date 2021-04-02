@@ -2513,6 +2513,43 @@
 	"Image1":"https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png" 
 
 	},
+	
+	{	
+		"Title" : "Stencyl",
+		"Tag": "Game Engine",
+		"Documentation" : "http://www.stencyl.com/help/ ",
+		"YT1 " :"https://www.youtube.com/watch?v=WNivH0vmnkI&list=PLGxqbtM7UZzTkUOGGtuXK3uUbTK5_nBSe ",
+		"YT2 " :"https://www.youtube.com/watch?v=EOm17fGYZd8&list=PLbBum5AW7RMI7Ft-v0_4jbVAZYZ9XQd1k ",
+		"YT3 " :"https://www.youtube.com/watch?v=jo1mCmUDQHw",
+		"YT4 " :"https://www.youtube.com/watch?v=lAtOSgiy4N8 ",
+		"YT5 " :"https://www.youtube.com/watch?v=O3bL6qKIUFY&list=PLAr4r-mY4OYNgI8i-IWf-Q5VuJdpMRtbq",
+		"YT6 " :"https://www.youtube.com/watch?v=9MmN8oSpZwg",
+		"YT7 " :"https://www.youtube.com/watch?v=I8KKZddfu-o",
+		"Website1": "https://www.girlsmakegames.com/stencyl-tutorials ",
+		"Website2": "https://code.tutsplus.com/tutorials/an-introduction-to-stencyl--cms-19834 ",
+		"Website3": "https://www.sitepoint.com/building-mobile-games-stencyl/",
+		"Website4": "https://blog.en.uptodown.com/create-game-stencyl/",
+		"Website5": "https://cartoonsmart.com/game-development-with-stencyl-tutorial-index/",
+		"Website6": "https://www.packtpub.com/product/learning-stencyl-3-x-game-development-beginner-s-guide/9781849695961",
+		"Dedicated GH page1" : "https://github.com/Stencyl ",
+		"Dedicated GH page2" : "https://github.com/Stencyl/stencylpedia",
+		"Dedicated GH page3" : "https://github.com/Kavex/GameDev-Resources ",
+		"Dedicated GH page4" : "https://github.com/pault84/awesome-gamedev ",
+		"Dedicated GH page5" : "https://github.com/topics/game-networking?l=c%2B%2B",
+		"Dedicated GH page6" : "https://github.com/ellisonleao/magictools",
+		"Course1" : "http://www.stencyl.com/help/start/ ",
+		"Course2" : "https://www.udemy.com/course/create-your-first-computer-game-with-stencyl/ ",
+		"Course3" : "https://lms.pps.net/courses/11326/assignments/9136?module_item_id=14003",
+		"Course4" : "https://www.lynda.com/Stencyl-tutorials/8516-0.html",
+		"Course5" : "https://www.monsterindia.com/courses-certifications/technology/create-games-with-stencyl-no-coding-required/1709 ",
+		"Tips1" : "http://community.stencyl.com/index.php?topic=54852.0 ",
+		"Tips2" : "https://www.reddit.com/r/gamedev/comments/60rtyk/any_love_for_stencyl/ ",
+		"Tips3" : "https://www.unixmen.com/stencyl-design-play-anywhere/",
+		"Tips4" : "https://www.online-tech-tips.com/software-reviews/6-tools-you-can-use-to-make-your-own-games/ ",
+		"Tips5" : "https://stencyltutorials.wordpress.com/tag/tricks/ ",
+		"Image1":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Stencyl_logotype.svg/245px-Stencyl_logotype.svg.png" 
+	
+		},
 
   
 	{	"Title" : "Swift",
