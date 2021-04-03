@@ -670,6 +670,29 @@
 	"Image1" : "https://lh5.googleusercontent.com/5xrA7l184zC-mii6ESokTP2dUB7rIlNSkpYOLtjZdRIV17uR_HmotmktWhI7y3HhdJHT6ByqdXb-z9DQKW39jUxx5yg9eTVqAeimO0s7H5vtZThb84NQzpZIbG2w4h8w8ocfnkC2"
 },
 
+	{	"Title" : "MATLAB",
+	"Tag":"Matrix-based language",
+	"Documentation" : "https://in.mathworks.com/help/matlab/",
+	"YT1 " :"https://www.youtube.com/user/MATLAB",
+	"YT2 " :"https://www.youtube.com/channel/UCNYJACuYKQlScmTuyIe8J0g",
+	"YT3 " :"https://www.youtube.com/channel/UCEaVN5-XCvLgJOFAR_VOIoQ",
+	"YT4 " :"https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA",
+	"Website1": "https://matlabacademy.mathworks.com/?s_tid=ac_ml_tut_til",
+	"Website2": "https://nhigham.com/matlab-guide/",
+	"Website3": "https://engineerexperiences.com/category/matlab",
+	"Website4": "https://blogs.mathworks.com/videos/",
+	"Dedicated GH page1" : "https://github.com/mathworks",
+	"Dedicated GH page2" : "https://github.com/topics/matlab-codes",
+	"Dedicated GH page3" : "https://github.com/VivekKrG/MATLAB-projects-and-Assignments",
+	"Course1" : "https://matlabacademy.mathworks.com/",
+	"Course2" : "https://www.udemy.com/course/matlab-essentials-for-engineering-and-science-students/",
+	"Course3" : "https://www.coursera.org/learn/matlab",
+	"Course4" : "https://www.linkedin.com/learning/learning-matlab-2/welcome",
+	"Tips1" : "https://in.mathworks.com/videos/matlab-and-simulink-racing-lounge-how-to-make-your-matlab-experience-more-productive-99548.html",
+	"Image1":"https://user-images.githubusercontent.com/68437435/113461750-80cf9080-943b-11eb-88c5-74067ca42376.jpg" 
+
+	},
+	
 	{
 	"Title" : "Matplotlib",
 	"Tag": "Python Library",
