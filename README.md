@@ -532,8 +532,6 @@ https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/<br>
 
 <details>
 <summary> CUDA </summary>
-=======
-<summary>CUDA</summary>
 
 <br>Category/Type - <br> Application Programming Interfaces <br>
 <br>Official Documentation - <br> https://docs.nvidia.com/cuda/ <br>
