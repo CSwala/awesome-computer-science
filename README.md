@@ -511,7 +511,28 @@ https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/<br>
 </details>
 
 <details>
-<summary>CUDA</summary>
+
+ <summary> CryEngine </summary>
+ <br>Category/Type - <br> Game engine <br>
+ <br>Official Documentation - <br> https://docs.cryengine.com <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/user/CryDevPortal <br> https://www.youtube.com/user/quixelteddy <br> https://www.youtube.com/user/superroblox <br>
+ https://www.youtube.com/playlist?list=PLnzAsQDGw0WVOe48mA5a6WCIvRIpttaOF <br> https://www.youtube.com/playlist?list=PL6I_h13LSNC7dGxtrEJwkt8NnuDCjVTbl <br>
+ https://www.youtube.com/playlist?list=PLG5XT5TF5T6j28ZFNSLZiplX16Il6117_ <br> https://www.youtube.com/playlist?list=PLYnbKITbqv7BgLbTynsBwmOfk8pfiGpei <br>
+ https://www.youtube.com/playlist?list=PLpCgy91Y5vMtzRchqgN7TO2mB7p_LO9LL <br>
+ <br>Useful Websites - <br> https://www.cryengine.com/tutorials <br> https://www.worldofleveldesign.com/categories/cat-cryengine3.php <br>
+ https://gamedevelopment.tutsplus.com/articles/how-to-learn-cryengine-3-sdk--gamedev-10166 <br> https://tutorials.cgrecord.net/2019/09/cryengine-tutorial-creating-forest.html <br>
+ <br>Dedicated Github page - <br> https://github.com/AmilsonJunior/awesome-cryengine <br> https://github.com/vilhelmhammer/awesomeness <br>
+ https://github.com/adampagedev/Cryengine3sdk.com-Community-Game <br>
+ <br>Best Courses - <br> https://www.pluralsight.com/courses/introduction-cryengine-787 <br> https://www.udemy.com/course/learn-the-basics-of-building-levels-with-cryengine/ <br>
+ https://www.udemy.com/course/3dmotive-learn-modular-level-building-for-cryengine-with-maya/ <br> https://www.udemy.com/course/3dmotive-texturing-an-industrial-door-with-ndo-for-cryengine-3/  <br>
+ <br>Other Tips / Hacks - <br> https://www.pluralsight.com/courses/tips-tricks-cryengine-939 <br> https://www.cryengine.com/news/view/tips-and-tricks-cherrypicking-from-gamesdk <br>
+ https://www.facebook.com/crytek/posts/get-tips-tricks-and-a-tutorial-about-how-to-make-particle-effects-with-cryengine/10160719114920287/ <br>
+ <br>
+ </details>
+
+<details>
+<summary> CUDA </summary>
+
 <br>Category/Type - <br> Application Programming Interfaces <br>
 <br>Official Documentation - <br> https://docs.nvidia.com/cuda/ <br>
 <br>Best YouTube creators - <br> https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK <br>
