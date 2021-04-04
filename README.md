@@ -710,6 +710,7 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
 <br>Other Tips / Hacks -<br>https://medium.com/blackode/10-killer-elixir-tips-2a9be1bec9be<br>https://elixirforum.com/t/getting-things-done-with-elixir-tips/11196<br>https://nickjanetakis.com/blog/tag/elixir-tips-tricks-and-tutorials<br>https://prograils.com/5-tips-for-elixir-phoenix-projects<br>
 <a href="https://elixir-lang.org/images/logo/logo.png">
 <img align="center" src="https://elixir-lang.org/images/logo/logo.png" width="800" height="400"/>
+	</a>
 </details>
 
 <details>
