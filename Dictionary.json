@@ -790,6 +790,43 @@
 
 	},
 
+	{	
+		"Title" : "Gamemaker",
+		"Tag": "Game Engine",
+		"Documentation" : "https://manual.yoyogames.com/#t=Content.htm ",
+		"YT1 " :"https://www.youtube.com/watch?v=1ynOf-EblXA ",
+		"YT2 " :"https://www.youtube.com/watch?v=cEb4gzG8S24&list=PLhIbBGhnxj5IcGWhJQNF5hScmCCn4M3xg",
+		"YT3 " :"https://www.youtube.com/watch?v=uKXCI1qC_LQ",
+		"YT4 " :"https://www.youtube.com/watch?v=qRIXnS1IuPQ",
+		"YT5 " :"https://www.youtube.com/watch?v=izNXbMdu348 ",
+		"Website1": "https://www.yoyogames.com/en/learn",
+		"Website2": "https://conceptartempire.com/gamemaker-studio-tutorials/",
+		"Website3": "https://www.gamedesigning.org/engines/gamemaker/",
+		"Website4": "https://careerkarma.com/blog/gamemaker-studio-2-tutorial/",
+		"Website5": "https://easycowork.com/career-planning/gamemaker-studio-2-tutorial-course/",
+		"Website6": "https://www.androidauthority.com/gamemaker-studio-tutorial-beginners-645025/",
+		"Dedicated GH page1" : "https://github.com/topics/game-maker-studio ",
+		"Dedicated GH page2" : "https://github.com/LAGameStudio/InputCandy",
+		"Dedicated GH page3" : "https://github.com/topics/gamemaker-studio",
+		"Dedicated GH page4" : "https://github.com/YellowAfterlife/GMEdit",
+		"Dedicated GH page5" : "https://github.com/VacaRoxa/gamedev4noobs",
+		"Dedicated GH page6" : "https://github.com/JujuAdams/Scribble ",
+		"Dedicated GH page7" : "https://github.com/gm-core/gdash",
+		"Course1" : "https://www.udemy.com/course/3dmotive-build-a-side-scrolling-platformer-with-gamemaker-studio/",
+		"Course2" : "https://www.udemy.com/course/be-a-game-maker-with-gamemaker-studio-2/ ",
+		"Course3" : "https://www.pluralsight.com/courses/game-maker-studio-making-first-game-2419",
+		"Course4" : "https://www.niit.com/india/GADEV?&utm_source=google&utm_medium=search_ads&utm_campaign=google_traffic_gaming_sp&utm_siteid=google_traffic_gaming_searchad_sp&utm_content=search_Ads&gclid=CjwKCAjwx6WDBhBQEiwA_dP8rQBA4x-xyJ7ZZRN0XNEKD-Wxukr7pjdBXiAGuoOXNDhilyGTMQzvBRoCMIYQAvD_BwE ",
+		"Course5" : "https://www.lynda.com/GameMaker-tutorials/11456-0.html ",
+		"Course6" : "https://www.skillshare.com/browse/gamemaker-studio-2",
+		"Tips1" : "https://www.dummies.com/programming/programming-games/10-tips-about-gamemaker-studio-for-game-developers/",
+		"Tips2" : "https://www.zackbanack.com/blog/gamemaker-studio-2-tips-and-tricks",
+		"Tips3" : "https://developer.amazon.com/blogs/appstore/post/b071dd08-f9ae-4d2a-892e-4bff23fc032b/25-of-my-favorite-tips-tricks-and-upcoming-features-in-gamemaker-studio-2 ",
+		"Tips4" : "https://gdpalace.wordpress.com/beginner-tips/ ",
+		"Tips5" : "https://www.reddit.com/r/gamemaker/comments/3a2t6t/tips_tricks_ive_learned_over_the_years/",
+		"Image1":"https://wagon-wheel.yoyogames.com/sites/5d75794b3c84c70006700381/theme/images/logo.svg?1617288526" 
+
+	},
+
 
 
 	{	"Title" : "GIMP",

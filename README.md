@@ -778,6 +778,59 @@ https://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/ <br>
 <br><br><br>
 </details>
 
+<details>
+<summary>Gamemaker</summary>
+<br>
+Category/Type - <br>Game Engine <br>
+<br>
+Official Documentation - <br>
+https://manual.yoyogames.com/#t=Content.htm <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=1ynOf-EblXA<br>
+https://www.youtube.com/watch?v=cEb4gzG8S24&list=PLhIbBGhnxj5IcGWhJQNF5hScmCCn4M3xg <br>
+https://www.youtube.com/watch?v=uKXCI1qC_LQ<br>
+https://www.youtube.com/watch?v=qRIXnS1IuPQ<br>
+https://www.youtube.com/watch?v=izNXbMdu348<br>
+<br>
+Useful Websites -
+<br>
+https://www.yoyogames.com/en/learn <br>
+https://conceptartempire.com/gamemaker-studio-tutorials/<br>
+https://www.gamedesigning.org/engines/gamemaker/<br>
+https://careerkarma.com/blog/gamemaker-studio-2-tutorial/<br>
+https://easycowork.com/career-planning/gamemaker-studio-2-tutorial-course/<br>
+https://www.androidauthority.com/gamemaker-studio-tutorial-beginners-645025/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/topics/game-maker-studio<br>
+https://github.com/LAGameStudio/InputCandy<br>
+https://github.com/topics/gamemaker-studio <br>
+https://github.com/YellowAfterlife/GMEdit<br>
+https://github.com/VacaRoxa/gamedev4noobs <br>
+https://github.com/JujuAdams/Scribble <br>
+https://github.com/gm-core/gdash <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/3dmotive-build-a-side-scrolling-platformer-with-gamemaker-studio/ <br>
+https://www.udemy.com/course/be-a-game-maker-with-gamemaker-studio-2/ <br>
+https://www.pluralsight.com/courses/game-maker-studio-making-first-game-2419<br>
+https://www.niit.com/india/GADEV?&utm_source=google&utm_medium=search_ads&utm_campaign=google_traffic_gaming_sp&utm_siteid=google_traffic_gaming_searchad_sp&utm_content=search_Ads&gclid=CjwKCAjwx6WDBhBQEiwA_dP8rQBA4x-xyJ7ZZRN0XNEKD-Wxukr7pjdBXiAGuoOXNDhilyGTMQzvBRoCMIYQAvD_BwE <br>
+https://www.lynda.com/GameMaker-tutorials/11456-0.html <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.dummies.com/programming/programming-games/10-tips-about-gamemaker-studio-for-game-developers/ <br>
+https://www.zackbanack.com/blog/gamemaker-studio-2-tips-and-tricks <br>
+https://developer.amazon.com/blogs/appstore/post/b071dd08-f9ae-4d2a-892e-4bff23fc032b/25-of-my-favorite-tips-tricks-and-upcoming-features-in-gamemaker-studio-2 <br>
+https://gdpalace.wordpress.com/beginner-tips/ <br>
+https://www.reddit.com/r/gamemaker/comments/3a2t6t/tips_tricks_ive_learned_over_the_years/<br>
+<br>
+<a href="https://wagon-wheel.yoyogames.com/sites/5d75794b3c84c70006700381/theme/images/logo.svg?1617288526">
+  <img align="center" src="https://wagon-wheel.yoyogames.com/sites/5d75794b3c84c70006700381/theme/images/logo.svg?1617288526" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
  <details>
 <summary>GIMP</summary>
 <br>Category/Type - <br> Graphics editor <br>
