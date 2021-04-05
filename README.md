@@ -395,6 +395,7 @@ https://www.buildbox.com/best-practices-for-hyper-casual-game-development/<br>
 https://www.buildbox.com/20-tips-for-awesome-game-design/<br>
 https://www.buildbox.com/what-not-to-do-when-making-games/<br>
 https://medium.com/@buildbox/how-to-get-free-game-music-more-buildbox-3f8918d950d7<br>
+<br>
 <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDojxbGIRbBd_jb9kL-cizMaWff3ZM1xDEA&usqp=CAU">
   <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDojxbGIRbBd_jb9kL-cizMaWff3ZM1xDEA&usqp=CAU" width="900" height="500"/>
 </a>
