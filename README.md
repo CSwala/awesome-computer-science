@@ -1930,6 +1930,50 @@ https://www.dataschool.io/future-of-pandas/
 </details>
 
 <details>
+<summary>Perl</summary>
+<br>
+Category/Type - <br>
+Programming Language <br>
+<br>
+Official Documentation - <br>
+https://perldoc.perl.org/ <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=WEghIXs8F6c <br>
+https://www.youtube.com/playlist?list=PL9ooVrP1hQOH9R0GR6yFteE4XWbsYNLga <br>
+https://www.youtube.com/playlist?list=PLWPirh4EWFpE0UEJPQ2PUeXUfvJDhPqSD <br>
+https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC <br>
+<br>
+Useful Websites- <br>
+https://www.geeksforgeeks.org/perl-programming-language/ <br>
+https://www.tutorialspoint.com/perl/index.htm <br>
+https://www.guru99.com/perl-tutorials.html <br>
+https://www.javatpoint.com/perl-tutorial <br>
+https://www.perltutorial.org/ <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/thibaultduponchelle/perlres <br>
+https://github.com/Perl/perl5 <br>
+https://github.com/PerlDancer/Dancer2 <br>
+https://github.com/gugod/App-perlbrew <br>
+<br>
+Best Courses- <br>
+https://www.udemy.com/course/perl-programming-for-beginners/ <br>
+https://www.udemy.com/course/perltutorial/ <br>
+https://www.linkedin.com/learning/perl-5-essential-training <br>
+https://www.udemy.com/course/perl-for-beginners/ <br>
+https://www.edureka.co/mastering-perl-scripting-self-paced <br>
+<br>
+Other Tips/Hacks- <br>
+https://www.xaprb.com/blog/2006/10/05/five-great-perl-programming-techniques-to-make-your-life-fun-again/ <br>
+https://www.techrepublic.com/article/10-things-every-perl-hacker-should-know/ <br>
+https://opensource.com/life/16/7/perl-tricks-system-administrators <br>
+https://blogs.oracle.com/linux/the-top-10-tricks-of-perl-one-liners-v2#:~:text=We'll%20start%20with%20a,%2Dn%20and%20%2Dp%20flags <br>
+https://www.thegeekstuff.com/2010/01/20-killer-perl-programming-tips-for-beginners-on-unix-linux-os/ <br>
+<br>
+</details>
+
+<details>
 <summary>PHP</summary>
 <br>Category/Type - <br>Programming Language<br>
 <br>Official Documentation - <br> https://www.php.net/docs.php <br>
