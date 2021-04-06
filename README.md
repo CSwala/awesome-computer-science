@@ -1792,6 +1792,39 @@ https://love2d.org/forums/viewtopic.php?t=3515&start=10
 </details>
 
 <details>
+<summary>Next.js</summary>
+<br>Category/Type - <br> React front-end development web framework <br> 
+<br>Official Documentation - <br> https://nextjs.org/docs <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/watch?v=mTz0GXj8NN0 <br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw <br>
+https://www.youtube.com/playlist?list=PLZjjdd9-SJS2ZvI4ct5Qtkje_Vdb5O_KM <br>
+https://www.youtube.com/watch?v=Sklc_fQBmcs<br>
+https://www.youtube.com/watch?v=tt3PUvhOVzo<br>
+https://www.youtube.com/watch?v=xtItzwYG6oQ <br> 
+<br>Useful Websites - <br> https://www.freecodecamp.org/news/the-next-js-handbook/ <br>
+https://www.tutorialspoint.com/nextjs/index.htm <br>
+https://www.smashingmagazine.com/2020/10/getting-started-with-next-js/ <br>
+https://www.storyblok.com/tp/next-js-react-guide <br>
+https://www.educative.io/blog/nextjs-tutorial-examples <br>
+<br>Dedicated Github page - <br> https://github.com/vercel/next.js/ <br>
+https://github.com/unicodeveloper/awesome-nextjs <br>
+https://github.com/nextauthjs/next-auth <br>
+https://github.com/vercel/next-plugins <br>
+https://github.com/vercel/next-learn-starter <br>
+<br>Best Courses - <br> https://www.udemy.com/course/nextjs-react-the-complete-guide/ <br>
+https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/ <br>
+https://www.udemy.com/course/universal-react-with-nextjs-the-ultimate-guide/ <br>
+https://www.udemy.com/course/react-the-complete-guide-incl-redux/ <br>
+https://nextjscourse.com/ <br>
+<br>Other Tips / Hacks - <br> https://medium.com/@pablo.delvalle.cr/next-js-10-tips-and-tricks-56992837e9a7 <br>
+https://medium.com/zerostories/5-tips-for-building-a-next-js-app-576fd1f7c065 <br>
+https://nextjstips.com/ <br>
+https://levelup.gitconnected.com/6-tips-using-next-js-for-your-next-web-app-e3f056fa46 <br>
+https://vercel.com/blog/10-next-js-tips-you-might-not-know <br>
+https://www.youtube.com/watch?v=R59e1Vl5lO8 <br> <br>
+</details>
+
+<details>
 <summary>Nginx</summary>
 <br>Category/Type - <br> Web server <br> 
 <br>Official Documentation - <br> https://nginx.org/en/docs/ <br>
