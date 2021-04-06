@@ -1580,6 +1580,56 @@ https://www.mongodb.com/presentations/tips-and-tricks-for-query-performance-let-
 </details>
 
 <details>
+<summary>MoonScript</summary>
+<br>
+Category/Type - <br>
+Dynamic scripting language<br>
+<br>
+Official Documentation - <br>
+https://moonscript.org/reference/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Eo67iTY1Yf8<br>
+https://www.youtube.com/watch?v=0G1Zm5Li8do<br>
+https://www.youtube.com/watch?v=MXgDswD9OJY<br>
+https://www.youtube.com/watch?v=0TmhogI-eTM<br>
+<br>
+Useful Websites -
+<br>
+https://leafo.net/posts/getting_started_with_moonscript.html<br>
+https://luarocks.org/modules/leafo/moonscript<br>
+https://news.ycombinator.com/item?id=14441492<br>
+https://atom.io/packages/language-moonscript<br>
+https://packagecontrol.io/packages/MoonScript<br>
+https://therenegadecoder.com/code/hello-world-in-moonscript/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/chase/awesome-config-moonscript<br>
+https://github.com/hal-ullr/awesome-moonscript<br>
+https://github.com/chase/awesome-config-moonscript/blob/master/handler/init.moon<br>
+https://github.com/uhub/awesome-lua<br>
+https://github.com/piotrklibert/awesome-config<br>
+<br>
+Best Courses - <br>
+https://learnxinyminutes.com/docs/moonscript/<br>
+https://aur.archlinux.org/packages/moonscript/<br>
+https://stackshare.io/moonscript<br>
+https://www.codementor.io/moonscript-experts<br>
+https://melpa.org/#/moonscript<br>
+<br>
+Other Tips / Hacks - <br>
+https://leafo.net/guides/moonscript-classes.html<br>
+https://leafo.net/lapis/reference/moon_getting_started.html<br>
+http://mahilinuxtips.blogspot.com/2014/10/luarocks-and-moonscript-installation.html<br>
+https://stackshare.io/stackups/html5-vs-moonscript<br>
+https://love2d.org/forums/viewtopic.php?t=3515&start=10
+<a href="https://moonscript.org/images/logo.png">
+  <img align="center" src="https://moonscript.org/images/logo.png" width="500" height="500"/>
+</a>
+<br><br>
+</details>
+
+<details>
 <summary>Nginx</summary>
 <br>Category/Type - <br> Web server <br> 
 <br>Official Documentation - <br> https://nginx.org/en/docs/ <br>
