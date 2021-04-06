@@ -363,6 +363,44 @@ https://hackerthemes.com/bootstrap-cheatsheet/<br>
 </details>
 
 <details>
+<summary>Blockly</summary>
+<br>Category/Type - <br>Software <br>
+<br>Official Documentation - <br>https://developers.google.com/blockly/guides/get-started/web<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=lPVJjQbEeN0<br>
+https://www.youtube.com/watch?v=pXSbTQEdPBg<br>
+https://www.youtube.com/watch?v=zb-Y4vM2r0c<br>
+https://www.youtube.com/watch?v=XpfN_rN9gZM<br>
+https://www.youtube.com/watch?v=s2_xaEvcVI0<br>
+https://www.youtube.com/watch?v=1pkpc2sNOAM<br>
+<br>Useful Websites - <br>
+https://www.ionos.com/digitalguide/websites/web-development/blockly-basics-explained/<br>
+https://opensource.google/projects/blockly<br>
+https://www.learneroo.com/modules/139/nodes/727<br>
+https://blocklycodelabs.dev/codelabs/getting-started/index.html#0<br>
+https://developers.google.com/blockly/<br>
+https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1<br>
+<br>Dedicated Github page - 
+<br>https://github.com/samelhusseini/awesome-blockly<br>
+https://github.com/topics/blockly<br>
+https://github.com/google/blockly<br>
+https://github.com/OttoDIY/blockly<br>
+https://github.com/carloslfu/blocklify<br>
+<br>Best Courses - <br>
+https://www.ez-robot.com/Tutorials/Lesson/75<br>
+https://www.learneroo.com/modules/139/nodes/727<br>
+https://www.codeavengers.com/activities/programming/blockly-environment<br>
+https://www.anubhavtrainings.com/google-blockly-scratch-training<br>
+https://evotrainingsolutions.com/courses/google-blocky-courses-in-gurgaon/<br>
+<br>Other Tips / Hacks - <br>
+https://ieeexplore.ieee.org/document/8120404<br>
+http://google.github.io/blockly/<br>
+https://www.semanticscholar.org/paper/Tips-for-creating-a-block-language-with-blockly-Pasternak-Fenichel/16b90d7041f94a690b2aa82165da0564a6372ee2<br>
+https://neil.fraser.name/blockly/about/faq<br>
+<br><br>
+</details>
+
+<details>
 <summary>C#</summary>
 <br>Category/Type - <br> Programming language <br>
 <br>Official Documentation - <br> https://docs.microsoft.com/en-us/dotnet/csharp/ <br> 
