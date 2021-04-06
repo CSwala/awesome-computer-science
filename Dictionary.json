@@ -2568,8 +2568,38 @@
 		"Tips2": "https://docs.saltproject.io/en/latest/topics/hardening.html",
 		"Tips3": "https://www.linode.com/docs/guides/beginners-guide-to-salt/"
 	},
+
+
+	{	"Title" : "SASS",
+		"Tag": "Stylesheet Language",
+		"Documentation" : "https://sass-lang.com/documentation",
+		"YT1 " : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+		"YT2 " :"https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q",
+		"YT3 " :"https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg",
+		"YT4 " :"https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA",
+		"Website1": "https://www.reddit.com/r/Sass/",
+		"Website2": "https://sass-lang.com/",
+		"Website3": "https://www.w3schools.com/sass/",
+		"Dedicated GH page1" : "https://github.com/Famolus/awesome-sass",
+		"Dedicated GH page2" : "https://github.com/colourgarden/awesome-scss",
+		"Dedicated GH page3" : "https://github.com/KittyGiraudel/awesome-sass",
+		"Course1" : "https://www.udemy.com/course/advanced-css-and-sass/?ranMID=39197&ranEAID=0F1O0otUXQc&ranSiteID=0F1O0otUXQc-jTdQOFl8KiFYCYCQz7pCwA&LSNPUBID=0F1O0otUXQc&utm_source=aff-campaign&utm_medium=udemyads",
+		"Course2" : "https://www.eduonix.com/sass-the-complete-sass-course-css-preprocessor",
+		"Course3" : "https://www.udemy.com/course/sasscourse/?ranMID=39197&ranEAID=0F1O0otUXQc&ranSiteID=0F1O0otUXQc-JlJDpPcc5MustS1VC4wTaQ&LSNPUBID=0F1O0otUXQc&utm_source=aff-campaign&utm_medium=udemyads",
+		"Course4" : "https://www.educative.io/courses/sass-for-css?affiliate_id=5088579051061248",
+		"Course5" : "https://www.udemy.com/course/learn-sass/?ranMID=39197&ranEAID=0F1O0otUXQc&ranSiteID=0F1O0otUXQc-ShkYSbSNH9Pa854haaGUrA&LSNPUBID=0F1O0otUXQc&utm_source=aff-campaign&utm_medium=udemyads",
+		"Tips1" : "https://css-tricks.com/sass-techniques-from-the-trenches/",
+		"Tips2" : "https://www.telerik.com/blogs/10-time-saving-css-tips-i-learned-the-hard-way-when-using-sass",
+		"Tips3" : "https://www.webtips.dev/7-tips-that-will-help-you-get-the-best-out-of-sass",
+		"Image1":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" 
+	
+		},
+	
+	{	"Title" : "Scala",
+
 	{
 		"Title": "Scala",
+
 		"Tag": "Programming language ",
 		"Documentation": "https://docs.scala-lang.org",
 		"YT1": "https://www.youtube.com/user/javaboynavin",
