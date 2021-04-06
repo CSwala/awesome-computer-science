@@ -607,6 +607,20 @@ https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/<br>
  https://www.facebook.com/crytek/posts/get-tips-tricks-and-a-tutorial-about-how-to-make-particle-effects-with-cryengine/10160719114920287/ <br>
  <br>
  </details>
+<details>
+<summary>CSS</summary>
+<br>Category/Type - <br>Stylesheet Language<br>
+<br>Official Documentation - <br>https://developer.mozilla.org/en-US/docs/Web/CSS<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw<br>https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ<br>https://www.youtube.com/user/TechGuyWeb<br>https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ<br>
+<br>Useful Websites - <br>https://www.reddit.com/r/css/<br>https://css-tricks.com/<br>https://infinite.education/expertise/CSS_Guru<br>
+<br>Dedicated Github page - <br>https://github.com/troxler/awesome-css-frameworks<br>https://github.com/uhub/awesome-css<br>https://github.com/awesome-css-group/awesome-css<br>
+<br>Best Courses - <br>https://www.udemy.com/course/advanced-css-and-sass/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-FuNopgIHFGHsz8.ohvhVNA&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads<br>https://www.coursera.org/learn/responsivedesign?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-LdUavV5umwTZsMq8m97MGQ&siteID=JVFxdTr9V80-LdUavV5umwTZsMq8m97MGQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80<br>https://www.pluralsight.com/courses/responsive-browser-web-page-design-html-css-2262?clickid=wg8X-HRG8xyLUHQwUx0Mo3QHUkESUbwm53o2R80&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius<br>https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-kEhiWlWWeJ.dJS6fnNgupw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads<br>http://mrbool.com/course/cascading-style-sheets-css-css3/365<br>
+<br>Other Tips / Hacks - <br>https://www.freecodecamp.org/news/follow-these-steps-to-become-a-css-superstar-837cd6cb9b1a/<br>https://dev.to/imm9o/i-built-my-own-css-curriculum-to-master-it-2ec2<br>https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-knowledge-in-24-hours/<br><br>
+<a href="https://www.w3schools.com/whatis/img_frontend.jpg">
+  <img align="center" src="https://www.w3schools.com/whatis/img_frontend.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 
 <details>
 <summary> CUDA </summary>
