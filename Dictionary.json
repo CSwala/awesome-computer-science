@@ -1987,6 +1987,8 @@
 			"Dedicated GH page1" : "https://github.com/quozd/awesome-dotnet",
 			"Dedicated GH page2" : "https://github.com/thangchung/awesome-dotnet-core ",
 			"Dedicated GH page3" : "https://github.com/NajiElKotob/Awesome-DotNET",
+			"Dedicated GH page4" : "https://github.com/mehdihadeli/awesome-dotnet-core-education",
+			"Dedicated GH page5" : "https://github.com/adamsitnik/awesome-dot-net-performance",
 			"Course1" : "https://www.edureka.co/microsoft-dotnet-framework-self-paced",
 			"Course2" : "https://www.udemy.com/course/getting-started-with-net-core-clean-architecture/",
 			"Course3" : "https://www.edx.org/learn/.net",
@@ -2653,8 +2655,6 @@
 	
 		},
 	
-	{	"Title" : "Scala",
-
 	{
 		"Title": "Scala",
 

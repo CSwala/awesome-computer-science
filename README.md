@@ -1800,6 +1800,8 @@ https://love2d.org/forums/viewtopic.php?t=3515&start=10
 <br>Best YouTube creators - <br>https://www.youtube.com/user/shanselman<br>https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ<br>https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw<br>https://www.youtube.com/user/TechGuyWeb<br>
 <br>Useful Websites - <br>https://www.reddit.com/r/dotnetcore/<br>https://dotnet.microsoft.com/languages<br>https://www.geeksforgeeks.org/introduction-to-net-framework/<br>
 <br>Dedicated Github page - <br>https://github.com/quozd/awesome-dotnet<br> https://github.com/thangchung/awesome-dotnet-core<br>https://github.com/NajiElKotob/Awesome-DotNET<br>
+<br>https://github.com/mehdihadeli/awesome-dotnet-core-education<br>
+<br>https://github.com/adamsitnik/awesome-dot-net-performance<br>
 <br>Best Courses - <br>https://www.edureka.co/microsoft-dotnet-framework-self-paced<br>https://www.udemy.com/course/getting-started-with-net-core-clean-architecture/<br>https://www.edx.org/learn/.net<br>https://www.simplilearn.com/dot-net-programming-certification-training-course<br>https://www.learningtree.com/training-directory/net-visual-studio-training/<br>
 <br>Other Tips / Hacks - <br>https://www.sarvgyan.com/articles/ugc-net-preparation-tips<br>https://scoop.eduncle.com/tips-to-crack-ugc-net-exam<br>https://www.toptal.com/dot-net/tips-and-practices<br><br>
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png">
