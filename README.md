@@ -2984,6 +2984,60 @@ https://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/ <br>
 <a href="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp">
   <img align="center" src="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp" width="800" height="400"/>
   </details>
+
+ <details>  
+<summary>Zig</summary>
+<br>
+Category/Type - <br>Programming Language<br>
+<br>
+Official Documentation - <br>
+https://ziglang.org/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Xu5U_UCvJG4 <br>
+https://www.youtube.com/watch?v=43X9ia-qpds <br>
+https://www.youtube.com/watch?v=pacsngNYXI0 <br>
+https://www.youtube.com/watch?v=ZvskDoP09Ao <br>
+https://www.youtube.com/watch?v=Gv2I7qTux7g <br>
+https://www.youtube.com/watch?v=O4UYT-brgrc <br>
+<br>
+Useful Websites -
+<br>
+https://medium.com/swlh/zig-the-introduction-dcd173a86975 <br>
+https://www.reddit.com/r/Zig/comments/bws2y2/a_project_based_zig_tutorial/<br>
+https://lwn.net/Articles/833400/ <br>
+https://dev.to/fabioarnold/setup-zig-for-gamedev-2bmf <br>
+https://lobste.rs/s/3rgahq/introduction_zig_programming_language<br>
+http://zoom.z3950.org/misc/tutorial/index.html<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/nrdmn/awesome-zig <br>
+https://github.com/ziglang/zig<br>
+https://github.com/trending/zig<br>
+https://github.com.cnpmjs.org/topics/ziglang<br>
+https://github.com/ziglang <br>
+https://github.com/ratfactor/ziglings <br>
+<br>
+Best Courses - <br>
+https://devtalk.com/zig<br>
+https://sudonull.com/post/3683-Zig-programming-language<br>
+https://www.macprovideo.com/tutorials/zig <br>
+https://www.jigsawacademy.com/ <br>
+https://ziglang.org/learn/<br>
+https://www.reddit.com/r/programming/comments/bjwhm5/introduction_the_zig_programming_language/<br>
+<br>
+Other Tips / Hacks - <br>
+https://news.ycombinator.com/item?id=17184407 <br>
+https://jaxenter.com/zig-language-kelley-interview-138517.html<br>
+https://zigforum.org/ <br>
+https://www.gingerbill.org/article/2019/05/13/a-reply-to-the-road-to-zig/ <br>
+https://www.reddit.com/r/programming/comments/lj7t10/ziglings_learn_the_zig_programming_language_by/<br>
+<br>
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fziglang%2Fzig&psig=AOvVaw3PSSE9wkSatlQ0LoIdspSO&ust=1617889355562000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODc5NSh7O8CFQAAAAAdAAAAABAD">
+  <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fziglang%2Fzig&psig=AOvVaw3PSSE9wkSatlQ0LoIdspSO&ust=1617889355562000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODc5NSh7O8CFQAAAAAdAAAAABAD" width="900" height="500"/>
+</a>
+<br><br><br>
+</details>
   
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
