@@ -358,10 +358,7 @@ https://www.upguard.com/blog/15-ways-to-secure-apache-tomcat-8 <br>
 https://book.hacktricks.xyz/pentesting/pentesting-web/tomcat <br>
 
 <br>
-<a href="https://en.wikipedia.org/wiki/Apache_Tomcat#/media/File:Tomcat-logo.svg">
-  <img align="center" src="https://en.wikipedia.org/wiki/Apache_Tomcat#/media/File:Tomcat-logo.svg" width="900" height="500"/>
-</a>
-<br><br><br>
+
 </details>
 
 <details>
