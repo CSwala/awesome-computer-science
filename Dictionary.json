@@ -1973,6 +1973,34 @@
 			"Image1": "https://moonscript.org/images/logo.png"
 			},
 		
+
+		{	"Title" : ".NET",
+			"Tag": "Programming Language",
+			"Documentation" : "https://docs.microsoft.com/en-us/dotnet/",
+			"YT1 " : "https://www.youtube.com/user/shanselman",
+			"YT2 " :"https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+			"YT3 " :"https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw",
+			"YT4 " :"https://www.youtube.com/user/TechGuyWeb",
+			"Website1": "https://www.reddit.com/r/dotnetcore/",
+			"Website2": "https://dotnet.microsoft.com/languages ",
+			"Website3": "https://www.geeksforgeeks.org/introduction-to-net-framework/",
+			"Dedicated GH page1" : "https://github.com/quozd/awesome-dotnet",
+			"Dedicated GH page2" : "https://github.com/thangchung/awesome-dotnet-core ",
+			"Dedicated GH page3" : "https://github.com/NajiElKotob/Awesome-DotNET",
+			"Dedicated GH page4" : "https://github.com/mehdihadeli/awesome-dotnet-core-education",
+			"Dedicated GH page5" : "https://github.com/adamsitnik/awesome-dot-net-performance",
+			"Course1" : "https://www.edureka.co/microsoft-dotnet-framework-self-paced",
+			"Course2" : "https://www.udemy.com/course/getting-started-with-net-core-clean-architecture/",
+			"Course3" : "https://www.edx.org/learn/.net",
+			"Course4" : "https://www.simplilearn.com/dot-net-programming-certification-training-course",
+			"Course5" : "https://www.learningtree.com/training-directory/net-visual-studio-training/",
+			"Tips1" : "https://www.sarvgyan.com/articles/ugc-net-preparation-tips",
+			"Tips2" : "https://scoop.eduncle.com/tips-to-crack-ugc-net-exam",
+			"Tips3" : "https://www.toptal.com/dot-net/tips-and-practices",
+			"Image1":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png" 
+			},
+
+
 		{	"Title" : "Next.js",
 			"Tag": "React front-end development web framework",
 			"Documentation" : "https://nextjs.org/docs",
@@ -2004,6 +2032,7 @@
 			"Tips5" : "https://vercel.com/blog/10-next-js-tips-you-might-not-know",
 			"Tips6" : "https://www.youtube.com/watch?v=R59e1Vl5lO8"
 		},
+
 		{	"Title" : "Nginx",
 			"Tag": "Web server",
 			"Documentation" : "https://nginx.org/en/docs/",
@@ -2625,7 +2654,6 @@
 		"Image1":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" 
 	
 		},
-	
 
 	{
 		"Title": "Scala",
