@@ -2490,6 +2490,46 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 </details> 
 
 <details>
+<summary>React Native</summary>
+<br>
+Category/Type - <br>
+Framework <br>
+<br>
+Official Documentation - <br>
+https://reactnative.dev/docs/getting-started <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=0-S5a0eXPoc <br>
+https://www.youtube.com/playlist?list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h <br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ <br>
+https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ <br>
+https://www.youtube.com/watch?v=qSRrxpdMpVc <br>
+<br>
+Useful Websites- <br>
+https://www.tutorialspoint.com/react_native/index.htm <br>
+https://www.javatpoint.com/react-native-tutorial <br>
+https://www.simplilearn.com/react-native-tutorial-article <br>
+https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/ <br>
+https://www.toptal.com/react-native/cold-dive-into-react-native-a-beginners-tutorial <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/facebook/react-native <br>
+https://github.com/jondot/awesome-react-native <br>
+https://github.com/react-native-community/upgrade-helper <br>
+<br>
+Best Courses- <br>
+https://www.udemy.com/course/the-complete-react-native-and-redux-course/ <br>
+https://www.udemy.com/course/react-native-the-practical-guide/ <br>
+https://www.udemy.com/course/react-native-advanced/ <br>
+<br>
+Other Tips/Hacks- <br>
+https://www.ideamotive.co/blog/react-and-react-native-tips-and-tricks-for-fly-developers <br>
+https://medium.com/mop-developers/50-react-native-tips-part-1-2-5cb12803228b <br>
+https://developer.ibm.com/recipes/tutorials/react-native-tips-and-tricks/ <br>
+<br>
+</details>
+
+<details>
  <summary>Redis</summary>
  <br>Category/Type - <br> In-memory key–value database <br>
  <br>Official Documentation - <br> https://redis.io/documentation <br>
