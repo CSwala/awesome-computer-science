@@ -533,7 +533,7 @@ https://www.youtube.com/playlist?list=PL11cZfNdwNyOPa_kLgCX0wDW3O00Sjydx <br> ht
  https://newcontext.com/tips-for-using-chef-zero-audit-mode-and-packer/ <br>
  <br>
  </details>
- 
+
  <details>
 <summary>Cinema 4D</summary>
 <br>Category/Type - <br>Software<br>
@@ -1673,6 +1673,44 @@ https://www.codementor.io/lisp-experts<br>
   <img align="center" src="https://i2.wp.com/www.ossblog.org/wp-content/uploads/2017/06/Lua-Montage.png?fit=564%2C245&ssl=1" width="800" height="400"/>
 </a>
 <br><br><br>
+</details>
+
+<details>
+<summary>Machine Learning</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Azure Documentation - <br>
+https://docs.microsoft.com/en-us/azure/machine-learning/ <br>
+AWS Documentation - <br>
+https://docs.aws.amazon.com/machine-learning/index.html <br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN<br>
+https://www.youtube.com/watch?v=GwIo3gDZCVQ<br>
+https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy<br>
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v<br>
+<br>
+Useful Websites - <br>
+https://www.tutorialspoint.com/machine_learning_with_python/index.htm<br>
+https://www.mygreatlearning.com/blog/machine-learning-tutorial/<br>
+https://www.kaggle.com/learn/intro-to-machine-learning<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/learn/machine-learning<br>
+https://course18.fast.ai/ml<br>
+https://www.coursera.org/learn/machine-learning-with-python<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/collections/machine-learning<br>
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials<br>
+https://github.com/josephmisiti/awesome-machine-learning<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.freecodecamp.org/news/how-to-get-started-with-machine-learning-in-less-than-10-minutes-b5ea68462d23/<br>
+https://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-machine-learning<br>
+https://ml-cheatsheet.readthedocs.io/en/latest/<br>
 </details>
 
 <details>
@@ -3023,7 +3061,7 @@ https://betterprogramming.pub/10-tips-and-tricks-to-make-you-a-better-vue-js-dev
 </a>
 <br><br><br>
 </details>
-  
+
 <details>  
 <summary>WordPress</summary>
 <br>
@@ -3150,7 +3188,7 @@ https://www.reddit.com/r/programming/comments/lj7t10/ziglings_learn_the_zig_prog
 </a>
 <br><br><br>
 </details>
-  
+
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
