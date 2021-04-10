@@ -2245,6 +2245,55 @@ https://www.udemy.com/course/learn-puppet/ <br> https://www.udemy.com/course/lea
 </details>
 
 <details>
+<summary>Purescript</summary>
+<br>
+Category/Type - <br>
+Functional Programming Language <br>
+<br>
+Official Documentation - <br>
+https://www.purescript.org/ <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=D0rSuFwJSpw <br>
+https://www.youtube.com/watch?v=5AtyWgQ3vv0 <br>
+https://www.youtube.com/watch?v=G-pi6xeXMZs <br>
+https://www.youtube.com/watch?v=He7gQ56vl4M <br>
+https://www.youtube.com/watch?v=yIlDBPiMb0o <br>
+https://www.youtube.com/watch?v=AE4ToMtTmz4 <br>
+<br>
+Useful Websites- <br>
+https://medium.com/@KevinBGreene/functional-programming-for-the-web-getting-started-with-purescript-7387f8888318<br>
+https://leanpub.com/purescript/read <br>
+https://levelup.gitconnected.com/building-a-moving-box-with-purescript-ae1a490429ab<br>
+https://learnxinyminutes.com/docs/purescript/<br>
+https://egghead.io/courses/functional-programming-concepts-in-purescript<br>
+https://hackernoon.com/make-the-leap-from-javascript-to-purescript-5b35b1c06fef<br>
+<br>
+Dedicated Github page- <br>
+https://github.com/passy/awesome-purescript<br>
+https://github.com/jackypan1989/awesome-purescript <br>
+https://github.com/PerlDancer/Dancer2 <br>
+https://github.com/purescript/purescript<br>
+https://github.com/JordanMartinez/purescript-jordans-reference<br>
+https://github.com/purescript-contrib/setup-purescript<br>
+<br>
+Best Courses- <br>
+https://qvault.io/javascript/free-functional-programming-course-released-javascript-and-purescript/ <br>
+https://morioh.com/p/568b2fa8777b <br>
+https://mmhaskell.com/purescript-3 <br>
+https://functionalconf.com/proposal.html?id=4921 <br>
+https://www.linuxlinks.com/excellent-free-tutorials-learn-purescript/<br>
+<br>
+Other Tips/Hacks- <br>
+https://medium.com/lambda-factory/purescript-on-azure-functions-e75d64b22165<br>
+https://discourse.purescript.org/t/how-to-learn-purescript-in-2020/1665 <br>
+https://exercism.io/tracks/purescript<br>
+https://blog.functorial.com/posts/2017-08-09-Why-You-Should-Use-PureScript.html<br>
+https://thomashoneyman.com/articles/replace-react-components-with-purescript/ <br>
+<br>
+</details>
+
+<details>
 <summary>Python</summary>
 <br>Category/Type - <br>
 Open Source Programming Language<br>
