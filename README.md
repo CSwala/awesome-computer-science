@@ -2400,6 +2400,10 @@ https://www.youtube.com/playlist?list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h <br>
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ <br>
 https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ <br>
 https://www.youtube.com/watch?v=qSRrxpdMpVc <br>
+https://www.youtube.com/playlist?list=PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f <br>
+https://www.youtube.com/watch?v=npe3Wf4tpSg <br>
+https://www.youtube.com/watch?v=Hf4MJH0jDb4 <br>
+https://www.youtube.com/watch?v=iQ_0Fd_N3Mk <br>
 <br>
 Useful Websites- <br>
 https://www.tutorialspoint.com/react_native/index.htm <br>
@@ -2407,21 +2411,31 @@ https://www.javatpoint.com/react-native-tutorial <br>
 https://www.simplilearn.com/react-native-tutorial-article <br>
 https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/ <br>
 https://www.toptal.com/react-native/cold-dive-into-react-native-a-beginners-tutorial <br>
+https://www.raywenderlich.com/485-react-native-tutorial-building-ios-apps-with-javascript <br>
+https://www.raywenderlich.com/247-react-native-tutorial-building-android-apps-with-javascript <br>
+https://www.geeksforgeeks.org/introduction-react-native/ <br>
 <br>
 Dedicated Github page- <br>
 https://github.com/facebook/react-native <br>
 https://github.com/jondot/awesome-react-native <br>
 https://github.com/react-native-community/upgrade-helper <br>
+https://github.com/necolas/react-native-web <br>
+https://github.com/Codebrahma/React-Native-Restaurant-App <br>
 <br>
 Best Courses- <br>
 https://www.udemy.com/course/the-complete-react-native-and-redux-course/ <br>
 https://www.udemy.com/course/react-native-the-practical-guide/ <br>
 https://www.udemy.com/course/react-native-advanced/ <br>
+https://www.linkedin.com/learning/react-native-essential-training <br>
+https://www.linkedin.com/learning/learning-react-native <br>
 <br>
 Other Tips/Hacks- <br>
 https://www.ideamotive.co/blog/react-and-react-native-tips-and-tricks-for-fly-developers <br>
 https://medium.com/mop-developers/50-react-native-tips-part-1-2-5cb12803228b <br>
 https://developer.ibm.com/recipes/tutorials/react-native-tips-and-tricks/ <br>
+https://www.albertgao.xyz/2018/05/30/24-tips-for-react-native-you-probably-want-to-know/ <br>
+https://medium.com/dailyjs/11-mistakes-ive-made-during-react-native-redux-app-development-8544e2be9a9 <br>
+https://willowtreeapps.com/ideas/react-native-tips-and-tricks-styling-in-js <br>
 <br>
 </details>
 
