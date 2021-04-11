@@ -2638,6 +2638,7 @@
 		"Tips3": "https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks "
 	},
 	{
+<<<<<<< HEAD
 		"Title": "React Native",
 		"Tag": "Framework",
 		"Documentation": "https://reactnative.dev/docs/getting-started",
@@ -2662,6 +2663,47 @@
 		"Tips3": "https://developer.ibm.com/recipes/tutorials/react-native-tips-and-tricks/"
 	},
 	{
+||||||| 7f28c0b
+=======
+		"Title": "React Native",
+		"Tag": "Framework",
+		"Documentation": "https://reactnative.dev/docs/getting-started",
+		"YT1": "https://www.youtube.com/watch?v=0-S5a0eXPoc",
+		"YT2": "https://www.youtube.com/playlist?list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h",
+		"YT3": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ",
+		"YT4": "https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ",
+		"YT5": "https://www.youtube.com/watch?v=qSRrxpdMpVc",
+		"YT6": "https://www.youtube.com/playlist?list=PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f",
+		"YT7": "https://www.youtube.com/watch?v=npe3Wf4tpSg",
+		"YT8": "https://www.youtube.com/watch?v=Hf4MJH0jDb4",
+		"YT9": "https://www.youtube.com/watch?v=iQ_0Fd_N3Mk",
+		"Website1": "https://www.tutorialspoint.com/react_native/index.htm",
+		"Website2": "https://www.javatpoint.com/react-native-tutorial",
+		"Website3": "https://www.simplilearn.com/react-native-tutorial-article",
+		"Website4": "https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/",
+		"Website5": "https://www.toptal.com/react-native/cold-dive-into-react-native-a-beginners-tutorial",
+		"Website6": "https://www.raywenderlich.com/485-react-native-tutorial-building-ios-apps-with-javascript",
+		"Website7": "https://www.raywenderlich.com/247-react-native-tutorial-building-android-apps-with-javascript",
+		"Website8": "https://www.geeksforgeeks.org/introduction-react-native/",
+		"Dedicated GH page1": "https://github.com/facebook/react-native",
+		"Dedicated GH page2": "https://github.com/jondot/awesome-react-native",
+		"Dedicated GH page3": "https://github.com/react-native-community/upgrade-helper",
+		"Dedicated GH page4": "https://github.com/necolas/react-native-web",
+		"Dedicated GH page5": "https://github.com/Codebrahma/React-Native-Restaurant-App",
+		"Course1": "https://www.udemy.com/course/the-complete-react-native-and-redux-course/",
+		"Course2": "https://www.udemy.com/course/react-native-the-practical-guide/",
+		"Course3": "https://www.udemy.com/course/react-native-advanced/",
+		"Course4": "https://www.linkedin.com/learning/react-native-essential-training",
+		"Course5": "https://www.linkedin.com/learning/learning-react-native",
+		"Tips1": "https://www.ideamotive.co/blog/react-and-react-native-tips-and-tricks-for-fly-developers",
+		"Tips2": "https://medium.com/mop-developers/50-react-native-tips-part-1-2-5cb12803228b",
+		"Tips3": "https://developer.ibm.com/recipes/tutorials/react-native-tips-and-tricks/",
+		"Tips4": "https://www.albertgao.xyz/2018/05/30/24-tips-for-react-native-you-probably-want-to-know/",
+		"Tips5": "https://medium.com/dailyjs/11-mistakes-ive-made-during-react-native-redux-app-development-8544e2be9a9",
+		"Tips6": "https://willowtreeapps.com/ideas/react-native-tips-and-tricks-styling-in-js"
+	},
+	{
+>>>>>>> react_native
 		"Title": "Redis",
 		"Tag": "In-memory key–value database",
 		"Documentation": "https://redis.io/documentation",
