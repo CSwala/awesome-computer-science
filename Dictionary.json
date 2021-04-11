@@ -1827,6 +1827,27 @@
 		"Image1": "https://i2.wp.com/www.ossblog.org/wp-content/uploads/2017/06/Lua-Montage.png?fit=564%2C245&ssl=1"
 	},
 	{
+    "Title": "Machine Learning",
+    "Tag": "Development",
+    "Documentation": "https://docs.microsoft.com/en-us/azure/machine-learning/",
+    "YT1": "https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN",
+    "YT2": "https://www.youtube.com/watch?v=GwIo3gDZCVQ",
+    "YT3": "https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy",
+    "YT4": "https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v",
+    "Website1": "https://www.tutorialspoint.com/machine_learning_with_python/index.htm",
+    "Website2": "https://www.mygreatlearning.com/blog/machine-learning-tutorial/",
+    "Website3": "https://www.kaggle.com/learn/intro-to-machine-learning",
+    "Dedicated GH page1": "https://github.com/collections/machine-learning",
+    "Dedicated GH page2": "https://github.com/ujjwalkarn/Machine-Learning-Tutorials",
+    "Dedicated GH page3": "https://github.com/josephmisiti/awesome-machine-learning",
+    "Course1": "https://www.coursera.org/learn/machine-learning",
+    "Course2": "https://course18.fast.ai/ml",
+    "Course3": "https://www.coursera.org/learn/machine-learning-with-python",
+    "Tips1": "https://www.freecodecamp.org/news/how-to-get-started-with-machine-learning-in-less-than-10-minutes-b5ea68462d23/",
+    "Tips2": "https://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-machine-learning",
+    "Tips3": "https://ml-cheatsheet.readthedocs.io/en/latest/"
+  },
+	{
 		"Title": "Matplotlib",
 		"Tag": "Python Library",
 		"Documentation": "https://matplotlib.org/stable/contents.html",
