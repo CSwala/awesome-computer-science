@@ -1667,6 +1667,17 @@ https://blog.neuvector.com/article/hack-kubernetes-container <br>
 </details>
 
 <details>
+<summary>Linux</summary>
+<br>Category/Type - <br>Operating System <br>
+<br>Official Documentation - <br> https://www.linux.org/ <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/watch?v=V1y-mbWM3B8 <br> https://www.youtube.com/watch?v=_tCY-c-sPZc <br> https://www.youtube.com/watch?v=4ZHvZge1Lsw <br> https://www.youtube.com/watch?v=Wgi-OfbP2Gw <br>
+<br>Useful Websites - <br> https://www.w3schools.in/operating-system-tutorial/linux-operating-system/ <br> https://www.javatpoint.com/linux-tutorial <br> https://www.tutorialspoint.com/unix/index.html <br>
+<br>Dedicated Github page - <br> https://github.com/torvalds/linux <br> https://github.com/raspberrypi/linux <br> https://github.com/digi-embedded/linux <br> https://github.com/digi-embedded/linux <br> https://github.com/gregkh/linux <br>
+<br>Best Courses - <br> https://www.udemy.com/course/learn-linux-in-5-days/ <br> https://www.udemy.com/course/linux-command-line-volume1/ <br>
+<br><br><br>
+</details>
+
+<details>
 <summary>Lisp</summary>
 <br>Category/Type - <br>
 family of programming languages<br>
