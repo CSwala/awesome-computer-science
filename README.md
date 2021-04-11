@@ -1751,8 +1751,6 @@ Development<br>
 <br>
 Azure Documentation - <br>
 https://docs.microsoft.com/en-us/azure/machine-learning/ <br>
-AWS Documentation - <br>
-https://docs.aws.amazon.com/machine-learning/index.html <br>
 <br>
 Best Youtube creators - <br>
 https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN<br>
@@ -1765,15 +1763,15 @@ https://www.tutorialspoint.com/machine_learning_with_python/index.htm<br>
 https://www.mygreatlearning.com/blog/machine-learning-tutorial/<br>
 https://www.kaggle.com/learn/intro-to-machine-learning<br>
 <br>
-Best Courses - <br>
-https://www.coursera.org/learn/machine-learning<br>
-https://course18.fast.ai/ml<br>
-https://www.coursera.org/learn/machine-learning-with-python<br>
-<br>
 Dedicated Github page - <br>
 https://github.com/collections/machine-learning<br>
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials<br>
 https://github.com/josephmisiti/awesome-machine-learning<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/learn/machine-learning<br>
+https://course18.fast.ai/ml<br>
+https://www.coursera.org/learn/machine-learning-with-python<br>
 <br>
 Other Tips/Hacks - <br>
 https://www.freecodecamp.org/news/how-to-get-started-with-machine-learning-in-less-than-10-minutes-b5ea68462d23/<br>
