@@ -1737,6 +1737,25 @@
 		"Image1": "https://lh5.googleusercontent.com/5xrA7l184zC-mii6ESokTP2dUB7rIlNSkpYOLtjZdRIV17uR_HmotmktWhI7y3HhdJHT6ByqdXb-z9DQKW39jUxx5yg9eTVqAeimO0s7H5vtZThb84NQzpZIbG2w4h8w8ocfnkC2"
 	},
 	{
+		"Title": "Linux",
+		"Tag": " Operating System",
+		"Documentation": " https://www.linux.org/ ",
+		"YT1 ": "https://www.youtube.com/watch?v=V1y-mbWM3B8 ",
+		"YT2 ": "https://www.youtube.com/watch?v=_tCY-c-sPZc ",
+		"YT3 ": "https://www.youtube.com/watch?v=4ZHvZge1Lsw ",
+		"YT4 ": "https://www.youtube.com/watch?v=Wgi-OfbP2Gw ",
+		"Website1": "https://www.w3schools.in/operating-system-tutorial/linux-operating-system/ ",
+		"Website2": "https://www.javatpoint.com/linux-tutorial ",
+		"Website3": "https://www.tutorialspoint.com/unix/index.html  ",
+		"Dedicated GH page1": "https://github.com/torvalds/linux   ",
+		"Dedicated GH page2": "https://github.com/raspberrypi/linux   ",
+		"Dedicated GH page3": "https://github.com/digi-embedded/linux ",
+                "Dedicated GH page4": "https://github.com/gregkh/linux ",
+		"Course1": "https://www.udemy.com/course/learn-linux-in-5-days/ ",
+		"Course2": "https://www.udemy.com/course/linux-command-line-volume1/ ",
+		
+	},	
+	{
 		"Title": "Lisp",
 		"Tag": "Family of programming languages",
 		"Documentation": "https://common-lisp.net/documentation",
