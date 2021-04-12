@@ -3104,6 +3104,7 @@ https://stackoverflow.com/questions/36111664/how-do-you-publish-a-typescript-web
   <img align="center" src="https://miro.medium.com/max/1632/1*mn6bOs7s6Qbao15PMNRyOA.png" width="500" height="500"/>
 </a>
 <br><br><br>
+</details>
 
 
 <details>
