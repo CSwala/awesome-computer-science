@@ -2489,6 +2489,7 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 <br><br>
 </details> 
 
+<details>
 <summary>React Native</summary>
 <br>
 Category/Type - <br>
@@ -3252,6 +3253,7 @@ https://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/ <br>
 <br>Other Tips / Hacks - <br>https://www.zbrushguides.com/5-zbrush-tips-i-learned-last-year/<br>http://docs.pixologic.com/user-guide/tips-tricks/<br>https://in.pinterest.com/r_vann/zbrush-tips-tricks/<br>https://www.creativebloq.com/features/15-tips-to-master-zbrush<br>
 <a href="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp">
   <img align="center" src="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp" width="800" height="400"/>
+</a>
   </details>
 
  <details>  
