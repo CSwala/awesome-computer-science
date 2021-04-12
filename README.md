@@ -318,6 +318,50 @@ https://sergeytihon.com/2015/08/18/real-time-analytics-with-apache-storm-now-in-
 </details>
 
 <details>
+<summary>Apache Tomcat</summary>
+<br>
+Category/Type - <br>Web Server <br>
+<br>
+Official Documentation - <br>
+http://tomcat.apache.org/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=u_InEBgRVcc <br>
+https://www.youtube.com/watch?v=QYBHZ9z9zsI <br>
+https://www.youtube.com/watch?v=oqtdlbFGCNY <br>
+https://www.youtube.com/watch?v=FVyX8WA8Ng4 <br>
+<br>
+Useful Websites -
+<br>
+https://www.tutorialkart.com/apache-tomcat/apache-tomcat-tutorial/ <br>
+https://www.baeldung.com/tomcat <br>
+https://www.guru99.com/apache.html <br>
+
+<br>
+Dedicated Github page - <br>
+https://github.com/apache/tomcat <br>
+https://github.com/docker-library/tomcat <br>
+https://github.com/apache/tomcat-native <br>
+<br>
+Best Courses - <br>
+
+https://www.udemy.com/course/apache-tomcat-for-beginners-and-advanced/ <br>
+https://www.udemy.com/course/the-complete-apache-tomcat-web-server-course/ <br>
+https://www.udemy.com/course/tomcat-9/ <br>
+
+<br>
+Other Tips / Hacks - <br>
+https://www.eginnovations.com/blog/tomcat-performance-tuning/ <br>
+https://www.mulesoft.com/tcat/tomcat-in-production <br>
+https://www.mulesoft.com/tcat/tomcat-in-production <br>
+https://www.upguard.com/blog/15-ways-to-secure-apache-tomcat-8 <br>
+https://book.hacktricks.xyz/pentesting/pentesting-web/tomcat <br>
+
+<br>
+
+</details>
+
+<details>
 <summary>Blender</summary>
 <br>Category/Type - <br>3D modeling and animation program<br>
 <br>Official Documentation - <br>https://docs.blender.org/manual/en/latest/<br>
@@ -363,6 +407,7 @@ https://hackerthemes.com/bootstrap-cheatsheet/<br>
 </details>
 
 <details>
+<<<<<<< HEAD
 <summary>Buildbox</summary>
 <br>Category/Type - <br> Video Game Software <br>
 <br>Official Documentation - <br> 
@@ -403,6 +448,87 @@ https://medium.com/@buildbox/how-to-get-free-game-music-more-buildbox-3f8918d950
 </details>
 
 <details>
+||||||| aaec2bc
+=======
+<summary>Blockly</summary>
+<br>Category/Type - <br>Software <br>
+<br>Official Documentation - <br>https://developers.google.com/blockly/guides/get-started/web<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=lPVJjQbEeN0<br>
+https://www.youtube.com/watch?v=pXSbTQEdPBg<br>
+https://www.youtube.com/watch?v=zb-Y4vM2r0c<br>
+https://www.youtube.com/watch?v=XpfN_rN9gZM<br>
+https://www.youtube.com/watch?v=s2_xaEvcVI0<br>
+https://www.youtube.com/watch?v=1pkpc2sNOAM<br>
+<br>Useful Websites - <br>
+https://www.ionos.com/digitalguide/websites/web-development/blockly-basics-explained/<br>
+https://opensource.google/projects/blockly<br>
+https://www.learneroo.com/modules/139/nodes/727<br>
+https://blocklycodelabs.dev/codelabs/getting-started/index.html#0<br>
+https://developers.google.com/blockly/<br>
+https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1<br>
+<br>Dedicated Github page - 
+<br>https://github.com/samelhusseini/awesome-blockly<br>
+https://github.com/topics/blockly<br>
+https://github.com/google/blockly<br>
+https://github.com/OttoDIY/blockly<br>
+https://github.com/carloslfu/blocklify<br>
+<br>Best Courses - <br>
+https://www.ez-robot.com/Tutorials/Lesson/75<br>
+https://www.learneroo.com/modules/139/nodes/727<br>
+https://www.codeavengers.com/activities/programming/blockly-environment<br>
+https://www.anubhavtrainings.com/google-blockly-scratch-training<br>
+https://evotrainingsolutions.com/courses/google-blocky-courses-in-gurgaon/<br>
+<br>Other Tips / Hacks - <br>
+https://ieeexplore.ieee.org/document/8120404<br>
+http://google.github.io/blockly/<br>
+https://www.semanticscholar.org/paper/Tips-for-creating-a-block-language-with-blockly-Pasternak-Fenichel/16b90d7041f94a690b2aa82165da0564a6372ee2<br>
+https://neil.fraser.name/blockly/about/faq<br>
+<br><br>
+</details>
+
+<details>
+<summary>Buildbox</summary>
+<br>Category/Type - <br> Video Game Software <br>
+<br>Official Documentation - <br> 
+https://www.buildbox.com/help/buildbox-3-manual/getting-started/<br> 
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Q6dPjahX1ts&t=66s<br>
+https://www.youtube.com/watch?v=Jw2fiOzVjDc<br>
+https://www.youtube.com/watch?v=uxLTW7frzl8&t=135s<br>
+https://www.youtube.com/watch?v=9WtEimfknUM&t=17s<br>
+https://www.youtube.com/watch?v=H88fBDIjafc<br>
+https://www.youtube.com/watch?v=H1CfPgFND_Q&list=PL9gYjx_XuNGsFr-3CN_Ub9muEDTFVu9s_<br>
+https://www.youtube.com/watch?v=8u7Gna4t2GQ&t=654s<br>
+<br>Useful Websites - <br>
+https://www.buildbox.com/forum/index.php?threads/an-honest-comparative-review-of-bb-unity-from-a-complete-novice.17162/<br>
+https://www.buildbox.com/tutorials-buildbox3/<br>
+https://www.buildbox.com/12-steps-app-launch-success/<br>
+https://www.buildbox.com/game-dev-101-how-to-finish-your-game/<br>
+https://www.buildbox.com/creating-games-5-things-you-should-never-do/<br>
+https://www.capterra.com/p/158597/Buildbox/#reviews<br>
+<br>Dedicated Github page - <br>
+https://github.com/agramonte/appodeal--buildbox<br>
+https://github.com/PacktPublishing/Buildbox-2x-Game-Development<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/getting-started-with-buildbox-3/<br>
+https://www.udemy.com/course/advanced-mobile-game-design-with-buildbox-swish-x2-action/<br>
+https://www.udemy.com/course/buildbox-2-game-design-tips-tricks/<br>
+<br>Other Tips / Hacks - <br>
+https://medium.com/@buildbox/mobile-game-development-tips-for-success-buildbox-7ed05c043c77<br>
+https://www.buildbox.com/best-practices-for-hyper-casual-game-development/<br>
+https://www.buildbox.com/20-tips-for-awesome-game-design/<br>
+https://www.buildbox.com/what-not-to-do-when-making-games/<br>
+https://medium.com/@buildbox/how-to-get-free-game-music-more-buildbox-3f8918d950d7<br>
+<br>
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDojxbGIRbBd_jb9kL-cizMaWff3ZM1xDEA&usqp=CAU">
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDojxbGIRbBd_jb9kL-cizMaWff3ZM1xDEA&usqp=CAU" width="900" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
+>>>>>>> upstream/develop
 <summary>C#</summary>
 <br>Category/Type - <br> Programming language <br>
 <br>Official Documentation - <br> https://docs.microsoft.com/en-us/dotnet/csharp/ <br> 
@@ -569,6 +695,20 @@ https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/<br>
  https://www.facebook.com/crytek/posts/get-tips-tricks-and-a-tutorial-about-how-to-make-particle-effects-with-cryengine/10160719114920287/ <br>
  <br>
  </details>
+<details>
+<summary>CSS</summary>
+<br>Category/Type - <br>Stylesheet Language<br>
+<br>Official Documentation - <br>https://developer.mozilla.org/en-US/docs/Web/CSS<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw<br>https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ<br>https://www.youtube.com/user/TechGuyWeb<br>https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ<br>
+<br>Useful Websites - <br>https://www.reddit.com/r/css/<br>https://css-tricks.com/<br>https://infinite.education/expertise/CSS_Guru<br>
+<br>Dedicated Github page - <br>https://github.com/troxler/awesome-css-frameworks<br>https://github.com/uhub/awesome-css<br>https://github.com/awesome-css-group/awesome-css<br>
+<br>Best Courses - <br>https://www.udemy.com/course/advanced-css-and-sass/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-FuNopgIHFGHsz8.ohvhVNA&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads<br>https://www.coursera.org/learn/responsivedesign?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-LdUavV5umwTZsMq8m97MGQ&siteID=JVFxdTr9V80-LdUavV5umwTZsMq8m97MGQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80<br>https://www.pluralsight.com/courses/responsive-browser-web-page-design-html-css-2262?clickid=wg8X-HRG8xyLUHQwUx0Mo3QHUkESUbwm53o2R80&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius<br>https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-kEhiWlWWeJ.dJS6fnNgupw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads<br>http://mrbool.com/course/cascading-style-sheets-css-css3/365<br>
+<br>Other Tips / Hacks - <br>https://www.freecodecamp.org/news/follow-these-steps-to-become-a-css-superstar-837cd6cb9b1a/<br>https://dev.to/imm9o/i-built-my-own-css-curriculum-to-master-it-2ec2<br>https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-knowledge-in-24-hours/<br><br>
+<a href="https://www.w3schools.com/whatis/img_frontend.jpg">
+  <img align="center" src="https://www.w3schools.com/whatis/img_frontend.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 
 <details>
 <summary> CUDA </summary>
@@ -814,6 +954,74 @@ https://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/ <br>
 <br>
 <a href="https://emberjs.com/images/brand/ember-tomster-lockup-4c.svg">
   <img align="center" src="https://emberjs.com/images/brand/ember-tomster-lockup-4c.svg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
+<summary>F# </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://docs.microsoft.com/en-us/dotnet/fsharp/what-is-fsharp <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=c7eNDJN758U <br>
+https://www.youtube.com/watch?v=O7Qld3q2Yuo <br>
+https://www.youtube.com/watch?v=SvOInBxPL30 <br>
+https://www.youtube.com/watch?v=Teak30_pXHk <br>
+https://www.youtube.com/watch?v=34C_7halqGw <br>
+https://www.youtube.com/watch?v=rxy9HfVspzE <br>
+https://www.youtube.com/watch?v=P-VNEYDwr5M <br>
+https://www.youtube.com/watch?v=cbTn9T7pijY <br>
+<br>
+Useful Websites -
+<br>
+https://fsharp.org/ <br>
+https://www.tutorialspoint.com/fsharp/index.htm <br>
+https://www.reddit.com/r/fsharp/ <br>
+https://fsharp.org/guides/web/ <br>
+https://docs.microsoft.com/en-us/dotnet/fsharp/ <br>
+https://www.javatpoint.com/f-sharp-tutorial <br>
+https://fsharpforfunandprofit.com/posts/fsharp-in-60-seconds/ <br>
+https://www.fincher.org/tips/Languages/fsharp.shtml <br>
+https://gist.github.com/odytrice/667bc1d8d7c872fe8c5b1baa58898c32 <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/dotnet/fsharp <br>
+https://github.com/fsharp/fsharp <br>
+https://github.com/fsprojects/Paket <br>
+https://github.com/xamarin/apple-api-docs <br>
+https://github.com/fsprojects/FSharp.Formatting <br>
+https://github.com/fsprojects/AzureStorageTypeProvider <br>
+https://github.com/fsprojects/SQLProvider <br>
+https://github.com/fsprojects/FSharp.Data.SqlClient <br>
+https://github.com/fsharp/FSharp.Compiler.Service <br>
+https://github.com/fsprojects/awesome-fsharp <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/fsharp-from-the-ground-up/ <br>
+https://www.manning.com/books/get-programming-with-f-sharp?a_aid=hackrio <br>
+https://fsharp.tv/ <br>
+https://www.pluralsight.com/courses/fsharp-fundamentals <br>
+https://www.lynda.com/F-tutorials/11445-0.html <br>
+https://www.zeolearn.com/f-sharp-training <br>
+https://www.udemy.com/course/building-f-applications/ <br>
+https://www.udemy.com/course/learning-functional-programming-with-f/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://gist.github.com/swlaschin/31d5a0a2c4478e82e3ed60d653c0206b <br>
+https://riptutorial.com/fsharp/topic/3562/fsharp-performance-tips-and-tricks <br>
+https://sodocumentation.net/fsharp/topic/3562/fsharp-performance-tips-and-tricks <br>
+https://markheath.net/post/3-tips-more-elegant-let-bindings-fsharp <br>
+https://www.reddit.com/r/fsharp/comments/g2smx9/tips_and_tricks_to_debug_stack_overflows/ <br>
+https://www.airpair.com/f%23/tips-n-tricks/seven-ineffective-coding-habits-many-fsharp-programmers-dont-have <br>
+https://functionalsoftware.net/category/f-tips-and-tricks/ <br>
+https://brandewinder.com/2016/02/06/10-fsharp-scripting-tips/ <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/5/57/Fsharp_logo.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Fsharp_logo.png" width="500" height="500"/>
 </a>
 <br><br><br>
 </details>
@@ -1471,6 +1679,22 @@ https://blog.neuvector.com/article/hack-kubernetes-container <br>
 <br><br>
 </details>
 
+
+<details>
+<summary>Laravel</summary>
+<br>Category/Type - <br>PHP Framework<br>
+<br>Official Documentation - <br>https://laravel.com/docs/8.x/readme<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ<br>https://www.youtube.com/user/TechGuyWeb<br>https://www.youtube.com/channel/UCWgCuvL3lcgjGyjIok1zWNQ<br>https://www.youtube.com/channel/UC_hG9fglfmShkwex1KVydHA<br>
+<br>Useful Websites - <br>https://www.reddit.com/r/laravel/<br>https://www.tutorialspoint.com/laravel/index.htm<br>https://www.javatpoint.com/laravel<br>
+<br>Dedicated Github page - <br>https://github.com/chiraggude/awesome-laravel<br> https://github.com/TimothyDJones/awesome-laravel <br>https://github.com/unnawut/awesome-laravel<br>
+<br>Best Courses - <br>https://coursesity.com/course-detail/laravel-5<br>https://www.lynda.com/Laravel-training-tutorials/2779-0.html<br>https://dev.to/sarthaksavvy/laravel-full-course-6-5-hours-for-free-2l1n<br>https://www.udemy.com/course/laravel-6-framework/<br>https://www.classcentral.com/subject/laravel<br>
+<br>Other Tips / Hacks - <br>https://laravel-tricks.com/tricks<br>https://code.tutsplus.com/tutorials/25-laravel-tips-and-tricks--pre-92818<br>https://laravel-news.com/eloquent-tips-tricks<br><br>
+<a href="https://www.zend.com/sites/zend/files/image/2019-09/logo-laravel.jpg">
+  <img align="center" src="https://www.zend.com/sites/zend/files/image/2019-09/logo-laravel.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
 <details>
 <summary>Lightworks</summary>
 <br>Category/Type - <br>System software<br>
@@ -1561,6 +1785,42 @@ https://www.codementor.io/lisp-experts<br>
   <img align="center" src="https://i2.wp.com/www.ossblog.org/wp-content/uploads/2017/06/Lua-Montage.png?fit=564%2C245&ssl=1" width="800" height="400"/>
 </a>
 <br><br><br>
+</details>
+
+<details>
+<summary>Machine Learning</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Azure Documentation - <br>
+https://docs.microsoft.com/en-us/azure/machine-learning/ <br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN<br>
+https://www.youtube.com/watch?v=GwIo3gDZCVQ<br>
+https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy<br>
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v<br>
+<br>
+Useful Websites - <br>
+https://www.tutorialspoint.com/machine_learning_with_python/index.htm<br>
+https://www.mygreatlearning.com/blog/machine-learning-tutorial/<br>
+https://www.kaggle.com/learn/intro-to-machine-learning<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/collections/machine-learning<br>
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials<br>
+https://github.com/josephmisiti/awesome-machine-learning<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/learn/machine-learning<br>
+https://course18.fast.ai/ml<br>
+https://www.coursera.org/learn/machine-learning-with-python<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.freecodecamp.org/news/how-to-get-started-with-machine-learning-in-less-than-10-minutes-b5ea68462d23/<br>
+https://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-machine-learning<br>
+https://ml-cheatsheet.readthedocs.io/en/latest/<br>
 </details>
 
 <details>
@@ -1671,6 +1931,108 @@ https://www.mongodb.com/presentations/tips-and-tricks-for-query-performance-let-
   <img align="center" src="https://miro.medium.com/max/3202/1*JfwNbmBbsYKBT7_QFhd13Q.jpeg" width="500" height="500"/>
 </a>
 <br><br><br>
+</details>
+
+
+<details>
+<summary>MoonScript</summary>
+<br>
+Category/Type - <br>
+Dynamic scripting language<br>
+<br>
+Official Documentation - <br>
+https://moonscript.org/reference/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Eo67iTY1Yf8<br>
+https://www.youtube.com/watch?v=0G1Zm5Li8do<br>
+https://www.youtube.com/watch?v=MXgDswD9OJY<br>
+https://www.youtube.com/watch?v=0TmhogI-eTM<br>
+<br>
+Useful Websites -
+<br>
+https://leafo.net/posts/getting_started_with_moonscript.html<br>
+https://luarocks.org/modules/leafo/moonscript<br>
+https://news.ycombinator.com/item?id=14441492<br>
+https://atom.io/packages/language-moonscript<br>
+https://packagecontrol.io/packages/MoonScript<br>
+https://therenegadecoder.com/code/hello-world-in-moonscript/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/chase/awesome-config-moonscript<br>
+https://github.com/hal-ullr/awesome-moonscript<br>
+https://github.com/chase/awesome-config-moonscript/blob/master/handler/init.moon<br>
+https://github.com/uhub/awesome-lua<br>
+https://github.com/piotrklibert/awesome-config<br>
+<br>
+Best Courses - <br>
+https://learnxinyminutes.com/docs/moonscript/<br>
+https://aur.archlinux.org/packages/moonscript/<br>
+https://stackshare.io/moonscript<br>
+https://www.codementor.io/moonscript-experts<br>
+https://melpa.org/#/moonscript<br>
+<br>
+Other Tips / Hacks - <br>
+https://leafo.net/guides/moonscript-classes.html<br>
+https://leafo.net/lapis/reference/moon_getting_started.html<br>
+http://mahilinuxtips.blogspot.com/2014/10/luarocks-and-moonscript-installation.html<br>
+https://stackshare.io/stackups/html5-vs-moonscript<br>
+https://love2d.org/forums/viewtopic.php?t=3515&start=10
+<a href="https://moonscript.org/images/logo.png">
+  <img align="center" src="https://moonscript.org/images/logo.png" width="500" height="500"/>
+</a>
+<br><br>
+
+</details>
+<details>
+
+<summary>.NET</summary>
+<br>Category/Type - <br>Programming Language<br>
+<br>Official Documentation - <br>https://docs.microsoft.com/en-us/dotnet/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/user/shanselman<br>https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ<br>https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw<br>https://www.youtube.com/user/TechGuyWeb<br>
+<br>Useful Websites - <br>https://www.reddit.com/r/dotnetcore/<br>https://dotnet.microsoft.com/languages<br>https://www.geeksforgeeks.org/introduction-to-net-framework/<br>
+<br>Dedicated Github page - <br>https://github.com/quozd/awesome-dotnet<br> https://github.com/thangchung/awesome-dotnet-core<br>https://github.com/NajiElKotob/Awesome-DotNET<br>
+<br>https://github.com/mehdihadeli/awesome-dotnet-core-education<br>
+<br>https://github.com/adamsitnik/awesome-dot-net-performance<br>
+<br>Best Courses - <br>https://www.edureka.co/microsoft-dotnet-framework-self-paced<br>https://www.udemy.com/course/getting-started-with-net-core-clean-architecture/<br>https://www.edx.org/learn/.net<br>https://www.simplilearn.com/dot-net-programming-certification-training-course<br>https://www.learningtree.com/training-directory/net-visual-studio-training/<br>
+<br>Other Tips / Hacks - <br>https://www.sarvgyan.com/articles/ugc-net-preparation-tips<br>https://scoop.eduncle.com/tips-to-crack-ugc-net-exam<br>https://www.toptal.com/dot-net/tips-and-practices<br><br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
+<summary>Next.js</summary>
+<br>Category/Type - <br> React front-end development web framework <br> 
+<br>Official Documentation - <br> https://nextjs.org/docs <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/watch?v=mTz0GXj8NN0 <br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw <br>
+https://www.youtube.com/playlist?list=PLZjjdd9-SJS2ZvI4ct5Qtkje_Vdb5O_KM <br>
+https://www.youtube.com/watch?v=Sklc_fQBmcs<br>
+https://www.youtube.com/watch?v=tt3PUvhOVzo<br>
+https://www.youtube.com/watch?v=xtItzwYG6oQ <br> 
+<br>Useful Websites - <br> https://www.freecodecamp.org/news/the-next-js-handbook/ <br>
+https://www.tutorialspoint.com/nextjs/index.htm <br>
+https://www.smashingmagazine.com/2020/10/getting-started-with-next-js/ <br>
+https://www.storyblok.com/tp/next-js-react-guide <br>
+https://www.educative.io/blog/nextjs-tutorial-examples <br>
+<br>Dedicated Github page - <br> https://github.com/vercel/next.js/ <br>
+https://github.com/unicodeveloper/awesome-nextjs <br>
+https://github.com/nextauthjs/next-auth <br>
+https://github.com/vercel/next-plugins <br>
+https://github.com/vercel/next-learn-starter <br>
+<br>Best Courses - <br> https://www.udemy.com/course/nextjs-react-the-complete-guide/ <br>
+https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/ <br>
+https://www.udemy.com/course/universal-react-with-nextjs-the-ultimate-guide/ <br>
+https://www.udemy.com/course/react-the-complete-guide-incl-redux/ <br>
+https://nextjscourse.com/ <br>
+<br>Other Tips / Hacks - <br> https://medium.com/@pablo.delvalle.cr/next-js-10-tips-and-tricks-56992837e9a7 <br>
+https://medium.com/zerostories/5-tips-for-building-a-next-js-app-576fd1f7c065 <br>
+https://nextjstips.com/ <br>
+https://levelup.gitconnected.com/6-tips-using-next-js-for-your-next-web-app-e3f056fa46 <br>
+https://vercel.com/blog/10-next-js-tips-you-might-not-know <br>
+https://www.youtube.com/watch?v=R59e1Vl5lO8 <br> <br>
 </details>
 
 <details>
@@ -1932,6 +2294,50 @@ https://www.dataschool.io/future-of-pandas/
 </details>
 
 <details>
+<summary>Perl</summary>
+<br>
+Category/Type - <br>
+Programming Language <br>
+<br>
+Official Documentation - <br>
+https://perldoc.perl.org/ <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=WEghIXs8F6c <br>
+https://www.youtube.com/playlist?list=PL9ooVrP1hQOH9R0GR6yFteE4XWbsYNLga <br>
+https://www.youtube.com/playlist?list=PLWPirh4EWFpE0UEJPQ2PUeXUfvJDhPqSD <br>
+https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC <br>
+<br>
+Useful Websites- <br>
+https://www.geeksforgeeks.org/perl-programming-language/ <br>
+https://www.tutorialspoint.com/perl/index.htm <br>
+https://www.guru99.com/perl-tutorials.html <br>
+https://www.javatpoint.com/perl-tutorial <br>
+https://www.perltutorial.org/ <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/thibaultduponchelle/perlres <br>
+https://github.com/Perl/perl5 <br>
+https://github.com/PerlDancer/Dancer2 <br>
+https://github.com/gugod/App-perlbrew <br>
+<br>
+Best Courses- <br>
+https://www.udemy.com/course/perl-programming-for-beginners/ <br>
+https://www.udemy.com/course/perltutorial/ <br>
+https://www.linkedin.com/learning/perl-5-essential-training <br>
+https://www.udemy.com/course/perl-for-beginners/ <br>
+https://www.edureka.co/mastering-perl-scripting-self-paced <br>
+<br>
+Other Tips/Hacks- <br>
+https://www.xaprb.com/blog/2006/10/05/five-great-perl-programming-techniques-to-make-your-life-fun-again/ <br>
+https://www.techrepublic.com/article/10-things-every-perl-hacker-should-know/ <br>
+https://opensource.com/life/16/7/perl-tricks-system-administrators <br>
+https://blogs.oracle.com/linux/the-top-10-tricks-of-perl-one-liners-v2#:~:text=We'll%20start%20with%20a,%2Dn%20and%20%2Dp%20flags <br>
+https://www.thegeekstuff.com/2010/01/20-killer-perl-programming-tips-for-beginners-on-unix-linux-os/ <br>
+<br>
+</details>
+
+<details>
 <summary>PHP</summary>
 <br>Category/Type - <br>Programming Language<br>
 <br>Official Documentation - <br> https://www.php.net/docs.php <br>
@@ -1984,6 +2390,55 @@ https://www.udemy.com/course/learn-puppet/ <br> https://www.udemy.com/course/lea
   <img align="center" src="https://www.replicated.com/wp-content/uploads/2020/10/Puppet-Replicated-Diagram.jpg" width="500" height="500"/>
 </a>
 <br><br><br>
+</details>
+
+<details>
+<summary>Purescript</summary>
+<br>
+Category/Type - <br>
+Functional Programming Language <br>
+<br>
+Official Documentation - <br>
+https://www.purescript.org/ <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=D0rSuFwJSpw <br>
+https://www.youtube.com/watch?v=5AtyWgQ3vv0 <br>
+https://www.youtube.com/watch?v=G-pi6xeXMZs <br>
+https://www.youtube.com/watch?v=He7gQ56vl4M <br>
+https://www.youtube.com/watch?v=yIlDBPiMb0o <br>
+https://www.youtube.com/watch?v=AE4ToMtTmz4 <br>
+<br>
+Useful Websites- <br>
+https://medium.com/@KevinBGreene/functional-programming-for-the-web-getting-started-with-purescript-7387f8888318<br>
+https://leanpub.com/purescript/read <br>
+https://levelup.gitconnected.com/building-a-moving-box-with-purescript-ae1a490429ab<br>
+https://learnxinyminutes.com/docs/purescript/<br>
+https://egghead.io/courses/functional-programming-concepts-in-purescript<br>
+https://hackernoon.com/make-the-leap-from-javascript-to-purescript-5b35b1c06fef<br>
+<br>
+Dedicated Github page- <br>
+https://github.com/passy/awesome-purescript<br>
+https://github.com/jackypan1989/awesome-purescript <br>
+https://github.com/PerlDancer/Dancer2 <br>
+https://github.com/purescript/purescript<br>
+https://github.com/JordanMartinez/purescript-jordans-reference<br>
+https://github.com/purescript-contrib/setup-purescript<br>
+<br>
+Best Courses- <br>
+https://qvault.io/javascript/free-functional-programming-course-released-javascript-and-purescript/ <br>
+https://morioh.com/p/568b2fa8777b <br>
+https://mmhaskell.com/purescript-3 <br>
+https://functionalconf.com/proposal.html?id=4921 <br>
+https://www.linuxlinks.com/excellent-free-tutorials-learn-purescript/<br>
+<br>
+Other Tips/Hacks- <br>
+https://medium.com/lambda-factory/purescript-on-azure-functions-e75d64b22165<br>
+https://discourse.purescript.org/t/how-to-learn-purescript-in-2020/1665 <br>
+https://exercism.io/tracks/purescript<br>
+https://blog.functorial.com/posts/2017-08-09-Why-You-Should-Use-PureScript.html<br>
+https://thomashoneyman.com/articles/replace-react-components-with-purescript/ <br>
+<br>
 </details>
 
 <details>
@@ -2077,6 +2532,60 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 <br>https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks<br>
 <br><br>
 </details> 
+
+<details>
+<summary>React Native</summary>
+<br>
+Category/Type - <br>
+Framework <br>
+<br>
+Official Documentation - <br>
+https://reactnative.dev/docs/getting-started <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=0-S5a0eXPoc <br>
+https://www.youtube.com/playlist?list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h <br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ <br>
+https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ <br>
+https://www.youtube.com/watch?v=qSRrxpdMpVc <br>
+https://www.youtube.com/playlist?list=PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f <br>
+https://www.youtube.com/watch?v=npe3Wf4tpSg <br>
+https://www.youtube.com/watch?v=Hf4MJH0jDb4 <br>
+https://www.youtube.com/watch?v=iQ_0Fd_N3Mk <br>
+<br>
+Useful Websites- <br>
+https://www.tutorialspoint.com/react_native/index.htm <br>
+https://www.javatpoint.com/react-native-tutorial <br>
+https://www.simplilearn.com/react-native-tutorial-article <br>
+https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/ <br>
+https://www.toptal.com/react-native/cold-dive-into-react-native-a-beginners-tutorial <br>
+https://www.raywenderlich.com/485-react-native-tutorial-building-ios-apps-with-javascript <br>
+https://www.raywenderlich.com/247-react-native-tutorial-building-android-apps-with-javascript <br>
+https://www.geeksforgeeks.org/introduction-react-native/ <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/facebook/react-native <br>
+https://github.com/jondot/awesome-react-native <br>
+https://github.com/react-native-community/upgrade-helper <br>
+https://github.com/necolas/react-native-web <br>
+https://github.com/Codebrahma/React-Native-Restaurant-App <br>
+<br>
+Best Courses- <br>
+https://www.udemy.com/course/the-complete-react-native-and-redux-course/ <br>
+https://www.udemy.com/course/react-native-the-practical-guide/ <br>
+https://www.udemy.com/course/react-native-advanced/ <br>
+https://www.linkedin.com/learning/react-native-essential-training <br>
+https://www.linkedin.com/learning/learning-react-native <br>
+<br>
+Other Tips/Hacks- <br>
+https://www.ideamotive.co/blog/react-and-react-native-tips-and-tricks-for-fly-developers <br>
+https://medium.com/mop-developers/50-react-native-tips-part-1-2-5cb12803228b <br>
+https://developer.ibm.com/recipes/tutorials/react-native-tips-and-tricks/ <br>
+https://www.albertgao.xyz/2018/05/30/24-tips-for-react-native-you-probably-want-to-know/ <br>
+https://medium.com/dailyjs/11-mistakes-ive-made-during-react-native-redux-app-development-8544e2be9a9 <br>
+https://willowtreeapps.com/ideas/react-native-tips-and-tricks-styling-in-js <br>
+<br>
+</details>
 
 <details>
  <summary>Redis</summary>
@@ -2182,6 +2691,31 @@ https://www.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/ <br> https
  <br>Other Tips / Hacks - <br> https://help.saltstack.com/hc/en-us/sections/360007948432-Command-Tips <br> https://docs.saltproject.io/en/latest/topics/hardening.html <br>
  https://www.linode.com/docs/guides/beginners-guide-to-salt/ <br>
  <br>
+ </details>
+
+<details>
+ <summary>SASS</summary>
+ <br>Category/Type - <br> Stylesheet Language <br>
+ <br>Official Documentation - <br> https://sass-lang.com/documentation <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br>https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q<br>https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
+ <br>
+ https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA<br>
+ <br>Useful Websites - <br> https://www.reddit.com/r/Sass/ <br> https://sass-lang.com/<br>
+https://www.w3schools.com/sass/  <br>
+ <br>Dedicated Github page - <br>https://github.com/Famolus/awesome-sass<br> https://github.com/colourgarden/awesome-scss <br>
+ https://github.com/KittyGiraudel/awesome-sass<br>
+ <br>Best Courses - <br>https://www.udemy.com/course/advanced-css-and-sass/?ranMID=39197&ranEAID=0F1O0otUXQc&ranSiteID=0F1O0otUXQc-jTdQOFl8KiFYCYCQz7pCwA&LSNPUBID=0F1O0otUXQc&utm_source=aff-campaign&utm_medium=udemyads<br>https://www.eduonix.com/sass-the-complete-sass-course-css-preprocessor<br>
+ https://www.udemy.com/course/sasscourse/?ranMID=39197&ranEAID=0F1O0otUXQc&ranSiteID=0F1O0otUXQc-JlJDpPcc5MustS1VC4wTaQ&LSNPUBID=0F1O0otUXQc&utm_source=aff-campaign&utm_medium=udemyads<br> 
+ https://www.educative.io/courses/sass-for-css?affiliate_id=5088579051061248<br>
+ https://www.udemy.com/course/learn-sass/?ranMID=39197&ranEAID=0F1O0otUXQc&ranSiteID=0F1O0otUXQc-ShkYSbSNH9Pa854haaGUrA&LSNPUBID=0F1O0otUXQc&utm_source=aff-campaign&utm_medium=udemyads<br>
+ <br>Other Tips / Hacks - <br>https://css-tricks.com/sass-techniques-from-the-trenches/ <br>
+ https://www.telerik.com/blogs/10-time-saving-css-tips-i-learned-the-hard-way-when-using-sass<br>
+<br>
+https://www.webtips.dev/7-tips-that-will-help-you-get-the-best-out-of-sass
+ <br><br>
+ <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="500" height="500"/>
+</a>
  </details>
 
 <details>
@@ -2763,7 +3297,62 @@ https://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/ <br>
 <br>Other Tips / Hacks - <br>https://www.zbrushguides.com/5-zbrush-tips-i-learned-last-year/<br>http://docs.pixologic.com/user-guide/tips-tricks/<br>https://in.pinterest.com/r_vann/zbrush-tips-tricks/<br>https://www.creativebloq.com/features/15-tips-to-master-zbrush<br>
 <a href="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp">
   <img align="center" src="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp" width="800" height="400"/>
+</a>
   </details>
+
+ <details>  
+<summary>Zig</summary>
+<br>
+Category/Type - <br>Programming Language<br>
+<br>
+Official Documentation - <br>
+https://ziglang.org/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Xu5U_UCvJG4 <br>
+https://www.youtube.com/watch?v=43X9ia-qpds <br>
+https://www.youtube.com/watch?v=pacsngNYXI0 <br>
+https://www.youtube.com/watch?v=ZvskDoP09Ao <br>
+https://www.youtube.com/watch?v=Gv2I7qTux7g <br>
+https://www.youtube.com/watch?v=O4UYT-brgrc <br>
+<br>
+Useful Websites -
+<br>
+https://medium.com/swlh/zig-the-introduction-dcd173a86975 <br>
+https://www.reddit.com/r/Zig/comments/bws2y2/a_project_based_zig_tutorial/<br>
+https://lwn.net/Articles/833400/ <br>
+https://dev.to/fabioarnold/setup-zig-for-gamedev-2bmf <br>
+https://lobste.rs/s/3rgahq/introduction_zig_programming_language<br>
+http://zoom.z3950.org/misc/tutorial/index.html<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/nrdmn/awesome-zig <br>
+https://github.com/ziglang/zig<br>
+https://github.com/trending/zig<br>
+https://github.com.cnpmjs.org/topics/ziglang<br>
+https://github.com/ziglang <br>
+https://github.com/ratfactor/ziglings <br>
+<br>
+Best Courses - <br>
+https://devtalk.com/zig<br>
+https://sudonull.com/post/3683-Zig-programming-language<br>
+https://www.macprovideo.com/tutorials/zig <br>
+https://www.jigsawacademy.com/ <br>
+https://ziglang.org/learn/<br>
+https://www.reddit.com/r/programming/comments/bjwhm5/introduction_the_zig_programming_language/<br>
+<br>
+Other Tips / Hacks - <br>
+https://news.ycombinator.com/item?id=17184407 <br>
+https://jaxenter.com/zig-language-kelley-interview-138517.html<br>
+https://zigforum.org/ <br>
+https://www.gingerbill.org/article/2019/05/13/a-reply-to-the-road-to-zig/ <br>
+https://www.reddit.com/r/programming/comments/lj7t10/ziglings_learn_the_zig_programming_language_by/<br>
+<br>
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fziglang%2Fzig&psig=AOvVaw3PSSE9wkSatlQ0LoIdspSO&ust=1617889355562000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODc5NSh7O8CFQAAAAAdAAAAABAD">
+  <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fziglang%2Fzig&psig=AOvVaw3PSSE9wkSatlQ0LoIdspSO&ust=1617889355562000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODc5NSh7O8CFQAAAAAdAAAAABAD" width="900" height="500"/>
+</a>
+<br><br><br>
+</details>
   
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)

@@ -18,6 +18,7 @@
 - [ ] Have you checked to ensure there aren't other open [Pull Requests](https://github.com/CSwala/awesome-computer-science/pulls) for the same tech?
 - [ ] Is your submission is according to the desired pattern ?
 - [ ] Have you placed the contents in the `Readme.md` keeping the sorting order in mind ?
+- [ ] Have you placed the contents in the `Dictionary.json` keeping the sorting order in mind ?
 
 Does you submission include -
 
