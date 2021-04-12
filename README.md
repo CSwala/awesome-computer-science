@@ -3074,6 +3074,84 @@ https://heartbeat.fritz.ai/tensorflow-quick-tips-e394bc5fee15 <br> https://mediu
 </details>
 
 <details>
+<summary>TypeScript</summary>
+<br>Category/Type - <br> Programming Language <br>
+<br>Official Documentation - <br> https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html <br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=rAy_3SIqT-E <br>
+https://www.youtube.com/watch?v=WBPrJSw7yQA <br>
+https://www.youtube.com/watch?v=BwuLxPH8IDs <br>
+https://www.youtube.com/watch?v=82XE1X0Xblo <br>
+https://www.youtube.com/watch?v=NjN00cM18Z4 <br>
+https://www.youtube.com/watch?v=u7SpFQy542U&list=PLwGdqUZWnOp3AIOiou-yZ2mnT-JC_UEWA <br>
+https://www.youtube.com/watch?v=wyO8RWl1ges <br>
+https://www.youtube.com/watch?v=ucZRzCYQRQo&list=PL8p2I9GklV46OtmTnYKPa2Mp9sPLWpRA- <br>
+https://www.youtube.com/watch?v=YPShu0H3RbM&list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU <br>
+https://www.youtube.com/watch?v=Ap_LrI8Wibo&list=PL-W0H0WJomJT0dmL9QJIy2kg52TXkBZgD <br>
+https://www.youtube.com/watch?v=2pZmKW9-I_k <br>
+<br>Useful Websites - <br>
+https://www.freecodecamp.org/news/learn-typescript-in-5-minutes-13eda868daeb/ <br>
+https://www.valentinog.com/blog/typescript/#typescript-tutorial-for-beginners-what-is-typescript <br>
+https://afteracademy.com/blog/typescript-tutorial-for-beginners <br>
+https://www.w3spoint.com/typescript-tutorial <br>
+https://www.javatpoint.com/typescript-tutorial <br>
+https://howtodoinjava.com/typescript/typescript-tutorial/ <br>
+https://www.tutorialsteacher.com/typescript <br>
+https://tutorialzine.com/2016/07/learn-typescript-in-30-minutes <br>
+https://www.guru99.com/typescript-tutorial.html <br>
+https://www.educative.io/blog/typescript-tutorial <br>
+https://zubialevich.blogspot.com/2018/09/how-to-build-typescript-github-pages-app.html <br>
+https://www.typescripttutorial.net/ <br>
+https://www.dotnettricks.com/learn/typescript <br>
+https://code.visualstudio.com/docs/typescript/typescript-tutorial <br>
+<br>Best Courses - <br> 
+https://github.com/buttercup/buttercup-desktop <br>
+https://github.com/microsoft/vscode <br>
+https://github.com/davidkpiano/xstate <br>
+https://github.com/remirror/remirror <br>
+https://github.com/swc-project/swc <br>
+https://github.com/tradingview/lightweight-charts <br>
+https://github.com/Ekliptor/WolfBot <br>
+https://github.com/bkimminich/juice-shop <br>
+https://github.com/tensorflow/tfjs-models <br>
+https://github.com/type-challenges/type-challenges <br>
+https://github.com/trustwallet/assets <br>
+https://github.com/gfmio/github-pages-boilerplate <br>
+https://github.com/UsainBloot/typescript-tips-and-tricks <br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/typescript/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-uj0Ie3rFlVqy3eCNVRoRYg&utm_medium=udemyads&utm_source=aff-campaign <br>
+https://www.udemy.com/course/ts-fundamental/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-_ZpHguNCKWmepks5qkkgTg&utm_medium=udemyads&utm_source=aff-campaign <br>
+https://www.udemy.com/course/understanding-typescript/ <br>
+https://www.linkedin.com/learning/typescript-essential-training <br>
+https://www.udemy.com/course/typescript-the-complete-developers-guide/ <br>
+https://www.codecademy.com/courses/learn-typescript/lessons/introduction-to-typescript/exercises/from-javascript-to-typescript <br>
+https://www.udemy.com/course/complete-typescript-2-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-friEjt6..fLWcEr7.sY43Q&utm_medium=udemyads&utm_source=aff-campaign <br>
+https://www.udemy.com/course/typescript-for-professionals/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-9SI.7VhN3xBuKHRBViAG8g&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads <br>
+https://www.pluralsight.com/courses/typescript?clickid=UpMRWi1sJxyLWNnwUx0Mo3QgUkESOgwtq24uSM0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius <br>
+https://www.educative.io/courses/learn-typescript-complete-course?affiliate_id=5073518643380224 <br>
+https://www.udemy.com/course/typescript-fast-crash-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-agRq6IuTh33T21r2HfrWsQ&utm_medium=udemyads&utm_source=aff-campaign <br>
+https://www.udemy.com/course/getting-started-with-typescript/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-QL46qEMrHf9Q5tx3573cDg&utm_medium=udemyads&utm_source=aff-campaign <br>
+<br>Other Tips / Hacks - <br> 
+https://medium.com/@mohamedabdeen/i-am-in-love-with-typescript-here-15-typescript-tips-i-wanna-share-df87ac2e31c2 <br>
+https://egghead.io/courses/typescript-tips-and-tricks-20c4 <br>
+https://dev.to/sam_piggott/4-must-know-typescript-tips-tricks-3g8b <br>
+https://javascript.plainenglish.io/25-tips-and-tricks-to-write-faster-better-optimized-typescript-code-c1826cf4730e <br>
+https://www.sitepoint.com/10-essential-typescript-tips-tricks-angular/ <br>
+http://slidedeck.io/nicojs/typescript-tips-and-tricks <br>
+https://blog.jetbrains.com/webstorm/2019/09/using-typescript-to-check-your-javascript-code/ <br>
+https://drag13.io/posts/typescript-tips-tricks-declarations/index.html <br>
+https://blog.angulartraining.com/5-typescript-tricks-for-angular-f5267432c8b0 <br>
+https://dev.to/achimoraites/typescript-tips-and-tricks-4fnh <br>
+https://stackoverflow.com/questions/36111664/how-do-you-publish-a-typescript-website-to-github-pages-using-visual-studio <br>
+<br>
+<a href="https://miro.medium.com/max/1632/1*mn6bOs7s6Qbao15PMNRyOA.png">
+  <img align="center" src="https://miro.medium.com/max/1632/1*mn6bOs7s6Qbao15PMNRyOA.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+
+<details>
 <summary>Unity</summary>
 <br>Category/Type - <br>  Game engine <br>
 <br>Official Documentation - <br> https://docs.unity3d.com/Manual/index.html <br>
