@@ -3101,7 +3101,7 @@ https://dev.to/achimoraites/typescript-tips-and-tricks-4fnh <br>
 https://stackoverflow.com/questions/36111664/how-do-you-publish-a-typescript-website-to-github-pages-using-visual-studio <br>
 <br>
 <a href="https://miro.medium.com/max/1632/1*mn6bOs7s6Qbao15PMNRyOA.png">
-  <img align="center" src="https://miro.medium.com/max/1632/1*mn6bOs7s6Qbao15PMNRyOA.png" width="900" height="500"/>
+  <img align="center" src="https://miro.medium.com/max/1632/1*mn6bOs7s6Qbao15PMNRyOA.png" width="500" height="500"/>
 </a>
 <br><br><br>
 
