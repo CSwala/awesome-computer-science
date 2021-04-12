@@ -2490,6 +2490,7 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 </details> 
 
 <details>
+
 <summary>Reason</summary>
 <br>
 Category/Type - <br>Programming language <br>
@@ -2552,6 +2553,58 @@ https://www.youtube.com/watch?v=N2PRU13jb9w <br>
   <img align="center" src="https://i2.wp.com/endlessillusoft.com/wp-content/uploads/2018/12/ReasonLogo.png?fit=700%2C264&ssl=1" width="1000" height="500"/>
 </a>
 <br><br><br>
+=======
+<summary>React Native</summary>
+<br>
+Category/Type - <br>
+Framework <br>
+<br>
+Official Documentation - <br>
+https://reactnative.dev/docs/getting-started <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=0-S5a0eXPoc <br>
+https://www.youtube.com/playlist?list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h <br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ <br>
+https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ <br>
+https://www.youtube.com/watch?v=qSRrxpdMpVc <br>
+https://www.youtube.com/playlist?list=PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f <br>
+https://www.youtube.com/watch?v=npe3Wf4tpSg <br>
+https://www.youtube.com/watch?v=Hf4MJH0jDb4 <br>
+https://www.youtube.com/watch?v=iQ_0Fd_N3Mk <br>
+<br>
+Useful Websites- <br>
+https://www.tutorialspoint.com/react_native/index.htm <br>
+https://www.javatpoint.com/react-native-tutorial <br>
+https://www.simplilearn.com/react-native-tutorial-article <br>
+https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/ <br>
+https://www.toptal.com/react-native/cold-dive-into-react-native-a-beginners-tutorial <br>
+https://www.raywenderlich.com/485-react-native-tutorial-building-ios-apps-with-javascript <br>
+https://www.raywenderlich.com/247-react-native-tutorial-building-android-apps-with-javascript <br>
+https://www.geeksforgeeks.org/introduction-react-native/ <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/facebook/react-native <br>
+https://github.com/jondot/awesome-react-native <br>
+https://github.com/react-native-community/upgrade-helper <br>
+https://github.com/necolas/react-native-web <br>
+https://github.com/Codebrahma/React-Native-Restaurant-App <br>
+<br>
+Best Courses- <br>
+https://www.udemy.com/course/the-complete-react-native-and-redux-course/ <br>
+https://www.udemy.com/course/react-native-the-practical-guide/ <br>
+https://www.udemy.com/course/react-native-advanced/ <br>
+https://www.linkedin.com/learning/react-native-essential-training <br>
+https://www.linkedin.com/learning/learning-react-native <br>
+<br>
+Other Tips/Hacks- <br>
+https://www.ideamotive.co/blog/react-and-react-native-tips-and-tricks-for-fly-developers <br>
+https://medium.com/mop-developers/50-react-native-tips-part-1-2-5cb12803228b <br>
+https://developer.ibm.com/recipes/tutorials/react-native-tips-and-tricks/ <br>
+https://www.albertgao.xyz/2018/05/30/24-tips-for-react-native-you-probably-want-to-know/ <br>
+https://medium.com/dailyjs/11-mistakes-ive-made-during-react-native-redux-app-development-8544e2be9a9 <br>
+https://willowtreeapps.com/ideas/react-native-tips-and-tricks-styling-in-js <br>
+<br>
 </details>
 
 <details>
@@ -3264,6 +3317,7 @@ https://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/ <br>
 <br>Other Tips / Hacks - <br>https://www.zbrushguides.com/5-zbrush-tips-i-learned-last-year/<br>http://docs.pixologic.com/user-guide/tips-tricks/<br>https://in.pinterest.com/r_vann/zbrush-tips-tricks/<br>https://www.creativebloq.com/features/15-tips-to-master-zbrush<br>
 <a href="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp">
   <img align="center" src="https://www.toolfarm.com/images/uploads/blog/xzbrush_hiddenfeatures_tut.jpg.pagespeed.ic.Srcf1C6j05.webp" width="800" height="400"/>
+</a>
   </details>
 
  <details>  
