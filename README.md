@@ -1744,6 +1744,21 @@ https://www.codementor.io/lisp-experts<br>
 </details>
 
 <details>
+<summary>MATLAB</summary>
+<br>Category/Type - <br>Matrix-based language<br>
+<br>Official Documentation - <br>https://in.mathworks.com/help/matlab/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/user/MATLAB<br>https://www.youtube.com/channel/UCNYJACuYKQlScmTuyIe8J0g<br>https://www.youtube.com/channel/UCEaVN5-XCvLgJOFAR_VOIoQ<br>https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA<br>
+<br>Useful Websites - <br>https://matlabacademy.mathworks.com/?s_tid=ac_ml_tut_til<br>https://nhigham.com/matlab-guide/<br>https://engineerexperiences.com/category/matlab<br>https://blogs.mathworks.com/videos/<br>
+<br>Dedicated Github page - <br>https://github.com/mathworks<br>https://github.com/topics/matlab-codes <br>https://github.com/VivekKrG/MATLAB-projects-and-Assignments<br>
+<br>Best Courses - <br>https://matlabacademy.mathworks.com/<br>https://www.udemy.com/course/matlab-essentials-for-engineering-and-science-students/<br>https://www.coursera.org/learn/matlab<br>https://www.linkedin.com/learning/learning-matlab-2/welcome<br>
+<br>Other Tips / Hacks - <br>https://in.mathworks.com/videos/matlab-and-simulink-racing-lounge-how-to-make-your-matlab-experience-more-productive-99548.html<br><br>
+<a href="https://in.mathworks.com/matlabcentral/answers/228557-experts-of-matlab-how-did-you-learn-any-advice-for-beginner-intermediate-users">
+  <img align="center" src="https://user-images.githubusercontent.com/68437435/113461750-80cf9080-943b-11eb-88c5-74067ca42376.jpg" width="300" height="200"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Machine Learning</summary>
 <br>
 Category/Type - <br>
