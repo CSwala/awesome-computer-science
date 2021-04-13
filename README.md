@@ -3060,7 +3060,7 @@ https://zubialevich.blogspot.com/2018/09/how-to-build-typescript-github-pages-ap
 https://www.typescripttutorial.net/ <br>
 https://www.dotnettricks.com/learn/typescript <br>
 https://code.visualstudio.com/docs/typescript/typescript-tutorial <br>
-<br>Best Courses - <br> 
+<br>Dedicated Github page - <br> 
 https://github.com/buttercup/buttercup-desktop <br>
 https://github.com/microsoft/vscode <br>
 https://github.com/davidkpiano/xstate <br>
