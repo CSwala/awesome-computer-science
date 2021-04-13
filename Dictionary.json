@@ -1841,11 +1841,16 @@
 	"Dedicated GH page1" : "https://github.com/mathworks",
 	"Dedicated GH page2" : "https://github.com/topics/matlab-codes",
 	"Dedicated GH page3" : "https://github.com/VivekKrG/MATLAB-projects-and-Assignments",
+	"Dedicated GH page4" : "https://github.com/TadasBaltrusaitis/OpenFace",	
+	"Dedicated GH page5" : "https://github.com/PRML/PRMLT",	
 	"Course1" : "https://matlabacademy.mathworks.com/",
 	"Course2" : "https://www.udemy.com/course/matlab-essentials-for-engineering-and-science-students/",
 	"Course3" : "https://www.coursera.org/learn/matlab",
 	"Course4" : "https://www.linkedin.com/learning/learning-matlab-2/welcome",
 	"Tips1" : "https://in.mathworks.com/videos/matlab-and-simulink-racing-lounge-how-to-make-your-matlab-experience-more-productive-99548.html",
+	"Tips2" : "https://www.ee.columbia.edu/~marios/matlab/GUIwithMatlab.pdf",
+	"Tips3" : "https://www.ee.columbia.edu/~marios/matlab/Writing_Fast_MATLAB_Code.pdf",	
+	"Tips4" : "https://www.ee.columbia.edu/~marios/matlab/Matlab%20array%20manipulation%20tips%20and%20tricks.pdf",	
 	"Image1":"https://user-images.githubusercontent.com/68437435/113461750-80cf9080-943b-11eb-88c5-74067ca42376.jpg" 
         },
 	{
