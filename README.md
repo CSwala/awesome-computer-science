@@ -3090,6 +3090,47 @@ https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https:
 </details>
 
 <details>
+<summary>Vanilla Javascript</summary>
+<br>
+Category/Type - <br>Framework <br>
+<br>
+Official Documentation - <br>
+http://vanilla-js.com <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Ttf3CEsEwMQ <br>
+https://www.youtube.com/watch?v=3PHXvlpOkf4 <br>
+https://www.youtube.com/watch?v=82hnvUYY6QA&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=12 <br>
+https://www.youtube.com/watch?v=c5SIG7Ie0dM <br>
+<br>
+Useful Websites -
+<br>
+https://www.javatpoint.com/what-is-vanilla-javascript <br>
+https://javascript30.com <br>
+https://stackoverflow.com/questions/20435653/what-is-vanillajs <br>
+https://learnvanillajs.com <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/bradtraversy/vanillawebprojects <br>
+https://github.com/Haeresis/vanilla-js-dom <br>
+https://github.com/aman-maharshi/vanilla-js <br>
+https://github.com/snipcart/learn-vanilla-js <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/web-projects-with-vanilla-javascript/ <br>
+https://vanillajsacademy.com <br>
+https://coursesfree.org/course/vanilla-javascript/<br>
+https://www.udemy.com/course/vanilla-javascript-course-2020/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://academind.com/tutorials/vanilla-js-vs-frameworks/ <br>
+https://www.freecodecamp.org/news/do-we-still-need-javascript-frameworks-42576735949b/ <br>
+https://vanillawebprojects.com <br>
+https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks <br>
+<br>
+</details>
+
+<details>
 <summary>Vue.js</summary>
 <br>
 Category/Type - <br>Model–view–viewmodel front end JavaScript framework <br>
