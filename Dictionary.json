@@ -869,6 +869,31 @@
 		"Tips8": "https://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/ ",
 		"Image1": "https://emberjs.com/images/brand/ember-tomster-lockup-4c.svg"
 	},
+	{
+		"Title": "Figma",
+		"Tag": "Digital Design Tool",
+		"Documentation": "https://www.figma.com/plugin-docs/intro/",
+		"YT1": "https://www.youtube.com/watch?v=Cx2dkpBxst8",
+		"YT2": "https://www.youtube.com/watch?v=4W4LvJnNegA",
+		"YT3": "https://www.youtube.com/watch?v=FTFaQWZBqQ8",
+		"YT4": "https://www.youtube.com/watch?v=Gu1so3pz4bA",
+		"Website1": "https://www.figma.com",
+		"Website2": "https://www.toptal.com/designers/ui/figma-design-tool",
+		"Website3": "https://www.crunchbase.com/organization/figma",
+		"Website4": "https://www.figma.com/downloads/",
+		"Dedicated GH page1": "https://github.com/bernaferrari/FigmaToCode",
+		"Dedicated GH page2": "https://github.com/figmaspace/figmaspace.github.io",
+		"Dedicated GH page3": "https://github.com/figma",
+		"Dedicated GH page4": "https://github.com/jongold/figma-js",
+		"Course1": "https://www.udemy.com/course/learn-figma/",
+		"Course2": "https://www.udemy.com/course/the-complete-figma-course/",
+		"Course3": "https://learnux.io/course/figma",
+		"Course4": "https://www.skillshare.com/browse/figma",
+		"Tips1": "https://uxdesign.cc/figma-community-the-github-for-designers-b2261d4d21be",
+		"Tips2": "https://blog.prototypr.io/figma-tips-and-tricks-1c07ec13b696",
+		"Tips3": "https://uxplanet.org/advanced-figma-tips-tricks-d782ba2b2f5c",
+		"Tips4": "https://awesomefigmatips.com/tips"
+	},
 	
 	{	
 	"Title" : "F#",
