@@ -2490,6 +2490,7 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 </details> 
 
 <details>
+
 <summary>React Native</summary>
 <br>
 Category/Type - <br>
@@ -2542,6 +2543,69 @@ https://medium.com/dailyjs/11-mistakes-ive-made-during-react-native-redux-app-de
 https://willowtreeapps.com/ideas/react-native-tips-and-tricks-styling-in-js <br>
 <br>
 </details>
+
+<summary>Reason</summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://reasonml.github.io/docs/en/what-and-why <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=sjWsAYJF8BA <br>
+https://www.youtube.com/watch?v=XWj24mn-wUA <br>
+https://www.youtube.com/watch?v=SFcluy7n_0M <br>
+https://www.youtube.com/watch?v=qZo-VWjC7es <br>
+https://www.youtube.com/watch?v=EmBzyBQU760 <br>
+https://www.youtube.com/watch?v=KOSjVDKmwFw <br>
+https://www.youtube.com/watch?v=ItASl4SdPO0 <br>
+https://www.youtube.com/watch?v=N2PRU13jb9w <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/reasonml/ <br>
+https://blog.dubenko.dev/reasonml-by-example/ <br>
+https://reasonml.github.io/reason-react/docs/en/simple <br>
+https://reasonml.github.io/api/index <br>
+https://www.imaginarycloud.com/blog/reasonml-react-as-first-intended/ <br>
+https://medium.com/@josef_erben/sihl-full-stack-web-development-in-reasonml-8d863fa76c7e <br>
+https://awesomeopensource.com/projects/reasonml <br>
+https://blog.usejournal.com/journey-with-reasonml-as-a-junior-developer-17ee53a25fa7 <br>
+https://porter.in/blog/index.php/2019/05/28/reasonreact-abstracting-your-way-out-with-reasonml-functors/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/reasonml/reason <br>
+https://github.com/vramana/awesome-reasonml <br>
+https://github.com/reasonml/reason-react <br>
+https://github.com/reasonml/reasonml.github.io <br>
+https://github.com/reasonml-community/graphql-ppx <br>
+https://github.com/Astrocoders/lenses-ppx <br>
+https://github.com/davesnx/styled-ppx <br>
+https://github.com/dylanirlbeck/tailwind-ppx <br>
+<br>
+Best Courses - <br>
+https://www.educative.io/courses/functional-programming-with-reasonml <br>
+https://egghead.io/courses/get-started-with-reason <br>
+https://www.lynda.com/ReasonML-tutorials/295001-0.html <br>
+https://www.linkedin.com/learning/reasonml-first-look <br>
+https://www.freecodecamp.org/news/learn-reasonml-full-course/ <br>
+https://dev.to/mlms13/type-classes-in-reasonml-a-world-of-functions-for-free-2lag <br>
+https://hasura.io/learn/graphql/reason-react-apollo/introduction/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://medium.com/@dangggdennis/15-tips-for-learning-reason-reasonml-bb844ad1be2b <br>
+https://reasonml.github.io/docs/en/exception <br>
+http://reasonmlhub.com/exploring-reasonml/toc.html <br>
+https://pusher.com/sessions/meetup/reactivate-london/a-pragmatists-guide-to-reasonmla <br>
+https://exercism.io/tracks/reasonml <br>
+https://gist.github.com/AshCoolman/91ff0465e2e0aa84928fc7977c16e85d <br>
+https://blog.hackages.io/reasonml-ppx-8ecd663d5640 <br>
+https://www.youtube.com/watch?v=N2PRU13jb9w <br>
+<br>
+<a href="https://i2.wp.com/endlessillusoft.com/wp-content/uploads/2018/12/ReasonLogo.png?fit=700%2C264&ssl=1">
+  <img align="center" src="https://i2.wp.com/endlessillusoft.com/wp-content/uploads/2018/12/ReasonLogo.png?fit=700%2C264&ssl=1" width="1000" height="500"/>
+</a>
+<br><br><br>
 
 <details>
  <summary>Redis</summary>

@@ -2637,6 +2637,7 @@
 		"Tips2": "https://dev.to/simonholdorf/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-4fhn ",
 		"Tips3": "https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks "
 	},
+	
 	{
 		"Title": "React Native",
 		"Tag": "Framework",
@@ -2675,6 +2676,55 @@
 		"Tips5": "https://medium.com/dailyjs/11-mistakes-ive-made-during-react-native-redux-app-development-8544e2be9a9",
 		"Tips6": "https://willowtreeapps.com/ideas/react-native-tips-and-tricks-styling-in-js"
 	},
+	
+	{	
+	"Title" : "Reason",
+	"Tag": "Programming language",
+	"Documentation" : "https://reasonml.github.io/docs/en/what-and-why ",
+	"YT1 " :"https://www.youtube.com/watch?v=sjWsAYJF8BA ",
+	"YT2 " :"https://www.youtube.com/watch?v=XWj24mn-wUA ",
+	"YT3 " :"https://www.youtube.com/watch?v=SFcluy7n_0M ",
+	"YT4 " :"https://www.youtube.com/watch?v=qZo-VWjC7es ",
+	"YT5 " :"https://www.youtube.com/watch?v=EmBzyBQU760 ",
+	"YT6 " :"https://www.youtube.com/watch?v=KOSjVDKmwFw ",
+	"YT7 " :"https://www.youtube.com/watch?v=ItASl4SdPO0 ",
+	"YT8 " :"https://www.youtube.com/watch?v=N2PRU13jb9w ",
+	"Website1": "https://www.reddit.com/r/reasonml/ ",
+	"Website2": "https://blog.dubenko.dev/reasonml-by-example/ ",
+	"Website3": "https://reasonml.github.io/reason-react/docs/en/simple ",
+	"Website4": "https://reasonml.github.io/api/index ",
+	"Website5": "https://www.imaginarycloud.com/blog/reasonml-react-as-first-intended/ ",
+	"Website6": "https://medium.com/@josef_erben/sihl-full-stack-web-development-in-reasonml-8d863fa76c7e ",
+	"Website7": "https://awesomeopensource.com/projects/reasonml ",
+	"Website8": "https://blog.usejournal.com/journey-with-reasonml-as-a-junior-developer-17ee53a25fa7 ",
+	"Website9": "https://porter.in/blog/index.php/2019/05/28/reasonreact-abstracting-your-way-out-with-reasonml-functors/ ",
+	"Dedicated GH page1" : "https://github.com/reasonml/reason ",
+	"Dedicated GH page2" : "https://github.com/vramana/awesome-reasonml ",
+	"Dedicated GH page3" : "https://github.com/reasonml/reason-react ",
+	"Dedicated GH page4" : "https://github.com/reasonml/reasonml.github.io ",
+	"Dedicated GH page5" : "https://github.com/reasonml-community/graphql-ppx ",
+	"Dedicated GH page6" : "https://github.com/Astrocoders/lenses-ppx ",
+	"Dedicated GH page7" : "https://github.com/davesnx/styled-ppx ",
+	"Dedicated GH page8" : "https://github.com/dylanirlbeck/tailwind-ppx ",
+	"Course1" : "https://www.educative.io/courses/functional-programming-with-reasonml ",
+	"Course2" : "https://egghead.io/courses/get-started-with-reason ",
+	"Course3" : "https://www.lynda.com/ReasonML-tutorials/295001-0.html ",
+	"Course4" : "https://www.linkedin.com/learning/reasonml-first-look ",
+	"Course5" : "https://www.freecodecamp.org/news/learn-reasonml-full-course/ ",
+	"Course6" : "https://dev.to/mlms13/type-classes-in-reasonml-a-world-of-functions-for-free-2lag ",
+	"Course7" : "https://hasura.io/learn/graphql/reason-react-apollo/introduction/ ",
+	"Tips1" : "https://medium.com/@dangggdennis/15-tips-for-learning-reason-reasonml-bb844ad1be2b ",
+	"Tips2" : "https://reasonml.github.io/docs/en/exception ",
+	"Tips3" : "http://reasonmlhub.com/exploring-reasonml/toc.html ",
+	"Tips4" : "https://pusher.com/sessions/meetup/reactivate-london/a-pragmatists-guide-to-reasonmla ",
+	"Tips5" : "https://exercism.io/tracks/reasonml ",
+	"Tips6" : "https://gist.github.com/AshCoolman/91ff0465e2e0aa84928fc7977c16e85d ",
+	"Tips7" : "https://blog.hackages.io/reasonml-ppx-8ecd663d5640 ",
+	"Tips8" : "https://www.youtube.com/watch?v=N2PRU13jb9w ",
+	"Image1":"https://i2.wp.com/endlessillusoft.com/wp-content/uploads/2018/12/ReasonLogo.png?fit=700%2C264&ssl=1" 
+
+	},
+	
 	{
 		"Title": "Redis",
 		"Tag": "In-memory key–value database",
