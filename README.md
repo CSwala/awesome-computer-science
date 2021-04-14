@@ -381,32 +381,6 @@ https://3dtotal.com/tutorials/t/10-blender-tricks-you-might-not-know-about <br> 
 </details>
 
 <details>
-<summary>Bootstrap</summary>
-<br>Category/Type - <br>CSS Framework <br>
-<br>Official Documentation - <br>https://getbootstrap.com/docs/5.0/getting-started/introduction/<br>
-<br>Best YouTube creators - <br>
-https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA<br>
-https://www.youtube.com/user/TechGuyWeb<br>
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9jE_cGvLLC60C_PeF_24pvv<br>
-<br>Useful Websites - <br>
-https://www.bitdegree.org/tutorials/learn-bootstrap/<br>
-https://websitesetup.org/bootstrap-tutorial-for-beginners/<br>
-<br>Dedicated Github page - <br>https://github.com/twbs/bootstrap<br>
-https://github.com/twbs/blog<br>
-https://github.com/twbs/bootstrap-sass<br>
-https://github.com/twbs/bootstrap-npm-starter<br>
-<br>Best Courses - <br>
-https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/<br>
-https://www.udemy.com/course/get-started-with-bootstrap-how-to-make-websites-from-scratch<br>
-https://www.codecademy.com/learn/learn-bootstrap<br>
-<br>Other Tips / Hacks - <br>
-https://www.freecodecamp.org/news/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33/<br>
-https://medium.com/wdstack/how-to-bootstrap-94abe3525442<br>
-https://hackerthemes.com/bootstrap-cheatsheet/<br>
-<br><br>
-</details>
-
-<details>
 <summary>Blockly</summary>
 <br>Category/Type - <br>Software <br>
 <br>Official Documentation - <br>https://developers.google.com/blockly/guides/get-started/web<br>
@@ -441,6 +415,32 @@ https://ieeexplore.ieee.org/document/8120404<br>
 http://google.github.io/blockly/<br>
 https://www.semanticscholar.org/paper/Tips-for-creating-a-block-language-with-blockly-Pasternak-Fenichel/16b90d7041f94a690b2aa82165da0564a6372ee2<br>
 https://neil.fraser.name/blockly/about/faq<br>
+<br><br>
+</details>
+
+<details>
+<summary>Bootstrap</summary>
+<br>Category/Type - <br>CSS Framework <br>
+<br>Official Documentation - <br>https://getbootstrap.com/docs/5.0/getting-started/introduction/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA<br>
+https://www.youtube.com/user/TechGuyWeb<br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9jE_cGvLLC60C_PeF_24pvv<br>
+<br>Useful Websites - <br>
+https://www.bitdegree.org/tutorials/learn-bootstrap/<br>
+https://websitesetup.org/bootstrap-tutorial-for-beginners/<br>
+<br>Dedicated Github page - <br>https://github.com/twbs/bootstrap<br>
+https://github.com/twbs/blog<br>
+https://github.com/twbs/bootstrap-sass<br>
+https://github.com/twbs/bootstrap-npm-starter<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/<br>
+https://www.udemy.com/course/get-started-with-bootstrap-how-to-make-websites-from-scratch<br>
+https://www.codecademy.com/learn/learn-bootstrap<br>
+<br>Other Tips / Hacks - <br>
+https://www.freecodecamp.org/news/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33/<br>
+https://medium.com/wdstack/how-to-bootstrap-94abe3525442<br>
+https://hackerthemes.com/bootstrap-cheatsheet/<br>
 <br><br>
 </details>
 
@@ -1744,6 +1744,21 @@ https://www.codementor.io/lisp-experts<br>
 </details>
 
 <details>
+<summary>MATLAB</summary>
+<br>Category/Type - <br>Matrix-based language<br>
+<br>Official Documentation - <br>https://in.mathworks.com/help/matlab/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/user/MATLAB<br>https://www.youtube.com/channel/UCNYJACuYKQlScmTuyIe8J0g<br>https://www.youtube.com/channel/UCEaVN5-XCvLgJOFAR_VOIoQ<br>https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA<br>
+<br>Useful Websites - <br>https://matlabacademy.mathworks.com/?s_tid=ac_ml_tut_til<br>https://nhigham.com/matlab-guide/<br>https://engineerexperiences.com/category/matlab<br>https://blogs.mathworks.com/videos/<br>
+<br>Dedicated Github page - <br>https://github.com/mathworks<br>https://github.com/topics/matlab-codes <br>https://github.com/VivekKrG/MATLAB-projects-and-Assignments<br>https://github.com/TadasBaltrusaitis/OpenFace<br>https://github.com/PRML/PRMLT<br>
+<br>Best Courses - <br>https://matlabacademy.mathworks.com/<br>https://www.udemy.com/course/matlab-essentials-for-engineering-and-science-students/<br>https://www.coursera.org/learn/matlab<br>https://www.linkedin.com/learning/learning-matlab-2/welcome<br>
+<br>Other Tips / Hacks - <br>https://in.mathworks.com/videos/matlab-and-simulink-racing-lounge-how-to-make-your-matlab-experience-more-productive-99548.html<br>https://www.ee.columbia.edu/~marios/matlab/GUIwithMatlab.pdf<br>https://www.ee.columbia.edu/~marios/matlab/Writing_Fast_MATLAB_Code.pdf<br>https://www.ee.columbia.edu/~marios/matlab/Matlab%20array%20manipulation%20tips%20and%20tricks.pdf<br><br>
+<a href="https://in.mathworks.com/matlabcentral/answers/228557-experts-of-matlab-how-did-you-learn-any-advice-for-beginner-intermediate-users">
+  <img align="center" src="https://user-images.githubusercontent.com/68437435/113461750-80cf9080-943b-11eb-88c5-74067ca42376.jpg" width="300" height="200"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Machine Learning</summary>
 <br>
 Category/Type - <br>
@@ -2490,6 +2505,7 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 </details> 
 
 <details>
+
 <summary>React Native</summary>
 <br>
 Category/Type - <br>
@@ -2541,6 +2557,71 @@ https://www.albertgao.xyz/2018/05/30/24-tips-for-react-native-you-probably-want-
 https://medium.com/dailyjs/11-mistakes-ive-made-during-react-native-redux-app-development-8544e2be9a9 <br>
 https://willowtreeapps.com/ideas/react-native-tips-and-tricks-styling-in-js <br>
 <br>
+</details>
+
+<details>
+<summary>Reason</summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://reasonml.github.io/docs/en/what-and-why <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=sjWsAYJF8BA <br>
+https://www.youtube.com/watch?v=XWj24mn-wUA <br>
+https://www.youtube.com/watch?v=SFcluy7n_0M <br>
+https://www.youtube.com/watch?v=qZo-VWjC7es <br>
+https://www.youtube.com/watch?v=EmBzyBQU760 <br>
+https://www.youtube.com/watch?v=KOSjVDKmwFw <br>
+https://www.youtube.com/watch?v=ItASl4SdPO0 <br>
+https://www.youtube.com/watch?v=N2PRU13jb9w <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/reasonml/ <br>
+https://blog.dubenko.dev/reasonml-by-example/ <br>
+https://reasonml.github.io/reason-react/docs/en/simple <br>
+https://reasonml.github.io/api/index <br>
+https://www.imaginarycloud.com/blog/reasonml-react-as-first-intended/ <br>
+https://medium.com/@josef_erben/sihl-full-stack-web-development-in-reasonml-8d863fa76c7e <br>
+https://awesomeopensource.com/projects/reasonml <br>
+https://blog.usejournal.com/journey-with-reasonml-as-a-junior-developer-17ee53a25fa7 <br>
+https://porter.in/blog/index.php/2019/05/28/reasonreact-abstracting-your-way-out-with-reasonml-functors/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/reasonml/reason <br>
+https://github.com/vramana/awesome-reasonml <br>
+https://github.com/reasonml/reason-react <br>
+https://github.com/reasonml/reasonml.github.io <br>
+https://github.com/reasonml-community/graphql-ppx <br>
+https://github.com/Astrocoders/lenses-ppx <br>
+https://github.com/davesnx/styled-ppx <br>
+https://github.com/dylanirlbeck/tailwind-ppx <br>
+<br>
+Best Courses - <br>
+https://www.educative.io/courses/functional-programming-with-reasonml <br>
+https://egghead.io/courses/get-started-with-reason <br>
+https://www.lynda.com/ReasonML-tutorials/295001-0.html <br>
+https://www.linkedin.com/learning/reasonml-first-look <br>
+https://www.freecodecamp.org/news/learn-reasonml-full-course/ <br>
+https://dev.to/mlms13/type-classes-in-reasonml-a-world-of-functions-for-free-2lag <br>
+https://hasura.io/learn/graphql/reason-react-apollo/introduction/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://medium.com/@dangggdennis/15-tips-for-learning-reason-reasonml-bb844ad1be2b <br>
+https://reasonml.github.io/docs/en/exception <br>
+http://reasonmlhub.com/exploring-reasonml/toc.html <br>
+https://pusher.com/sessions/meetup/reactivate-london/a-pragmatists-guide-to-reasonmla <br>
+https://exercism.io/tracks/reasonml <br>
+https://gist.github.com/AshCoolman/91ff0465e2e0aa84928fc7977c16e85d <br>
+https://blog.hackages.io/reasonml-ppx-8ecd663d5640 <br>
+https://www.youtube.com/watch?v=N2PRU13jb9w <br>
+<br>
+<a href="https://i2.wp.com/endlessillusoft.com/wp-content/uploads/2018/12/ReasonLogo.png?fit=700%2C264&ssl=1">
+  <img align="center" src="https://i2.wp.com/endlessillusoft.com/wp-content/uploads/2018/12/ReasonLogo.png?fit=700%2C264&ssl=1" width="1000" height="500"/>
+</a>
+<br><br><br>
 </details>
 
 <details>
@@ -3165,6 +3246,47 @@ https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https:
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MediaWiki_Vagrant_Visualization.jpg/900px-MediaWiki_Vagrant_Visualization.jpg" width="800" height="400"/>
 </a>
 <br><br><br>
+</details>
+
+<details>
+<summary>Vanilla JS</summary>
+<br>
+Category/Type - <br>Framework <br>
+<br>
+Official Documentation - <br>
+http://vanilla-js.com <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Ttf3CEsEwMQ <br>
+https://www.youtube.com/watch?v=3PHXvlpOkf4 <br>
+https://www.youtube.com/watch?v=82hnvUYY6QA&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=12 <br>
+https://www.youtube.com/watch?v=c5SIG7Ie0dM <br>
+<br>
+Useful Websites -
+<br>
+https://www.javatpoint.com/what-is-vanilla-javascript <br>
+https://javascript30.com <br>
+https://stackoverflow.com/questions/20435653/what-is-vanillajs <br>
+https://learnvanillajs.com <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/bradtraversy/vanillawebprojects <br>
+https://github.com/Haeresis/vanilla-js-dom <br>
+https://github.com/aman-maharshi/vanilla-js <br>
+https://github.com/snipcart/learn-vanilla-js <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/web-projects-with-vanilla-javascript/ <br>
+https://vanillajsacademy.com <br>
+https://coursesfree.org/course/vanilla-javascript/<br>
+https://www.udemy.com/course/vanilla-javascript-course-2020/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://academind.com/tutorials/vanilla-js-vs-frameworks/ <br>
+https://www.freecodecamp.org/news/do-we-still-need-javascript-frameworks-42576735949b/ <br>
+https://vanillawebprojects.com <br>
+https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks <br>
+<br>
 </details>
 
 <details>
