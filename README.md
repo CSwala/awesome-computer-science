@@ -381,32 +381,6 @@ https://3dtotal.com/tutorials/t/10-blender-tricks-you-might-not-know-about <br> 
 </details>
 
 <details>
-<summary>Bootstrap</summary>
-<br>Category/Type - <br>CSS Framework <br>
-<br>Official Documentation - <br>https://getbootstrap.com/docs/5.0/getting-started/introduction/<br>
-<br>Best YouTube creators - <br>
-https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA<br>
-https://www.youtube.com/user/TechGuyWeb<br>
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9jE_cGvLLC60C_PeF_24pvv<br>
-<br>Useful Websites - <br>
-https://www.bitdegree.org/tutorials/learn-bootstrap/<br>
-https://websitesetup.org/bootstrap-tutorial-for-beginners/<br>
-<br>Dedicated Github page - <br>https://github.com/twbs/bootstrap<br>
-https://github.com/twbs/blog<br>
-https://github.com/twbs/bootstrap-sass<br>
-https://github.com/twbs/bootstrap-npm-starter<br>
-<br>Best Courses - <br>
-https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/<br>
-https://www.udemy.com/course/get-started-with-bootstrap-how-to-make-websites-from-scratch<br>
-https://www.codecademy.com/learn/learn-bootstrap<br>
-<br>Other Tips / Hacks - <br>
-https://www.freecodecamp.org/news/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33/<br>
-https://medium.com/wdstack/how-to-bootstrap-94abe3525442<br>
-https://hackerthemes.com/bootstrap-cheatsheet/<br>
-<br><br>
-</details>
-
-<details>
 <summary>Blockly</summary>
 <br>Category/Type - <br>Software <br>
 <br>Official Documentation - <br>https://developers.google.com/blockly/guides/get-started/web<br>
@@ -441,6 +415,32 @@ https://ieeexplore.ieee.org/document/8120404<br>
 http://google.github.io/blockly/<br>
 https://www.semanticscholar.org/paper/Tips-for-creating-a-block-language-with-blockly-Pasternak-Fenichel/16b90d7041f94a690b2aa82165da0564a6372ee2<br>
 https://neil.fraser.name/blockly/about/faq<br>
+<br><br>
+</details>
+
+<details>
+<summary>Bootstrap</summary>
+<br>Category/Type - <br>CSS Framework <br>
+<br>Official Documentation - <br>https://getbootstrap.com/docs/5.0/getting-started/introduction/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA<br>
+https://www.youtube.com/user/TechGuyWeb<br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9jE_cGvLLC60C_PeF_24pvv<br>
+<br>Useful Websites - <br>
+https://www.bitdegree.org/tutorials/learn-bootstrap/<br>
+https://websitesetup.org/bootstrap-tutorial-for-beginners/<br>
+<br>Dedicated Github page - <br>https://github.com/twbs/bootstrap<br>
+https://github.com/twbs/blog<br>
+https://github.com/twbs/bootstrap-sass<br>
+https://github.com/twbs/bootstrap-npm-starter<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/<br>
+https://www.udemy.com/course/get-started-with-bootstrap-how-to-make-websites-from-scratch<br>
+https://www.codecademy.com/learn/learn-bootstrap<br>
+<br>Other Tips / Hacks - <br>
+https://www.freecodecamp.org/news/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33/<br>
+https://medium.com/wdstack/how-to-bootstrap-94abe3525442<br>
+https://hackerthemes.com/bootstrap-cheatsheet/<br>
 <br><br>
 </details>
 
@@ -2559,6 +2559,7 @@ https://willowtreeapps.com/ideas/react-native-tips-and-tricks-styling-in-js <br>
 <br>
 </details>
 
+<details>
 <summary>Reason</summary>
 <br>
 Category/Type - <br>Programming language <br>
@@ -2621,6 +2622,7 @@ https://www.youtube.com/watch?v=N2PRU13jb9w <br>
   <img align="center" src="https://i2.wp.com/endlessillusoft.com/wp-content/uploads/2018/12/ReasonLogo.png?fit=700%2C264&ssl=1" width="1000" height="500"/>
 </a>
 <br><br><br>
+</details>
 
 <details>
  <summary>Redis</summary>
