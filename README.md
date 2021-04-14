@@ -3090,7 +3090,7 @@ https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https:
 </details>
 
 <details>
-<summary>Vanilla Javascript</summary>
+<summary>Vanilla JS</summary>
 <br>
 Category/Type - <br>Framework <br>
 <br>
