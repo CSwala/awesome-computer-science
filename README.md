@@ -1038,6 +1038,49 @@ https://www.besanttechnologies.com/what-is-expressjs <br>
 <br><br><br>
 </details>
 
+<details>
+<summary>Flask</summary>
+<br>Category/Type - <br>Python Web Framework<br>
+<br>Official Documentation - <br>https://flask.palletsprojects.com/en/1.1.x/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Z1RJmh_OqeA<br>
+https://www.youtube.com/watch?v=oA8brF3w5XQ<br>
+https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH<br>
+https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf<br>
+https://www.youtube.com/watch?v=lj4I_CvBnt0<br>
+https://www.youtube.com/watch?v=3mwFC4SHY-Y<br>
+https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX<br>
+<br>Useful Websites - <br>
+https://www.tutorialspoint.com/flask/index.htm<br>
+https://www.javatpoint.com/flask-tutorial<br>
+https://realpython.com/tutorials/flask/<br>
+https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask<br>
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world<br>
+https://pythonbasics.org/what-is-flask-python/<br>
+<br>Dedicated Github page - <br>
+https://github.com/pallets/flask<br>
+https://github.com/realpython/discover-flask<br>
+https://github.com/humiaozuzu/awesome-flask<br>
+https://github.com/flask-restful/flask-restful<br>
+https://github.com/flask-api/flask-api<br>
+https://github.com/mjhea0/awesome-flask<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/python-and-flask-bootcamp-create-websites-using-flask/<br>
+https://www.udemy.com/course/rest-api-flask-and-python/<br>
+https://www.udemy.com/course/the-ultimate-flask-course/<br>
+https://www.coursera.org/projects/python-flask<br>
+https://www.pluralsight.com/courses/flask-getting-started<br>
+https://www.educative.io/courses/flask-develop-web-applications-in-python<br>
+https://www.udemy.com/course/python-flask-beginners/<br>
+<br>Other Tips / Hacks - <br>
+https://talkpython.fm/episodes/show/264/10-tips-every-flask-developer-should-knows<br>
+https://www.youtube.com/watch?v=tqZxama6tiE<br>
+https://medium.com/analytics-vidhya/tips-and-secrets-for-developing-a-powerful-api-with-python-flask-8c3c3ea0103<br>
+https://s3.us-east-2.amazonaws.com/prettyprinted/flask_cheatsheet.pdf<br>
+https://medium.com/@vineetsu/flask-web-application-roadmap-86ad1f551c5f<br>
+https://medium.com/@amphykins/flask-url-tricks-fffd6c583c2a<br>
+<br>
+</details>
 
 <details>
 <summary>F# </summary>
