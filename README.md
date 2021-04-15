@@ -3586,6 +3586,75 @@ https://betterprogramming.pub/10-tips-and-tricks-to-make-you-a-better-vue-js-dev
 </details>
 
 <details>
+<summary>WebAssembly </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://webassembly.org/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=zxy0xqQs-k4 <br>
+https://www.youtube.com/watch?v=FmEKAsB8lUk <br>
+https://www.youtube.com/watch?v=O28wktJM9XM <br>
+https://www.youtube.com/watch?v=LNqicUieSqI <br>
+https://www.youtube.com/watch?v=iAPtMggoSx0 <br>
+https://www.youtube.com/watch?v=njt-Qzw0mVY <br>
+https://www.youtube.com/watch?v=jGKjKx2vous <br>
+https://www.youtube.com/watch?v=ysFJHpS-O08 <br>
+https://www.youtube.com/watch?v=yEYtwmI7bDg <br>
+<br>
+Useful Websites -
+<br>
+https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts <br>
+https://www.reddit.com/r/WebAssembly/ <br>
+https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/ <br>
+https://www.arroyolabs.com/2019/02/introducing-webassembly-with-examples/ <br>
+https://webassembly.org/docs/use-cases/ <br>
+https://webassembly.org/getting-started/developers-guide/ <br>
+https://madewithwebassembly.com/about/ <br>
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Module <br>
+https://livebook.manning.com/book/webassembly-in-action/chapter-3/v-8 <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/WebAssembly/spec <br>
+https://github.com/WebAssembly/binaryen <br>
+https://github.com/WebAssembly/design <br>
+https://github.com/wasmerio/wasmer <br>
+https://github.com/mikerourke/learn-webassembly <br>
+https://github.com/petersalomonsen/wasm-git <br>
+https://github.com/wasdk/WebAssemblyStudio <br>
+https://github.com/wasm3/wasm3 <br>
+https://github.com/spacemakerai/course-wasm <br>
+<br>
+Best Courses - <br>
+https://www.edx.org/course/introduction-to-webassembly-runtime <br>
+https://www.udemy.com/course/webassembly-emscripten/ <br>
+https://www.udemy.com/course/webassembly/ <br>
+https://egghead.io/courses/get-started-using-webassembly-wasm <br>
+https://www.pluralsight.com/courses/web-assembly-big-picture <br>
+https://training.linuxfoundation.org/training/introduction-to-webassembly-lfd133/ <br>
+https://www.nobleprog.com/webassembly-training <br>
+https://frontendmasters.com/workshops/web-assembly/ <br>
+https://jbinternational.co.uk/course/749/webassembly-training-course-class-london-uk <br>
+<br>
+Other Tips / Hacks - <br>
+https://jaxenter.com/introduction-webassembly-152093.html <br>
+https://livebook.manning.com/book/webassembly-in-action/chapter-1/v-8/ <br>
+https://opensource.com/article/19/8/webassembly-speed-code-reuse <br>
+https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics <br>
+https://developers.google.com/web/updates/2019/02/hotpath-with-wasm <br>
+https://medium.com/appsflyer/writing-your-first-webassembly-project-2a2d86b20e8f <br>
+https://engineering.q42.nl/webassembly/ <br>
+https://thenewstack.io/talking-wasm-paul-milham-webassembly-may-reinvent-write-ship-code-web/ <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>WebGL</summary>
 <br>Category/Type - <br>Programming language<br>
 <br>Official Documentation - <br>https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API<br>
