@@ -2026,6 +2026,67 @@ https://www.freecodecamp.org/news/powerful-ways-to-supercharge-your-nginx-server
 </details>
 
 <details>
+<summary>Nim </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://nim-lang.org/documentation.html <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=O8Y4faZPnsc <br>
+https://www.youtube.com/watch?v=7WgCt0Wooeo <br>
+https://www.youtube.com/watch?v=P8oJUGVbOlQ <br>
+https://www.youtube.com/watch?v=nKTLsUF9oyU <br>
+https://www.youtube.com/watch?v=Iro4l0bMBb4 <br>
+https://www.youtube.com/watch?v=5tVIsDYPClA <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/nim/ <br>
+https://nim-lang.org/ <br>
+https://nim-lang.org/docs/tut1.html <br>
+https://nim-lang.org/features.html <br>
+https://blog.eduonix.com/web-programming-tutorials/nim-programming-language-syntaxes/ <br>
+https://www.reddit.com/r/nim/comments/huxapn/usecases_for_nim/ <br>
+https://www.infoq.com/articles/got-nim/ <br>
+https://nim-lang.org/nimedit/#:~:text=NimEdit%20is%20the%20upcoming%20slim,most%20powerful%20editors%20out%20there. <br>
+https://forum.arduino.cc/t/integration-of-the-nim-programming-language-with-arduino-ide/633730 <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/flaviut/nim-by-example <br>
+https://github.com/nim-lang/Nim <br>
+https://github.com/nim-lang/nimble <br>
+https://github.com/nim-lang/packages <br>
+https://github.com/nim-lang/Aporia <br>
+https://github.com/byt3bl33d3r/OffensiveNim <br>
+https://github.com/zedeus/nitter <br>
+https://github.com/nim-lang/website <br>
+https://github.com/xflywind/awesome-nim <br>
+<br>
+Best Courses - <br>
+https://nim-lang.org/docs/tut1.html <br>
+https://nim-by-example.github.io/getting_started/ <br>
+https://narimiran.github.io/nim-basics/ <br>
+https://howistart.org/posts/nim/1/index.html <br>
+https://livebook.manning.com/book/nim-in-action/chapter-1/ <br>
+https://learnxinyminutes.com/docs/nim/ <br>
+https://www.kidscodecs.com/nim/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://forum.nim-lang.org/t/2556 <br>
+https://peterme.net/tips-and-tricks-with-implicit-return-in-nim.html <br>
+https://users.rust-lang.org/t/nim-multithreading-faster-than-rust/36239/41 <br>
+https://github.com/status-im/nim-libp2p <br>
+https://www.youtube.com/watch?v=_HeU8yg_WaE <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/1/1b/Nim-logo.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Nim-logo.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>NLTK</summary>
 <br>Category/Type - <br>Python Library<br>
 <br>Official Documentation - <br>https://www.nltk.org/<br>
