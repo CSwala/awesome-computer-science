@@ -968,6 +968,37 @@ https://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/ <br>
 </a>
 <br><br><br>
 </details>
+<details>
+<summary>Figma</summary>
+<br>Category/Type - <br>Digital Design Tool<br>
+<br>Official Documentation - <br>https://www.figma.com/plugin-docs/intro/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Cx2dkpBxst8<br>
+https://www.youtube.com/watch?v=4W4LvJnNegA<br>
+https://www.youtube.com/watch?v=FTFaQWZBqQ8<br>
+https://www.youtube.com/watch?v=Gu1so3pz4bA<br>
+<br>Useful Websites - <br>
+https://www.figma.com<br>
+https://www.toptal.com/designers/ui/figma-design-tool<br>
+https://www.crunchbase.com/organization/figma<br>
+https://www.figma.com/downloads/<br>
+<br>Dedicated Github page - <br>
+https://github.com/bernaferrari/FigmaToCode<br>
+ https://github.com/figmaspace/figmaspace.github.io <br>
+ https://github.com/figma<br>
+ https://github.com/jongold/figma-js<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/learn-figma/<br>
+https://www.udemy.com/course/the-complete-figma-course/<br>
+https://learnux.io/course/figma<br>
+https://www.skillshare.com/browse/figma<br>
+<br>Other Tips / Hacks - <br>
+https://uxdesign.cc/figma-community-the-github-for-designers-b2261d4d21be<br>
+https://blog.prototypr.io/figma-tips-and-tricks-1c07ec13b696<br>
+https://uxplanet.org/advanced-figma-tips-tricks-d782ba2b2f5c<br>
+https://awesomefigmatips.com/tips<br>
+<br>
+</details>
 
 <details>
 <summary>Express.js</summary>
