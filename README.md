@@ -362,6 +362,61 @@ https://book.hacktricks.xyz/pentesting/pentesting-web/tomcat <br>
 </details>
 
 <details>
+<summary>Apex</summary>
+<br>
+Category/Type - <br>Programming Language <br>
+<br>
+Official Documentation - <br>
+https://developer.salesforce.com/docs/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=68X85SxAU1g&list=PLaGX-30v1lh1e8roeCUumUEel5ukdPubj <br>
+https://www.youtube.com/watch?v=iPlfPKBXhAw&list=PLdYQMTciVWO8D1lxAzLdEwmt1k8f8ic0t<br>
+https://www.youtube.com/watch?v=bllHYNGiJC4 <br>
+https://www.youtube.com/watch?v=ZVNI2ymxPcs <br>
+https://www.youtube.com/watch?v=wGq0RTSqbzw<br>
+https://www.youtube.com/watch?v=_9RJD5tVeHo<br>
+<br>
+Useful Websites -
+<br>
+https://www.tutorialspoint.com/apex/index.htm#:~:text=Apex%20is%20a%20proprietary%20language,to%20the%20Force.com%20API.<br>
+https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm <br>
+https://trailhead.salesforce.com/en/content/learn/modules/platform_dev_basics/platform_dev_basics_code<br>
+https://www.guru99.com/apex-tutorial.html<br>
+https://www.salesforcetutorial.com/introduction-to-apex-programming/<br>
+https://www.sfdc99.com/beginner-tutorials/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/kame0013/awesome-apex<br>
+https://github.com/Dani3lSun/awesome-orclapex<br>
+https://github.com/chaconnewu/awesome-augmented/blob/master/original_awesomes/awesome-salesforce.md  <br>
+https://github.com/mailtoharshit/awesome-salesforce/blob/master/README.md<br>
+https://github.com/trailheadapps/apex-recipes<br>
+https://github.com/mailtoharshit/awesome-salesforce<br>
+<br>
+Best Courses - <br>
+https://www.pluralsight.com/courses/apex-absolute-beginner-guide-coding-salesforce<br>
+https://www.udemy.com/course/introduction-to-apex-programming-language/<br>
+https://www.udemy.com/course/oracle-application-express-learn-oracle-apex-201/ <br>
+https://www.classcentral.com/course/udemy-introduction-to-apex-programming-language-37964<br>
+https://www.packtpub.com/product/learning-apex-programming/9781782173977<br>
+<br>
+Other Tips / Hacks - <br>
+https://dazeworks.com/team-blogs/ <br>
+https://www.jamessimone.net/blog/joys-of-apex/refactoring-tips-and-tricks/ <br>
+https://www.panaya.com/blog/salesforce/salesforce-apex-code/<br>
+https://www.salesforceben.com/5-tips-every-salesforce-developer-needs-in-2021/ <br>
+https://www.panaya.com/blog/salesforce/salesforce-apex-code/  <br>
+https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm#:~:text=Develop%20your%20Apex%20code%20in,it%20to%20customers%20using%20packages.&text=This%20Apex%20reference%20goes%20into,in%20Apex%20classes%20and%20interfaces.<br>
+
+<br>
+<a href="https://www.opencodez.com/wp-content/uploads/2018/04/Learning-Apex-Salesforce.png">
+  <img align="center" src="https://www.opencodez.com/wp-content/uploads/2018/04/Learning-Apex-Salesforce.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Blender</summary>
 <br>Category/Type - <br>3D modeling and animation program<br>
 <br>Official Documentation - <br>https://docs.blender.org/manual/en/latest/<br>
@@ -913,6 +968,106 @@ https://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/ <br>
 </a>
 <br><br><br>
 </details>
+<details>
+<summary>Figma</summary>
+<br>Category/Type - <br>Digital Design Tool<br>
+<br>Official Documentation - <br>https://www.figma.com/plugin-docs/intro/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Cx2dkpBxst8<br>
+https://www.youtube.com/watch?v=4W4LvJnNegA<br>
+https://www.youtube.com/watch?v=FTFaQWZBqQ8<br>
+https://www.youtube.com/watch?v=Gu1so3pz4bA<br>
+<br>Useful Websites - <br>
+https://www.figma.com<br>
+https://www.toptal.com/designers/ui/figma-design-tool<br>
+https://www.crunchbase.com/organization/figma<br>
+https://www.figma.com/downloads/<br>
+<br>Dedicated Github page - <br>
+https://github.com/bernaferrari/FigmaToCode<br>
+ https://github.com/figmaspace/figmaspace.github.io <br>
+ https://github.com/figma<br>
+ https://github.com/jongold/figma-js<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/learn-figma/<br>
+https://www.udemy.com/course/the-complete-figma-course/<br>
+https://learnux.io/course/figma<br>
+https://www.skillshare.com/browse/figma<br>
+<br>Other Tips / Hacks - <br>
+https://uxdesign.cc/figma-community-the-github-for-designers-b2261d4d21be<br>
+https://blog.prototypr.io/figma-tips-and-tricks-1c07ec13b696<br>
+https://uxplanet.org/advanced-figma-tips-tricks-d782ba2b2f5c<br>
+https://awesomefigmatips.com/tips<br>
+<br>
+</details>
+
+<details>
+<summary>Express.js</summary>
+<br>Category/Type - <br> Web framework for Node.js <br>
+<br>Official Documentation - <br> https://expressjs.com/en/starter/installing.html <br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=L72fhGm1tfE <br>
+https://www.youtube.com/watch?v=2ojkb44XObc <br>
+https://www.youtube.com/watch?v=AX1AP83CuK4 <br>
+https://www.youtube.com/watch?v=z7ikpQCWbtQ <br>
+https://www.youtube.com/watch?v=Oe421EPjeBE <br>
+https://www.youtube.com/watch?v=JlgKybraoy4 <br>
+https://www.youtube.com/watch?v=G8uL0lFFoN0 <br>
+https://www.youtube.com/watch?v=46Mjvdv_UUM <br>
+https://www.youtube.com/watch?v=-27HAh8c0YU <br>
+https://www.youtube.com/watch?v=r1yeXZ5_i9c&list=PLWPirh4EWFpGNfj9K0dwb0nJAOXwD9BMg <br>
+<br>Useful Websites - <br>
+https://www.freecodecamp.org/news/going-out-to-eat-and-understanding-the-basics-of-express-js-f034a029fb66/ <br>
+https://www.guru99.com/node-js-express.html <br>
+https://www.edureka.co/blog/expressjs-tutorial/ <br>
+https://vegibit.com/express-js-beginner-tutorial/ <br>
+https://www.tutorialspoint.com/expressjs/expressjs_overview.htm <br>
+https://initialcommit.com/blog/beginners-guide-to-using-express-js-and-node-js-framework <br>
+https://www.javatpoint.com/expressjs-tutorial <br>
+https://www.tutorialsteacher.com/nodejs/expressjs <br>
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction <br>
+https://codeforgeek.com/express-nodejs-tutorial/ <br>
+https://medium.com/@LindaVivah/the-beginners-guide-understanding-node-js-express-js-fundamentals-e15493462be1 <br>
+https://dev.to/ceceliacreates/express-basics-for-beginners-3e00 <br>
+<br>Dedicated Github page - <br> 
+https://github.com/expressjs/express <br>
+https://github.com/expressjs/serve-index <br>
+https://github.com/expressjs/cors <br>
+https://github.com/expressjs/generator <br>
+https://github.com/expressjs/session <br>
+https://github.com/expressjs/timeout <br>
+https://github.com/expressjs/compression <br>
+https://github.com/expressjs/connect-multiparty <br>
+https://github.com/expressjs/expressjs.com <br>
+https://github.com/ExpressGateway/express-gateway.io <br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/express-web-framework-for-beginners/ <br>
+https://www.udemy.com/course/expressjs-from-beginner-to-advanced/ <br>
+https://www.linkedin.com/learning/express-essential-training <br>
+https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3 <br>
+https://www.udemy.com/course/just-express-with-a-bunch-of-node-and-http-in-detail/ <br>
+https://www.udemy.com/course/expressjs-fundamentals/ <br>
+https://www.udemy.com/course/learn-expressjs-for-beginners-a-javascript-framework/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-407715969058_._li_9302042_._pd__._&matchtype=b&gclid=Cj0KCQjw38-DBhDpARIsADJ3kjkYGQm449WKZdvQ3dcPlOOp1FRXhlUQWEGIaVLvmoWwfsbh5gzTQugaAjLPEALw_wcB <br>
+https://www.linkedin.com/learning/advanced-express <br>
+https://www.codecademy.com/learn/learn-express?g_network=g&g_device=c&g_adid=459384587887&g_keyword=%2Bcourse%20%2Bexpress%20%2Bjs&g_campaign=ROW+Language%3A+Pro+-+Broad&g_acctid=243-039-7011&g_adtype=search&g_adgroupid=104765213222&g_keywordid=kwd-927815240802&g_campaignid=10947274263&utm_id=t_kwd-927815240802:ag_104765213222:cp_10947274263:n_g:d_c&utm_term=%2Bcourse%20%2Bexpress%20%2Bjs&utm_campaign=ROW%20Language%3A%20Pro%20-%20Broad&utm_source=google&utm_medium=paid-search&utm_content=459384587887&hsa_acc=2430397011&hsa_cam=10947274263&hsa_grp=104765213222&hsa_ad=459384587887&hsa_src=g&hsa_tgt=kwd-927815240802&hsa_kw=%2Bcourse%20%2Bexpress%20%2Bjs&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw38-DBhDpARIsADJ3kjlZilAGOsRb9Xy2Rp1YAwE2XOgn-bMxeOnwzxvMeNLaHFY7OD2GagcaAquEEALw_wcB <br>
+https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/ <br>
+<br>Other Tips / Hacks - <br> 
+https://www.tutorialandexample.com/expressjs-interview-questions/ <br>
+https://www.sitepoint.com/create-new-express-js-apps-with-express-generator/ <br>
+https://www.educba.com/express-js-interview-questions/ <br>
+https://www.fullstacktutorials.com/interviews/top-10-express-js-interview-questions-answers-30.html <br>
+https://javascript.plainenglish.io/3-express-js-features-you-need-to-know-8f78b0035f33 <br>
+https://www.freecodecamp.org/news/express-js-security-tips/ <br>
+https://blog.grossman.io/expressjs-tips-for-large-applications/ <br>
+https://apiko.com/blog/express-js-api-and-rest-api-organization-tips-examples-and-techniques/ <br>
+https://www.tutorialspoint.com/expressjs/expressjs_best_practices.htm <br>
+https://www.besanttechnologies.com/what-is-expressjs <br>
+<br>
+<a href="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle.png">
+  <img align="center" src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle.png" width="900" height="500"/>
+</a>
+<br><br><br>
+</details>
+
 
 <details>
 <summary>Express.js</summary>
@@ -2092,6 +2247,67 @@ https://www.lynda.com/course-tutorials/Nginx-High-Performance-Servers/724790-2.h
 <br>Other Tips / Hacks - <br> https://www.51sec.org/2020/04/13/nginx-tips-and-tricks-load-balancer-configuration/ <br> https://www.nginx.com/blog/performance-tuning-tips-tricks/ <br>
 https://www.nginx.com/blog/10-tips-for-10x-application-performance/ <br> https://www.monitis.com/blog/5-quick-tips-to-optimize-your-nginx-performance/ <br>
 https://www.freecodecamp.org/news/powerful-ways-to-supercharge-your-nginx-server-and-improve-its-performance-a8afdbfde64d/ <br> https://www.howtoforge.com/tips-and-tricks-to-secure-your-nginx-web-server/ <br>
+</details>
+
+<details>
+<summary>Nim </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://nim-lang.org/documentation.html <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=O8Y4faZPnsc <br>
+https://www.youtube.com/watch?v=7WgCt0Wooeo <br>
+https://www.youtube.com/watch?v=P8oJUGVbOlQ <br>
+https://www.youtube.com/watch?v=nKTLsUF9oyU <br>
+https://www.youtube.com/watch?v=Iro4l0bMBb4 <br>
+https://www.youtube.com/watch?v=5tVIsDYPClA <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/nim/ <br>
+https://nim-lang.org/ <br>
+https://nim-lang.org/docs/tut1.html <br>
+https://nim-lang.org/features.html <br>
+https://blog.eduonix.com/web-programming-tutorials/nim-programming-language-syntaxes/ <br>
+https://www.reddit.com/r/nim/comments/huxapn/usecases_for_nim/ <br>
+https://www.infoq.com/articles/got-nim/ <br>
+https://nim-lang.org/nimedit/#:~:text=NimEdit%20is%20the%20upcoming%20slim,most%20powerful%20editors%20out%20there. <br>
+https://forum.arduino.cc/t/integration-of-the-nim-programming-language-with-arduino-ide/633730 <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/flaviut/nim-by-example <br>
+https://github.com/nim-lang/Nim <br>
+https://github.com/nim-lang/nimble <br>
+https://github.com/nim-lang/packages <br>
+https://github.com/nim-lang/Aporia <br>
+https://github.com/byt3bl33d3r/OffensiveNim <br>
+https://github.com/zedeus/nitter <br>
+https://github.com/nim-lang/website <br>
+https://github.com/xflywind/awesome-nim <br>
+<br>
+Best Courses - <br>
+https://nim-lang.org/docs/tut1.html <br>
+https://nim-by-example.github.io/getting_started/ <br>
+https://narimiran.github.io/nim-basics/ <br>
+https://howistart.org/posts/nim/1/index.html <br>
+https://livebook.manning.com/book/nim-in-action/chapter-1/ <br>
+https://learnxinyminutes.com/docs/nim/ <br>
+https://www.kidscodecs.com/nim/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://forum.nim-lang.org/t/2556 <br>
+https://peterme.net/tips-and-tricks-with-implicit-return-in-nim.html <br>
+https://users.rust-lang.org/t/nim-multithreading-faster-than-rust/36239/41 <br>
+https://github.com/status-im/nim-libp2p <br>
+https://www.youtube.com/watch?v=_HeU8yg_WaE <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/1/1b/Nim-logo.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Nim-logo.png" width="500" height="500"/>
+</a>
+<br><br><br>
 </details>
 
 <details>
