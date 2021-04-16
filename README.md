@@ -3472,6 +3472,51 @@ https://www.pluralsight.com/blog/software-development/unity-tips-and-tricks <br>
 https://www.codeguru.com/csharp/csharp/cs_graphics/20-unity-tips.html <br> https://www.unity3dtips.com <br> https://www.reddit.com/r/Unity3D/comments/7gor9r/what_are_your_top_3_unity_tipstricks/ <br>
 http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/ <br>
 </details>
+<details>
+<summary>Unix</summary>
+<br>Category/Type - <br> Operating System<br>
+<br>Official Documentation - <br>https://www.opengroup.org/membership/forums/platform/unix<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=vLPdBp9vv9Y<br>
+https://www.youtube.com/watch?v=_OHi608AbeA&list=PLVlQHNRLflP8WncRgkwFqTOzRf_GSgl00<br>
+https://www.youtube.com/watch?v=txRD_bK062Y&list=PLd3UqWTnYXOloH0vWBs4BtSbP84WcC2NY <br>
+https://www.youtube.com/watch?v=8c1BL5b47kg<br>
+https://www.youtube.com/watch?v=UTto4gZPrkw&list=PLRt-r4QiDOMfnd_ARDNWpZJBYiLJvmeu7 <br>
+https://www.youtube.com/watch?v=pSP9mSpAH7o <br>
+<br>Useful Websites - <br>
+https://www.tutorialspoint.com/unix/index.htm<br>
+https://www.javatpoint.com/linux-tutorial<br>
+http://www.ee.surrey.ac.uk/Teaching/Unix/<br>
+https://www.livefirelabs.com/unix_commands/how-to-learn-unix-in-24-hours-a-quick-start-guide-to-unix-for-beginners.htm<br>
+https://www.learnshell.org/ <br>
+https://fresh2refresh.com/unix-tutorial/ <br>
+https://www.w3schools.in/operating-system-tutorial/linux-operating-system/<br>
+<br>Dedicated Github page - <br> 
+https://github.com/sirredbeard/Awesome-UNIX<br>
+https://github.com/alebcay/awesome-shell <br>
+https://github.com/awesome-lists/awesome-bash<br>
+https://github.com/inputsh/awesome-linux <br>
+https://github.com/luong-komorebi/Awesome-Linux-Software <br>
+https://github.com/uhub/awesome-shell<br>
+<br>Best Courses - <br>
+https://www.coursera.org/learn/unix <br>
+https://www.udemy.com/course/grep-awk-and-sed-of-unix/<br>
+https://www.guru99.com/unix-linux-tutorial.html <br>
+https://alison.com/course/unix-linux-and-shell-scripting-crash-course <br>
+https://www.lynda.com/Unix-training-tutorials/482-0.html <br>
+https://intellipaat.com/unix-shell-scripting/ <br>
+<br>Other Tips / Hacks - <br> 
+https://dzone.com/articles/10-tips-on-working-fast-in-unix-or-linux<br>
+https://hackernoon.com/10-basic-tips-on-working-fast-in-unix-or-linux-terminal-5746ae42d277<br>
+https://www.networkworld.com/article/2865214/15-unix-tricks-to-get-your-new-year-off-to-a-good-start.html<br>
+https://www.gotothings.com/unix/ <br>
+https://javarevisited.blogspot.com/2018/07/10-tips-on-working-fast-in-unix-or-linux.html#axzz6s7tDPcce<br>
+<br>
+<a href="https://unix.org/images/unix-an-open-group-standard.png">
+  <img align="center" src="https://unix.org/images/unix-an-open-group-standard.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 
 <details>
 <summary>Unreal Engine</summary>
