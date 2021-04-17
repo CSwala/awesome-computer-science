@@ -2055,6 +2055,47 @@ https://www.udemy.com/course/complete-maya-fluids-bootcamp/ <br> https://www.ude
 <br><br><br>
 </details>
 
+<details>
+<summary>MERN Stack</summary>
+<br>
+Category/Type - <br>Web Development Framework <br>
+<br>
+Official Documentation - <br>
+https://www.mongodb.com/mern-stack <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=7CqJlxBYj-M <br>
+https://www.youtube.com/watch?v=PBTYxXADG_k <br>
+https://www.youtube.com/watch?v=ktjafK4SgWM <br>
+https://www.youtube.com/watch?v=9tn82yBrX90&list=PLUVqY59GNZQMcLXlrBo4T557kWjbKHMLS <br>
+<br>
+Useful Websites -
+<br>
+https://www.geeksforgeeks.org/mern-stack/ <br>
+https://www.educative.io/edpresso/what-is-mern-stack <br>
+https://blog.logrocket.com/mern-stack-tutorial/ <br>
+https://medium.com/@blockchain_simplified/what-is-mern-stack-9c867dbad302 <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/hemakshis/Basic-MERN-Stack-App<br>
+https://github.com/juliojgarciaperez/deploy-mern<br>
+https://github.com/amazingandyyy/mern <br>
+https://github.com/purnima143/Kurakoo <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/mern-stack-front-to-back/ <br>
+https://www.udemy.com/course/mern-ecommerce/<br>
+https://www.codingninjas.com/courses/ninja-web-developer-career-track-mern-stack <br>
+https://courses.learncodeonline.in/learn/Full-Stack-MERN-Bootcamp <br>
+<br>
+Other Tips / Hacks - <br>
+https://alligator.io/react/mern-stack-intro/ <br>
+https://dev.to/koolkishan/a-roadmap-to-learn-mern-stack-for-beginners-2l9k <br>
+https://gitconnected.com/learn/node-js/mern-stack-the-complete-guide-1d0e31 <br>
+https://www.crio.do/?utm_source=adwords1&gclid=CjwKCAjwjuqDBhAGEiwAdX2cj5BGnJ1EUgWK1gWfT91uVHwhcDIDdLNqU6kE4R46saAoniiq9Q1D8xoCimgQAvD_BwE <br>
+<br>
+</details>
+
  <details>
  <summary>Metal</summary>
  <br>Category/Type - <br> GPU-accelerated graphics and compute framework <br>
