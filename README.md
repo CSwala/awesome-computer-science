@@ -969,6 +969,75 @@ https://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/ <br>
 <br><br><br>
 </details>
 
+<details>
+<summary>Erlang </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://www.erlang.org/docs <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=IEhwc2q1zG4 <br>
+https://www.youtube.com/watch?v=-MEFHv2Uji4 <br>
+https://www.youtube.com/watch?v=SOqQVoVai6s <br>
+https://www.youtube.com/watch?v=OCkL9z8IxOI <br>
+https://www.youtube.com/watch?v=aWpSgAAiZaE <br>
+https://www.youtube.com/watch?v=IwhbjqsizFk <br>
+https://www.youtube.com/watch?v=iEzqR02M2PE <br>
+https://www.youtube.com/watch?v=yRJZxV8uPhg <br>
+https://www.youtube.com/watch?v=aEyQcZg-Njs <br>
+<br>
+Useful Websites -
+<br>
+https://www.erlang.org/ <br>
+https://www.erlang.org/downloads <br>
+https://www.reddit.com/r/erlang/ <br>
+https://erlang.org/doc/reference_manual/modules.html <br>
+http://www1.erlang.org/examples/examples-2.0.html <br>
+http://erlang.org/doc/apps/et/et_examples.html <br>
+https://erlang.org/doc/reference_manual/functions.html <br>
+https://erlang.org/doc/programming_examples/funs.html <br>
+https://stackoverflow.com/questions/26728564/passing-anonymous-function-as-parameter-to-a-function-in-erlang <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/erlang/otp <br>
+https://github.com/erlang/rebar3 <br>
+https://github.com/erlang/erlang-org <br>
+https://github.com/esl/MongooseIM <br>
+https://github.com/esl/ex_docker_build <br>
+https://github.com/esl/base16 <br>
+https://github.com/esl/rebar3_codecov <br>
+https://github.com/esl/mongoose_jid <br>
+https://github.com/esl/escalus <br>
+<br>
+Best Courses - <br>
+https://www.erlang.org/course <br>
+https://www.futurelearn.com/courses/functional-programming-erlang <br>
+https://learnyousomeerlang.com/contents <br>
+https://www.howistart.org/posts/erlang/1/ <br>
+https://www.erlang-solutions.com/trainings/erlang-for-beginners-2/ <br>
+https://www.classcentral.com/course/functional-programming-erlang-7642 <br>
+https://www.classcentral.com/course/concurrent-programming-erlang-8080 <br>
+https://www.udemy.com/course/erlang-programming-for-beginners/ <br>
+https://www.mooc-list.com/tags/erlang <br>
+<br>
+Other Tips / Hacks - <br>
+https://weblambdazero.blogspot.com/2008/08/erlang-tips-and-tricks-part-1.html <br>
+https://www.pluralsight.com/guides/10-essential-erlang-tools-for-erlang-developers <br>
+https://coderwall.com/t/Erlang/popular <br>
+https://engineering.klarna.com/monitoring-erlang-atoms-c1d6a741328e <br>
+https://til.codes/tracing-in-elixir-erlang-using-dbg-trips-and-tricks/ <br>
+https://medium.com/coletiv-stories/quick-tips-tools-for-analysing-erlang-elixir-crash-dumps-2ddf8abdf5f4 <br>
+https://medium.com/blackode/10-killer-elixir-tips-8-2e1bb7eba6e1 <br>
+https://wiki.archlinux.org/index.php/Erlang <br>
+https://medium.com/erlang-battleground/erlang-lessons-fe800c51af4f <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Erlang_logo.svg/1168px-Erlang_logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Erlang_logo.svg/1168px-Erlang_logo.svg.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 
 <details>
 <summary>Express.js</summary>
