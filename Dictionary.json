@@ -2446,6 +2446,58 @@
 		"Tips3": "https://www.dataquest.io/blog/numpy-cheat-sheet/",
 		"Tips4": "https://predictivehacks.com/tips-about-numpy-arrays/"
 	},
+	
+	{	
+	"Title" : "OCaml",
+	"Tag": "Programming language",
+	"Documentation" : "https://ocaml.org/docs/ ",
+	"YT1 " :"https://www.youtube.com/watch?v=PGGl5WcNOIU ",
+	"YT2 " :"https://www.youtube.com/watch?v=Gi58t_pgfJY ",
+	"YT3 " :"https://www.youtube.com/watch?v=xTsHMja8joA ",
+	"YT4 " :"https://www.youtube.com/watch?v=26X9lhmkdaM ",
+	"YT5 " :"https://www.youtube.com/watch?v=QrNDZAvgxMo ",
+	"YT6 " :"https://www.youtube.com/watch?v=2z_oIjiHQOw ",
+	"YT7 " :"https://www.youtube.com/watch?v=zel9gjT_X2Y ",
+	"Website1": "https://ocaml.org/ ",
+	"Website2": "https://ocaml.org/learn/taste.html ",
+	"Website3": "https://ocaml.org/learn/ ",
+	"Website4": "https://www.reddit.com/r/ocaml/ ",
+	"Website5": "https://ocaml.org/learn/tutorials/99problems.html ",
+	"Website6": "https://dev.realworldocaml.org/guided-tour.html ",
+	"Website7": "https://ocaml.org/learn/companies.html ",
+	"Website8": "https://ocaml.org/learn/tutorials/modules.html ",
+	"Website9": "https://caml.inria.fr/pub/docs/u3-ocaml/ocaml-modules.html ",
+	"Dedicated GH page1" : "https://github.com/ocaml-community/awesome-ocaml ",
+	"Dedicated GH page2" : "https://github.com/ocaml/ocaml ",
+	"Dedicated GH page3" : "https://github.com/mirage/ocaml-git ",
+	"Dedicated GH page4" : "https://github.com/janestreet/base ",
+	"Dedicated GH page5" : "https://github.com/ocaml/ocaml-lsp ",
+	"Dedicated GH page6" : "https://github.com/samoht/dyntype ",
+	"Dedicated GH page7" : "https://github.com/mirage/ocaml-github ",
+	"Dedicated GH page8" : "https://github.com/ocaml/ocaml-pr-repository ",
+	"Course1" : "https://www.udemy.com/course/ocaml-tutorial/ ",
+	"Course2" : "https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/intro/ocaml.html ",
+	"Course3" : "https://www.classcentral.com/course/france-universite-numerique-introduction-to-functional-programming-in-ocaml-4513 ",
+	"Course4" : "https://www.mooc-list.com/tags/ocaml ",
+	"Course5" : "https://ocamlverse.github.io/content/learning.html ",
+	"Course6" : "https://www.ocamlpro.com/training-ocamlpro/ ",
+	"Course7" : "https://www.whoishostingthis.com/resources/ocaml/ ",
+	"Course8" : "https://www.my-mooc.com/en/mooc/introduction-to-functional-programming-in-ocaml/ ",
+	"Tips1" : "https://wiki.xenproject.org/wiki/OCaml_Best_Practices_for_Developers ",
+	"Tips2" : "http://roscidus.com/blog/blog/2013/10/13/ocaml-tips/ ",
+	"Tips3" : "https://ocaml.org/learn/tutorials/guidelines.html ",
+	"Tips4" : "https://www.quora.com/What-are-your-favorite-tricks-or-hidden-features-of-OCaml-that-you-use ",
+	"Tips5" : "https://www.reddit.com/r/ocaml/comments/39fjdl/tricks_and_things_to_know_in_ocaml/ ",
+	"Tips6" : "https://www.cs.princeton.edu/courses/archive/spring20/cos320/lectures/ocaml.pdf ",
+	"Tips7" : "https://caml.inria.fr/resources/doc/guides/guidelines.en.html ",
+	"Tips8" : "https://medium.com/@muskangarg994/hacking-ocaml-a-simplified-view-5df726165dc ",
+	"Tips9" : "https://dev.realworldocaml.org/compiler-frontend.html ",
+	"Image1":"https://www.logo.wine/a/logo/OCaml/OCaml-Logo.wine.svg" 
+
+	},
+
+	
+	
 	{
 		"Title": "OpenCv",
 		"Tag": "Python Module",
@@ -2471,6 +2523,7 @@
 		"Tips3": "https://heartbeat.fritz.ai/opencv-python-cheat-sheet-from-importing-images-to-face-detection-52919da36433",
 		"Tips4": "https://www.kaggle.com/learn-forum/158267"
 	},
+	
 	{
 		"Title": "OpenGL",
 		"Tag": "Application programming interface",

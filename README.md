@@ -2377,6 +2377,72 @@ https://predictivehacks.com/tips-about-numpy-arrays/
 </details>
 
 <details>
+<summary>OCaml </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://ocaml.org/docs/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=PGGl5WcNOIU <br>
+https://www.youtube.com/watch?v=Gi58t_pgfJY <br>
+https://www.youtube.com/watch?v=xTsHMja8joA <br>
+https://www.youtube.com/watch?v=26X9lhmkdaM <br>
+https://www.youtube.com/watch?v=QrNDZAvgxMo <br>
+https://www.youtube.com/watch?v=2z_oIjiHQOw <br>
+https://www.youtube.com/watch?v=zel9gjT_X2Y <br>
+<br>
+Useful Websites -
+<br>
+https://ocaml.org/ <br>
+https://ocaml.org/learn/taste.html <br>
+https://ocaml.org/learn/ <br>
+https://www.reddit.com/r/ocaml/ <br>
+https://ocaml.org/learn/tutorials/99problems.html <br>
+https://dev.realworldocaml.org/guided-tour.html <br>
+https://ocaml.org/learn/companies.html <br>
+https://ocaml.org/learn/tutorials/modules.html <br>
+https://caml.inria.fr/pub/docs/u3-ocaml/ocaml-modules.html <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/ocaml-community/awesome-ocaml <br>
+https://github.com/ocaml/ocaml <br>
+https://github.com/mirage/ocaml-git <br>
+https://github.com/janestreet/base <br>
+https://github.com/ocaml/ocaml-lsp <br>
+https://github.com/samoht/dyntype <br>
+https://github.com/mirage/ocaml-github <br>
+https://github.com/ocaml/ocaml-pr-repository <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/ocaml-tutorial/ <br>
+https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/intro/ocaml.html <br>
+https://www.classcentral.com/course/france-universite-numerique-introduction-to-functional-programming-in-ocaml-4513 <br>
+https://www.mooc-list.com/tags/ocaml <br>
+https://ocamlverse.github.io/content/learning.html <br>
+https://www.ocamlpro.com/training-ocamlpro/ <br>
+https://www.whoishostingthis.com/resources/ocaml/ <br>
+https://www.my-mooc.com/en/mooc/introduction-to-functional-programming-in-ocaml/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://wiki.xenproject.org/wiki/OCaml_Best_Practices_for_Developers <br>
+http://roscidus.com/blog/blog/2013/10/13/ocaml-tips/ <br>
+https://ocaml.org/learn/tutorials/guidelines.html <br>
+https://www.quora.com/What-are-your-favorite-tricks-or-hidden-features-of-OCaml-that-you-use <br>
+https://www.reddit.com/r/ocaml/comments/39fjdl/tricks_and_things_to_know_in_ocaml/ <br>
+https://www.cs.princeton.edu/courses/archive/spring20/cos320/lectures/ocaml.pdf <br>
+https://caml.inria.fr/resources/doc/guides/guidelines.en.html <br>
+https://medium.com/@muskangarg994/hacking-ocaml-a-simplified-view-5df726165dc <br>
+https://dev.realworldocaml.org/compiler-frontend.html <br>
+<br>
+<a href="https://www.logo.wine/a/logo/OCaml/OCaml-Logo.wine.svg">
+  <img align="center" src="https://www.logo.wine/a/logo/OCaml/OCaml-Logo.wine.svg" width="1000" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>OpenCV</summary>
 <br>
 Category/Type - <br>
