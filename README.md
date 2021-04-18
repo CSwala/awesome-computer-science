@@ -2661,6 +2661,57 @@ https://www.dataschool.io/future-of-pandas/
 </details>
 
 <details>
+<summary>Pascal</summary>
+<br>
+Category/Type - <br>
+Programming Language<br>
+<br>
+Official Documentation - <br>
+https://www.freepascal.org/docs.html<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Hw4GEwhCZpc<br>
+https://www.youtube.com/watch?v=0VPvQ_dXMhw&list=PLB24C56953A79987A<br>
+https://www.youtube.com/watch?v=0VPvQ_dXMhw<br>
+https://www.youtube.com/watch?v=LDYbiuSSz6k<br>
+https://www.youtube.com/watch?v=yvFCI2whgOA<br>
+https://www.youtube.com/watch?v=w9x3uLmOd94&list=PLA8k58F_ubbzuil6yVCsYmJITNZ5GKbP8<br>
+https://www.youtube.com/watch?v=ThcObDkygGo
+<br>
+Useful Websites -
+https://www.tutorialspoint.com/pascal/index.htm<br>
+https://wiki.freepascal.org/Basic_Pascal_Tutorial<br>
+https://www.ggde.gr/dmdocuments/pascal_tutorial.pdf<br>
+https://www.wisdomjobs.com/e-university/pascal-programming-tutorial-168.html<br>
+https://www.whoishostingthis.com/resources/pascal/<br>
+https://www.linuxlinks.com/excellent-free-tutorials-learn-pascal/<br>
+http://www.schoolfreeware.com/Free_Pascal_Tutorials.html<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/Fr0sT-Brutal/awesome-pascal<br>
+https://github.com/samuell/awesome-pascal<br>
+https://github.com/jbsolucoes/pascalawesome<br>
+https://github.com/graemeg/freepascal<br>
+https://github.com/topics/free-pascal<br>
+https://github.com/risoflora/brookfreepascal<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/learn-to-program-with-pascal/<br>
+https://www.udemy.com/course/learn-pascal-programming-from-scratch/<br>
+https://www.coursesforsuccess.com/products/certificate-in-learn-pascal-programming-from-scratch-online-course-sr<br>
+https://www.study365.co.uk/course/learn-pascal-programming-from-scratch/<br>
+https://www.springest.net/udemy/learn-to-program-with-pascal<br>
+<br>
+Other Tips / Hacks - <br>
+https://www.ign.com/wikis/animal-crossing-new-horizons/Pascal<br>
+https://www.goodreads.com/book/show/5138056-turbo-pascal<br>
+https://www.hardcoredroid.com/pascals-wager-tips-and-tricks/<br>
+https://www.tutorialspoint.com/pascal/pascal_quick_guide.htm<br>
+http://www.martinsweb.com/books.html<br>
+<br><br>
+</details>
+
+<details>
 <summary>Perl</summary>
 <br>
 Category/Type - <br>
