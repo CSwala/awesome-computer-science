@@ -1152,6 +1152,52 @@ https://medium.com/@amphykins/flask-url-tricks-fffd6c583c2a<br>
 </details>
 
 <details>
+<summary>Flutter</summary>
+<br>Category/Type - <br>Software Development Kit<br>
+<br>Official Documentation - <br>https://flutter.dev/docs<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw<br>
+https://www.youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ<br>
+https://www.youtube.com/channel/UC2d0BYlqQCdF9lJfydl_02Q<br>
+https://www.youtube.com/playlist?list=PL0vfts4VzfNiQYtnn1TZ6U0Ec_vjCN9VY<br>
+https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw6tAs2fGFuXGP13-dWdKsB<br>
+https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg<br>
+https://www.youtube.com/playlist?list=PLPedo-T7QiNt_i-CNGzkKLgp9McLg1fNp<br>
+<br>Useful Websites - <br>
+https://flutterawesome.com/<br>
+https://flutterbyexample.com/<br>
+https://startflutter.com/<br>
+https://material.io/develop/flutter/<br>
+https://flutterappbuilder.club/<br>
+https://norbert515.github.io/widget_maker/website/<br>
+https://www.didierboelens.com/"<br>
+https://flutterbyexample.com/<br>
+<br>Dedicated Github page - <br>
+https://github.com/flutter/flutter<br>
+https://github.com/dart-lang<br>
+https://github.com/Solido/awesome-flutter<br>
+https://github.com/PoojaB26/FlutterBasicWidgets<br>
+https://github.com/iampawan/FlutterExampleApps<br>
+<br>Best Courses - <br>
+https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905<br>
+https://www.udemy.com/learn-flutter-beginners-course/<br>
+https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps<br>
+https://www.udemy.com/course/flutter-bootcamp-with-dart/<br>
+https://www.udemy.com/course/flutter-firebase-build-a-complete-app-for-ios-android/<br>
+https://www.udemy.com/course/dart-and-flutter-the-complete-developers-guide/"<br>
+https://www.udemy.com/course/flutter-dart-the-complete-flutter-app-development-course/<br>
+<br>Other Tips / Hacks - <br>
+https://github.com/erluxman/awesomefluttertips<br>
+https://dev.to/shuvojit007/18-flutter-tips-and-tricks-5cjl<br>
+https://medium.com/flutter-community/fantastic-flutter-tips-and-tricks-i-have-found-helpful-4bc35a11be74<br>
+https://github.com/londonappbrewery/Flutter-Course-Resource<br>
+https://github.com/ibhavikmakwana/FlutterDartTips<br>	
+https://github.com/leisim/awesome-flutter-packages<br>
+https://medium.com/@diegoveloper<br>
+<br>
+</details>
+
+<details>
 <summary>F# </summary>
 <br>
 Category/Type - <br>Programming language <br>
