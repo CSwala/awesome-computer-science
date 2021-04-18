@@ -905,6 +905,76 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
 </details>
 
 <details>
+<summary>Elm </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://elm-lang.org/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=vgsckgtVdoQ <br>
+https://www.youtube.com/watch?v=Rf2CkojtxFw <br>
+https://www.youtube.com/watch?v=ZM9UnTrdQtQ <br>
+https://www.youtube.com/watch?v=kEitFAY7Gc8 <br>
+https://www.youtube.com/watch?v=H5rOEBta_Ck <br>
+https://www.youtube.com/watch?v=FP4P7_c4meY <br>
+https://www.youtube.com/watch?v=6PDvHveBtDQ <br>
+https://www.youtube.com/watch?v=CyVaxMdcuwM <br>
+https://www.youtube.com/watch?v=kJ6Pcs5oYFw <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/elm/ <br>
+https://guide.elm-lang.org/architecture/ <br>
+https://guide.elm-lang.org/webapps/modules.html <br>
+https://guide.elm-lang.org/appendix/function_types.html <br>
+https://elm-lang.org/docs/syntax <br>
+https://elm-lang.org/examples <br>
+https://builtwithelm.co/ <br>
+https://elmprogramming.com/ <br>
+https://www.tutorialspoint.com/elm/index.htm <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/sammyteahan/reddit-elm <br>
+https://github.com/bryanjenningz/25-elm-examples <br>
+https://github.com/rtfeldman/elm-spa-example <br>
+https://github.com/elm/core <br>
+https://github.com/elm/project-metadata-utils <br>
+https://github.com/elm/html <br>
+https://github.com/elm/random <br>
+https://github.com/elm/url <br>
+https://github.com/elm/elm-lang.org <br>
+<br>
+Best Courses - <br>
+https://www.zeolearn.com/elm-training <br>
+https://www.udemy.com/course/beginners-guide-to-elm-programming-build-web-apps/ <br>
+https://www.udemy.com/course/web-development-with-elm/ <br>
+https://pragmaticstudio.com/elm <br>
+https://www.pluralsight.com/courses/elm <br>
+https://egghead.io/q/elm <br>
+https://www.lynda.com/Elm-tutorials/771008-0.html <br>
+https://www.developintelligence.com/catalog/front-end-development/web-development-training/introduction-to-elm/ <br>
+https://exercism.io/tracks/elm/exercises <br>
+<br>
+Other Tips / Hacks - <br>
+https://medium.com/blackode/1010-killer-elm-tips-8c4972476e26 <br>
+https://incrementalelm.com/articles/moving-faster-with-tiny-steps/ <br>
+https://incrementalelm.com/articles/exit-gatekeepers/ <br>
+https://www.minitex.umn.edu/news/elibrary-minnesota/2021-03/elm-tips-tricks-science-images-and-videos <br>
+https://minitex.umn.edu/news/elibrary-minnesota/2020-11/elm-tips-tricks-article-display-options-elm-databases <br>
+https://css-tricks.com/elm-get-started/ <br>
+https://css-tricks.com/introduction-elm-architecture-build-first-application/ <br>
+https://trackjs.com/blog/adventures-in-elm/ <br>
+https://frontendmasters.com/workshops/elm-v2/ <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Elm_logo.svg/1024px-Elm_logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Elm_logo.svg/1024px-Elm_logo.svg.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Ember.js</summary>
 <br>
 Category/Type - <br>JavaScript web framework <br>
