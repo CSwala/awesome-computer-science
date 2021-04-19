@@ -417,6 +417,55 @@ https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_de
 </details>
 
 <details>
+<summary>Appium</summary>
+<br>
+Category/Type - <br>Open source test automation framework <br>
+<br>
+Official Documentation - <br>
+https://appium.io/docs/en/about-appium/intro/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PLhW3qG5bs-L8npSSZD6aWdYFQ96OEduhk <br>
+https://youtu.be/Fx3ud5wMHYc<br>
+https://www.youtube.com/playlist?list=PLUDwpEzHYYLsx_2JFNBMITjHqTnuszhb_ <br>
+https://www.youtube.com/playlist?list=PL9ooVrP1hQOGlxCt5MKch_HWj9R3rVRBT <br>
+<br>
+Useful Websites -
+<br>
+https://www.javatpoint.com/appium<br>
+https://www.guru99.com/introduction-to-appium.html <br>
+https://www.toolsqa.com/mobile-automation/appium/appium-tutorial/<br>
+http://www.automationtestinghub.com/appium-tutorial/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/appium<br>
+https://github.com/appium/appium<br>
+https://github.com/AppiumTestDistribution/AppiumTestDistribution<br>
+https://github.com/appium/python-client<br>
+https://github.com/appium/appium-android-driver<br>
+https://github.com/SrinivasanTarget/awesome-appium<br>
+https://github.com/appium/appium-desktop/blob/master/CONTRIBUTING.md<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-485138043266_._li_9300011_._pd__._&matchtype=b&gclid=Cj0KCQjw1PSDBhDbARIsAPeTqrfON2cVD0XY8wHTa0H-jsUppYw1_d7w5rvSx0oAZ6NDJM0k15FCItYaAltGEALw_wcB<br>
+https://coursesity.com/free-tutorials-learn/appium<br>
+https://www.h2kinfosys.com/courses/appium-automation-testing/<br>
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjNv-Gk_orwAhXOVWAKHeJYAGoYABABGgJ0bQ&ohost=www.google.com&cid=CAESQeD28rfYu9ugnRgUFNAeyb27onBUQf3OX5kwdTyCBq6-lUyVZ8JHE_p_55O9oUaBh08-wu8eEG1cFVPLTO8uHOJ0&sig=AOD64_07LSst8-8tWrTMcZhizuB4TkNdKw&q&adurl&ved=2ahUKEwiF19mk_orwAhV6zDgGHX6zDNkQ0Qx6BAgDEAE<br>
+<br>
+Other Tips / Hacks - <br>
+https://bitbar.com/blog/things-you-should-know-about-appium/ <br>
+https://www.testbytes.net/blog/appium-and-selenium-tips-and-tricks/ <br>
+https://kobiton.com/book/chapter-13-appium-tips-and-tricks/<br>
+https://www.edureka.co/blog/appium-architecture/<br>
+https://medium.com/dubizzletechblog/tips-to-enhance-optimize-appium-automation-framework-2f066b10ebe6  <br>
+<br>
+<a href="https://banner2.cleanpng.com/20180704/vbt/kisspng-appium-test-automation-software-testing-selenium-calabash-5b3d2f3446f171.6657918015307364362906.jpg">
+  <img align="center" src="https://banner2.cleanpng.com/20180704/vbt/kisspng-appium-test-automation-software-testing-selenium-calabash-5b3d2f3446f171.6657918015307364362906.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Artificial Intelligence</summary>
 <br>Category/Type - <br>Development <br>
 <br>Official Documentation - <br>https://docs.microsoft.com/en-us/ai/<br>
