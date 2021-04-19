@@ -1039,6 +1039,47 @@ https://www.besanttechnologies.com/what-is-expressjs <br>
 </details>
 
 <details>
+<summary>FireBase</summary>
+<br>Category/Type - <br>NoSQL database program<br>
+<br>Official Documentation - <br>https://firebase.google.com/docs<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=O17OWyx08Cg<br>
+https://www.youtube.com/watch?v=9kRgVxULbag<br>
+https://www.youtube.com/watch?v=BXHQ5NxU2p8<br>
+https://www.youtube.com/watch?v=4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB<br>
+https://www.youtube.com/watch?v=jtfLBGj6bUo<br>
+https://www.youtube.com/watch?v=b1bGrWrx5Mo<br>
+https://www.youtube.com/watch?v=-pyo67HWuOI<br>
+<br>Useful Websites - <br>
+https://firebase.google.com/?gclsrc=aw.ds&&gclid=Cj0KCQjw1PSDBhDbARIsAPeTqreJko_YZ7xr1kguUXOHVITCyYbhq0Jz8QWI1A9hRVwbmqxWIG_8-v0aAtrlEALw_wcB<br>
+https://medium.com/firebase-developers/what-is-firebase-the-complete-story-abridged-bcc730c5f2c0<br>
+https://www.educative.io/edpresso/what-is-firebase<br>
+https://howtofirebase.com/what-is-firebase-fcb8614ba442<br>
+https://www.npmjs.com/package/firebase<br>
+https://firebasetutorials.com/is-firebase-free/<br>
+<br>Dedicated Github page - <br>
+https://github.com/firebase/<br>
+https://github.com/jthegedus/awesome-firebase<br>
+https://github.com/FilledStacks/firebase-backend<br>
+https://github.com/didomi/firebase<br>
+https://github.com/firebase/firebase-tools<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/build-an-app-with-react-redux-and-firestore-from-scratch/<br>
+https://www.udemy.com/course/firebase-course/<br>
+https://www.udemy.com/course/android-firebase-firestore-masterclass-build-a-shop-app/<br>
+https://www.udemy.com/course/xamarin-and-firebase/<br>
+https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352<br>
+https://hackr.io/tutorials/learn-firebase<br>
+<br>Other Tips / Hacks - <br>
+https://fireship.io/lessons/firebase-tips-and-tricks/<br>
+https://morioh.com/p/f0a427b7d4dc<br>
+https://lembergsolutions.com/blog/what-you-need-know-about-firebase-9-useful-tips<br>
+https://www.slideshare.net/GameCamp/tips-tricks-for-firebase-storage-and-firebase-functions<br>
+https://blog.hackages.io/tips-and-tricks-for-firebase-security-rules-77d8ae9be187<br>
+<br>
+</details>
+
+<details>
 <summary>Flask</summary>
 <br>Category/Type - <br>Python Web Framework<br>
 <br>Official Documentation - <br>https://flask.palletsprojects.com/en/1.1.x/<br>
