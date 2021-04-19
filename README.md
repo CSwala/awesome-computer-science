@@ -2311,6 +2311,64 @@ https://love2d.org/forums/viewtopic.php?t=3515&start=10
 <br><br>
 
 </details>
+
+<details>
+<summary>MySQL</summary>
+<br>
+Category/Type - <br>
+ <br>
+<br>
+Official Documentation - <br>
+https://dev.mysql.com/doc/ <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=7S_tz1z_5bA <br>
+https://www.youtube.com/watch?v=9ylj9NR0Lcg <br>
+https://www.youtube.com/watch?v=yPu6qV5byu4 <br>
+https://www.youtube.com/playlist?list=PLS1QulWo1RIY4auvfxAHS9m_fZJ2wxSse <br>
+https://www.youtube.com/playlist?list=PL9ooVrP1hQOGECN1oA2iXcWFBTRYUxzQG <br>
+https://www.youtube.com/playlist?list=PLV8vIYTIdSnaLvx1qGjOnYOb989ThPdU0 <br>
+https://www.youtube.com/watch?v=0ZBhyQzyDXQ <br>
+https://www.youtube.com/watch?v=-zwD3bfJjqw <br>
+<br>
+Useful Websites- <br>
+https://www.tutorialspoint.com/mysql/index.htm <br>
+https://www.javatpoint.com/mysql-tutorial <br>
+https://www.edureka.co/blog/mysql-tutorial/ <br>
+https://www.geeksforgeeks.org/mysql-common-mysql-queries/ <br>
+https://www.w3resource.com/mysql/mysql-tutorials.php <br>
+https://www.guru99.com/mysql-tutorial.html <br>
+https://www.w3schools.com/php/php_mysql_intro.asp <br>
+https://www.mysqltutorial.org/ <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/mysqljs/mysql <br>
+https://github.com/go-sql-driver/mysql <br>
+https://github.com/sous-chefs/mysql <br>
+https://github.com/mysql/mysql-server <br>
+https://github.com/twitter-forks/mysql <br>
+<br>
+Best Courses- <br>
+https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/ <br>
+https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/ <br>
+https://www.udemy.com/course/learn-database-design-with-mysql/ <br>
+https://www.udemy.com/course/mysql-for-data-analysis/ <br>
+https://www.linkedin.com/learning/mysql-essential-training-2 <br>
+https://www.linkedin.com/learning/mysql-advanced-topics <br>
+https://www.linkedin.com/learning/learning-mysql-development-2 <br>
+https://www.coursera.org/projects/learn-mysql-fundamentals <br>
+<br>
+Other Tips/Hacks- <br>
+https://onextrapixel.com/20-tips-and-tricks-any-mysql-database-developer-should-consider/ <br>
+https://paggyru.medium.com/tips-and-tricks-of-mysql-b0da6c62a7a2 <br>
+https://www.infoworld.com/article/3210905/10-essential-performance-tips-for-mysql.html <br>
+https://www.linkedin.com/pulse/15-tricks-any-serious-mysql-database-developer-should-matt-zand/ <br>
+https://litebreeze.com/software-development/mysql-tips-and-tricks-to-use/ <br>
+https://code.tutsplus.com/tutorials/top-20-mysql-best-practices--net-7855 <br>
+https://www.navicat.com/en/company/aboutus/blog/1051-a-few-mysql-tips-and-tricks <br>
+<br>
+</details>
+
 <details>
 
 <summary>.NET</summary>
