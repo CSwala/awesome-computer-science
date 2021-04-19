@@ -417,6 +417,51 @@ https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_de
 </details>
 
 <details>
+<summary>Artificial Intelligence</summary>
+<br>Category/Type - <br>Development <br>
+<br>Official Documentation - <br>https://docs.microsoft.com/en-us/ai/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=XIrOM9oP3pA<br>
+https://www.youtube.com/watch?v=JMUxmLyrhSk<br>
+https://www.youtube.com/playlist?list=PL9ooVrP1hQOGHNaCT7_fwe9AabjZI1RjI<br>
+https://www.youtube.com/watch?v=FWOZmmIUqHg<br>
+https://www.youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI<br>
+https://www.youtube.com/playlist?list=PLp6ek2hDcoNB_YJCruBFjhF79f5ZHyBuz<br>
+<br>Useful Websites - <br>
+https://www.javatpoint.com/artificial-intelligence-tutorial<br>
+https://www.tutorialspoint.com/artificial_intelligence/index.htm<br>
+https://www.guru99.com/artificial-intelligence-tutorial.html<br>
+https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial<br>
+https://blog.feedspot.com/ai_blogs/<br>
+https://research.aimultiple.com/applications/<br>
+https://data-flair.training/blogs/ai-tutorials-home/<br>
+<br>Dedicated Github page - 
+<br>https://github.com/owainlewis/awesome-artificial-intelligence<br>
+https://github.com/pierpaolo28/Artificial-Intelligence-Projects<br>
+https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials<br>
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code<br>
+https://github.com/VidyasagarMSC/Awesome-AI<br>
+https://github.com/PacktPublishing/Artificial-Intelligence-with-Python<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/artificial-intelligence-az/<br>
+https://www.udemy.com/course/artificial-intelligence-reinforcement-learning-in-python/<br>
+https://www.udemy.com/course/artificial-intelligence-in-unity/<br>
+https://www.coursera.org/specializations/deep-learning<br>
+https://www.simplilearn.com/artificial-intelligence-masters-program-training-course<br>
+https://ai.google/education/<br>
+https://www.edx.org/course/artificial-intelligence-for-everyone<br>
+https://www.edx.org/course/AI-chatbots-without-programming<br>
+<br>Other Tips / Hacks - <br>
+https://www.ubuntupit.com/tips-to-make-a-successful-career-in-artificial-intelligence/<br>
+https://enterprisersproject.com/article/2020/6/artificial-intelligence-ai-strategy-8-counterintuitive-tips<br>
+https://www.goodfirms.co/blog/tips-ai-implementation-business16b90d7041f94a690b2aa82165da0564a6372ee2<br>
+https://i.am.ai/roadmap<br>
+https://github.com/srcolinas/roadmap-to-AI<br>
+https://github.com/kailashahirwar/cheatsheets-ai<br>
+<br><br>
+</details>
+
+<details>
 <summary>Blender</summary>
 <br>Category/Type - <br>3D modeling and animation program<br>
 <br>Official Documentation - <br>https://docs.blender.org/manual/en/latest/<br>
