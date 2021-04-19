@@ -3519,6 +3519,45 @@ https://ugoproto.github.io/ugo_py_doc/pdf/Python_SciPy_Cheat_Sheet_Linear_Algebr
 </details>
 
 <details>
+<summary>Seaborn</summary>
+<br>
+Category/Type - <br>Python Library<br>
+<br>
+Official Documentation - <br>
+https://seaborn.pydata.org/introduction.html<br>
+<br>
+Best Youtube creators - <br>
+https://youtu.be/TLdXM0A7SR8<br>
+https://youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j<br>
+https://youtu.be/6GUZXDef2U0<br>
+<br>
+Useful Websites - <br>
+https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp<br>
+https://www.kaggle.com/alexisbcook/hello-seaborn<br>
+https://www.geeksforgeeks.org/python-seaborn-tutorial/<br>
+https://towardsdatascience.com/seaborn-python-8563c3d0ad41?gi=d9916a3a377b
+<br>
+<br>
+Dedicated Github pages - <br>
+https://github.com/seaborn<br>
+https://github.com/mwaskom/seaborn<br>
+https://github.com/pb111/Data-Visualization-with-Seaborn<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/projects/statistical-data-visualization-seaborn<br>
+https://www.coursera.org/projects/exploratory-data-analysis-seaborn<br>
+https://www.coursera.org/projects/python-for-data-visualization-seaborn<br>
+https://www.datacamp.com/courses/introduction-to-seaborn<br>
+https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/<br>
+<br>
+Other Tips/Hacks - <br>
+https://towardsdatascience.com/6-simple-tips-for-prettier-and-customised-plots-in-seaborn-python-22f02ecc2393
+<br>
+<br>
+
+</details>
+
+<details>
 <summary>Selenium </summary>
 <br>
 Category/Type - <br>Software <br>
