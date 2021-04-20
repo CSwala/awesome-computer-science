@@ -417,6 +417,55 @@ https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_de
 </details>
 
 <details>
+<summary>Appium</summary>
+<br>
+Category/Type - <br>Open source test automation framework <br>
+<br>
+Official Documentation - <br>
+https://appium.io/docs/en/about-appium/intro/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PLhW3qG5bs-L8npSSZD6aWdYFQ96OEduhk <br>
+https://youtu.be/Fx3ud5wMHYc<br>
+https://www.youtube.com/playlist?list=PLUDwpEzHYYLsx_2JFNBMITjHqTnuszhb_ <br>
+https://www.youtube.com/playlist?list=PL9ooVrP1hQOGlxCt5MKch_HWj9R3rVRBT <br>
+<br>
+Useful Websites -
+<br>
+https://www.javatpoint.com/appium<br>
+https://www.guru99.com/introduction-to-appium.html <br>
+https://www.toolsqa.com/mobile-automation/appium/appium-tutorial/<br>
+http://www.automationtestinghub.com/appium-tutorial/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/appium<br>
+https://github.com/appium/appium<br>
+https://github.com/AppiumTestDistribution/AppiumTestDistribution<br>
+https://github.com/appium/python-client<br>
+https://github.com/appium/appium-android-driver<br>
+https://github.com/SrinivasanTarget/awesome-appium<br>
+https://github.com/appium/appium-desktop/blob/master/CONTRIBUTING.md<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-485138043266_._li_9300011_._pd__._&matchtype=b&gclid=Cj0KCQjw1PSDBhDbARIsAPeTqrfON2cVD0XY8wHTa0H-jsUppYw1_d7w5rvSx0oAZ6NDJM0k15FCItYaAltGEALw_wcB<br>
+https://coursesity.com/free-tutorials-learn/appium<br>
+https://www.h2kinfosys.com/courses/appium-automation-testing/<br>
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjNv-Gk_orwAhXOVWAKHeJYAGoYABABGgJ0bQ&ohost=www.google.com&cid=CAESQeD28rfYu9ugnRgUFNAeyb27onBUQf3OX5kwdTyCBq6-lUyVZ8JHE_p_55O9oUaBh08-wu8eEG1cFVPLTO8uHOJ0&sig=AOD64_07LSst8-8tWrTMcZhizuB4TkNdKw&q&adurl&ved=2ahUKEwiF19mk_orwAhV6zDgGHX6zDNkQ0Qx6BAgDEAE<br>
+<br>
+Other Tips / Hacks - <br>
+https://bitbar.com/blog/things-you-should-know-about-appium/ <br>
+https://www.testbytes.net/blog/appium-and-selenium-tips-and-tricks/ <br>
+https://kobiton.com/book/chapter-13-appium-tips-and-tricks/<br>
+https://www.edureka.co/blog/appium-architecture/<br>
+https://medium.com/dubizzletechblog/tips-to-enhance-optimize-appium-automation-framework-2f066b10ebe6  <br>
+<br>
+<a href="https://banner2.cleanpng.com/20180704/vbt/kisspng-appium-test-automation-software-testing-selenium-calabash-5b3d2f3446f171.6657918015307364362906.jpg">
+  <img align="center" src="https://banner2.cleanpng.com/20180704/vbt/kisspng-appium-test-automation-software-testing-selenium-calabash-5b3d2f3446f171.6657918015307364362906.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Artificial Intelligence</summary>
 <br>Category/Type - <br>Development <br>
 <br>Official Documentation - <br>https://docs.microsoft.com/en-us/ai/<br>
@@ -1220,6 +1269,47 @@ https://www.besanttechnologies.com/what-is-expressjs <br>
   <img align="center" src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle.png" width="900" height="500"/>
 </a>
 <br><br><br>
+</details>
+
+<details>
+<summary>FireBase</summary>
+<br>Category/Type - <br>NoSQL database program<br>
+<br>Official Documentation - <br>https://firebase.google.com/docs<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=O17OWyx08Cg<br>
+https://www.youtube.com/watch?v=9kRgVxULbag<br>
+https://www.youtube.com/watch?v=BXHQ5NxU2p8<br>
+https://www.youtube.com/watch?v=4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB<br>
+https://www.youtube.com/watch?v=jtfLBGj6bUo<br>
+https://www.youtube.com/watch?v=b1bGrWrx5Mo<br>
+https://www.youtube.com/watch?v=-pyo67HWuOI<br>
+<br>Useful Websites - <br>
+https://firebase.google.com/?gclsrc=aw.ds&&gclid=Cj0KCQjw1PSDBhDbARIsAPeTqreJko_YZ7xr1kguUXOHVITCyYbhq0Jz8QWI1A9hRVwbmqxWIG_8-v0aAtrlEALw_wcB<br>
+https://medium.com/firebase-developers/what-is-firebase-the-complete-story-abridged-bcc730c5f2c0<br>
+https://www.educative.io/edpresso/what-is-firebase<br>
+https://howtofirebase.com/what-is-firebase-fcb8614ba442<br>
+https://www.npmjs.com/package/firebase<br>
+https://firebasetutorials.com/is-firebase-free/<br>
+<br>Dedicated Github page - <br>
+https://github.com/firebase/<br>
+https://github.com/jthegedus/awesome-firebase<br>
+https://github.com/FilledStacks/firebase-backend<br>
+https://github.com/didomi/firebase<br>
+https://github.com/firebase/firebase-tools<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/build-an-app-with-react-redux-and-firestore-from-scratch/<br>
+https://www.udemy.com/course/firebase-course/<br>
+https://www.udemy.com/course/android-firebase-firestore-masterclass-build-a-shop-app/<br>
+https://www.udemy.com/course/xamarin-and-firebase/<br>
+https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352<br>
+https://hackr.io/tutorials/learn-firebase<br>
+<br>Other Tips / Hacks - <br>
+https://fireship.io/lessons/firebase-tips-and-tricks/<br>
+https://morioh.com/p/f0a427b7d4dc<br>
+https://lembergsolutions.com/blog/what-you-need-know-about-firebase-9-useful-tips<br>
+https://www.slideshare.net/GameCamp/tips-tricks-for-firebase-storage-and-firebase-functions<br>
+https://blog.hackages.io/tips-and-tricks-for-firebase-security-rules-77d8ae9be187<br>
+<br>
 </details>
 
 <details>
@@ -3758,6 +3848,76 @@ https://www.udemy.com/course/swift-programming/ <br> https://www.udacity.com/cou
 <br>Other Tips / Hacks - <br> https://savvyapps.com/blog/swift-tips-for-developers <br> https://github.com/Luur/SwiftTips <br> https://www.packtpub.com/product/swift-5-tips-tricks-and-techniques-video/9781838983574 <br>
 <a href="https://i.ytimg.com/vi/iHyo1WOteQM/maxresdefault.jpg">
   <img align="center" src="https://i.ytimg.com/vi/iHyo1WOteQM/maxresdefault.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
+<summary>Tcl </summary>
+<br>
+Category/Type - <br>High-level programming language <br>
+<br>
+Official Documentation - <br>
+https://www.tcl.tk/doc/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=6s6YbIa2k_g <br>
+https://www.youtube.com/watch?v=2z78eE0a-QY <br>
+https://www.youtube.com/watch?v=kuTfK7up1QA <br>
+https://www.youtube.com/watch?v=ZRi2VHoS8qE <br>
+https://www.youtube.com/watch?v=G2NXxPlgzkQ <br>
+https://www.youtube.com/watch?v=VkYufHa71Js <br>
+https://www.youtube.com/watch?v=uDqyLb-J0fw <br>
+https://www.youtube.com/watch?v=NRHOWuktCKU <br>
+https://www.youtube.com/watch?v=gC18amVhALQ <br>
+<br>
+Useful Websites -
+<br>
+https://www.tcl.tk/ <br>
+https://www.whoishostingthis.com/resources/tcl-tk/ <br>
+https://www.tcl.tk/doc/scripting.html <br>
+https://www.tutorialspoint.com/tcl-tk/tcl_builtin_functions.htm <br>
+https://zetcode.com/lang/tcl/procedures/ <br>
+https://www.reddit.com/r/Tcl/ <br>
+https://wiki.tcl-lang.org/page/Ideas+for+Projects+in+Tcl%2FTk <br>
+https://awesomeopensource.com/projects/tcl <br>
+https://wiki.tcl-lang.org/page/Example+Scripts+Everybody+Should+Have <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/tcltk/tcl <br>
+https://github.com/tcltk/tcllib <br>
+https://github.com/tcltk/tklib <br>
+https://github.com/tcltk/itcl <br>
+https://github.com/tcltk/thread <br>
+https://github.com/tcltk/tk <br>
+https://github.com/msteveb/jimtcl <br>
+https://github.com/ray2501/Tcl-Related-Link <br>
+https://github.com/wejgaard/TclForth <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/vsd-tcl-programming-from-novice-to-expert/ <br>
+https://www.udemy.com/course/vsd-tcl-programming-from-novice-to-expert-part-2/ <br>
+https://www.mytectra.com/tcl-scripting-training.html <br>
+https://www.vlsiguru.com/tcl-scripting-training/ <br>
+https://www.doulos.com/training/tcl/essential-tcl-online/ <br>
+https://www.exuberantsolutions.com/tcl_tk_course.htm <br>
+https://www.lynda.com/Tcl-TK-training-tutorials/2781-0.html <br>
+http://www.wellho.net/course/tlfull.html <br>
+https://www.hardent.com/course/introduction-to-tcl-tk/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://wiki.tcl-lang.org/page/Advanced+Tcl <br>
+https://vhdlwhiz.com/why-you-need-to-learn-tcl/ <br>
+https://www.sciencedirect.com/book/9781558608023/tcl-tk <br>
+https://www.sciencedirect.com/topics/computer-science/tcl-interpreter <br>
+https://wiki.tcl-lang.org/page/Beginning+Tcl <br>
+https://www.tutorialspoint.com/tcl-tk/tcl_tk_quick_guide.htm <br>
+https://www.oreilly.com/library/view/tcltk-in-a/9780596803520/ch15.html <br>
+http://noucorp.com/Self-Directed/DevGuide.html <br>
+https://iopscience.iop.org/article/10.1088/1757-899X/402/1/012061 <br>
+<br>
+<a href="https://www.logo.wine/a/logo/Tcl/Tcl-Logo.wine.svg">
+  <img align="center" src="https://www.logo.wine/a/logo/Tcl/Tcl-Logo.wine.svg" width="500" height="500"/>
 </a>
 <br><br><br>
 </details>
