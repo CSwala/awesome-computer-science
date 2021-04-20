@@ -1272,6 +1272,47 @@ https://www.besanttechnologies.com/what-is-expressjs <br>
 </details>
 
 <details>
+<summary>FireBase</summary>
+<br>Category/Type - <br>NoSQL database program<br>
+<br>Official Documentation - <br>https://firebase.google.com/docs<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=O17OWyx08Cg<br>
+https://www.youtube.com/watch?v=9kRgVxULbag<br>
+https://www.youtube.com/watch?v=BXHQ5NxU2p8<br>
+https://www.youtube.com/watch?v=4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB<br>
+https://www.youtube.com/watch?v=jtfLBGj6bUo<br>
+https://www.youtube.com/watch?v=b1bGrWrx5Mo<br>
+https://www.youtube.com/watch?v=-pyo67HWuOI<br>
+<br>Useful Websites - <br>
+https://firebase.google.com/?gclsrc=aw.ds&&gclid=Cj0KCQjw1PSDBhDbARIsAPeTqreJko_YZ7xr1kguUXOHVITCyYbhq0Jz8QWI1A9hRVwbmqxWIG_8-v0aAtrlEALw_wcB<br>
+https://medium.com/firebase-developers/what-is-firebase-the-complete-story-abridged-bcc730c5f2c0<br>
+https://www.educative.io/edpresso/what-is-firebase<br>
+https://howtofirebase.com/what-is-firebase-fcb8614ba442<br>
+https://www.npmjs.com/package/firebase<br>
+https://firebasetutorials.com/is-firebase-free/<br>
+<br>Dedicated Github page - <br>
+https://github.com/firebase/<br>
+https://github.com/jthegedus/awesome-firebase<br>
+https://github.com/FilledStacks/firebase-backend<br>
+https://github.com/didomi/firebase<br>
+https://github.com/firebase/firebase-tools<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/build-an-app-with-react-redux-and-firestore-from-scratch/<br>
+https://www.udemy.com/course/firebase-course/<br>
+https://www.udemy.com/course/android-firebase-firestore-masterclass-build-a-shop-app/<br>
+https://www.udemy.com/course/xamarin-and-firebase/<br>
+https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352<br>
+https://hackr.io/tutorials/learn-firebase<br>
+<br>Other Tips / Hacks - <br>
+https://fireship.io/lessons/firebase-tips-and-tricks/<br>
+https://morioh.com/p/f0a427b7d4dc<br>
+https://lembergsolutions.com/blog/what-you-need-know-about-firebase-9-useful-tips<br>
+https://www.slideshare.net/GameCamp/tips-tricks-for-firebase-storage-and-firebase-functions<br>
+https://blog.hackages.io/tips-and-tricks-for-firebase-security-rules-77d8ae9be187<br>
+<br>
+</details>
+
+<details>
 <summary>Flask</summary>
 <br>Category/Type - <br>Python Web Framework<br>
 <br>Official Documentation - <br>https://flask.palletsprojects.com/en/1.1.x/<br>
@@ -3568,6 +3609,45 @@ https://ugoproto.github.io/ugo_py_doc/pdf/Python_SciPy_Cheat_Sheet_Linear_Algebr
 </details>
 
 <details>
+<summary>Seaborn</summary>
+<br>
+Category/Type - <br>Python Library<br>
+<br>
+Official Documentation - <br>
+https://seaborn.pydata.org/introduction.html<br>
+<br>
+Best Youtube creators - <br>
+https://youtu.be/TLdXM0A7SR8<br>
+https://youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j<br>
+https://youtu.be/6GUZXDef2U0<br>
+<br>
+Useful Websites - <br>
+https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp<br>
+https://www.kaggle.com/alexisbcook/hello-seaborn<br>
+https://www.geeksforgeeks.org/python-seaborn-tutorial/<br>
+https://towardsdatascience.com/seaborn-python-8563c3d0ad41?gi=d9916a3a377b
+<br>
+<br>
+Dedicated Github pages - <br>
+https://github.com/seaborn<br>
+https://github.com/mwaskom/seaborn<br>
+https://github.com/pb111/Data-Visualization-with-Seaborn<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/projects/statistical-data-visualization-seaborn<br>
+https://www.coursera.org/projects/exploratory-data-analysis-seaborn<br>
+https://www.coursera.org/projects/python-for-data-visualization-seaborn<br>
+https://www.datacamp.com/courses/introduction-to-seaborn<br>
+https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/<br>
+<br>
+Other Tips/Hacks - <br>
+https://towardsdatascience.com/6-simple-tips-for-prettier-and-customised-plots-in-seaborn-python-22f02ecc2393
+<br>
+<br>
+
+</details>
+
+<details>
 <summary>Selenium </summary>
 <br>
 Category/Type - <br>Software <br>
@@ -3768,6 +3848,76 @@ https://www.udemy.com/course/swift-programming/ <br> https://www.udacity.com/cou
 <br>Other Tips / Hacks - <br> https://savvyapps.com/blog/swift-tips-for-developers <br> https://github.com/Luur/SwiftTips <br> https://www.packtpub.com/product/swift-5-tips-tricks-and-techniques-video/9781838983574 <br>
 <a href="https://i.ytimg.com/vi/iHyo1WOteQM/maxresdefault.jpg">
   <img align="center" src="https://i.ytimg.com/vi/iHyo1WOteQM/maxresdefault.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
+<summary>Tcl </summary>
+<br>
+Category/Type - <br>High-level programming language <br>
+<br>
+Official Documentation - <br>
+https://www.tcl.tk/doc/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=6s6YbIa2k_g <br>
+https://www.youtube.com/watch?v=2z78eE0a-QY <br>
+https://www.youtube.com/watch?v=kuTfK7up1QA <br>
+https://www.youtube.com/watch?v=ZRi2VHoS8qE <br>
+https://www.youtube.com/watch?v=G2NXxPlgzkQ <br>
+https://www.youtube.com/watch?v=VkYufHa71Js <br>
+https://www.youtube.com/watch?v=uDqyLb-J0fw <br>
+https://www.youtube.com/watch?v=NRHOWuktCKU <br>
+https://www.youtube.com/watch?v=gC18amVhALQ <br>
+<br>
+Useful Websites -
+<br>
+https://www.tcl.tk/ <br>
+https://www.whoishostingthis.com/resources/tcl-tk/ <br>
+https://www.tcl.tk/doc/scripting.html <br>
+https://www.tutorialspoint.com/tcl-tk/tcl_builtin_functions.htm <br>
+https://zetcode.com/lang/tcl/procedures/ <br>
+https://www.reddit.com/r/Tcl/ <br>
+https://wiki.tcl-lang.org/page/Ideas+for+Projects+in+Tcl%2FTk <br>
+https://awesomeopensource.com/projects/tcl <br>
+https://wiki.tcl-lang.org/page/Example+Scripts+Everybody+Should+Have <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/tcltk/tcl <br>
+https://github.com/tcltk/tcllib <br>
+https://github.com/tcltk/tklib <br>
+https://github.com/tcltk/itcl <br>
+https://github.com/tcltk/thread <br>
+https://github.com/tcltk/tk <br>
+https://github.com/msteveb/jimtcl <br>
+https://github.com/ray2501/Tcl-Related-Link <br>
+https://github.com/wejgaard/TclForth <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/vsd-tcl-programming-from-novice-to-expert/ <br>
+https://www.udemy.com/course/vsd-tcl-programming-from-novice-to-expert-part-2/ <br>
+https://www.mytectra.com/tcl-scripting-training.html <br>
+https://www.vlsiguru.com/tcl-scripting-training/ <br>
+https://www.doulos.com/training/tcl/essential-tcl-online/ <br>
+https://www.exuberantsolutions.com/tcl_tk_course.htm <br>
+https://www.lynda.com/Tcl-TK-training-tutorials/2781-0.html <br>
+http://www.wellho.net/course/tlfull.html <br>
+https://www.hardent.com/course/introduction-to-tcl-tk/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://wiki.tcl-lang.org/page/Advanced+Tcl <br>
+https://vhdlwhiz.com/why-you-need-to-learn-tcl/ <br>
+https://www.sciencedirect.com/book/9781558608023/tcl-tk <br>
+https://www.sciencedirect.com/topics/computer-science/tcl-interpreter <br>
+https://wiki.tcl-lang.org/page/Beginning+Tcl <br>
+https://www.tutorialspoint.com/tcl-tk/tcl_tk_quick_guide.htm <br>
+https://www.oreilly.com/library/view/tcltk-in-a/9780596803520/ch15.html <br>
+http://noucorp.com/Self-Directed/DevGuide.html <br>
+https://iopscience.iop.org/article/10.1088/1757-899X/402/1/012061 <br>
+<br>
+<a href="https://www.logo.wine/a/logo/Tcl/Tcl-Logo.wine.svg">
+  <img align="center" src="https://www.logo.wine/a/logo/Tcl/Tcl-Logo.wine.svg" width="500" height="500"/>
 </a>
 <br><br><br>
 </details>
