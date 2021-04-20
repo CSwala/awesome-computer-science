@@ -1968,7 +1968,26 @@ https://www.geeksforgeeks.org/java-tricks-competitive-programming-java-8/<br>
 https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 <br>
 </details>
+<details>
+<summary>Jekyll</summary>
+<br>Category/Type - <br>Static site generator<br>
+<br>Official Documentation - <br>https://jekyllrb.com/docs/<br>
+<br>Best YouTube creators - <br> 
+https://youtu.be/mITMoheyvW4 <br>https://youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB<br>
+<br>Useful Websites - <br>
+https://www.digitalocean.com/community/tags/jekyll<br>
+https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages<br>
+<br>Dedicated Github page - <br>https://github.com/jekyll/jekyll<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/static-website-generator-fast-secure-sites-blogs-with-jekyll/<br>
+https://www.pluralsight.com/courses/static-websites-with-jekyll<br>
+https://www.udemy.com/course/jekyll-and-github-pages/<br>
+<br> Other Tips / Hacks - <br>
+http://www.kinnetica.com/2011/04/17/jekyll-tips-and-tricks/#:~:text=While%20you're%20initially%20developing,your%20changes%20in%20real%20time.<br>
+https://nickjanetakis.com/blog/tag/jekyll-tips-tricks-and-tutorials<br>
 
+<br>
+</details>
 <details>
 <summary>Jenkins</summary>
 <br>Category/Type - <br>automation tool<br>

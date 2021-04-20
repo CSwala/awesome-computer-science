@@ -1923,6 +1923,21 @@
 		"Image1": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rundeck.com%2Fjenkins&psig=AOvVaw3qSpVvHuCdG4TWcD9via2Q&ust=1615569758065000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDyg7_gqO8CFQAAAAAdAAAAABAD"
 	},
 	{
+		"Title": "Jekyll",
+		"Tag": "Static site generator",
+		"Documentation": "https://jekyllrb.com/docs/",
+		"YT1 " : "https://youtu.be/mITMoheyvW4",
+		"YT2 " : "https://youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB",
+		"Website1": "https://www.digitalocean.com/community/tags/jekyll",
+		"Website12": "https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages",
+		"Dedicated GH page1": "https://github.com/jekyll/jekyll",
+		"Course1": "https://www.udemy.com/course/jekyll-and-github-pages/",
+		"Course2": "https://www.pluralsight.com/courses/static-websites-with-jekyll",
+		"Course3": "https://www.udemy.com/course/static-website-generator-fast-secure-sites-blogs-with-jekyll/",
+		"Tips1": "https://nickjanetakis.com/blog/tag/jekyll-tips-tricks-and-tutorials",
+		"Tips2": "http://www.kinnetica.com/2011/04/17/jekyll-tips-and-tricks/#:~:text=While%20you're%20initially%20developing,your%20changes%20in%20real%20time."
+	},
+	{
 		"Title": "Jira",
 		"Tag": "Bug tracking software",
 		"Documentation": "https://confluence.atlassian.com/jira/jira-documentation-1556.html",
