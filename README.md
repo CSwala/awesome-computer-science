@@ -3765,6 +3765,76 @@ https://www.udemy.com/course/swift-programming/ <br> https://www.udacity.com/cou
 </details>
 
 <details>
+<summary>Tcl </summary>
+<br>
+Category/Type - <br>High-level programming language <br>
+<br>
+Official Documentation - <br>
+https://www.tcl.tk/doc/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=6s6YbIa2k_g <br>
+https://www.youtube.com/watch?v=2z78eE0a-QY <br>
+https://www.youtube.com/watch?v=kuTfK7up1QA <br>
+https://www.youtube.com/watch?v=ZRi2VHoS8qE <br>
+https://www.youtube.com/watch?v=G2NXxPlgzkQ <br>
+https://www.youtube.com/watch?v=VkYufHa71Js <br>
+https://www.youtube.com/watch?v=uDqyLb-J0fw <br>
+https://www.youtube.com/watch?v=NRHOWuktCKU <br>
+https://www.youtube.com/watch?v=gC18amVhALQ <br>
+<br>
+Useful Websites -
+<br>
+https://www.tcl.tk/ <br>
+https://www.whoishostingthis.com/resources/tcl-tk/ <br>
+https://www.tcl.tk/doc/scripting.html <br>
+https://www.tutorialspoint.com/tcl-tk/tcl_builtin_functions.htm <br>
+https://zetcode.com/lang/tcl/procedures/ <br>
+https://www.reddit.com/r/Tcl/ <br>
+https://wiki.tcl-lang.org/page/Ideas+for+Projects+in+Tcl%2FTk <br>
+https://awesomeopensource.com/projects/tcl <br>
+https://wiki.tcl-lang.org/page/Example+Scripts+Everybody+Should+Have <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/tcltk/tcl <br>
+https://github.com/tcltk/tcllib <br>
+https://github.com/tcltk/tklib <br>
+https://github.com/tcltk/itcl <br>
+https://github.com/tcltk/thread <br>
+https://github.com/tcltk/tk <br>
+https://github.com/msteveb/jimtcl <br>
+https://github.com/ray2501/Tcl-Related-Link <br>
+https://github.com/wejgaard/TclForth <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/vsd-tcl-programming-from-novice-to-expert/ <br>
+https://www.udemy.com/course/vsd-tcl-programming-from-novice-to-expert-part-2/ <br>
+https://www.mytectra.com/tcl-scripting-training.html <br>
+https://www.vlsiguru.com/tcl-scripting-training/ <br>
+https://www.doulos.com/training/tcl/essential-tcl-online/ <br>
+https://www.exuberantsolutions.com/tcl_tk_course.htm <br>
+https://www.lynda.com/Tcl-TK-training-tutorials/2781-0.html <br>
+http://www.wellho.net/course/tlfull.html <br>
+https://www.hardent.com/course/introduction-to-tcl-tk/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://wiki.tcl-lang.org/page/Advanced+Tcl <br>
+https://vhdlwhiz.com/why-you-need-to-learn-tcl/ <br>
+https://www.sciencedirect.com/book/9781558608023/tcl-tk <br>
+https://www.sciencedirect.com/topics/computer-science/tcl-interpreter <br>
+https://wiki.tcl-lang.org/page/Beginning+Tcl <br>
+https://www.tutorialspoint.com/tcl-tk/tcl_tk_quick_guide.htm <br>
+https://www.oreilly.com/library/view/tcltk-in-a/9780596803520/ch15.html <br>
+http://noucorp.com/Self-Directed/DevGuide.html <br>
+https://iopscience.iop.org/article/10.1088/1757-899X/402/1/012061 <br>
+<br>
+<a href="https://www.logo.wine/a/logo/Tcl/Tcl-Logo.wine.svg">
+  <img align="center" src="https://www.logo.wine/a/logo/Tcl/Tcl-Logo.wine.svg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>TeamCity</summary>
 <br>
 Category/Type - <br>Software <br>
