@@ -3477,6 +3477,28 @@
 		"Tips3": "https://www.datacamp.com/community/blog/python-scipy-cheat-sheet",
 		"Tips4": "https://ugoproto.github.io/ugo_py_doc/pdf/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf"
 	},
+	{  
+		"Title": "Seaborn",
+		"Tag": "Python Library",
+		"Documentation": "https://seaborn.pydata.org/introduction.html",
+		"YT1 ": "https://youtu.be/TLdXM0A7SR8",
+		"YT2 ": "https://youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j",
+		"YT3 ": "https://youtu.be/6GUZXDef2U0",
+		"Website1": "https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp",
+		"Website2": "https://www.kaggle.com/alexisbcook/hello-seaborn",
+		"Website3": "https://www.geeksforgeeks.org/python-seaborn-tutorial/",
+		"Website4": "https://towardsdatascience.com/seaborn-python-8563c3d0ad41?gi=d9916a3a377b",
+		"Dedicated GH page1": "https://github.com/seaborn",
+		"Dedicated GH page2": "https://github.com/mwaskom/seaborn",
+		"Dedicated Gh page3": "https://github.com/pb111/Data-Visualization-with-Seaborn",
+		"Course1": "https://www.coursera.org/projects/statistical-data-visualization-seaborn",
+		"Course2": "https://www.coursera.org/projects/exploratory-data-analysis-seaborn",
+		"Course3": "https://www.coursera.org/projects/python-for-data-visualization-seaborn",
+		"Course4": "https://www.datacamp.com/courses/introduction-to-seaborn",
+		"Course5": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
+		"Tips1": "https://towardsdatascience.com/6-simple-tips-for-prettier-and-customised-plots-in-seaborn-python-22f02ecc2393"
+
+	},
 	{
 		"Title": "Selenium",
 		"Tag": "Software",
