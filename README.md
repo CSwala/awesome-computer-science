@@ -1970,6 +1970,48 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 </details>
 
 <details>
+<summary>JavaScript</summary>
+<br>Category/Type - <br>Scripting Language<br>
+<br>
+Official Documentation - <br>
+https://developer.mozilla.org/en-US/docs/Web/JavaScript<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=PkZNo7MFNFg<br>
+https://www.youtube.com/watch?v=uDwSnnhl1Ng&list=PLsyeobzWxl7qtP8Lo9TReqUMkiOp446cV<br>
+https://www.youtube.com/watch?v=KGkiIBTq0y0<br>
+https://www.youtube.com/watch?v=zBPeGR48_vE&list=PLqkLaKB2GJhWXV9rcarwvn06ISlL_9mPQ<br>
+https://www.youtube.com/watch?v=hKB-YGF14SY<br>
+https://www.youtube.com/watch?v=Qqx_wzMmFeA<br>
+<br>Useful Websites - <br>
+https://www.w3schools.com/js/DEFAULT.asp<br>
+https://javascript.info<br>
+https://www.tutorialspoint.com/javascript/index.htm<br>
+https://www.javatpoint.com/javascript-tutorial<br>
+<br>Dedicated Github page - <br>
+https://github.com/jonasschmedtmann/complete-javascript-course<br>
+https://github.com/sorrycc/awesome-javascript<br>
+https://github.com/30-seconds/30-seconds-of-code<br>
+https://github.com/TheAlgorithms/Javascript<br>
+https://github.com/getify/You-Dont-Know-JS<br>
+<br>Best Courses - <br>
+https://www.codecademy.com/learn/introduction-to-javascript<br>
+https://www.udacity.com/course/intro-to-javascript--ud803<br>
+https://www.coursera.org/learn/javascript?utm_medium=institutions&utm_source=umich&utm_campaign=adwords-web-design-for-everybody-interactivity-with-javascript&utm_term=javascript%20training&gclid=CjwKCAjwmv-DBhAMEiwA7xYrdw0WbwcgZ_zvhj5KKkjoYF069Jrg_SwDArFHGn66Qr70qDd7bQKWnhoCw5YQAvD_BwE<br>
+https://www.codecademy.com/learn/paths/web-development?g_network=g&g_device=c&g_adid=435749871280&g_keyword=javascript%20full%20course&g_acctid=243-039-7011&g_adtype=search&g_adgroupid=102650143113&g_keywordid=kwd-375976595471&g_campaign=ROW+Language%3A+Basic+-+Exact&g_campaignid=10074200771&utm_id=t_kwd-375976595471:ag_102650143113:cp_10074200771:n_g:d_c&utm_term=javascript%20full%20course&utm_campaign=ROW%20Language%3A%20Basic%20-%20Exact&utm_source=google&utm_medium=paid-search&utm_content=435749871280&hsa_acc=2430397011&hsa_cam=10074200771&hsa_grp=102650143113&hsa_ad=435749871280&hsa_src=g&hsa_tgt=kwd-375976595471&hsa_kw=javascript%20full%20course&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwmv-DBhAMEiwA7xYrd654ZdH3OUk0RfPagLY17KboPY2qDg9m5LrpGviZcau7D_Cy69ohrBoCkQsQAvD_BwE<br>
+https://www.coursera.org/courses?query=javascript<br>
+https://www.classcentral.com/course/edx-programming-for-the-web-with-javascript-8518<br>
+<br>Other Tips / Hacks - <br>
+https://modernweb.com/45-javascript-tips-tricks-practices/<br>
+https://medium.com/@bretcameron/12-javascript-tricks-you-wont-find-in-most-tutorials-a9c9331f169d<br>
+https://www.educative.io/blog/javascript-tips-simplify-code<br>
+https://dev.to/zandershirley/10-practical-javascript-tricks-2b7h<br>
+https://www.freecodecamp.org/news/time-saving-javascript-tips/<br>
+<br>
+</details>
+
+
+<details>
 <summary>Jenkins</summary>
 <br>Category/Type - <br>automation tool<br>
 <br>Official Documentation - <br>https://www.jenkins.io/doc/<br>
