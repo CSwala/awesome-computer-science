@@ -3009,6 +3009,49 @@ https://www.reddit.com/r/openshift/comments/8fu2ib/openshift_container_platform_
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/200px-OpenShift-LogoType.svg.png" width="500" height="500"/>
 </a>
 </details>
+
+<details>
+<summary>Operating System</summary>
+<br>
+Category/Type - <br>
+Software System<br>
+<br>
+Official Documentation - <br>
+https://www.operating-system.org/index.html<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O<br>
+https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD<br>
+https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq<br>
+https://www.youtube.com/playlist?list=PLsylUObW5M3CAGT6OdubyH6FztKfJCcFB<br>
+<br>
+Useful Websites -
+https://www.geeksforgeeks.org/introduction-of-operating-system-set-1/<br>
+https://www.javatpoint.com/os-tutorial<br>
+https://www.guru99.com/operating-system-tutorial.html<br>
+https://www.tutorialspoint.com/operating_system/os_overview.htm#:~:text=An%20Operating%20System%20(OS)%20is,as%20disk%20drives%20and%20printers.<br>
+https://www.studytonight.com/operating-system/
+<br>
+Dedicated Github page - <br>
+https://github.com/jubalh/awesome-os<br>
+https://github.com/cfenollosa/os-tutorial<br>
+https://github.com/ausafaq/OS-Project<br>
+https://github.com/mohamedameen93/CS-6210-Advanced-Operating-Systems-Notes
+<br>
+Best Courses - <br>
+https://www.udacity.com/course/introduction-to-operating-systems--ud923<br>
+https://www.edx.org/course/computer-hardware-and-operating-systems<br>
+https://www.coursera.org/courses?query=operating%20system&page=1<br>
+https://www.udemy.com/course/operating-systems-from-scratch-part1/
+<br>
+Other Tips / Hacks - <br>
+https://www.geeksforgeeks.org/tips-and-tricks-on-operating-system-installations/<br>
+https://collab.its.virginia.edu/wiki/toolbox/Tips%20on%20Software%20%26%20Operating%20Systems.html<br>
+https://www.usatoday.com/story/tech/columnist/2020/08/13/10-tips-proficient-windows-10-operating-system/3347470001/<br>
+http://www.evcomps.com/computer-repair/tips-and-tricks/operating-systems.html<br>
+<br><br>
+</details>
+
 <details>
 <summary>Pandas</summary>
 <br>
