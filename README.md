@@ -1555,49 +1555,6 @@ https://www.reddit.com/r/gamemaker/comments/3a2t6t/tips_tricks_ive_learned_over_
 <br><br><br>
 </details>
 
-<details>
-<summary>GCP</summary>
-<br>Category/Type - <br> Google Cloud Platform: A suite of cloud computing services <br>
-<br>
-<br>Official Documentation - <br>
-https://cloud.google.com/docs/overview <br>
-<br>
-<br>Best YouTube creators - <br>
-https://www.youtube.com/user/googlecloudplatform <br>
-https://www.youtube.com/watch?v=JtUIQz_EkUw <br>
-https://www.youtube.com/playlist?list=PLcnJIHtHiTA2Jp3klIkeHiwqGrxjXBzh6 <br>
-https://www.youtube.com/watch?v=dn9cSRImmVA <br>
-https://www.youtube.com/watch?v=vACTtmLWiQY <br>
-<br>
-<br>Useful Websites - <br>
-https://intellipaat.com/blog/what-is-google-cloud/ <br>
-https://www.acronis.com/en-us/articles/google-cloud-platform/ <br>
-https://cloud.google.com/compute/docs/tutorials <br>
-https://www.freecodecamp.org/news/google-cloud-platform-from-zero-to-hero/ <br>
-<br>
-<br>Dedicated Github page - <br>
-https://github.com/GoogleCloudPlatform <br>
-https://github.com/googleapis/google-cloud-python <br>
-<br>
-<br>Best Courses - <br>
-https://cloud.google.com/training <br>
-https://www.udemy.com/course/gimp-photo-editing/ <br>
-https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiltNCiw47wAhUbJCsKHcd0DXAYABAAGgJzZg&ae=2&ohost=www.google.com&cid=CAESQeD25xZGV9MsIa6Ms8TZDK_UslRj31F6s4anZOMlcy35ySMH1Yp97xeANA8ZEhSQI5PEQ1J8S3Jwmhq40YaYNoqv&sig=AOD64_0lvqKORGySMzumKiYJaTCPLLcKOg&q&adurl&ved=2ahUKEwiOocqiw47wAhXdwjgGHfUnCh0Q0Qx6BAgDEAE <br>
-https://www.coursera.org/learn/gcp-fundamentals <br>
-https://medium.com/javarevisited/5-best-courses-to-learn-google-cloud-platform-gcp-in-2021-169093a3771a <br>
-<br>
-<br>Other Tips / Hacks - <br>
-https://cloud.google.com/functions/docs/bestpractices/tips <br>
-https://thenewstack.io/5-tips-to-become-a-google-cloud-certified-professional-architect/ <br>
-https://www.youtube.com/watch?v=v8ojCvt5qO4 <br> https://www.cloudhealthtech.com/blog/8-tips-drive-down-gcp-costs <br>
-https://www.techrepublic.com/article/google-cloud-platform-the-smart-persons-guide/ <br>
-<br>
-<a href="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/google-cloud.jpg">
-  <img align="center" src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/google-cloud.jpg" width="500" height="500"/>
-</a>
-<br><br><br>
-</details>
-
  <details>
 <summary>GIMP</summary>
 <br>Category/Type - <br> Graphics editor <br>
