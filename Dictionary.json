@@ -1969,6 +1969,27 @@
 		"Image1" : "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
 	},
 	{
+		"Title" :"Jekyll",
+		"Tag" : "Static site generator",
+		"Documentation" :"https://jekyllrb.com/docs/",
+		"YT1 ": "https://youtu.be/mITMoheyvW4",
+		"YT2 ": "https://youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB",
+		"YT3 ": "https://youtube.com/playlist?list=PLygcmZoi1k1BbL2G0xc0pHJQTT1VtIo4f",
+		"Website1": "https://www.digitalocean.com/community/tags/jekyll",
+		"Website2": "https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages",
+		"Website3": "https://opensource.com/article/17/4/getting-started-jekyll",
+		"Website4": "http://jekyllbootstrap.com/lessons/jekyll-introduction.html",
+		"Dedicated GH page1": "https://github.com/jekyll/jekyll",
+		"Dedicated GH page2": "https://github.com/swoicik/Jekyll-Resources",
+		"Course1" : "https://www.udemy.com/course/static-website-generator-fast-secure-sites-blogs-with-jekyll/",
+		"Course2" : "https://www.pluralsight.com/courses/static-websites-with-jekyll",
+		"Course3" : "https://www.udemy.com/course/jekyll-and-github-pages/",
+		"Course4" : "https://www.udemy.com/course/building-a-website-with-jekyll/",
+		"Tips1" : "http://www.kinnetica.com/2011/04/17/jekyll-tips-and-tricks/#:~:text=While%20you're%20initially%20developing,your%20changes%20in%20real%20time.",
+		"Tips2" : "https://nickjanetakis.com/blog/tag/jekyll-tips-tricks-and-tutorials"
+
+	},
+	{
 		"Title" : "Jenkins",
 		"Tag" : "automation tool",
 		"Documentation" : "https://www.jenkins.io/doc/",
