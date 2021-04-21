@@ -1273,6 +1273,106 @@ https://www.besanttechnologies.com/what-is-expressjs <br>
 </details>
 
 <details>
+<summary>F# </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://docs.microsoft.com/en-us/dotnet/fsharp/what-is-fsharp <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=c7eNDJN758U <br>
+https://www.youtube.com/watch?v=O7Qld3q2Yuo <br>
+https://www.youtube.com/watch?v=SvOInBxPL30 <br>
+https://www.youtube.com/watch?v=Teak30_pXHk <br>
+https://www.youtube.com/watch?v=34C_7halqGw <br>
+https://www.youtube.com/watch?v=rxy9HfVspzE <br>
+https://www.youtube.com/watch?v=P-VNEYDwr5M <br>
+https://www.youtube.com/watch?v=cbTn9T7pijY <br>
+<br>
+Useful Websites -
+<br>
+https://fsharp.org/ <br>
+https://www.tutorialspoint.com/fsharp/index.htm <br>
+https://www.reddit.com/r/fsharp/ <br>
+https://fsharp.org/guides/web/ <br>
+https://docs.microsoft.com/en-us/dotnet/fsharp/ <br>
+https://www.javatpoint.com/f-sharp-tutorial <br>
+https://fsharpforfunandprofit.com/posts/fsharp-in-60-seconds/ <br>
+https://www.fincher.org/tips/Languages/fsharp.shtml <br>
+https://gist.github.com/odytrice/667bc1d8d7c872fe8c5b1baa58898c32 <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/dotnet/fsharp <br>
+https://github.com/fsharp/fsharp <br>
+https://github.com/fsprojects/Paket <br>
+https://github.com/xamarin/apple-api-docs <br>
+https://github.com/fsprojects/FSharp.Formatting <br>
+https://github.com/fsprojects/AzureStorageTypeProvider <br>
+https://github.com/fsprojects/SQLProvider <br>
+https://github.com/fsprojects/FSharp.Data.SqlClient <br>
+https://github.com/fsharp/FSharp.Compiler.Service <br>
+https://github.com/fsprojects/awesome-fsharp <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/fsharp-from-the-ground-up/ <br>
+https://www.manning.com/books/get-programming-with-f-sharp?a_aid=hackrio <br>
+https://fsharp.tv/ <br>
+https://www.pluralsight.com/courses/fsharp-fundamentals <br>
+https://www.lynda.com/F-tutorials/11445-0.html <br>
+https://www.zeolearn.com/f-sharp-training <br>
+https://www.udemy.com/course/building-f-applications/ <br>
+https://www.udemy.com/course/learning-functional-programming-with-f/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://gist.github.com/swlaschin/31d5a0a2c4478e82e3ed60d653c0206b <br>
+https://riptutorial.com/fsharp/topic/3562/fsharp-performance-tips-and-tricks <br>
+https://sodocumentation.net/fsharp/topic/3562/fsharp-performance-tips-and-tricks <br>
+https://markheath.net/post/3-tips-more-elegant-let-bindings-fsharp <br>
+https://www.reddit.com/r/fsharp/comments/g2smx9/tips_and_tricks_to_debug_stack_overflows/ <br>
+https://www.airpair.com/f%23/tips-n-tricks/seven-ineffective-coding-habits-many-fsharp-programmers-dont-have <br>
+https://functionalsoftware.net/category/f-tips-and-tricks/ <br>
+https://brandewinder.com/2016/02/06/10-fsharp-scripting-tips/ <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/5/57/Fsharp_logo.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Fsharp_logo.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
+<summary>Figma</summary>
+<br>Category/Type - <br>Digital Design Tool<br>
+<br>Official Documentation - <br>https://www.figma.com/plugin-docs/intro/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Cx2dkpBxst8<br>
+https://www.youtube.com/watch?v=4W4LvJnNegA<br>
+https://www.youtube.com/watch?v=FTFaQWZBqQ8<br>
+https://www.youtube.com/watch?v=Gu1so3pz4bA<br>
+<br>Useful Websites - <br>
+https://www.figma.com<br>
+https://www.toptal.com/designers/ui/figma-design-tool<br>
+https://www.crunchbase.com/organization/figma<br>
+https://www.figma.com/downloads/<br>
+<br>Dedicated Github page - <br>
+https://github.com/bernaferrari/FigmaToCode<br>
+ https://github.com/figmaspace/figmaspace.github.io <br>
+ https://github.com/figma<br>
+ https://github.com/jongold/figma-js<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/learn-figma/<br>
+https://www.udemy.com/course/the-complete-figma-course/<br>
+https://learnux.io/course/figma<br>
+https://www.skillshare.com/browse/figma<br>
+<br>Other Tips / Hacks - <br>
+https://uxdesign.cc/figma-community-the-github-for-designers-b2261d4d21be<br>
+https://blog.prototypr.io/figma-tips-and-tricks-1c07ec13b696<br>
+https://uxplanet.org/advanced-figma-tips-tricks-d782ba2b2f5c<br>
+https://awesomefigmatips.com/tips<br>
+<br>
+</details>
+
+<details>
 <summary>FireBase</summary>
 <br>Category/Type - <br>NoSQL database program<br>
 <br>Official Documentation - <br>https://firebase.google.com/docs<br>
@@ -1400,106 +1500,6 @@ https://github.com/londonappbrewery/Flutter-Course-Resource<br>
 https://github.com/ibhavikmakwana/FlutterDartTips<br>	
 https://github.com/leisim/awesome-flutter-packages<br>
 https://medium.com/@diegoveloper<br>
-<br>
-</details>
-
-<details>
-<summary>F# </summary>
-<br>
-Category/Type - <br>Programming language <br>
-<br>
-Official Documentation - <br>
-https://docs.microsoft.com/en-us/dotnet/fsharp/what-is-fsharp <br>
-<br>
-Best YouTube creators - <br>
-https://www.youtube.com/watch?v=c7eNDJN758U <br>
-https://www.youtube.com/watch?v=O7Qld3q2Yuo <br>
-https://www.youtube.com/watch?v=SvOInBxPL30 <br>
-https://www.youtube.com/watch?v=Teak30_pXHk <br>
-https://www.youtube.com/watch?v=34C_7halqGw <br>
-https://www.youtube.com/watch?v=rxy9HfVspzE <br>
-https://www.youtube.com/watch?v=P-VNEYDwr5M <br>
-https://www.youtube.com/watch?v=cbTn9T7pijY <br>
-<br>
-Useful Websites -
-<br>
-https://fsharp.org/ <br>
-https://www.tutorialspoint.com/fsharp/index.htm <br>
-https://www.reddit.com/r/fsharp/ <br>
-https://fsharp.org/guides/web/ <br>
-https://docs.microsoft.com/en-us/dotnet/fsharp/ <br>
-https://www.javatpoint.com/f-sharp-tutorial <br>
-https://fsharpforfunandprofit.com/posts/fsharp-in-60-seconds/ <br>
-https://www.fincher.org/tips/Languages/fsharp.shtml <br>
-https://gist.github.com/odytrice/667bc1d8d7c872fe8c5b1baa58898c32 <br>
-<br>
-Dedicated Github page - <br>
-https://github.com/dotnet/fsharp <br>
-https://github.com/fsharp/fsharp <br>
-https://github.com/fsprojects/Paket <br>
-https://github.com/xamarin/apple-api-docs <br>
-https://github.com/fsprojects/FSharp.Formatting <br>
-https://github.com/fsprojects/AzureStorageTypeProvider <br>
-https://github.com/fsprojects/SQLProvider <br>
-https://github.com/fsprojects/FSharp.Data.SqlClient <br>
-https://github.com/fsharp/FSharp.Compiler.Service <br>
-https://github.com/fsprojects/awesome-fsharp <br>
-<br>
-Best Courses - <br>
-https://www.udemy.com/course/fsharp-from-the-ground-up/ <br>
-https://www.manning.com/books/get-programming-with-f-sharp?a_aid=hackrio <br>
-https://fsharp.tv/ <br>
-https://www.pluralsight.com/courses/fsharp-fundamentals <br>
-https://www.lynda.com/F-tutorials/11445-0.html <br>
-https://www.zeolearn.com/f-sharp-training <br>
-https://www.udemy.com/course/building-f-applications/ <br>
-https://www.udemy.com/course/learning-functional-programming-with-f/ <br>
-<br>
-Other Tips / Hacks - <br>
-https://gist.github.com/swlaschin/31d5a0a2c4478e82e3ed60d653c0206b <br>
-https://riptutorial.com/fsharp/topic/3562/fsharp-performance-tips-and-tricks <br>
-https://sodocumentation.net/fsharp/topic/3562/fsharp-performance-tips-and-tricks <br>
-https://markheath.net/post/3-tips-more-elegant-let-bindings-fsharp <br>
-https://www.reddit.com/r/fsharp/comments/g2smx9/tips_and_tricks_to_debug_stack_overflows/ <br>
-https://www.airpair.com/f%23/tips-n-tricks/seven-ineffective-coding-habits-many-fsharp-programmers-dont-have <br>
-https://functionalsoftware.net/category/f-tips-and-tricks/ <br>
-https://brandewinder.com/2016/02/06/10-fsharp-scripting-tips/ <br>
-<br>
-<a href="https://upload.wikimedia.org/wikipedia/commons/5/57/Fsharp_logo.png">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Fsharp_logo.png" width="500" height="500"/>
-</a>
-<br><br><br>
-</details>
-
-<details>
-<summary>Figma</summary>
-<br>Category/Type - <br>Digital Design Tool<br>
-<br>Official Documentation - <br>https://www.figma.com/plugin-docs/intro/<br>
-<br>Best YouTube creators - <br>
-https://www.youtube.com/watch?v=Cx2dkpBxst8<br>
-https://www.youtube.com/watch?v=4W4LvJnNegA<br>
-https://www.youtube.com/watch?v=FTFaQWZBqQ8<br>
-https://www.youtube.com/watch?v=Gu1so3pz4bA<br>
-<br>Useful Websites - <br>
-https://www.figma.com<br>
-https://www.toptal.com/designers/ui/figma-design-tool<br>
-https://www.crunchbase.com/organization/figma<br>
-https://www.figma.com/downloads/<br>
-<br>Dedicated Github page - <br>
-https://github.com/bernaferrari/FigmaToCode<br>
- https://github.com/figmaspace/figmaspace.github.io <br>
- https://github.com/figma<br>
- https://github.com/jongold/figma-js<br>
-<br>Best Courses - <br>
-https://www.udemy.com/course/learn-figma/<br>
-https://www.udemy.com/course/the-complete-figma-course/<br>
-https://learnux.io/course/figma<br>
-https://www.skillshare.com/browse/figma<br>
-<br>Other Tips / Hacks - <br>
-https://uxdesign.cc/figma-community-the-github-for-designers-b2261d4d21be<br>
-https://blog.prototypr.io/figma-tips-and-tricks-1c07ec13b696<br>
-https://uxplanet.org/advanced-figma-tips-tricks-d782ba2b2f5c<br>
-https://awesomefigmatips.com/tips<br>
 <br>
 </details>
 
@@ -2349,20 +2349,7 @@ https://www.codementor.io/lisp-experts<br>
 <br><br><br>
 </details>
 
-<details>
-<summary>MATLAB</summary>
-<br>Category/Type - <br>Matrix-based language<br>
-<br>Official Documentation - <br>https://in.mathworks.com/help/matlab/<br>
-<br>Best YouTube creators - <br>https://www.youtube.com/user/MATLAB<br>https://www.youtube.com/channel/UCNYJACuYKQlScmTuyIe8J0g<br>https://www.youtube.com/channel/UCEaVN5-XCvLgJOFAR_VOIoQ<br>https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA<br>
-<br>Useful Websites - <br>https://matlabacademy.mathworks.com/?s_tid=ac_ml_tut_til<br>https://nhigham.com/matlab-guide/<br>https://engineerexperiences.com/category/matlab<br>https://blogs.mathworks.com/videos/<br>
-<br>Dedicated Github page - <br>https://github.com/mathworks<br>https://github.com/topics/matlab-codes <br>https://github.com/VivekKrG/MATLAB-projects-and-Assignments<br>https://github.com/TadasBaltrusaitis/OpenFace<br>https://github.com/PRML/PRMLT<br>
-<br>Best Courses - <br>https://matlabacademy.mathworks.com/<br>https://www.udemy.com/course/matlab-essentials-for-engineering-and-science-students/<br>https://www.coursera.org/learn/matlab<br>https://www.linkedin.com/learning/learning-matlab-2/welcome<br>
-<br>Other Tips / Hacks - <br>https://in.mathworks.com/videos/matlab-and-simulink-racing-lounge-how-to-make-your-matlab-experience-more-productive-99548.html<br>https://www.ee.columbia.edu/~marios/matlab/GUIwithMatlab.pdf<br>https://www.ee.columbia.edu/~marios/matlab/Writing_Fast_MATLAB_Code.pdf<br>https://www.ee.columbia.edu/~marios/matlab/Matlab%20array%20manipulation%20tips%20and%20tricks.pdf<br><br>
-<a href="https://in.mathworks.com/matlabcentral/answers/228557-experts-of-matlab-how-did-you-learn-any-advice-for-beginner-intermediate-users">
-  <img align="center" src="https://user-images.githubusercontent.com/68437435/113461750-80cf9080-943b-11eb-88c5-74067ca42376.jpg" width="300" height="200"/>
-</a>
-<br><br><br>
-</details>
+
 
 <details>
 <summary>Machine Learning</summary>
@@ -2398,6 +2385,21 @@ Other Tips/Hacks - <br>
 https://www.freecodecamp.org/news/how-to-get-started-with-machine-learning-in-less-than-10-minutes-b5ea68462d23/<br>
 https://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-machine-learning<br>
 https://ml-cheatsheet.readthedocs.io/en/latest/<br>
+</details>
+
+<details>
+<summary>MATLAB</summary>
+<br>Category/Type - <br>Matrix-based language<br>
+<br>Official Documentation - <br>https://in.mathworks.com/help/matlab/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/user/MATLAB<br>https://www.youtube.com/channel/UCNYJACuYKQlScmTuyIe8J0g<br>https://www.youtube.com/channel/UCEaVN5-XCvLgJOFAR_VOIoQ<br>https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA<br>
+<br>Useful Websites - <br>https://matlabacademy.mathworks.com/?s_tid=ac_ml_tut_til<br>https://nhigham.com/matlab-guide/<br>https://engineerexperiences.com/category/matlab<br>https://blogs.mathworks.com/videos/<br>
+<br>Dedicated Github page - <br>https://github.com/mathworks<br>https://github.com/topics/matlab-codes <br>https://github.com/VivekKrG/MATLAB-projects-and-Assignments<br>https://github.com/TadasBaltrusaitis/OpenFace<br>https://github.com/PRML/PRMLT<br>
+<br>Best Courses - <br>https://matlabacademy.mathworks.com/<br>https://www.udemy.com/course/matlab-essentials-for-engineering-and-science-students/<br>https://www.coursera.org/learn/matlab<br>https://www.linkedin.com/learning/learning-matlab-2/welcome<br>
+<br>Other Tips / Hacks - <br>https://in.mathworks.com/videos/matlab-and-simulink-racing-lounge-how-to-make-your-matlab-experience-more-productive-99548.html<br>https://www.ee.columbia.edu/~marios/matlab/GUIwithMatlab.pdf<br>https://www.ee.columbia.edu/~marios/matlab/Writing_Fast_MATLAB_Code.pdf<br>https://www.ee.columbia.edu/~marios/matlab/Matlab%20array%20manipulation%20tips%20and%20tricks.pdf<br><br>
+<a href="https://in.mathworks.com/matlabcentral/answers/228557-experts-of-matlab-how-did-you-learn-any-advice-for-beginner-intermediate-users">
+  <img align="center" src="https://user-images.githubusercontent.com/68437435/113461750-80cf9080-943b-11eb-88c5-74067ca42376.jpg" width="300" height="200"/>
+</a>
+<br><br><br>
 </details>
 
 <details>
