@@ -3053,7 +3053,6 @@ https://www.reddit.com/r/openshift/comments/8fu2ib/openshift_container_platform_
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/200px-OpenShift-LogoType.svg.png" width="500" height="500"/>
 </a>
 </details>
-
 <details>
 <summary>Operating System</summary>
 <br>
