@@ -3140,6 +3140,60 @@ https://www.crio.do/?utm_source=adwords1&gclid=CjwKCAjwjuqDBhAGEiwAdX2cj5BGnJ1EU
  </details>
 
 <details>
+<summary>ML </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+http://web.cecs.pdx.edu/~black/CS311/ML.html <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=2sqjUWGGzTo <br>
+https://www.youtube.com/watch?v=p2UYcMuwF3c <br>
+https://www.youtube.com/watch?v=oGrCMatmxuU <br>
+https://www.youtube.com/watch?v=qdUnCK85CoI <br>
+https://www.youtube.com/watch?v=p1n0_PsM6hw <br>
+<br>
+Useful Websites -
+<br>
+https://learnxinyminutes.com/docs/standard-ml/ <br>
+https://www.cs.nmsu.edu/~rth/cs/cs471/sml.html <br>
+https://www.whoishostingthis.com/resources/ml/ <br>
+http://www.nuprl.org/book/Metalanguage.html <br>
+https://people.mpi-sws.org/~dreyer/thesis/main.pdf <br>
+http://www.macs.hw.ac.uk/ultra/skalpel/html/sml.html <br>
+http://www.scholarpedia.org/article/Standard_ML_language <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/smlsharp/smlsharp <br>
+https://github.com/i4ki/awesome-sml <br>
+https://github.com/melsman/mlkit <br>
+https://github.com/SMLFamily/The-Definition-of-Standard-ML <br>
+https://github.com/SMLFamily/SML-The-Living-Language <br>
+https://github.com/SMLFamily/The-Mechanization-of-Standard-ML <br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/lecture/programming-languages/sml-installation-Gm2WF <br>
+http://www.cs.cornell.edu/courses/cs312/2002sp/lectures/lec01.htm <br>
+https://exercism.io/tracks/sml <br>
+https://www.geeksforgeeks.org/what-is-standard-meta-language-sml/ <br>
+https://www.udemy.com/course/15-weird-non-foreign-languages-that-will-make-you-smarter/ <br>
+https://courses.cs.washington.edu/courses/cse341/04wi/lectures/02-ml-intro.html <br>
+https://www.linuxlinks.com/excellent-free-tutorials-learn-standard-ml/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://wiki.c2.com/?SmlLanguage <br>
+https://news.ycombinator.com/item?id=24890463 <br>
+https://blog.jez.io/sml-dev-setup/ <br>
+https://condor.depaul.edu/dmumaugh/readings/handouts/CSC447/tofte-tips.pdf <br>
+https://www.cs.purdue.edu/homes/suresh/502-Fall2008/project/doc/style-guide.html <br>
+https://smlhelp.github.io/book/types/bool.html <br>
+https://www.youtube.com/watch?v=GYedTnX9vJQ <br>
+<br>
+<br><br><br>
+</details>
+
+<details>
 <summary>Modo</summary>
 <br>Category/Type - <br>Software<br>
 <br>Official Documentation - <br>
