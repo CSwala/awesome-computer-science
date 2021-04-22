@@ -556,6 +556,52 @@ https://github.com/kailashahirwar/cheatsheets-ai<br>
 </details>
 
 <details>
+<summary>AWS</summary>
+<br>Category/Type - <br>IT service management company <br>
+<br>Official Documentation - <br>
+https://docs.aws.amazon.com/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=k1RI5locZE4<br>
+https://www.youtube.com/watch?v=ulprqHHWlng<br>
+https://www.youtube.com/watch?v=dDN-t69sa3U<br>
+https://www.youtube.com/watch?v=cJLJrLlZ8no<br>
+https://www.youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz<br>
+https://www.youtube.com/watch?v=MmsoIcYrXJU<br>
+<br>Useful Websites - <br>
+https://www.tutorialspoint.com/amazon_web_services/index.htm<br>
+https://www.javatpoint.com/aws-tutorial<br>
+https://aws.amazon.com/getting-started/hands-on/<br>
+https://www.guru99.com/aws-tutorial.html<br>
+https://www.simplilearn.com/tutorials/aws-tutorial<br>
+https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/<br>
+https://www.edureka.co/blog/amazon-aws-tutorial/<br>
+<br>Dedicated Github page - 
+<br>
+https://github.com/aws<br>
+https://github.com/donnemartin/awesome-aws<br>
+https://github.com/aws-samples<br>
+https://github.com/awsdocs<br>
+https://github.com/open-guides/og-aws<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/aws-certified-cloud-practitioner-new/<br>
+https://www.udemy.com/course/aws-essentials-z/<br>
+https://www.coursera.org/specializations/aws-fundamentals<br>
+https://www.coursera.org/learn/aws-fundamentals-going-cloud-native<br>
+https://www.coursera.org/learn/aws-machine-learning<br>
+https://www.edx.org/course/aws-developer-building-on-aws<br>
+https://www.edx.org/course/aws-getting-started-with-cloud-security<br>
+https://www.edx.org/course/aws-cloud-practitioner-essentials<br>
+<br>Other Tips / Hacks - <br>
+https://www.pluralsight.com/blog/it-ops/aws-tips<br>
+https://www.threatstack.com/blog/101-aws-security-tips-quotes-part-2-securing-your-aws-environment<br>
+https://aws.amazon.com/blogs/developer/tag/roadmap/<br>
+https://www.mygreatlearning.com/blog/aws-certification-roadmap/<br>
+https://tutorialsdojo.com/aws-cheat-sheets/<br>
+https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/aws-cheat-sheet/<br>
+<br><br>
+</details>
+
+<details>
 <summary>Blender</summary>
 <br>Category/Type - <br>3D modeling and animation program<br>
 <br>Official Documentation - <br>
