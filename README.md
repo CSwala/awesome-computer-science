@@ -4842,6 +4842,43 @@ https://www.udemy.com/course/swift-programming/ <br> https://www.udacity.com/cou
 </details>
 
 <details>
+<summary>Symfony</summary>
+<br>Category/Type - <br> Backend Framework <br>
+<br>Official Documentation - <br> https://symfony.com/doc/current/index.html <br>
+<br>Best YouTube creators - <br> 
+https://www.youtube.com/watch?v=Bo0guUbL5uo<br>
+https://www.youtube.com/watch?v=t5ZedKnWX9E <br> 
+https://www.youtube.com/watch?v=l5QLodEL1jo&list=PLqhuffi3fiMONS5B7zzD2nqGxf_TmpQB1 <br> 
+https://www.youtube.com/watch?v=AaQNYq07-oI&list=PLRkB3CK04Mo8vbftRqjuiwxIkVUtxjeOj <br>
+https://www.youtube.com/watch?v=sT4dMKSA1-A <br>
+https://www.youtube.com/watch?v=tbXpX4dAqjg<br>
+<br>Useful Websites - <br> 
+https://symfony.com <br> 
+https://www.tutorialspoint.com/symfony/index.htm <br>
+https://www.sitepoint.com/symfony-beginners-tutorial/ <br>
+https://auth0.com/blog/symfony-tutorial-building-a-blog-part-1/ <br> 
+https://www.studentstutorial.com/symfony-framework/symfony-framework-tutorial.php <br>
+<br>Dedicated Github page - <br> 
+https://github.com/symfony/symfony <br> 
+https://github.com/symfony/demo <br> 
+https://github.com/symfony/symfony-standard<br>
+https://github.com/edlef/symfony-demo<br>
+<br>Best Courses - <br> 
+https://www.udemy.com/course/symfony-4-for-beginners/ <br>
+https://www.udemy.com/course/symfony-4-web-development-from-beginner-to-advanced/ <br>
+https://www.lynda.com/Symfony-training-tutorials/1133-0.html <br> 
+https://hackr.io/tutorials/learn-symfony<br>
+https://training.sensiolabs.com/en/<br>
+<br>Other Tips / Hacks - <br>
+https://stackify.com/symfony-performance-improvements-tips-and-techniques/ <br> 
+https://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks <br>
+https://bornfight.com/blog/symfony-tips-tricks-named-routes/ <br>
+https://www.cloudways.com/blog/php/symfony/<br>
+<br>
+</details>
+
+
+<details>
 <summary>Tcl </summary>
 <br>
 Category/Type - <br>High-level programming language <br>
