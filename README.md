@@ -1047,6 +1047,53 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 </details>
 
 <details>
+<summary>DevOps</summary>
+<br>
+Category/Type - <br>
+Development+Operation<br>
+<br>
+Official Documentation - <br>
+https://docs.microsoft.com/en-us/azure/devops-project/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=_Gpe1Zn-1fE<br>
+https://www.youtube.com/watch?v=hQcFE0RD0cQ<br>
+https://www.youtube.com/watch?v=Y-rj4vFc1Q8<br>
+https://www.youtube.com/watch?v=S_0q75eD8Yc<br>
+<br>
+Useful Websites -
+<br>
+https://en.wikipedia.org/wiki/DevOps#:~:text=DevOps%20is%20a%20set%20of,delivery%20with%20high%20software%20quality.<br>
+https://devops.com/<br>
+https://theagileadmin.com/what-is-devops/<br>\
+https://www.atlassian.com/devops<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/collections/devops-tools<br>
+https://github.com/yeasy/docker_practice<br>
+https://github.com/in28minutes/devops-master-class<br>
+https://lab.github.com/githubtraining/devops-with-github-actions<br>
+https://github.com/Tikam02/DevOps-Guide<br>
+<br>
+Best Courses - <br>
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj8ns_Tj5HwAhVCrpYKHfhUABIYABACGgJ0bA&ae=2&ohost=www.google.com&cid=CAESQeD2jwNnK2RtfHIjMlcCL3RO2SBgn1n28jP_U8kkk_mDazkqlGq6cvGJ1t9uTGOGFt-jpi1xVFcJT114_1YCmWTL&sig=AOD64_0iI1O9jsDl6B-kgU7fuk0u-G0TPg&q&adurl&ved=2ahUKEwiw6LnTj5HwAhX1wTgGHfGrAnIQ0Qx6BAgDEAE<br>
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj8ns_Tj5HwAhVCrpYKHfhUABIYABAAGgJ0bA&ae=2&ohost=www.google.com&cid=CAESQeD2jwNnK2RtfHIjMlcCL3RO2SBgn1n28jP_U8kkk_mDazkqlGq6cvGJ1t9uTGOGFt-jpi1xVFcJT114_1YCmWTL&sig=AOD64_2jZ6Y-rNPd7Giu2FOgLcaQ6geCwA&q&adurl&ved=2ahUKEwiw6LnTj5HwAhX1wTgGHfGrAnIQ0Qx6BAgEEAE<br>
+https://www.edx.org/learn/devops<br>
+https://www.coursera.org/courses?query=devops<br>
+<br>
+Other Tips / Hacks - <br>
+https://opensource.com/article/20/6/devops-mindset<br>
+https://devops.com/seven-effective-tips-to-get-the-most-out-of-your-devops/<br>
+https://opensource.com/article/20/2/devops-beginners<br>
+http://techgenix.com/devops-implementation/<br>
+https://www3.dbmaestro.com/blog/10-tips-to-practice-effective-devops<br><br>
+<a href="https://w7.pngwing.com/pngs/887/314/png-transparent-devops-software-engineering-technology-engineer-blue-text-trademark-thumbnail.png">
+  <img align="center" src="https://w7.pngwing.com/pngs/887/314/png-transparent-devops-software-engineering-technology-engineer-blue-text-trademark-thumbnail.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>DirectX</summary>
 <br>Category/Type - <br> Application Programming Interfaces <br>
 <br>Official Documentation - <br> https://docs.microsoft.com/en-us/windows/win32/getting-started-with-directx-graphics <br>
