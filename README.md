@@ -826,6 +826,56 @@ https://prograils.com/5-tips-for-elixir-phoenix-projects<br>
 </details>
 
 <details>
+<summary>Codeigniter</summary>
+<br>
+Category/Type - <br>
+PHP Framework<br>
+<br>
+Official Documentation - <br>
+https://codeigniter.com/docs<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=I752ofYu7ag<br>
+https://www.youtube.com/watch?v=7CHiREqfjqY<br>
+https://www.youtube.com/watch?v=6wFXXz4Y1Kg<br>
+https://www.youtube.com/watch?v=R1StjWM_LOE<br>
+https://www.youtube.com/watch?v=OcZL17LvDUk<br>
+https://www.youtube.com/watch?v=GcRv-3-pXeI<br>
+<br>
+Useful Websites -
+<br>
+https://codeigniter.com<br>
+https://www.tutorialspoint.com/codeigniter/index.htm<br>
+https://www.guru99.com/what-is-codeigniter.html<br>
+https://www.javatpoint.com/what-is-codeigniter<br>
+https://www.a2hosting.com/blog/codeigniter-framework/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/bcit-ci/CodeIgniter<br>
+https://github.com/codeigniter4projects/website2<br>
+https://github.com/jim-parry/CodeIgniter4-website<br>
+https://github.com/kenjis/codeigniter-deployer<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/learn-how-to-integrate-add-on-to-your-codeigniter-projects/<br>
+https://www.udemy.com/course/codeignitercourse/<br>
+https://www.lynda.com/CodeIgniter-training-tutorials/1136-0.html<br>
+https://hackr.io/tutorials/learn-codeigniter<br>
+https://www.learnvern.com/course/codeigniter-tutorial<br>
+https://www.zeolearn.com/php-mysql-and-codeigniter-training<br>
+<br>
+Other Tips / Hacks - <br>
+https://www.ithands.com/blog/10-quick-codeigniter-tips/<br>
+https://code.tutsplus.com/tutorials/advanced-codeigniter-techniques-and-tricks--net-25408<br>
+https://www.w3school.info/2016/10/21/codeigniter-best-tricks-and-hacks/<br>
+https://www.cloudways.com/blog/php/codeigniter/<br>
+https://webeasystep.com/blog/view_article/5_tips_to_increase_your_productivity_with_codeigniter<br>
+https://webpedia.net/codeigniter-tips-tricks<br>
+https://stackoverflow.com/questions/4427018/codeigniter-tips-n-tricks<br>
+<br>
+</details>
+
+<details>
 <summary>Competitive Programming</summary>
 <br>
 Category/Type - <br>
