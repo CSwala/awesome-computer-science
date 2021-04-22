@@ -1065,7 +1065,7 @@ Useful Websites -
 <br>
 https://en.wikipedia.org/wiki/DevOps#:~:text=DevOps%20is%20a%20set%20of,delivery%20with%20high%20software%20quality.<br>
 https://devops.com/<br>
-https://theagileadmin.com/what-is-devops/<br>\
+https://theagileadmin.com/what-is-devops/<br>
 https://www.atlassian.com/devops<br>
 <br>
 Dedicated Github page - <br>
@@ -1087,8 +1087,8 @@ https://devops.com/seven-effective-tips-to-get-the-most-out-of-your-devops/<br>
 https://opensource.com/article/20/2/devops-beginners<br>
 http://techgenix.com/devops-implementation/<br>
 https://www3.dbmaestro.com/blog/10-tips-to-practice-effective-devops<br><br>
-<a href="https://w7.pngwing.com/pngs/887/314/png-transparent-devops-software-engineering-technology-engineer-blue-text-trademark-thumbnail.png">
-  <img align="center" src="https://w7.pngwing.com/pngs/887/314/png-transparent-devops-software-engineering-technology-engineer-blue-text-trademark-thumbnail.png" width="500" height="500"/>
+<a href="https://icon2.cleanpng.com/20180723/tlz/kisspng-devops-software-developer-agile-software-developme-icon-devops-logo-5b5650338842b1.9250677215323832835581.jpg">
+  <img align="center" src="https://icon2.cleanpng.com/20180723/tlz/kisspng-devops-software-developer-agile-software-developme-icon-devops-logo-5b5650338842b1.9250677215323832835581.jpg" width="500" height="500"/>
 </a>
 <br><br><br>
 </details>
