@@ -1470,8 +1470,50 @@ https://www.besanttechnologies.com/what-is-expressjs <br>
 </a>
 <br><br><br>
 </details>
-
 <details>
+<summary>Fabric</summary>
+<br>Category/Type - <br>Python Library<br>
+<br>Official Documentation - <br>http://www.fabfile.org//<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=33MceBzq7XQ<br>
+https://www.youtube.com/watch?v=ZpZkKbZwPoA<br>
+https://www.youtube.com/watch?v=FZ4q9GOmsQA<br>
+https://www.youtube.com/watch?v=MNq-z933kGk<br>
+https://www.youtube.com/watch?v=4qav2EuXsGU<br>
+https://www.youtube.com/watch?v=3mwFC4SHY-Y<br>
+<br>Useful Websites - <br>
+https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments<br>
+https://www.bogotobogo.com/python/Fabric/python_Fabric.php<br>
+https://code.tutsplus.com/tutorials/getting-started-with-the-fabric-python-library--cms-30555<br>
+https://www.pythonforbeginners.com/systems-programming/how-to-use-fabric-in-python<br>
+https://advanced-python.readthedocs.io/en/latest/fabric.html<br>
+https://medium.com/gopyjs/automate-deployment-with-fabric-python-fad992e68b5/<br>
+<br>Dedicated Github page - <br>
+https://github.com/wearetheledger/awesome-hyperledger-fabric<br>
+https://github.com/katopz/awesome-hyperledger-fabric<br>
+https://github.com/zhangchunlin/awesome-fabric<br>
+https://github.com/Siphalor/awesome-fabric<br>
+https://github.com/skcript/awesome-hyperledger<br>
+https://github.com/EPICConvergenceCenter/awesome-hyperledger-fabric<br>
+https://github.com/CharlesRA/awesome-fabricjs<br>
+<br>Best Courses - <br>
+https://www.lynda.com/Python-tutorials/Use-Fabric-automate-deployment/5035808/2265222-4.html<br>
+https://www.saltycrane.com/blog/2010/09/class-based-fabric-scripts-metaprogramming-hack/<br>
+https://www.udemy.com/course/hyperledger-fabric-composer-first-practical-blockchain/<br>
+https://medium.com/analytics-vidhya/very-basic-machine-learning-automation-using-fabric-2-4549665f611b<br>
+https://www.udemy.com/course/hyperledger/<br>
+https://www.udemy.com/course/hyperledger-fabric-network-design-setup/<br>
+https://www.jbssolutions.com/resources/blog/managing-servers-python-using-fabric/<br>
+<br>Other Tips / Hacks - <br>
+https://python-docs.readthedocs.io/en/latest/scenarios/admin.html<br>
+https://www.obeythetestinggoat.com/book/chapter_automate_deployment_with_fabric.html<br>
+https://medium.com/analytics-vidhya/<br>
+https://s3.us-east-2.amazonaws.com/prettyprinted/flask_cheatsheet.pdf<br>
+https://readthedocs.org/projects/fabric-www/downloads/pdf/latest/<br>
+https://pypi.org/project/fabric/<br>
+<br>
+</details>
+<details
 <summary>F# </summary>
 <br>
 Category/Type - <br>Programming language <br>
@@ -3894,6 +3936,59 @@ https://thomashoneyman.com/articles/replace-react-components-with-purescript/ <b
 </details>
 
 <details>
+<summary>Pyglet</summary>
+<br>
+Category/Type - <br>
+Python Library <br>
+<br>
+Official Documentation - <br>
+https://pyglet.readthedocs.io/en/latest/<br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=Wyv5TnkFuxE<br>
+https://www.youtube.com/watch?v=lJQ3UgcDHto&list=PL1FgJUcJJ03s7kYUy40ydTA9gBnj_KDlK <br>
+https://www.youtube.com/watch?v=Wyv5TnkFuxE&list=PL1P11yPQAo7qaq_Ga-XA7TvuB8jyI3Qjh <br>
+https://www.youtube.com/watch?v=f-xpItm1n3E<br>
+https://www.youtube.com/watch?v=S-4uPAMMnRU <br>
+https://www.youtube.com/watch?v=Hqg4qePJV2U <br>
+https://www.youtube.com/watch?v=lJQ3UgcDHto <br>
+<br>
+Useful Websites- <br>
+https://pyglet.readthedocs.io/en/latest/programming_guide/quickstart.html <br>
+https://www.geeksforgeeks.org/introduction-to-pyglet-library-for-game-development-in-python/ <br>
+https://codingcompiler.com/pyglet/ <br>
+http://www.natan.termitnjak.net/tutorials/pyglet_basic.html <br>
+https://riptutorial.com/python/topic/8208/pyglet <br>
+https://medium.com/@yvanscher/opengl-and-pyglet-basics-1bd9f1721cc6<br>
+https://awesomeopensource.com/project/pyglet/pyglet?categoryPage=26<br>
+<br>
+Dedicated Github page- <br>
+https://github.com/pyglet/pyglet<br>
+https://github.com/vinta/awesome-python <br>
+https://github.com/decause/pyglet-remy <br>
+https://github.com/jmcelroy5/Pyglet-Game <br>
+https://github.com/topics/pyglet<br>
+https://github.com/quobit/awesome-python-in-education<br>
+https://github.com/kxgames/glooey<br>
+<br>
+Best Courses- <br>
+https://www.udemy.com/course/pyglet-in-python-programming/ <br>
+https://www.udemy.com/course/python-video-workbook/ <br>
+https://www.wireless.education/study/pyglet-in-python-programming-it-certification-online-course-by-udemy/ <br>
+https://coursemarks.com/course/pyglet-in-python-programming/ <br>
+https://restless.co.uk/course/pyglet-in-python-programming-udemy-124012/ <br>
+<br>
+Other Tips/Hacks- <br>
+https://pythonhosted.org/pyglet/programming_guide/index.html <br>
+akeric.com/blog/?p=1510<br>
+https://xivilization.net/~marek/binaries/programming_guide.pdf<br>
+https://www.reddit.com/r/learnpython/comments/ggmn5s/need_help_with_pyglet/ <br>
+<a href="https://pyglet.readthedocs.io/en/latest/_static/logo.png">
+  <img align="center" src="https://pyglet.readthedocs.io/en/latest/_static/logo.png" width="500" height="500"/>
+</a>
+</details>
+
+<details>
 <summary>Python</summary>
 <br>Category/Type - <br>
 Open Source Programming Language<br>
@@ -4357,6 +4452,55 @@ https://www.datacamp.com/community/blog/python-scipy-cheat-sheet
 https://ugoproto.github.io/ugo_py_doc/pdf/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf<br>
 </details>
 
+
+<details>
+<summary>Scrapy</summary>
+<br>
+Category/Type - <br>
+Python Library<br>
+<br>
+Official Documentation - <br>
+https://docs.scrapy.org/en/latest/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=5o9lucMaQLc<br>
+https://www.youtube.com/watch?v=ve_0h4Y8nuI&list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t<br>
+https://www.youtube.com/watch?v=Wp6LRijW9wg<br>
+https://www.youtube.com/watch?v=s4jtkzHhLzY<br>
+https://www.youtube.com/watch?v=2vcp0fKq3aw<br>
+https://www.youtube.com/watch?v=ALizgnSFTwQ<br>
+Useful Websites -
+https://www.tutorialspoint.com/scrapy/index.htm<br>
+https://towardsdatascience.com/a-minimalist-end-to-end-scrapy-tutorial-part-i-11e350bcdec0<br>
+https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/<br>
+https://www.digitalocean.com/community/tutorials/how-to-crawl-a-web-page-with-scrapy-and-python-3<br>
+https://www.datacamp.com/community/tutorials/making-web-crawlers-scrapy-python<br>
+https://letslearnabout.net/tutorial/scrapy-tutorial/python-scrapy-tutorial-for-beginners-01-creating-your-first-spider/<br>
+Dedicated Github page - <br>
+https://github.com/AccordBox/awesome-scrapy<br>
+https://github.com/croqaz/awesome-scrapy<br>
+https://github.com/BruceDone/awesome-crawler<br>
+https://github.com/topics/awesome-scrapy<br>
+https://github.com/duyet/awesome-web-scraper<br>
+https://github.com/TylerNakamura/Awesome-Python-Scrapy-Videos<br>
+Best Courses - <br>
+https://www.udemy.com/course/web-scraping-in-python-using-scrapy-and-splash/<br>
+https://www.datacamp.com/courses/web-scraping-with-python<br>
+https://www.coursera.org/projects/web-scraping<br>
+https://www.zyte.com/learn/how-to-get-started-with-web-scraping-using-scrapy/<br>
+https://www.nightcourses.com/course/python-scrapy-scrape-web-data-using-python/<br>
+<br>
+Other Tips / Hacks - <br>
+https://www.smashingmagazine.com/2019/07/ultimate-guide-scalable-web-scrapers-scrapy/<br>
+https://www.zyte.com/blog/scrapy-tips-from-the-pros-part-1/<br>
+https://medium.com/geekculture/5-useful-tips-while-working-with-python-scrapy-6beb59119188<br>
+https://www.tutorialspoint.com/scrapy/xpth_tips.htm<br>
+<br>
+<a href="https://blog.theodo.com/static/f37be0c89dc04141fd6408a4f9356f64/ee604/Scrapy-Logo-big.png">
+  <img align="center" src="https://blog.theodo.com/static/f37be0c89dc04141fd6408a4f9356f64/ee604/Scrapy-Logo-big.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>
 <summary>Seaborn</summary>
 <br>
@@ -4765,6 +4909,47 @@ https://heartbeat.fritz.ai/tensorflow-quick-tips-e394bc5fee15 <br> https://mediu
 </a>
 </details>
 
+<details>
+<summary>Theano</summary>
+<br>Category/Type - <br> Python Library<br>
+<br>Official Documentation - <br> https://theano-pymc.readthedocs.io/en/latest/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=OU8I1oJ9HhI <br>
+https://www.youtube.com/watch?v=ET45bk1NN9g <br>
+https://www.youtube.com/watch?v=BuIsI-YHzj8 <br>
+https://www.youtube.com/watch?v=R-7OGU3V4IY <br>
+https://www.youtube.com/watch?v=S75EdAcXHKk&list=PL8Fr1wNWCi4T2fvla24jenU4IBM3P8_lJ <br>
+https://www.youtube.com/watch?v=uo_yV06qx54 <br>
+<br>Useful Websites - <br>
+https://www.tutorialspoint.com/theano/index.htm <br>
+https://www.marekrei.com/blog/theano-tutorial/<br>
+https://www.journaldev.com/17840/theano-python-tutorial<br>
+https://machinelearningmastery.com/introduction-python-deep-learning-library-theano/ <br>
+https://www.geeksforgeeks.org/theano-in-python/ <br>
+http://ir.hit.edu.cn/~jguo/docs/notes/a_simple_tutorial_on_theano.pdf <br>
+<br>Dedicated Github page - <br> 
+https://github.com/kjw0612/awesome-rnn <br>
+https://github.com/ml-tooling/best-of-ml-python <br>
+https://github.com/vinta/awesome-python<br>
+https://github.com/xiaoran-2/awesome-deeplearning-resources<br>
+https://github.com/Theano/Theano <br>
+<br>Best Courses - <br>
+https://www.mooc-list.com/tags/theano <br>
+https://tute.io/courses/deep-learning-gans-and-variational-autoencoders <br>
+https://www.udemy.com/course/data-science-deep-learning-in-theano-tensorflow/<br>
+https://www.classcentral.com/course/udemy-data-science-deep-learning-in-theano-tensor-23323<br>
+https://www.learningcrux.com/tag/Theano <br>
+<br>Other Tips / Hacks - <br> 
+https://udibr.github.io/tips-on-working-with-theano.html <br>
+https://docs.huihoo.com/theano/0.9/extending/tips.html <br>
+https://datascienceinsider.in/2015/10/14/tips-and-tricks-for-training-neural-network-in-theano/<br>
+https://folinoid.com/show/theano/<br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Theano_logo.svg/1200px-Theano_logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Theano_logo.svg/1200px-Theano_logo.svg.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>
 <summary>TypeScript</summary>
 <br>Category/Type - <br> Programming Language <br>
