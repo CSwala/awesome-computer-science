@@ -1500,6 +1500,64 @@ https://medium.com/erlang-battleground/erlang-lessons-fe800c51af4f <br>
 </details>
 
 <details>
+<summary>Ethereum</summary>
+<br>Category/Type - <br> Decentralized Software <br>
+<br>Official Documentation - <br> https://ethereum.org/en/developers/docs/intro-to-ethereum/ <br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=DhoRtGCp4JI <br>
+https://www.youtube.com/watch?v=uneCaqD6Etk <br>
+https://www.youtube.com/watch?v=coQ5dg8wM2o <br>
+https://www.youtube.com/watch?v=KU6bvciWgRE&list=PL0lNJEnwfVVMuX2Ds19Wj_7Mcze3FDJr3 <br>
+https://www.youtube.com/watch?v=XLahq4qyors <br>
+https://www.youtube.com/watch?v=58yeu6HtzpM <br>
+https://www.youtube.com/watch?v=-_Qs0XdPpw8 <br>
+https://www.youtube.com/watch?v=jxLkbJozKbY <br>
+https://www.youtube.com/watch?v=_bW08CpL21c <br>
+https://www.youtube.com/watch?v=MTC8BHrmrJA <br>
+
+<br>Useful Websites - <br>
+https://www.upgrad.com/blog/ethereum-tutorial-for-beginners/ <br>
+https://www.tutorialspoint.com/ethereum/index.htm <br>
+https://www.guru99.com/ethereum-tutorial.html <br>
+https://blockgeeks.com/guides/ethereum/ <br>
+https://medium.com/ethereum-developers/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e <br>
+https://www.codementor.io/@blockchainnick/a-prologue-to-ethereum-development-i1ezuj16l <br>
+https://www.edureka.co/blog/ethereum-tutorial-with-smart-contracts/ <br>
+https://medium.com/@wslyvh/get-started-with-ethereum-solidity-on-windows-1672e9953a1 <br>
+https://rubygarage.org/blog/ethereum-smart-contract-tutorial <br>
+https://www.sitepen.com/blog/smart-contracts-a-tutorial <br>
+
+<br>Dedicated Github page - <br> 
+https://github.com/ethereum/go-ethereum <br>
+https://github.com/ethereum/EIPs <br>
+https://github.com/ethereum/ethereum-org-website <br>
+https://github.com/ethereum/remix-project <br>
+https://github.com/ethereum/solidity <br>
+https://github.com/ethereum/fe <br>
+https://github.com/ethereum/eth2.0-specs <br>
+https://github.com/ethereum/eth2.0-APIs <br>
+https://github.com/ethereum/clrfund <br>
+
+<br>Best Courses - <br>
+https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/ <br>
+https://www.udemy.com/course/blockchain-developer/ <br>
+https://www.udemy.com/course/getting-started-with-ethereum-solidity-development/ <br>
+https://www.coursera.org/projects/ethereum-smart-contract-security-exploits <br>
+https://academy.b9lab.com/courses/course-v1:B9lab+ETHEREUM-DEVELOPER-COURSE+ONLINE/about <br>
+
+<br>Other Tips / Hacks - <br> 
+https://howtobuyethereum.io/ <br>
+https://www.upgrad.com/blog/ethereum-project-ideas-beginners/ <br>
+https://www.bitdegree.org/crypto/tutorials/ethereum-mining <br>
+https://blackwellglobal.com/top-5-tips-trading-ethereum/#:~:text=Tip%20%231%3A%20Risk%20Management%20is,with%20small%20amounts%20of%20capital. <br>
+https://www.ig.com/en/ethereum-trading/how-to-trade-ethereum <br>
+https://www.techrepublic.com/article/ethereum-a-cheat-sheet-for-professionals/ <br>	
+https://www.daytrading.com/ethereum <br>
+<br>
+
+</details>
+
+<details>
 <summary>Express.js</summary>
 <br>Category/Type - <br> Web framework for Node.js <br>
 <br>Official Documentation - <br> https://expressjs.com/en/starter/installing.html <br>
