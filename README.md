@@ -3140,7 +3140,7 @@ https://www.crio.do/?utm_source=adwords1&gclid=CjwKCAjwjuqDBhAGEiwAdX2cj5BGnJ1EU
  </details>
 
 <details>
-<summary>Metalanguage </summary>
+<summary>Meta Language </summary>
 <br>
 Category/Type - <br>Programming language <br>
 <br>
