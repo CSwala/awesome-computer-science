@@ -4470,6 +4470,55 @@ https://www.udemy.com/course/redis-bootcamp-for-beginners/ <br> https://www.udem
  </details>
 
 <details>
+<summary>Redux</summary>
+<br>
+Category/Type - <br>
+JavaScript Library <br>
+<br>
+Official Documentation - <br>
+https://redux.js.org/introduction/getting-started <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=poQXNp9ItL4 <br>
+https://www.youtube.com/watch?v=CVpUuw9XSjY <br>
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK <br>
+https://www.youtube.com/playlist?list=PL8p2I9GklV47TDYUq8RmFzeI9CgOoVgpJ <br>
+https://www.youtube.com/playlist?list=PLUVqY59GNZQMYJgEO3KWXkGcd3JSEfUst <br>
+https://www.youtube.com/playlist?list=PLZjjdd9-SJS0UiiJ0-dYk_PpI5GjYQ-Eb <br>
+https://www.youtube.com/watch?v=tOtGnCBXU3U <br>
+<br>
+Useful Websites- <br>
+https://www.tutorialspoint.com/redux/index.htm <br>
+https://www.javatpoint.com/react-redux <br>
+https://chriscourses.com/blog/redux <br>
+https://www.edureka.co/blog/react-redux-tutorial/ <br>
+https://www.freecodecamp.org/news/how-to-use-redux-in-reactjs-with-real-life-examples-687ab4441b85/ <br>
+https://daveceddia.com/redux-tutorial/ <br>
+https://www.taniarascia.com/redux-react-guide/ <br>
+https://www.valentinog.com/blog/redux/ <br>
+<br>
+Dedicated Github page- <br>
+https://www.udemy.com/course/learn-react-and-redux-by-examples/ <br>
+https://github.com/reduxjs/redux-toolkit <br>
+https://github.com/gothinkster/react-redux-realworld-example-app <br>
+https://github.com/redux-form/redux-form <br>
+<br>
+Best Courses- <br>
+https://www.udemy.com/course/learn-react-and-redux-by-examples/ <br>
+https://www.udemy.com/course/react-redux/ <br>
+https://www.udemy.com/course/react-redux-tutorial/ <br>
+https://www.codecademy.com/learn/learn-redux <br>
+https://www.dotnettricks.com/courses/react/react-state-management-redux <br>
+<br>
+Other Tips/Hacks- <br>
+https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44 <br>
+https://medium.com/dailyjs/tips-and-tricks-for-react-redux-application-c8d0db0ab0c8 <br>
+https://itnext.io/3-small-tips-for-better-redux-performance-in-a-react-app-9cde549df6af <br>
+https://slashgear.github.io/react-redux-pitfalls-and-best-pratices/ <br>
+<br>
+</details>
+
+<details>
 <summary>Ruby</summary>
 <br>
 Category/Type - <br>Programming language <br>
