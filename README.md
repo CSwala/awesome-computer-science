@@ -769,6 +769,45 @@ https://medium.com/@buildbox/how-to-get-free-game-music-more-buildbox-3f8918d950
 </details>
 
 <details>
+<summary>C</summary>
+<br>Category/Type - <br>Programming Language<br>
+<br>Official Documentation - <br>
+https://devdocs.io/c/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=KJgsSFOSQv0<br>
+https://www.youtube.com/playlist?list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C<br>
+https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR<br>
+https://www.youtube.com/playlist?list=PLWPirh4EWFpEK1RbpruFXrwgzcGUjZ4nV<br>
+https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR<br>
+https://www.youtube.com/watch?v=8PopR3x-VMY<br>
+<br>Useful Websites - <br>
+https://www.reddit.com/r/C_Programming/<br>
+https://www.geeksforgeeks.org/c-programming-language/<br>
+https://www.informit.com/articles/index.aspx?st=60233<br>
+https://www.programiz.com/c-programming<br>
+https://beginnersbook.com/2015/02/simple-c-programs/<br>
+https://www.studytonight.com/c/programs/<br>
+https://www.codewithc.com/c-projects-with-source-code/</br>
+<br>Dedicated Github page - <br>
+https://gist.github.com/markgk629/3781962<br>
+https://github.com/PacktPublishing/Learn-C-Programming<br>
+https://github.com/gouravthakur39/beginners-C-program-examples<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/c-programming-for-beginners-/<br>
+https://www.udemy.com/course/c-programming-for-beginners-/<br>
+https://www.linkedin.com/learning/advanced-c-programming<br>
+https://www.udemy.com/course/the-complete-c-programming/<br>
+https://www.learn-c.org/<br>
+<br>Other Tips / Hacks<br>
+https://www.techbeamers.com/top-c-programming-tips-and-tricks-for-you/<br>
+https://developerinsider.co/best-golfing-tips-and-tricks-in-c-programming-puzzles/<br>
+https://www.includehelp.com/tips/c/<br>
+https://hownot2code.com/2016/11/29/c-programming-tips/<br>
+https://www.cprogramming.com/tips/<br>
+https://www.opensourceforu.com/2018/06/simple-c-programming-tips-for-newbies/<br>
+</details>
+
+<details>
 <summary>C#</summary>
 <br>Category/Type - <br> Programming language <br>
 <br>Official Documentation - <br> https://docs.microsoft.com/en-us/dotnet/csharp/ <br> 
@@ -4663,6 +4702,47 @@ https://www.smartly.io/blog/ruby-tricks-for-curious-developer <br>
 </a>
 <br><br><br>
 </details>
+
+<details>
+ <summary>Ruby On Rails</summary>
+ <br>Category/Type - <br> Web Application Framework <br>
+ <br>Official Documentation - <br> https://guides.rubyonrails.org/api_documentation_guidelines.html <br>
+ <br>Best YouTube creators - <br>
+ https://www.youtube.com/watch?v=fmyvWz5TUWg <br> 
+ https://www.youtube.com/watch?v=zppMfm4fuxM <br> 
+ https://www.youtube.com/watch?v=B3Fbujmgo60<br>
+ https://www.youtube.com/watch?v=Wfd4ZIBMg7w&list=PLgPJX9sVy92yV7Qt6_8ElC9paGWdtdIbb <br> 
+ https://www.youtube.com/watch?v=heVMX8KSU4c <br>
+ https://www.youtube.com/watch?v=4ABesTeDKmQ&list=PL01nNIgQ4uxNkDZNMON-TrzDVNIk3cOz4 <br>
+ <br>Useful Websites - <br>
+ https://rubyonrails.org <br> 
+ https://www.tutorialspoint.com/ruby-on-rails/rails-introduction.htm<br>
+ https://www.codecademy.com/learn/learn-rails <br> 
+ https://www.railstutorial.org/book<br> 
+ https://www.toptal.com/ruby-on-rails/after-two-decades-of-programming-i-use-rails<br>
+ <br>Dedicated Github page - <br>
+ https://github.com/github/pages-gem <br> 
+ https://github.com/rails/rails <br>
+ https://github.com/rails<br>
+  https://github.com/railsgirls/railsgirls.github.io <br>
+ https://github.com/gramantin/awesome-rails<br> 
+ <br>Best Courses - <br>
+  https://www.udemy.com/course/ruby-on-rails-authentication-authorization-mvp/ <br> 
+  https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/ <br>
+ https://www.udemy.com/course/learn-ruby-on-rails-from-scratch/ <br> 
+ https://www.codecademy.com/learn/learn-rails<br>
+ https://gorails.com<br>
+ https://hackr.io/tutorials/learn-ruby-on-rails<br>
+ https://www.edx.org/learn/ruby-rails<br>
+ <br>Other Tips / Hacks - <br> 
+ https://medium.com/javarevisited/top-5-free-courses-to-learn-ruby-and-rails-for-beginners-best-of-lot-e149fe03c964 <br> 
+ https://www.agiratech.com/blog/10-useful-tips-for-ruby-on-rails-developers/ <br>
+ https://www.smashingmagazine.com/2009/02/ruby-on-rails-tips/ <br>
+  https://www.toptal.com/ruby-on-rails/tips-and-practices <br>
+ https://hackernoon.com/5-ruby-on-rails-tips-you-probably-dont-know-8b80b4a0890f<br>
+ https://nickjanetakis.com/blog/tag/ruby-on-rails-tips-tricks-and-tutorials<br>
+ <br>
+ </details>
 
 <details>
  <summary>Rust</summary>
