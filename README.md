@@ -4665,6 +4665,47 @@ https://www.smartly.io/blog/ruby-tricks-for-curious-developer <br>
 </details>
 
 <details>
+ <summary>Ruby On Rails</summary>
+ <br>Category/Type - <br> Web Application Framework <br>
+ <br>Official Documentation - <br> https://guides.rubyonrails.org/api_documentation_guidelines.html <br>
+ <br>Best YouTube creators - <br>
+ https://www.youtube.com/watch?v=fmyvWz5TUWg <br> 
+ https://www.youtube.com/watch?v=zppMfm4fuxM <br> 
+ https://www.youtube.com/watch?v=B3Fbujmgo60<br>
+ https://www.youtube.com/watch?v=Wfd4ZIBMg7w&list=PLgPJX9sVy92yV7Qt6_8ElC9paGWdtdIbb <br> 
+ https://www.youtube.com/watch?v=heVMX8KSU4c <br>
+ https://www.youtube.com/watch?v=4ABesTeDKmQ&list=PL01nNIgQ4uxNkDZNMON-TrzDVNIk3cOz4 <br>
+ <br>Useful Websites - <br>
+ https://rubyonrails.org <br> 
+ https://www.tutorialspoint.com/ruby-on-rails/rails-introduction.htm<br>
+ https://www.codecademy.com/learn/learn-rails <br> 
+ https://www.railstutorial.org/book<br> 
+ https://www.toptal.com/ruby-on-rails/after-two-decades-of-programming-i-use-rails<br>
+ <br>Dedicated Github page - <br>
+ https://github.com/github/pages-gem <br> 
+ https://github.com/rails/rails <br>
+ https://github.com/rails<br>
+  https://github.com/railsgirls/railsgirls.github.io <br>
+ https://github.com/gramantin/awesome-rails<br> 
+ <br>Best Courses - <br>
+  https://www.udemy.com/course/ruby-on-rails-authentication-authorization-mvp/ <br> 
+  https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/ <br>
+ https://www.udemy.com/course/learn-ruby-on-rails-from-scratch/ <br> 
+ https://www.codecademy.com/learn/learn-rails<br>
+ https://gorails.com<br>
+ https://hackr.io/tutorials/learn-ruby-on-rails<br>
+ https://www.edx.org/learn/ruby-rails<br>
+ <br>Other Tips / Hacks - <br> 
+ https://medium.com/javarevisited/top-5-free-courses-to-learn-ruby-and-rails-for-beginners-best-of-lot-e149fe03c964 <br> 
+ https://www.agiratech.com/blog/10-useful-tips-for-ruby-on-rails-developers/ <br>
+ https://www.smashingmagazine.com/2009/02/ruby-on-rails-tips/ <br>
+  https://www.toptal.com/ruby-on-rails/tips-and-practices <br>
+ https://hackernoon.com/5-ruby-on-rails-tips-you-probably-dont-know-8b80b4a0890f<br>
+ https://nickjanetakis.com/blog/tag/ruby-on-rails-tips-tricks-and-tutorials<br>
+ <br>
+ </details>
+
+<details>
  <summary>Rust</summary>
  <br>Category/Type - <br> Programming Language <br>
  <br>Official Documentation - <br> https://doc.rust-lang.org/nightly/ <br>
