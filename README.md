@@ -4301,6 +4301,75 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 </a>
 </details>
 
+<details>
+<summary>R </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://www.r-project.org/about.html <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=_V8eKsto3Ug <br>
+https://www.youtube.com/watch?v=eDrhZb2onWY <br>
+https://www.youtube.com/watch?v=7NLPPFU0O3w <br>
+https://www.youtube.com/watch?v=fDRa82lxzaU <br>
+https://www.youtube.com/watch?v=SBhpLnPuNlI <br>
+https://www.youtube.com/watch?v=KlsYCECWEWE <br>
+https://www.youtube.com/watch?v=SWxoJqTqo08 <br>
+https://www.youtube.com/watch?v=97YxE_M_5bk <br>
+https://www.youtube.com/watch?v=TGo9F0QyBuE <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/Rlanguage/ <br>
+https://cran.r-project.org/web/packages/modules/vignettes/modulesInR.html <br>
+https://www.datamentor.io/r-programming/examples/ <br>
+https://www.guru99.com/r-tutorial.html <br>
+http://www.rexamples.com/ <br>
+https://data-flair.training/blogs/r-applications/ <br>
+https://elearningindustry.com/applications-r-programming-r-eal-world <br>
+https://swcarpentry.github.io/r-novice-inflammation/02-func-R/ <br>
+https://www.geeksforgeeks.org/functions-in-r-programming/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/wch/r-source <br>
+https://github.com/lgatto/R-programming <br>
+https://github.com/DardenDSC/intro-to-r-programming <br>
+https://github.com/rstudio/shiny <br>
+https://github.com/spedygiorgio/markovchain <br>
+https://github.com/StevenMMortimer/salesforcer <br>
+https://github.com/moodymudskipper/inops <br>
+https://github.com/mrtkp9993/Statistical-Modeling-Examples <br>
+https://github.com/miraisolutions/xlconnect <br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/learn/r-programming <br>
+https://www.udemy.com/course/r-programming/ <br>
+https://www.udemy.com/course/r-programming-course-for-absolute-beginners/ <br>
+https://www.udemy.com/course/r-analytics/ <br>
+https://www.udemy.com/course/r-level1/ <br>
+https://www.edx.org/course/data-science-r-basics <br>
+https://www.codecademy.com/learn/learn-r <br>
+https://www.datacamp.com/courses/free-introduction-to-r <br>
+https://www.pluralsight.com/courses/programming-with-r <br>
+<br>
+Other Tips / Hacks - <br>
+https://paulvanderlaken.com/2018/05/21/r-tips-and-tricks/ <br>
+https://towardsdatascience.com/tricks-in-r-to-boost-your-productivity-8c977242c69c <br>
+https://www.datacamp.com/community/tutorials/five-tips-r-code-improve <br>
+https://www.dataquest.io/blog/rstudio-tips-tricks-shortcuts/ <br>
+https://www.jigsawacademy.com/tips-for-beginners-in-r/ <br>
+https://www.geeksforgeeks.org/8-coding-style-tips-for-r-programming/ <br>
+https://www.computerworld.com/article/2497464/top-r-language-resources-to-improve-your-data-skills.html <br>
+https://www.r-bloggers.com/2020/06/r-tips-and-tricks-utilities/ <br>
+https://dataaspirant.com/smart-r-programming-tips/ <br>
+<br>
+<a href="https://www.r-project.org/logo/Rlogo.png">
+  <img align="center" src="https://www.r-project.org/logo/Rlogo.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 
 <details>
 <summary>Ranorex</summary>
