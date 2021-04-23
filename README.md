@@ -5085,6 +5085,62 @@ https://www.cloudways.com/blog/php/symfony/<br>
 <br>
 </details>
 
+<details>
+<summary>Tailwind CSS</summary>
+<br>Category/Type - <br> CSS Framework <br>
+<br>Official Documentation - <br> https://tailwindcss.com/docs <br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=UBOj6rqRUME <br>
+https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw <br>
+https://www.youtube.com/watch?v=21HuwjmuS7A&list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR <br>
+https://www.youtube.com/watch?v=j_5-LISy9Qg <br>
+https://www.youtube.com/watch?v=Awl-CPXgpGs <br>
+https://www.youtube.com/watch?v=mVzY256R9fs <br>
+https://www.youtube.com/watch?v=6zIuAyLZPH0 <br>
+
+
+<br>Useful Websites - <br>
+https://scotch.io/tutorials/get-started-with-tailwind-css-in-15-minutes <br>
+https://tsh.io/blog/tailwind-css-tutorial <br>
+https://www.section.io/engineering-education/introduction-to-tailwind-css/ <br>
+https://codingthesmartway.com/tailwind-css-for-absolute-beginners/ <br>
+https://wsvincent.com/learn-tailwind-css-beginners-guide/#:~:text=Tailwind%20works%20by%20looking%20through,within%20a%20new%20css%20folder.&text=Then%20within%20the%20file%2C%20add,base%20%2C%20components%20%2C%20and%20utilities%20. <br>
+https://www.digitalocean.com/community/tutorials/build-a-beautiful-landing-page-with-tailwind-css <br>
+https://www.sitepoint.com/tailwind-unique-beautiful-websites/ <br>
+https://buildawesomewebsites.com/tailwind-css-tutorial-for-beginners/ <br>
+https://dev.to/adriantwarog/tailwind-css-tutorial-3kfc <br>
+
+
+<br>Dedicated Github page - <br> 
+https://github.com/tailwindlabs/tailwindcss <br>
+https://github.com/mertJF/tailblocks <br>
+https://github.com/aniftyco/awesome-tailwindcss <br>
+https://github.com/tailwindlabs/tailwindcss-setup-examples <br>
+https://github.com/tailwindlabs/tailwindcss-playground/pulls <br>
+https://github.com/tailwindlabs/designing-with-tailwindcss <br>
+
+<br>Best Courses - <br>
+https://www.udemy.com/course/complete-guide-of-tailwind-css-/ <br>
+https://scrimba.com/learn/tailwind <br>
+https://www.udemy.com/course/tailwindcss-with-examples/ <br>
+https://www.udemy.com/course/tailwind/ <br>
+<br>Other Tips / Hacks - <br> 
+https://dev.to/joserfelix/6-tips-for-tailwind-css-development-with-resources-33i4 <br>
+https://blog.logrocket.com/10-tailwind-css-tips-to-boost-your-productivity/ <br>
+https://laravel-news.com/tailwind-css-tips-and-tricks <br>
+https://laravel-news.com/tailwind-css-tips-and-tricks?utm_medium=email&utm_campaign=Laravel%20News%20Daily%202020-08-12&utm_content=Laravel%20News%20Daily%202020-08-12+CID_ce161303acd4a322955d7c3d00bd6fcf&utm_source=email%20marketing&utm_term=Tailwind%20CSS%20Tips%20and%20Tricks <br>
+https://mxstbr.com/thoughts/tailwind/ <br>
+https://www.freecodecamp.org/news/what-is-tailwind-css-and-how-can-i-add-it-to-my-website-or-react-app/ <br>
+https://www.ordinarycoders.com/blog/article/tailwindcss-plugins-github <br>
+<br>
+<a href="https://res.cloudinary.com/practicaldev/image/fetch/s--msY7kuBs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/f30hrij5h3j7gt2klbcu.jpg">
+  <img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--msY7kuBs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/f30hrij5h3j7gt2klbcu.jpg" width="900" height="500"/>
+</a>
+<br><br><br>
+
+
+</details>
+
 
 <details>
 <summary>Tcl </summary>
