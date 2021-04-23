@@ -556,52 +556,6 @@ https://github.com/kailashahirwar/cheatsheets-ai<br>
 </details>
 
 <details>
-<summary>AWS</summary>
-<br>Category/Type - <br>IT service management company <br>
-<br>Official Documentation - <br>
-https://docs.aws.amazon.com/<br>
-<br>Best YouTube creators - <br>
-https://www.youtube.com/watch?v=k1RI5locZE4<br>
-https://www.youtube.com/watch?v=ulprqHHWlng<br>
-https://www.youtube.com/watch?v=dDN-t69sa3U<br>
-https://www.youtube.com/watch?v=cJLJrLlZ8no<br>
-https://www.youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz<br>
-https://www.youtube.com/watch?v=MmsoIcYrXJU<br>
-<br>Useful Websites - <br>
-https://www.tutorialspoint.com/amazon_web_services/index.htm<br>
-https://www.javatpoint.com/aws-tutorial<br>
-https://aws.amazon.com/getting-started/hands-on/<br>
-https://www.guru99.com/aws-tutorial.html<br>
-https://www.simplilearn.com/tutorials/aws-tutorial<br>
-https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/<br>
-https://www.edureka.co/blog/amazon-aws-tutorial/<br>
-<br>Dedicated Github page - 
-<br>
-https://github.com/aws<br>
-https://github.com/donnemartin/awesome-aws<br>
-https://github.com/aws-samples<br>
-https://github.com/awsdocs<br>
-https://github.com/open-guides/og-aws<br>
-<br>Best Courses - <br>
-https://www.udemy.com/course/aws-certified-cloud-practitioner-new/<br>
-https://www.udemy.com/course/aws-essentials-z/<br>
-https://www.coursera.org/specializations/aws-fundamentals<br>
-https://www.coursera.org/learn/aws-fundamentals-going-cloud-native<br>
-https://www.coursera.org/learn/aws-machine-learning<br>
-https://www.edx.org/course/aws-developer-building-on-aws<br>
-https://www.edx.org/course/aws-getting-started-with-cloud-security<br>
-https://www.edx.org/course/aws-cloud-practitioner-essentials<br>
-<br>Other Tips / Hacks - <br>
-https://www.pluralsight.com/blog/it-ops/aws-tips<br>
-https://www.threatstack.com/blog/101-aws-security-tips-quotes-part-2-securing-your-aws-environment<br>
-https://aws.amazon.com/blogs/developer/tag/roadmap/<br>
-https://www.mygreatlearning.com/blog/aws-certification-roadmap/<br>
-https://tutorialsdojo.com/aws-cheat-sheets/<br>
-https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/aws-cheat-sheet/<br>
-<br><br>
-</details>
-
-<details>
 <summary>Blender</summary>
 <br>Category/Type - <br>3D modeling and animation program<br>
 <br>Official Documentation - <br>
@@ -727,45 +681,6 @@ https://medium.com/@buildbox/how-to-get-free-game-music-more-buildbox-3f8918d950
   <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDojxbGIRbBd_jb9kL-cizMaWff3ZM1xDEA&usqp=CAU" width="900" height="500"/>
 </a>
 <br><br><br>
-</details>
-
-<details>
-<summary>C</summary>
-<br>Category/Type - <br>Programming Language<br>
-<br>Official Documentation - <br>
-https://devdocs.io/c/<br>
-<br>Best YouTube creators - <br>
-https://www.youtube.com/watch?v=KJgsSFOSQv0<br>
-https://www.youtube.com/playlist?list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C<br>
-https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR<br>
-https://www.youtube.com/playlist?list=PLWPirh4EWFpEK1RbpruFXrwgzcGUjZ4nV<br>
-https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR<br>
-https://www.youtube.com/watch?v=8PopR3x-VMY<br>
-<br>Useful Websites - <br>
-https://www.reddit.com/r/C_Programming/<br>
-https://www.geeksforgeeks.org/c-programming-language/<br>
-https://www.informit.com/articles/index.aspx?st=60233<br>
-https://www.programiz.com/c-programming<br>
-https://beginnersbook.com/2015/02/simple-c-programs/<br>
-https://www.studytonight.com/c/programs/<br>
-https://www.codewithc.com/c-projects-with-source-code/</br>
-<br>Dedicated Github page - <br>
-https://gist.github.com/markgk629/3781962<br>
-https://github.com/PacktPublishing/Learn-C-Programming<br>
-https://github.com/gouravthakur39/beginners-C-program-examples<br>
-<br>Best Courses - <br>
-https://www.udemy.com/course/c-programming-for-beginners-/<br>
-https://www.udemy.com/course/c-programming-for-beginners-/<br>
-https://www.linkedin.com/learning/advanced-c-programming<br>
-https://www.udemy.com/course/the-complete-c-programming/<br>
-https://www.learn-c.org/<br>
-<br>Other Tips / Hacks<br>
-https://www.techbeamers.com/top-c-programming-tips-and-tricks-for-you/<br>
-https://developerinsider.co/best-golfing-tips-and-tricks-in-c-programming-puzzles/<br>
-https://www.includehelp.com/tips/c/<br>
-https://hownot2code.com/2016/11/29/c-programming-tips/<br>
-https://www.cprogramming.com/tips/<br>
-https://www.opensourceforu.com/2018/06/simple-c-programming-tips-for-newbies/<br>
 </details>
 
 <details>
@@ -908,56 +823,6 @@ https://nickjanetakis.com/blog/tag/elixir-tips-tricks-and-tutorials<br>
 https://prograils.com/5-tips-for-elixir-phoenix-projects<br>
 <a href="https://elixir-lang.org/images/logo/logo.png">
 <img align="center" src="https://elixir-lang.org/images/logo/logo.png" width="800" height="400"/></a>
-</details>
-
-<details>
-<summary>Codeigniter</summary>
-<br>
-Category/Type - <br>
-PHP Framework<br>
-<br>
-Official Documentation - <br>
-https://codeigniter.com/docs<br>
-<br>
-Best YouTube creators - <br>
-https://www.youtube.com/watch?v=I752ofYu7ag<br>
-https://www.youtube.com/watch?v=7CHiREqfjqY<br>
-https://www.youtube.com/watch?v=6wFXXz4Y1Kg<br>
-https://www.youtube.com/watch?v=R1StjWM_LOE<br>
-https://www.youtube.com/watch?v=OcZL17LvDUk<br>
-https://www.youtube.com/watch?v=GcRv-3-pXeI<br>
-<br>
-Useful Websites -
-<br>
-https://codeigniter.com<br>
-https://www.tutorialspoint.com/codeigniter/index.htm<br>
-https://www.guru99.com/what-is-codeigniter.html<br>
-https://www.javatpoint.com/what-is-codeigniter<br>
-https://www.a2hosting.com/blog/codeigniter-framework/<br>
-<br>
-Dedicated Github page - <br>
-https://github.com/bcit-ci/CodeIgniter<br>
-https://github.com/codeigniter4projects/website2<br>
-https://github.com/jim-parry/CodeIgniter4-website<br>
-https://github.com/kenjis/codeigniter-deployer<br>
-<br>
-Best Courses - <br>
-https://www.udemy.com/course/learn-how-to-integrate-add-on-to-your-codeigniter-projects/<br>
-https://www.udemy.com/course/codeignitercourse/<br>
-https://www.lynda.com/CodeIgniter-training-tutorials/1136-0.html<br>
-https://hackr.io/tutorials/learn-codeigniter<br>
-https://www.learnvern.com/course/codeigniter-tutorial<br>
-https://www.zeolearn.com/php-mysql-and-codeigniter-training<br>
-<br>
-Other Tips / Hacks - <br>
-https://www.ithands.com/blog/10-quick-codeigniter-tips/<br>
-https://code.tutsplus.com/tutorials/advanced-codeigniter-techniques-and-tricks--net-25408<br>
-https://www.w3school.info/2016/10/21/codeigniter-best-tricks-and-hacks/<br>
-https://www.cloudways.com/blog/php/codeigniter/<br>
-https://webeasystep.com/blog/view_article/5_tips_to_increase_your_productivity_with_codeigniter<br>
-https://webpedia.net/codeigniter-tips-tricks<br>
-https://stackoverflow.com/questions/4427018/codeigniter-tips-n-tricks<br>
-<br>
 </details>
 
 <details>
@@ -1200,11 +1065,7 @@ Useful Websites -
 <br>
 https://en.wikipedia.org/wiki/DevOps#:~:text=DevOps%20is%20a%20set%20of,delivery%20with%20high%20software%20quality.<br>
 https://devops.com/<br>
-<<<<<<< HEAD
-https://theagileadmin.com/what-is-devops/<br>\
-=======
 https://theagileadmin.com/what-is-devops/<br>
->>>>>>> 8ad8e410c81c06d5ce389161320b49b6af1ca8e1
 https://www.atlassian.com/devops<br>
 <br>
 Dedicated Github page - <br>
@@ -1226,13 +1087,8 @@ https://devops.com/seven-effective-tips-to-get-the-most-out-of-your-devops/<br>
 https://opensource.com/article/20/2/devops-beginners<br>
 http://techgenix.com/devops-implementation/<br>
 https://www3.dbmaestro.com/blog/10-tips-to-practice-effective-devops<br><br>
-<<<<<<< HEAD
-<a href="https://w7.pngwing.com/pngs/887/314/png-transparent-devops-software-engineering-technology-engineer-blue-text-trademark-thumbnail.png">
-  <img align="center" src="https://w7.pngwing.com/pngs/887/314/png-transparent-devops-software-engineering-technology-engineer-blue-text-trademark-thumbnail.png" width="500" height="500"/>
-=======
 <a href="https://icon2.cleanpng.com/20180723/tlz/kisspng-devops-software-developer-agile-software-developme-icon-devops-logo-5b5650338842b1.9250677215323832835581.jpg">
   <img align="center" src="https://icon2.cleanpng.com/20180723/tlz/kisspng-devops-software-developer-agile-software-developme-icon-devops-logo-5b5650338842b1.9250677215323832835581.jpg" width="500" height="500"/>
->>>>>>> 8ad8e410c81c06d5ce389161320b49b6af1ca8e1
 </a>
 <br><br><br>
 </details>
@@ -1595,64 +1451,6 @@ https://medium.com/erlang-battleground/erlang-lessons-fe800c51af4f <br>
 </details>
 
 <details>
-<summary>Ethereum</summary>
-<br>Category/Type - <br> Decentralized Software <br>
-<br>Official Documentation - <br> https://ethereum.org/en/developers/docs/intro-to-ethereum/ <br>
-<br>Best YouTube creators - <br>
-https://www.youtube.com/watch?v=DhoRtGCp4JI <br>
-https://www.youtube.com/watch?v=uneCaqD6Etk <br>
-https://www.youtube.com/watch?v=coQ5dg8wM2o <br>
-https://www.youtube.com/watch?v=KU6bvciWgRE&list=PL0lNJEnwfVVMuX2Ds19Wj_7Mcze3FDJr3 <br>
-https://www.youtube.com/watch?v=XLahq4qyors <br>
-https://www.youtube.com/watch?v=58yeu6HtzpM <br>
-https://www.youtube.com/watch?v=-_Qs0XdPpw8 <br>
-https://www.youtube.com/watch?v=jxLkbJozKbY <br>
-https://www.youtube.com/watch?v=_bW08CpL21c <br>
-https://www.youtube.com/watch?v=MTC8BHrmrJA <br>
-
-<br>Useful Websites - <br>
-https://www.upgrad.com/blog/ethereum-tutorial-for-beginners/ <br>
-https://www.tutorialspoint.com/ethereum/index.htm <br>
-https://www.guru99.com/ethereum-tutorial.html <br>
-https://blockgeeks.com/guides/ethereum/ <br>
-https://medium.com/ethereum-developers/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e <br>
-https://www.codementor.io/@blockchainnick/a-prologue-to-ethereum-development-i1ezuj16l <br>
-https://www.edureka.co/blog/ethereum-tutorial-with-smart-contracts/ <br>
-https://medium.com/@wslyvh/get-started-with-ethereum-solidity-on-windows-1672e9953a1 <br>
-https://rubygarage.org/blog/ethereum-smart-contract-tutorial <br>
-https://www.sitepen.com/blog/smart-contracts-a-tutorial <br>
-
-<br>Dedicated Github page - <br> 
-https://github.com/ethereum/go-ethereum <br>
-https://github.com/ethereum/EIPs <br>
-https://github.com/ethereum/ethereum-org-website <br>
-https://github.com/ethereum/remix-project <br>
-https://github.com/ethereum/solidity <br>
-https://github.com/ethereum/fe <br>
-https://github.com/ethereum/eth2.0-specs <br>
-https://github.com/ethereum/eth2.0-APIs <br>
-https://github.com/ethereum/clrfund <br>
-
-<br>Best Courses - <br>
-https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/ <br>
-https://www.udemy.com/course/blockchain-developer/ <br>
-https://www.udemy.com/course/getting-started-with-ethereum-solidity-development/ <br>
-https://www.coursera.org/projects/ethereum-smart-contract-security-exploits <br>
-https://academy.b9lab.com/courses/course-v1:B9lab+ETHEREUM-DEVELOPER-COURSE+ONLINE/about <br>
-
-<br>Other Tips / Hacks - <br> 
-https://howtobuyethereum.io/ <br>
-https://www.upgrad.com/blog/ethereum-project-ideas-beginners/ <br>
-https://www.bitdegree.org/crypto/tutorials/ethereum-mining <br>
-https://blackwellglobal.com/top-5-tips-trading-ethereum/#:~:text=Tip%20%231%3A%20Risk%20Management%20is,with%20small%20amounts%20of%20capital. <br>
-https://www.ig.com/en/ethereum-trading/how-to-trade-ethereum <br>
-https://www.techrepublic.com/article/ethereum-a-cheat-sheet-for-professionals/ <br>	
-https://www.daytrading.com/ethereum <br>
-<br>
-
-</details>
-
-<details>
 <summary>Express.js</summary>
 <br>Category/Type - <br> Web framework for Node.js <br>
 <br>Official Documentation - <br> https://expressjs.com/en/starter/installing.html <br>
@@ -1719,50 +1517,8 @@ https://www.besanttechnologies.com/what-is-expressjs <br>
 </a>
 <br><br><br>
 </details>
+
 <details>
-<summary>Fabric</summary>
-<br>Category/Type - <br>Python Library<br>
-<br>Official Documentation - <br>http://www.fabfile.org//<br>
-<br>Best YouTube creators - <br>
-https://www.youtube.com/watch?v=33MceBzq7XQ<br>
-https://www.youtube.com/watch?v=ZpZkKbZwPoA<br>
-https://www.youtube.com/watch?v=FZ4q9GOmsQA<br>
-https://www.youtube.com/watch?v=MNq-z933kGk<br>
-https://www.youtube.com/watch?v=4qav2EuXsGU<br>
-https://www.youtube.com/watch?v=3mwFC4SHY-Y<br>
-<br>Useful Websites - <br>
-https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments<br>
-https://www.bogotobogo.com/python/Fabric/python_Fabric.php<br>
-https://code.tutsplus.com/tutorials/getting-started-with-the-fabric-python-library--cms-30555<br>
-https://www.pythonforbeginners.com/systems-programming/how-to-use-fabric-in-python<br>
-https://advanced-python.readthedocs.io/en/latest/fabric.html<br>
-https://medium.com/gopyjs/automate-deployment-with-fabric-python-fad992e68b5/<br>
-<br>Dedicated Github page - <br>
-https://github.com/wearetheledger/awesome-hyperledger-fabric<br>
-https://github.com/katopz/awesome-hyperledger-fabric<br>
-https://github.com/zhangchunlin/awesome-fabric<br>
-https://github.com/Siphalor/awesome-fabric<br>
-https://github.com/skcript/awesome-hyperledger<br>
-https://github.com/EPICConvergenceCenter/awesome-hyperledger-fabric<br>
-https://github.com/CharlesRA/awesome-fabricjs<br>
-<br>Best Courses - <br>
-https://www.lynda.com/Python-tutorials/Use-Fabric-automate-deployment/5035808/2265222-4.html<br>
-https://www.saltycrane.com/blog/2010/09/class-based-fabric-scripts-metaprogramming-hack/<br>
-https://www.udemy.com/course/hyperledger-fabric-composer-first-practical-blockchain/<br>
-https://medium.com/analytics-vidhya/very-basic-machine-learning-automation-using-fabric-2-4549665f611b<br>
-https://www.udemy.com/course/hyperledger/<br>
-https://www.udemy.com/course/hyperledger-fabric-network-design-setup/<br>
-https://www.jbssolutions.com/resources/blog/managing-servers-python-using-fabric/<br>
-<br>Other Tips / Hacks - <br>
-https://python-docs.readthedocs.io/en/latest/scenarios/admin.html<br>
-https://www.obeythetestinggoat.com/book/chapter_automate_deployment_with_fabric.html<br>
-https://medium.com/analytics-vidhya/<br>
-https://s3.us-east-2.amazonaws.com/prettyprinted/flask_cheatsheet.pdf<br>
-https://readthedocs.org/projects/fabric-www/downloads/pdf/latest/<br>
-https://pypi.org/project/fabric/<br>
-<br>
-</details>
-<details
 <summary>F# </summary>
 <br>
 Category/Type - <br>Programming language <br>
@@ -3246,60 +3002,6 @@ https://www.crio.do/?utm_source=adwords1&gclid=CjwKCAjwjuqDBhAGEiwAdX2cj5BGnJ1EU
  </details>
 
 <details>
-<summary>Meta Language </summary>
-<br>
-Category/Type - <br>Programming language <br>
-<br>
-Official Documentation - <br>
-http://web.cecs.pdx.edu/~black/CS311/ML.html <br>
-<br>
-Best YouTube creators - <br>
-https://www.youtube.com/watch?v=2sqjUWGGzTo <br>
-https://www.youtube.com/watch?v=p2UYcMuwF3c <br>
-https://www.youtube.com/watch?v=oGrCMatmxuU <br>
-https://www.youtube.com/watch?v=qdUnCK85CoI <br>
-https://www.youtube.com/watch?v=p1n0_PsM6hw <br>
-<br>
-Useful Websites -
-<br>
-https://learnxinyminutes.com/docs/standard-ml/ <br>
-https://www.cs.nmsu.edu/~rth/cs/cs471/sml.html <br>
-https://www.whoishostingthis.com/resources/ml/ <br>
-http://www.nuprl.org/book/Metalanguage.html <br>
-https://people.mpi-sws.org/~dreyer/thesis/main.pdf <br>
-http://www.macs.hw.ac.uk/ultra/skalpel/html/sml.html <br>
-http://www.scholarpedia.org/article/Standard_ML_language <br>
-<br>
-Dedicated Github page - <br>
-https://github.com/smlsharp/smlsharp <br>
-https://github.com/i4ki/awesome-sml <br>
-https://github.com/melsman/mlkit <br>
-https://github.com/SMLFamily/The-Definition-of-Standard-ML <br>
-https://github.com/SMLFamily/SML-The-Living-Language <br>
-https://github.com/SMLFamily/The-Mechanization-of-Standard-ML <br>
-<br>
-Best Courses - <br>
-https://www.coursera.org/lecture/programming-languages/sml-installation-Gm2WF <br>
-http://www.cs.cornell.edu/courses/cs312/2002sp/lectures/lec01.htm <br>
-https://exercism.io/tracks/sml <br>
-https://www.geeksforgeeks.org/what-is-standard-meta-language-sml/ <br>
-https://www.udemy.com/course/15-weird-non-foreign-languages-that-will-make-you-smarter/ <br>
-https://courses.cs.washington.edu/courses/cse341/04wi/lectures/02-ml-intro.html <br>
-https://www.linuxlinks.com/excellent-free-tutorials-learn-standard-ml/ <br>
-<br>
-Other Tips / Hacks - <br>
-https://wiki.c2.com/?SmlLanguage <br>
-https://news.ycombinator.com/item?id=24890463 <br>
-https://blog.jez.io/sml-dev-setup/ <br>
-https://condor.depaul.edu/dmumaugh/readings/handouts/CSC447/tofte-tips.pdf <br>
-https://www.cs.purdue.edu/homes/suresh/502-Fall2008/project/doc/style-guide.html <br>
-https://smlhelp.github.io/book/types/bool.html <br>
-https://www.youtube.com/watch?v=GYedTnX9vJQ <br>
-<br>
-<br><br><br>
-</details>
-
-<details>
 <summary>Modo</summary>
 <br>Category/Type - <br>Software<br>
 <br>Official Documentation - <br>
@@ -4239,59 +3941,6 @@ https://thomashoneyman.com/articles/replace-react-components-with-purescript/ <b
 </details>
 
 <details>
-<summary>Pyglet</summary>
-<br>
-Category/Type - <br>
-Python Library <br>
-<br>
-Official Documentation - <br>
-https://pyglet.readthedocs.io/en/latest/<br>
-<br>
-Best Youtube Creators- <br>
-https://www.youtube.com/watch?v=Wyv5TnkFuxE<br>
-https://www.youtube.com/watch?v=lJQ3UgcDHto&list=PL1FgJUcJJ03s7kYUy40ydTA9gBnj_KDlK <br>
-https://www.youtube.com/watch?v=Wyv5TnkFuxE&list=PL1P11yPQAo7qaq_Ga-XA7TvuB8jyI3Qjh <br>
-https://www.youtube.com/watch?v=f-xpItm1n3E<br>
-https://www.youtube.com/watch?v=S-4uPAMMnRU <br>
-https://www.youtube.com/watch?v=Hqg4qePJV2U <br>
-https://www.youtube.com/watch?v=lJQ3UgcDHto <br>
-<br>
-Useful Websites- <br>
-https://pyglet.readthedocs.io/en/latest/programming_guide/quickstart.html <br>
-https://www.geeksforgeeks.org/introduction-to-pyglet-library-for-game-development-in-python/ <br>
-https://codingcompiler.com/pyglet/ <br>
-http://www.natan.termitnjak.net/tutorials/pyglet_basic.html <br>
-https://riptutorial.com/python/topic/8208/pyglet <br>
-https://medium.com/@yvanscher/opengl-and-pyglet-basics-1bd9f1721cc6<br>
-https://awesomeopensource.com/project/pyglet/pyglet?categoryPage=26<br>
-<br>
-Dedicated Github page- <br>
-https://github.com/pyglet/pyglet<br>
-https://github.com/vinta/awesome-python <br>
-https://github.com/decause/pyglet-remy <br>
-https://github.com/jmcelroy5/Pyglet-Game <br>
-https://github.com/topics/pyglet<br>
-https://github.com/quobit/awesome-python-in-education<br>
-https://github.com/kxgames/glooey<br>
-<br>
-Best Courses- <br>
-https://www.udemy.com/course/pyglet-in-python-programming/ <br>
-https://www.udemy.com/course/python-video-workbook/ <br>
-https://www.wireless.education/study/pyglet-in-python-programming-it-certification-online-course-by-udemy/ <br>
-https://coursemarks.com/course/pyglet-in-python-programming/ <br>
-https://restless.co.uk/course/pyglet-in-python-programming-udemy-124012/ <br>
-<br>
-Other Tips/Hacks- <br>
-https://pythonhosted.org/pyglet/programming_guide/index.html <br>
-akeric.com/blog/?p=1510<br>
-https://xivilization.net/~marek/binaries/programming_guide.pdf<br>
-https://www.reddit.com/r/learnpython/comments/ggmn5s/need_help_with_pyglet/ <br>
-<a href="https://pyglet.readthedocs.io/en/latest/_static/logo.png">
-  <img align="center" src="https://pyglet.readthedocs.io/en/latest/_static/logo.png" width="500" height="500"/>
-</a>
-</details>
-
-<details>
 <summary>Python</summary>
 <br>Category/Type - <br>
 Open Source Programming Language<br>
@@ -4572,55 +4221,6 @@ https://www.udemy.com/course/redis-bootcamp-for-beginners/ <br> https://www.udem
  </details>
 
 <details>
-<summary>Redux</summary>
-<br>
-Category/Type - <br>
-JavaScript Library <br>
-<br>
-Official Documentation - <br>
-https://redux.js.org/introduction/getting-started <br>
-<br>
-Best Youtube Creators- <br>
-https://www.youtube.com/watch?v=poQXNp9ItL4 <br>
-https://www.youtube.com/watch?v=CVpUuw9XSjY <br>
-https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK <br>
-https://www.youtube.com/playlist?list=PL8p2I9GklV47TDYUq8RmFzeI9CgOoVgpJ <br>
-https://www.youtube.com/playlist?list=PLUVqY59GNZQMYJgEO3KWXkGcd3JSEfUst <br>
-https://www.youtube.com/playlist?list=PLZjjdd9-SJS0UiiJ0-dYk_PpI5GjYQ-Eb <br>
-https://www.youtube.com/watch?v=tOtGnCBXU3U <br>
-<br>
-Useful Websites- <br>
-https://www.tutorialspoint.com/redux/index.htm <br>
-https://www.javatpoint.com/react-redux <br>
-https://chriscourses.com/blog/redux <br>
-https://www.edureka.co/blog/react-redux-tutorial/ <br>
-https://www.freecodecamp.org/news/how-to-use-redux-in-reactjs-with-real-life-examples-687ab4441b85/ <br>
-https://daveceddia.com/redux-tutorial/ <br>
-https://www.taniarascia.com/redux-react-guide/ <br>
-https://www.valentinog.com/blog/redux/ <br>
-<br>
-Dedicated Github page- <br>
-https://www.udemy.com/course/learn-react-and-redux-by-examples/ <br>
-https://github.com/reduxjs/redux-toolkit <br>
-https://github.com/gothinkster/react-redux-realworld-example-app <br>
-https://github.com/redux-form/redux-form <br>
-<br>
-Best Courses- <br>
-https://www.udemy.com/course/learn-react-and-redux-by-examples/ <br>
-https://www.udemy.com/course/react-redux/ <br>
-https://www.udemy.com/course/react-redux-tutorial/ <br>
-https://www.codecademy.com/learn/learn-redux <br>
-https://www.dotnettricks.com/courses/react/react-state-management-redux <br>
-<br>
-Other Tips/Hacks- <br>
-https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44 <br>
-https://medium.com/dailyjs/tips-and-tricks-for-react-redux-application-c8d0db0ab0c8 <br>
-https://itnext.io/3-small-tips-for-better-redux-performance-in-a-react-app-9cde549df6af <br>
-https://slashgear.github.io/react-redux-pitfalls-and-best-pratices/ <br>
-<br>
-</details>
-
-<details>
 <summary>Ruby</summary>
 <br>
 Category/Type - <br>Programming language <br>
@@ -4672,47 +4272,6 @@ https://www.smartly.io/blog/ruby-tricks-for-curious-developer <br>
 </a>
 <br><br><br>
 </details>
-
-<details>
- <summary>Ruby On Rails</summary>
- <br>Category/Type - <br> Web Application Framework <br>
- <br>Official Documentation - <br> https://guides.rubyonrails.org/api_documentation_guidelines.html <br>
- <br>Best YouTube creators - <br>
- https://www.youtube.com/watch?v=fmyvWz5TUWg <br> 
- https://www.youtube.com/watch?v=zppMfm4fuxM <br> 
- https://www.youtube.com/watch?v=B3Fbujmgo60<br>
- https://www.youtube.com/watch?v=Wfd4ZIBMg7w&list=PLgPJX9sVy92yV7Qt6_8ElC9paGWdtdIbb <br> 
- https://www.youtube.com/watch?v=heVMX8KSU4c <br>
- https://www.youtube.com/watch?v=4ABesTeDKmQ&list=PL01nNIgQ4uxNkDZNMON-TrzDVNIk3cOz4 <br>
- <br>Useful Websites - <br>
- https://rubyonrails.org <br> 
- https://www.tutorialspoint.com/ruby-on-rails/rails-introduction.htm<br>
- https://www.codecademy.com/learn/learn-rails <br> 
- https://www.railstutorial.org/book<br> 
- https://www.toptal.com/ruby-on-rails/after-two-decades-of-programming-i-use-rails<br>
- <br>Dedicated Github page - <br>
- https://github.com/github/pages-gem <br> 
- https://github.com/rails/rails <br>
- https://github.com/rails<br>
-  https://github.com/railsgirls/railsgirls.github.io <br>
- https://github.com/gramantin/awesome-rails<br> 
- <br>Best Courses - <br>
-  https://www.udemy.com/course/ruby-on-rails-authentication-authorization-mvp/ <br> 
-  https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/ <br>
- https://www.udemy.com/course/learn-ruby-on-rails-from-scratch/ <br> 
- https://www.codecademy.com/learn/learn-rails<br>
- https://gorails.com<br>
- https://hackr.io/tutorials/learn-ruby-on-rails<br>
- https://www.edx.org/learn/ruby-rails<br>
- <br>Other Tips / Hacks - <br> 
- https://medium.com/javarevisited/top-5-free-courses-to-learn-ruby-and-rails-for-beginners-best-of-lot-e149fe03c964 <br> 
- https://www.agiratech.com/blog/10-useful-tips-for-ruby-on-rails-developers/ <br>
- https://www.smashingmagazine.com/2009/02/ruby-on-rails-tips/ <br>
-  https://www.toptal.com/ruby-on-rails/tips-and-practices <br>
- https://hackernoon.com/5-ruby-on-rails-tips-you-probably-dont-know-8b80b4a0890f<br>
- https://nickjanetakis.com/blog/tag/ruby-on-rails-tips-tricks-and-tutorials<br>
- <br>
- </details>
 
 <details>
  <summary>Rust</summary>
@@ -4845,55 +4404,6 @@ https://www.datacamp.com/community/blog/python-scipy-cheat-sheet
 https://ugoproto.github.io/ugo_py_doc/pdf/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf<br>
 </details>
 
-
-<details>
-<summary>Scrapy</summary>
-<br>
-Category/Type - <br>
-Python Library<br>
-<br>
-Official Documentation - <br>
-https://docs.scrapy.org/en/latest/<br>
-<br>
-Best YouTube creators - <br>
-https://www.youtube.com/watch?v=5o9lucMaQLc<br>
-https://www.youtube.com/watch?v=ve_0h4Y8nuI&list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t<br>
-https://www.youtube.com/watch?v=Wp6LRijW9wg<br>
-https://www.youtube.com/watch?v=s4jtkzHhLzY<br>
-https://www.youtube.com/watch?v=2vcp0fKq3aw<br>
-https://www.youtube.com/watch?v=ALizgnSFTwQ<br>
-Useful Websites -
-https://www.tutorialspoint.com/scrapy/index.htm<br>
-https://towardsdatascience.com/a-minimalist-end-to-end-scrapy-tutorial-part-i-11e350bcdec0<br>
-https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/<br>
-https://www.digitalocean.com/community/tutorials/how-to-crawl-a-web-page-with-scrapy-and-python-3<br>
-https://www.datacamp.com/community/tutorials/making-web-crawlers-scrapy-python<br>
-https://letslearnabout.net/tutorial/scrapy-tutorial/python-scrapy-tutorial-for-beginners-01-creating-your-first-spider/<br>
-Dedicated Github page - <br>
-https://github.com/AccordBox/awesome-scrapy<br>
-https://github.com/croqaz/awesome-scrapy<br>
-https://github.com/BruceDone/awesome-crawler<br>
-https://github.com/topics/awesome-scrapy<br>
-https://github.com/duyet/awesome-web-scraper<br>
-https://github.com/TylerNakamura/Awesome-Python-Scrapy-Videos<br>
-Best Courses - <br>
-https://www.udemy.com/course/web-scraping-in-python-using-scrapy-and-splash/<br>
-https://www.datacamp.com/courses/web-scraping-with-python<br>
-https://www.coursera.org/projects/web-scraping<br>
-https://www.zyte.com/learn/how-to-get-started-with-web-scraping-using-scrapy/<br>
-https://www.nightcourses.com/course/python-scrapy-scrape-web-data-using-python/<br>
-<br>
-Other Tips / Hacks - <br>
-https://www.smashingmagazine.com/2019/07/ultimate-guide-scalable-web-scrapers-scrapy/<br>
-https://www.zyte.com/blog/scrapy-tips-from-the-pros-part-1/<br>
-https://medium.com/geekculture/5-useful-tips-while-working-with-python-scrapy-6beb59119188<br>
-https://www.tutorialspoint.com/scrapy/xpth_tips.htm<br>
-<br>
-<a href="https://blog.theodo.com/static/f37be0c89dc04141fd6408a4f9356f64/ee604/Scrapy-Logo-big.png">
-  <img align="center" src="https://blog.theodo.com/static/f37be0c89dc04141fd6408a4f9356f64/ee604/Scrapy-Logo-big.png" width="500" height="500"/>
-</a>
-<br><br><br>
-</details>
 <details>
 <summary>Seaborn</summary>
 <br>
@@ -4996,56 +4506,6 @@ https://www.javacodegeeks.com/2019/09/selenium-scripting-tips-tricks.html <br>
 <br>
 <a href="https://www.selenium.dev/images/selenium_logo_square_green.png">
   <img align="center" src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="500" height="500"/>
-</a>
-<br><br><br>
-</details>
-
-<details>
-<summary>Shell Scrpting </summary>
-<br>
-Category/Type - <br>Program <br>
-<br>
-Official Documentation - <br>
-https://devdocs.io/bash/ <br>
-<br>
-Best YouTube creators - <br>
-https://www.youtube.com/watch?v=GtovwKDemnI<br>
-https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_<br>
-https://www.youtube.com/watch?v=9y5TCwVU8iE<br>
-https://www.youtube.com/watch?v=uI-xHPk4tO0<br>
-https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790<br>
-<br>
-Useful Websites -
-<br>
-https://en.wikipedia.org/wiki/Shell_script<br>
-https://www.shellscript.sh/<br>
-https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/<br>
-https://www.guru99.com/introduction-to-shell-scripting.html<br>
-https://www.javatpoint.com/shell-scripting-tutorial<br>
-<br>
-Dedicated Github page - <br>
-https://gist.github.com/bradtraversy/ac3b1136fc7d739a788ad1e42a78b610<br>
-https://gist.github.com/motemen/8595451<br>
-https://github.com/techarkit/shell-scripting-tutorial<br>
-https://github.com/epety/100-shell-script-examples<br>
-https://github.com/trending/shell<br>
-<br>
-Best Courses - <br>
-https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjWztj-hZXwAhVynMIKHfgrCyEYABABGgJ0bQ&ohost=www.google.com&cid=CAESQeD2ATRrk-orCr21ipzoBPt-s3yAnEAWhF25wrAH8PtLTgB1UTApBYNEsZGcuOGyHJJ1VK8-OUWZOmSWQbn1Qdy4&sig=AOD64_2bJHO4V53IKuN_FwHITZz9ZgvEIw&q&adurl&ved=2ahUKEwjU0sj-hZXwAhXp7HMBHRpDBgcQ0Qx6BAgEEAE<br>
-https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjWztj-hZXwAhVynMIKHfgrCyEYABAAGgJ0bQ&ae=2&ohost=www.google.com&cid=CAESQeD2ATRrk-orCr21ipzoBPt-s3yAnEAWhF25wrAH8PtLTgB1UTApBYNEsZGcuOGyHJJ1VK8-OUWZOmSWQbn1Qdy4&sig=AOD64_3v7AO88h64ZwK2DOUv7y4DwBMlZQ&q&adurl&ved=2ahUKEwjU0sj-hZXwAhXp7HMBHRpDBgcQ0Qx6BAgCEAE<br>
-https://www.udemy.com/course/linux-shell-scripting-free/<br>
-https://onlinecourses.swayam2.ac.in/aic20_sp05/preview<br>
-https://www.gangboard.com/app-programming-scripting-training/unix-shell-scripting-training<br>
-<br>
-Other Tips / Hacks - <br>
-https://www.shellscript.sh/hints.html<br>
-https://www.tecmint.com/useful-tips-for-writing-bash-scripts-in-linux/<br>
-https://codeburst.io/13-tips-tricks-for-writing-shell-scripts-with-awesome-ux-19a525ae05ae<br>
-https://levelup.gitconnected.com/9-tips-for-writing-safer-shell-scripts-b0c185da9bae<br>
-https://www.infoworld.com/article/3200766/9-shell-tips-every-developer-should-know.html<br>
-<br>
-<a href="https://cdn3.iconfinder.com/data/icons/blue-ulitto/128/Developer_files_Bash_Shell_Script-512.png">
-  <img align="center" src="https://cdn3.iconfinder.com/data/icons/blue-ulitto/128/Developer_files_Bash_Shell_Script-512.png" width="500" height="500"/>
 </a>
 <br><br><br>
 </details>
@@ -5187,99 +4647,6 @@ https://www.udemy.com/course/swift-programming/ <br> https://www.udacity.com/cou
 </a>
 <br><br><br>
 </details>
-
-<details>
-<summary>Symfony</summary>
-<br>Category/Type - <br> Backend Framework <br>
-<br>Official Documentation - <br> https://symfony.com/doc/current/index.html <br>
-<br>Best YouTube creators - <br> 
-https://www.youtube.com/watch?v=Bo0guUbL5uo<br>
-https://www.youtube.com/watch?v=t5ZedKnWX9E <br> 
-https://www.youtube.com/watch?v=l5QLodEL1jo&list=PLqhuffi3fiMONS5B7zzD2nqGxf_TmpQB1 <br> 
-https://www.youtube.com/watch?v=AaQNYq07-oI&list=PLRkB3CK04Mo8vbftRqjuiwxIkVUtxjeOj <br>
-https://www.youtube.com/watch?v=sT4dMKSA1-A <br>
-https://www.youtube.com/watch?v=tbXpX4dAqjg<br>
-<br>Useful Websites - <br> 
-https://symfony.com <br> 
-https://www.tutorialspoint.com/symfony/index.htm <br>
-https://www.sitepoint.com/symfony-beginners-tutorial/ <br>
-https://auth0.com/blog/symfony-tutorial-building-a-blog-part-1/ <br> 
-https://www.studentstutorial.com/symfony-framework/symfony-framework-tutorial.php <br>
-<br>Dedicated Github page - <br> 
-https://github.com/symfony/symfony <br> 
-https://github.com/symfony/demo <br> 
-https://github.com/symfony/symfony-standard<br>
-https://github.com/edlef/symfony-demo<br>
-<br>Best Courses - <br> 
-https://www.udemy.com/course/symfony-4-for-beginners/ <br>
-https://www.udemy.com/course/symfony-4-web-development-from-beginner-to-advanced/ <br>
-https://www.lynda.com/Symfony-training-tutorials/1133-0.html <br> 
-https://hackr.io/tutorials/learn-symfony<br>
-https://training.sensiolabs.com/en/<br>
-<br>Other Tips / Hacks - <br>
-https://stackify.com/symfony-performance-improvements-tips-and-techniques/ <br> 
-https://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks <br>
-https://bornfight.com/blog/symfony-tips-tricks-named-routes/ <br>
-https://www.cloudways.com/blog/php/symfony/<br>
-<br>
-</details>
-
-<details>
-<summary>Tailwind CSS</summary>
-<br>Category/Type - <br> CSS Framework <br>
-<br>Official Documentation - <br> https://tailwindcss.com/docs <br>
-<br>Best YouTube creators - <br>
-https://www.youtube.com/watch?v=UBOj6rqRUME <br>
-https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw <br>
-https://www.youtube.com/watch?v=21HuwjmuS7A&list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR <br>
-https://www.youtube.com/watch?v=j_5-LISy9Qg <br>
-https://www.youtube.com/watch?v=Awl-CPXgpGs <br>
-https://www.youtube.com/watch?v=mVzY256R9fs <br>
-https://www.youtube.com/watch?v=6zIuAyLZPH0 <br>
-
-
-<br>Useful Websites - <br>
-https://scotch.io/tutorials/get-started-with-tailwind-css-in-15-minutes <br>
-https://tsh.io/blog/tailwind-css-tutorial <br>
-https://www.section.io/engineering-education/introduction-to-tailwind-css/ <br>
-https://codingthesmartway.com/tailwind-css-for-absolute-beginners/ <br>
-https://wsvincent.com/learn-tailwind-css-beginners-guide/#:~:text=Tailwind%20works%20by%20looking%20through,within%20a%20new%20css%20folder.&text=Then%20within%20the%20file%2C%20add,base%20%2C%20components%20%2C%20and%20utilities%20. <br>
-https://www.digitalocean.com/community/tutorials/build-a-beautiful-landing-page-with-tailwind-css <br>
-https://www.sitepoint.com/tailwind-unique-beautiful-websites/ <br>
-https://buildawesomewebsites.com/tailwind-css-tutorial-for-beginners/ <br>
-https://dev.to/adriantwarog/tailwind-css-tutorial-3kfc <br>
-
-
-<br>Dedicated Github page - <br> 
-https://github.com/tailwindlabs/tailwindcss <br>
-https://github.com/mertJF/tailblocks <br>
-https://github.com/aniftyco/awesome-tailwindcss <br>
-https://github.com/tailwindlabs/tailwindcss-setup-examples <br>
-https://github.com/tailwindlabs/tailwindcss-playground/pulls <br>
-https://github.com/tailwindlabs/designing-with-tailwindcss <br>
-
-<br>Best Courses - <br>
-https://www.udemy.com/course/complete-guide-of-tailwind-css-/ <br>
-https://scrimba.com/learn/tailwind <br>
-https://www.udemy.com/course/tailwindcss-with-examples/ <br>
-https://www.udemy.com/course/tailwind/ <br>
-<br>Other Tips / Hacks - <br> 
-https://dev.to/joserfelix/6-tips-for-tailwind-css-development-with-resources-33i4 <br>
-https://blog.logrocket.com/10-tailwind-css-tips-to-boost-your-productivity/ <br>
-https://laravel-news.com/tailwind-css-tips-and-tricks <br>
-https://laravel-news.com/tailwind-css-tips-and-tricks?utm_medium=email&utm_campaign=Laravel%20News%20Daily%202020-08-12&utm_content=Laravel%20News%20Daily%202020-08-12+CID_ce161303acd4a322955d7c3d00bd6fcf&utm_source=email%20marketing&utm_term=Tailwind%20CSS%20Tips%20and%20Tricks <br>
-https://mxstbr.com/thoughts/tailwind/ <br>
-https://www.freecodecamp.org/news/what-is-tailwind-css-and-how-can-i-add-it-to-my-website-or-react-app/ <br>
-https://www.ordinarycoders.com/blog/article/tailwindcss-plugins-github <br>
-<br>
-<a href="https://res.cloudinary.com/practicaldev/image/fetch/s--msY7kuBs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/f30hrij5h3j7gt2klbcu.jpg">
-  <img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--msY7kuBs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/f30hrij5h3j7gt2klbcu.jpg" width="900" height="500"/>
-</a>
-<br><br><br>
-
-
-</details>
-
 
 <details>
 <summary>Tcl </summary>
@@ -5445,47 +4812,6 @@ https://heartbeat.fritz.ai/tensorflow-quick-tips-e394bc5fee15 <br> https://mediu
 </a>
 </details>
 
-<details>
-<summary>Theano</summary>
-<br>Category/Type - <br> Python Library<br>
-<br>Official Documentation - <br> https://theano-pymc.readthedocs.io/en/latest/<br>
-<br>Best YouTube creators - <br>
-https://www.youtube.com/watch?v=OU8I1oJ9HhI <br>
-https://www.youtube.com/watch?v=ET45bk1NN9g <br>
-https://www.youtube.com/watch?v=BuIsI-YHzj8 <br>
-https://www.youtube.com/watch?v=R-7OGU3V4IY <br>
-https://www.youtube.com/watch?v=S75EdAcXHKk&list=PL8Fr1wNWCi4T2fvla24jenU4IBM3P8_lJ <br>
-https://www.youtube.com/watch?v=uo_yV06qx54 <br>
-<br>Useful Websites - <br>
-https://www.tutorialspoint.com/theano/index.htm <br>
-https://www.marekrei.com/blog/theano-tutorial/<br>
-https://www.journaldev.com/17840/theano-python-tutorial<br>
-https://machinelearningmastery.com/introduction-python-deep-learning-library-theano/ <br>
-https://www.geeksforgeeks.org/theano-in-python/ <br>
-http://ir.hit.edu.cn/~jguo/docs/notes/a_simple_tutorial_on_theano.pdf <br>
-<br>Dedicated Github page - <br> 
-https://github.com/kjw0612/awesome-rnn <br>
-https://github.com/ml-tooling/best-of-ml-python <br>
-https://github.com/vinta/awesome-python<br>
-https://github.com/xiaoran-2/awesome-deeplearning-resources<br>
-https://github.com/Theano/Theano <br>
-<br>Best Courses - <br>
-https://www.mooc-list.com/tags/theano <br>
-https://tute.io/courses/deep-learning-gans-and-variational-autoencoders <br>
-https://www.udemy.com/course/data-science-deep-learning-in-theano-tensorflow/<br>
-https://www.classcentral.com/course/udemy-data-science-deep-learning-in-theano-tensor-23323<br>
-https://www.learningcrux.com/tag/Theano <br>
-<br>Other Tips / Hacks - <br> 
-https://udibr.github.io/tips-on-working-with-theano.html <br>
-https://docs.huihoo.com/theano/0.9/extending/tips.html <br>
-https://datascienceinsider.in/2015/10/14/tips-and-tricks-for-training-neural-network-in-theano/<br>
-https://folinoid.com/show/theano/<br>
-<br>
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Theano_logo.svg/1200px-Theano_logo.svg.png">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Theano_logo.svg/1200px-Theano_logo.svg.png" width="500" height="500"/>
-</a>
-<br><br><br>
-</details>
 <details>
 <summary>TypeScript</summary>
 <br>Category/Type - <br> Programming Language <br>
