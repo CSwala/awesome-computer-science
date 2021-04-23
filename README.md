@@ -739,10 +739,16 @@ https://www.youtube.com/watch?v=KJgsSFOSQv0<br>
 https://www.youtube.com/playlist?list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C<br>
 https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR<br>
 https://www.youtube.com/playlist?list=PLWPirh4EWFpEK1RbpruFXrwgzcGUjZ4nV<br>
+https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR<br>
+https://www.youtube.com/watch?v=8PopR3x-VMY<br>
 <br>Useful Websites - <br>
 https://www.reddit.com/r/C_Programming/<br>
 https://www.geeksforgeeks.org/c-programming-language/<br>
 https://www.informit.com/articles/index.aspx?st=60233<br>
+https://www.programiz.com/c-programming<br>
+https://beginnersbook.com/2015/02/simple-c-programs/<br>
+https://www.studytonight.com/c/programs/<br>
+https://www.codewithc.com/c-projects-with-source-code/</br>
 <br>Dedicated Github page - <br>
 https://gist.github.com/markgk629/3781962<br>
 https://github.com/PacktPublishing/Learn-C-Programming<br>
@@ -751,10 +757,15 @@ https://github.com/gouravthakur39/beginners-C-program-examples<br>
 https://www.udemy.com/course/c-programming-for-beginners-/<br>
 https://www.udemy.com/course/c-programming-for-beginners-/<br>
 https://www.linkedin.com/learning/advanced-c-programming<br>
+https://www.udemy.com/course/the-complete-c-programming/<br>
+https://www.learn-c.org/<br>
 <br>Other Tips / Hacks<br>
 https://www.techbeamers.com/top-c-programming-tips-and-tricks-for-you/<br>
 https://developerinsider.co/best-golfing-tips-and-tricks-in-c-programming-puzzles/<br>
 https://www.includehelp.com/tips/c/<br>
+https://hownot2code.com/2016/11/29/c-programming-tips/<br>
+https://www.cprogramming.com/tips/<br>
+https://www.opensourceforu.com/2018/06/simple-c-programming-tips-for-newbies/<br>
 </details>
 
 <details>
