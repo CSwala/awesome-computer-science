@@ -752,6 +752,34 @@ https://www.pluralsight.com/guides/tips-for-writing-better-c-code <br> https://w
 </details>
 
 <details>
+<summary>C</summary>
+<br>Category/Type - <br>Programming Language<br>
+<br>Official Documentation - <br>
+https://devdocs.io/c/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=KJgsSFOSQv0<br>
+https://www.youtube.com/playlist?list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C<br>
+https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR<br>
+https://www.youtube.com/playlist?list=PLWPirh4EWFpEK1RbpruFXrwgzcGUjZ4nV<br>
+<br>Useful Websites - <br>
+https://www.reddit.com/r/C_Programming/<br>
+https://www.geeksforgeeks.org/c-programming-language/<br>
+https://www.informit.com/articles/index.aspx?st=60233<br>
+<br>Dedicated Github page - <br>
+https://gist.github.com/markgk629/3781962<br>
+https://github.com/PacktPublishing/Learn-C-Programming<br>
+https://github.com/gouravthakur39/beginners-C-program-examples<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/c-programming-for-beginners-/<br>
+https://www.udemy.com/course/c-programming-for-beginners-/<br>
+https://www.linkedin.com/learning/advanced-c-programming<br>
+<br>Other Tips / Hacks<br>
+https://www.techbeamers.com/top-c-programming-tips-and-tricks-for-you/<br>
+https://developerinsider.co/best-golfing-tips-and-tricks-in-c-programming-puzzles/<br>
+https://www.includehelp.com/tips/c/<br>
+</details>
+
+<details>
 <summary>C++</summary>
 <br>Category/Type - <br>Programming Language<br>
 <br>Official Documentation - <br>
