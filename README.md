@@ -730,28 +730,6 @@ https://medium.com/@buildbox/how-to-get-free-game-music-more-buildbox-3f8918d950
 </details>
 
 <details>
-<summary>C#</summary>
-<br>Category/Type - <br> Programming language <br>
-<br>Official Documentation - <br> https://docs.microsoft.com/en-us/dotnet/csharp/ <br> 
-<br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww <br>
-https://www.youtube.com/user/programmingwithmosh <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51 <br>
-https://www.youtube.com/playlist?list=PL0EE421AE8BCEBA4A <br> https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR <br>
-https://www.youtube.com/playlist?list=PL_c9BZzLwBRIXCJGLd4UzqH34uCclOFwC <br>
-<br>Useful Websites - <br> https://www.tutorialspoint.com/csharp/index.htm <br> https://www.javatpoint.com/c-sharp-tutorial <br>
-https://www.w3schools.com/cs/ <br> https://www.guru99.com/c-sharp-tutorial.html <br> https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/ <br>
-<br>Dedicated Github page - <br> https://github.com/uhub/awesome-c-sharp <br> https://github.com/wilfreddesert/C-sharp_more_awesome <br>
-https://github.com/ambid17/c-sharp-awesome-articles <br> https://github.com/rsk2/awesome-csharp <br>
-<br>Best Courses - <br> https://www.udemy.com/course/csharp-tutorial-for-beginners/ <br> https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/ <br>
-https://www.udemy.com/course/csharp-advanced/ <br> https://www.coursera.org/learn/introduction-programming-unity <br> https://www.pluralsight.com/courses/csharp-fundamentals-dev <br>
-<br>Other Tips / Hacks - <br> https://www.pluralsight.com/courses/csharp-fundamentals-dev <br> https://raygun.com/blog/c-sharp-performance-tips-tricks/ <br> 
-https://www.pluralsight.com/guides/tips-for-writing-better-c-code <br> https://www.webtrainingroom.com/csharp/knowledgebase <br>
-<a href="https://habrastorage.org/webt/5e/82/63/5e82638bb3b5d869182324.jpeg">
-  <img align="center" src="https://habrastorage.org/webt/5e/82/63/5e82638bb3b5d869182324.jpeg" width="500" height="500"/>
-</a>
-<br><br><br>
-</details>
-
-<details>
 <summary>C</summary>
 <br>Category/Type - <br>Programming Language<br>
 <br>Official Documentation - <br>
@@ -777,6 +755,28 @@ https://www.linkedin.com/learning/advanced-c-programming<br>
 https://www.techbeamers.com/top-c-programming-tips-and-tricks-for-you/<br>
 https://developerinsider.co/best-golfing-tips-and-tricks-in-c-programming-puzzles/<br>
 https://www.includehelp.com/tips/c/<br>
+</details>
+
+<details>
+<summary>C#</summary>
+<br>Category/Type - <br> Programming language <br>
+<br>Official Documentation - <br> https://docs.microsoft.com/en-us/dotnet/csharp/ <br> 
+<br>Best YouTube creators - <br> https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br> https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww <br>
+https://www.youtube.com/user/programmingwithmosh <br> https://www.youtube.com/user/edurekaIN <br> https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51 <br>
+https://www.youtube.com/playlist?list=PL0EE421AE8BCEBA4A <br> https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR <br>
+https://www.youtube.com/playlist?list=PL_c9BZzLwBRIXCJGLd4UzqH34uCclOFwC <br>
+<br>Useful Websites - <br> https://www.tutorialspoint.com/csharp/index.htm <br> https://www.javatpoint.com/c-sharp-tutorial <br>
+https://www.w3schools.com/cs/ <br> https://www.guru99.com/c-sharp-tutorial.html <br> https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/ <br>
+<br>Dedicated Github page - <br> https://github.com/uhub/awesome-c-sharp <br> https://github.com/wilfreddesert/C-sharp_more_awesome <br>
+https://github.com/ambid17/c-sharp-awesome-articles <br> https://github.com/rsk2/awesome-csharp <br>
+<br>Best Courses - <br> https://www.udemy.com/course/csharp-tutorial-for-beginners/ <br> https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/ <br>
+https://www.udemy.com/course/csharp-advanced/ <br> https://www.coursera.org/learn/introduction-programming-unity <br> https://www.pluralsight.com/courses/csharp-fundamentals-dev <br>
+<br>Other Tips / Hacks - <br> https://www.pluralsight.com/courses/csharp-fundamentals-dev <br> https://raygun.com/blog/c-sharp-performance-tips-tricks/ <br> 
+https://www.pluralsight.com/guides/tips-for-writing-better-c-code <br> https://www.webtrainingroom.com/csharp/knowledgebase <br>
+<a href="https://habrastorage.org/webt/5e/82/63/5e82638bb3b5d869182324.jpeg">
+  <img align="center" src="https://habrastorage.org/webt/5e/82/63/5e82638bb3b5d869182324.jpeg" width="500" height="500"/>
+</a>
+<br><br><br>
 </details>
 
 <details>
