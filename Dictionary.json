@@ -498,6 +498,36 @@
 		"Tips6" : "https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/aws-cheat-sheet"
 	},
 	{
+		"Title" : "Big Data",
+		"Tag" : "Data Analytics",
+		"Documentation" : "https://docs.oracle.com/en/bigdata/index.html",
+		"YT1 " : "https://www.youtube.com/watch?v=1vbXmCrkT3Y",
+		"YT2 " : "https://www.youtube.com/watch?v=bAyrObl7TYE",
+		"YT3 " : "https://www.youtube.com/watch?v=LOuAOZWJ9RA&t=175s",
+		"YT4 " : "https://www.youtube.com/watch?v=zez2Tv-bcXY",
+		"YT5 " : "https://www.youtube.com/watch?v=Uv96qQ3uC6Y&list=PLWPirh4EWFpENnR0p1JvhJkyTK1M0sOLR",
+		"Website1" : "https://www.guru99.com/what-is-big-data.html#:~:text=Big%20Data%20is%20a%20collection,data%20but%20with%20huge%20size.",
+		"Website2" : "https://www.sas.com/en_in/insights/big-data/what-is-big-data.html",
+		"Website3" : "https://www.ibm.com/in-en/analytics/hadoop/big-data-analytics",
+		"Website4" : "https://searchdatamanagement.techtarget.com/definition/big-data",
+		"Website5" : "https://www.investopedia.com/terms/b/big-data.asp",
+		"Dedicated GH page1" : "https://github.com/0xnr/awesome-bigdata",
+		"Dedicated GH page2" : "https://github.com/ClickHouse/ClickHouse",
+		"Dedicated GH page3" : "https://github.com/amazon-archives/aws-big-data-blog",
+		"Dedicated GH page4" : "https://github.com/Netflix/genie",
+		"Dedicated GH page5" : "https://github.com/blaze/blaze",
+		"Course1" : "https://www.simplilearn.com/big-data-engineer-masters-certification-training-course?utm_source=google&utm_medium=cpc&utm_term=big%20data%20course&utm_content=1428905913-112970112950-505463519026&utm_device=c&utm_campaign=Search-DataCluster-BigData-IN-Main-AllDevice-adgroup-BD-Generic-Course-exact&gclid=Cj0KCQjw4ImEBhDFARIsAGOTMj_An_yolWYOwm3mYRvh1a_eA8zgMZL38iY1ZWuC7e_yqyaFNqPIfaUaAtqTEALw_wcB",
+		"Course2" : "https://www.coursera.org/specializations/big-data",
+		"Course3" : "https://www.greatlearning.in/academy/learn-for-free/courses/mastering-big-data-analytics",
+		"Course4" : "https://www.edx.org/learn/big-data",
+		"Course5" : "https://www.udemy.com/topic/big-data/",
+		"Tips1" : "https://www.newgenapps.com/blog/top-10-tips-for-successful-big-data-analysis-tips/",
+		"Tips2" : "https://www.dezyre.com/article/5-tips-for-turning-big-data-to-big-success/113",
+		"Tips3" : "https://www.dbta.com/BigDataQuarterly/Articles/6-Tips-for-Getting-the-Most-Out-of-Big-Data-Analytics-111502.aspx",
+		"Tips4" : "https://www.tableau.com/learn/whitepapers/7-tips-succeed-big-data",
+		"Tips5" : "https://www.kolabtree.com/blog/tips-to-succeed-with-big-data/",
+	},
+	{
 		"Title" : "Blender",
 		"Tag" : "3D modeling and animation program",
 		"Documentation" : "https://docs.blender.org/manual/en/latest/",
@@ -2705,7 +2735,7 @@
 	"Tips7" : "https://www.youtube.com/watch?v=GYedTnX9vJQ "
 	},
 
-	
+
 	{
 		"Title" : "Modo",
 		"Tag" : "Software",
