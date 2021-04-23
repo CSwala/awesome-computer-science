@@ -4572,7 +4572,7 @@ https://www.smartly.io/blog/ruby-tricks-for-curious-developer <br>
 </details>
 
 <details>
- <summary>Ruby On Rail</summary>
+ <summary>Ruby On Rails</summary>
  <br>Category/Type - <br> Web Application Framework <br>
  <br>Official Documentation - <br> https://guides.rubyonrails.org/api_documentation_guidelines.html <br>
  <br>Best YouTube creators - <br>
