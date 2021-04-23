@@ -602,10 +602,10 @@ https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/aws-cheat
 </details>
 
 <details>
-<summary>AWS</summary>
-<br>Category/Type - <br>IT service management company <br>
+<summary>Big Data</summary>
+<br>Category/Type - <br>Data Analytics<br>
 <br>Official Documentation - <br>
-https://docs.aws.amazon.com/<br>
+https://docs.oracle.com/en/bigdata/index.html<br>
 <br>Best YouTube creators - <br>
 https://www.youtube.com/watch?v=1vbXmCrkT3Y<br>
 https://www.youtube.com/watch?v=bAyrObl7TYE<br>
