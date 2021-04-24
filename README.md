@@ -1223,6 +1223,68 @@ https://medium.com/@sciencemonk/cuda-programming-tips-and-tricks-12d60310817a <b
 </details>
 
 <details>
+<summary>D </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://dlang.org/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=rwZFTnf9bDU <br>
+https://www.youtube.com/watch?v=7kqgDn0md2U <br>
+https://www.youtube.com/watch?v=7JQx07GMt_8 <br>
+https://www.youtube.com/watch?v=q2_3cCukZzo <br>
+https://www.youtube.com/watch?v=p22MM1wc7xQ <br>
+https://www.youtube.com/watch?v=N5v_XhQYu2Y <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/d_language/ <br>
+https://awesomeopensource.com/projects/dlang <br>
+https://summerofcode.withgoogle.com/archive/2019/organizations/6223494952517632/ <br>
+https://en.wikibooks.org/wiki/D_Programming/First_Program_Examples <br>
+https://opensource.com/article/17/5/d-open-source-software-development <br>
+https://dlang.org/spec/module.html <br>
+https://tour.dlang.org/tour/en/vibed/vibe-d-web-framework <br>
+https://www.quora.com/Is-there-a-D-web-framework-yet <br>
+https://vibed.org/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/dlang-community/awesome-d <br>
+https://github.com/huntlabs/hunt-framework <br>
+https://github.com/dlang/dmd <br>
+https://github.com/dlang/phobos <br>
+https://github.com/dlang/druntime <br>
+https://github.com/dlang/tools <br>
+https://github.com/dlang/dlang.org <br>
+https://github.com/dlang/dub <br>
+https://github.com/dlang-community <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/d-programming-language/ <br>
+http://ddili.org/ders/d.en/ <br>
+https://www.pluralsight.com/courses/introduction-to-d?clickid=Txxw0JU01xyLR5CwUx0Mo3QpUkB0JWT1qSIjUQ0&irgwc=1&mpid=1286032&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1286032&utm_source=impactradius <br>
+https://www.wisdomjobs.com/e-university/d-programming-language-tutorial-1617.html <br>
+https://www.whoishostingthis.com/resources/d-programming/ <br>
+https://siit.co/courses/d-programming-course-and-certification/791 <br>
+https://www.educative.io/edpresso/what-is-the-d-programming-language <br>
+<br>
+Other Tips / Hacks - <br>
+https://opensource.com/article/20/7/d-programming <br>
+https://p0nce.github.io/d-idioms/ <br>
+https://insights.dice.com/2015/01/20/state-d-programming-language/ <br>
+https://dlang.org/blog/category/tutorials/ <br>
+https://www.tutorialspoint.com/d_programming/d_programming_quick_guide.htm <br>
+https://exercism.io/tracks/d <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/D_Programming_Language_logo.svg/1200px-D_Programming_Language_logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/D_Programming_Language_logo.svg/1200px-D_Programming_Language_logo.svg.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Dart</summary>
 <br>Category/Type - <br>Programming language<br>
 <br>Official Documentation - <br>
