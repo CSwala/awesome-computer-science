@@ -3034,6 +3034,74 @@ https://laravel-news.com/eloquent-tips-tricks<br><br>
 </details>
 
 <details>
+<summary>Less </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://lesscss.org/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=YQYJUeokqOY&list=PL6gx4Cwl9DGCshbAx1JpBtNoKh8iKAAiy <br>
+https://www.youtube.com/watch?v=5mgsQ2csCIU <br>
+https://www.youtube.com/watch?v=gpDeT2jcshg <br>
+https://www.youtube.com/watch?v=YD91G8DdUsw <br>
+https://www.youtube.com/watch?v=0yqWD4Aqx2k <br>
+https://www.youtube.com/watch?v=DD7u3YpMFp0 <br>
+https://www.youtube.com/watch?v=oh7_iZWvIyU <br>
+https://www.youtube.com/watch?v=-D5mWO9_vLI <br>
+https://www.youtube.com/watch?v=aShX-u4aUQs <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/simpleliving/ <br>
+https://lesscss.org/features/ <br>
+https://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less <br>
+https://medium.com/@joseph0crick/react-css-modules-less-webpack-4-a50d902d0a3 <br>
+https://designshack.net/articles/css/10-less-css-examples-you-should-steal-for-your-projects/ <br>
+https://www.drupal.org/project/less <br>
+https://antjanus.com/blog/web-development-tutorials/front-end-development/organize-your-lesssass-css-for-a-large-project/ <br>
+https://lesscss.org/tools/ <br>
+http://man.hubwiz.com/docset/Less.docset/Contents/Resources/Documents/lesscss.org/usage/index.html <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/less/less.js/ <br>
+https://github.com/less/less-docs <br>
+https://github.com/houbie/lesscss <br>
+https://github.com/jonikorpi/Less-Framework <br>
+https://github.com/SAP/less-openui5 <br>
+https://github.com/marceloverdijk/lesscss-java <br>
+https://github.com/ultraq/lesscss-compiler <br>
+https://github.com/asual/lesscss-engine <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/less-css-crash-course-plus-project/ <br>
+https://www.udemy.com/course/learning-less/ <br>
+https://www.pluralsight.com/courses/better-css <br>
+https://code.tutsplus.com/courses/less-is-more?_ga=2.2877232.1029369673.1619193697-626047446.1615463476 <br>
+https://1stwebdesigner.com/learning-less/ <br>
+https://ilovecoding.org/courses/learn-master-bootstrap-in-a-week/lessons/crash-course-on-less-css <br>
+https://devdojo.com/course/less-css <br>
+https://cssauthor.com/less-tutorials/ <br>
+https://www.sitepoint.com/premium/courses/less-is-more-supercharge-your-css-with-less-js-2900 <br>
+<br>
+Other Tips / Hacks - <br>
+https://modernweb.com/less-tips-and-tricks/#:~:text=LESS%20is%20declarative%20language%20designed,to%20do%20anything%20with%20it. <br>
+https://moduscreate.com/blog/less-tips-tricks/ <br>
+https://webdesign.tutsplus.com/articles/practical-tips-for-using-less--webdesign-8325 <br>
+https://css-tricks.com/using-less-as-a-live-css-engine/ <br>
+http://meri-stuff.blogspot.com/2013/03/less-css-tips-and-trics.html <br>
+https://dev.to/egaprsty/tips-and-tricks-write-less-css-5c24 <br>
+https://modernweb.com/less-tips-and-tricks/ <br>
+https://newfinds.com/posts/less-tips-and-tricks <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LESS_Logo.svg/1280px-LESS_Logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LESS_Logo.svg/1280px-LESS_Logo.svg.png" width="900" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Lightworks</summary>
 <br>Category/Type - <br>System software<br>
 <br>Official Documentation - <br>
