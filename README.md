@@ -5036,6 +5036,56 @@ https://www.javacodegeeks.com/2019/09/selenium-scripting-tips-tricks.html <br>
 </details>
 
 <details>
+<summary>Shell Scrpting </summary>
+<br>
+Category/Type - <br>Program <br>
+<br>
+Official Documentation - <br>
+https://devdocs.io/bash/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=GtovwKDemnI<br>
+https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_<br>
+https://www.youtube.com/watch?v=9y5TCwVU8iE<br>
+https://www.youtube.com/watch?v=uI-xHPk4tO0<br>
+https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790<br>
+<br>
+Useful Websites -
+<br>
+https://en.wikipedia.org/wiki/Shell_script<br>
+https://www.shellscript.sh/<br>
+https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/<br>
+https://www.guru99.com/introduction-to-shell-scripting.html<br>
+https://www.javatpoint.com/shell-scripting-tutorial<br>
+<br>
+Dedicated Github page - <br>
+https://gist.github.com/bradtraversy/ac3b1136fc7d739a788ad1e42a78b610<br>
+https://gist.github.com/motemen/8595451<br>
+https://github.com/techarkit/shell-scripting-tutorial<br>
+https://github.com/epety/100-shell-script-examples<br>
+https://github.com/trending/shell<br>
+<br>
+Best Courses - <br>
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjWztj-hZXwAhVynMIKHfgrCyEYABABGgJ0bQ&ohost=www.google.com&cid=CAESQeD2ATRrk-orCr21ipzoBPt-s3yAnEAWhF25wrAH8PtLTgB1UTApBYNEsZGcuOGyHJJ1VK8-OUWZOmSWQbn1Qdy4&sig=AOD64_2bJHO4V53IKuN_FwHITZz9ZgvEIw&q&adurl&ved=2ahUKEwjU0sj-hZXwAhXp7HMBHRpDBgcQ0Qx6BAgEEAE<br>
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjWztj-hZXwAhVynMIKHfgrCyEYABAAGgJ0bQ&ae=2&ohost=www.google.com&cid=CAESQeD2ATRrk-orCr21ipzoBPt-s3yAnEAWhF25wrAH8PtLTgB1UTApBYNEsZGcuOGyHJJ1VK8-OUWZOmSWQbn1Qdy4&sig=AOD64_3v7AO88h64ZwK2DOUv7y4DwBMlZQ&q&adurl&ved=2ahUKEwjU0sj-hZXwAhXp7HMBHRpDBgcQ0Qx6BAgCEAE<br>
+https://www.udemy.com/course/linux-shell-scripting-free/<br>
+https://onlinecourses.swayam2.ac.in/aic20_sp05/preview<br>
+https://www.gangboard.com/app-programming-scripting-training/unix-shell-scripting-training<br>
+<br>
+Other Tips / Hacks - <br>
+https://www.shellscript.sh/hints.html<br>
+https://www.tecmint.com/useful-tips-for-writing-bash-scripts-in-linux/<br>
+https://codeburst.io/13-tips-tricks-for-writing-shell-scripts-with-awesome-ux-19a525ae05ae<br>
+https://levelup.gitconnected.com/9-tips-for-writing-safer-shell-scripts-b0c185da9bae<br>
+https://www.infoworld.com/article/3200766/9-shell-tips-every-developer-should-know.html<br>
+<br>
+<a href="https://cdn3.iconfinder.com/data/icons/blue-ulitto/128/Developer_files_Bash_Shell_Script-512.png">
+  <img align="center" src="https://cdn3.iconfinder.com/data/icons/blue-ulitto/128/Developer_files_Bash_Shell_Script-512.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Solidity </summary>
 <br>
 Category/Type - <br>Programming language <br>
