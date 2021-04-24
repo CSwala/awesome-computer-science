@@ -1075,6 +1075,46 @@ https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/<br>
 </details>
 
 <details>
+<summary>Computer Organization and Architecture</summary>
+<br>
+Category/Type - <br>
+Architecture, Organization, Design Of Computer<br>
+<br>
+Official Documentation - <br>
+https://en.wikipedia.org/wiki/Word_(computer_architecture)<br>
+<br>
+Best YouTube creators - <br>
+https://youtube.com/playlist?list=PLsFENPUZBqiprGoEWrpexJPlPjmfPCtzM<br>
+https://youtube.com/playlist?list=PLbMVogVj5nJRtXgdjQkYfYOHfsc-7Ar7Q<br>
+https://youtube.com/playlist?list=PLG9aCp4uE-s3WzvFW1nI-7hHWNC8s2RdI<br>
+https://youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX<br>
+<br>
+Useful Websites -
+https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/<br>
+https://www.javatpoint.com/computer-organization-and-architecture-tutorial<br>
+https://www.studytonight.com/computer-architecture/<br>
+https://tutorialspoint.dev/computer-science/computer-organization-and-architecture<br>
+https://www.gatevidyalay.com/tag/computer-organization-and-architecture-tutorial/
+<br>
+Dedicated Github page - <br>
+https://github.com/sanjaytharagesh31/Computer-Organization-and-Architecture<br>
+https://github.com/neelkshah/MIPS-Processor<br>
+https://github.com/rahulkrishnan98/computer-organization-and-architecture<br>
+https://github.com/Mawlong/Computer-Organization-and-Architecture
+<br>
+Best Courses - <br>
+http://video.bilkent.edu.tr/course_videos.php?courseid=16<br>
+https://in.udacity.com/course/high-performance-computer-architecture--ud007<br>
+https://onlinecourses.nptel.ac.in/noc17_cs19/preview<br>
+https://www.udemy.com/course/advance-computer-architecture-and-organization/
+<br>
+Other Tips / Hacks - <br>
+https://www.geeksforgeeks.org/last-minute-notes-computer-organization/<br>
+https://lastmomenttuitions.com/course/coa/<br>
+<br><br>
+</details>
+
+<details>
 
  <summary> CryEngine </summary>
  <br>Category/Type - <br> Game engine <br>
