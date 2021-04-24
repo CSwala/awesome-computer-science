@@ -6245,6 +6245,55 @@ https://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/ <br>
 <br><br><br>
 </details>
 
+<details>  
+<summary>YII Framework</summary>
+<br>
+Category/Type - <br>PHP Framework<br>
+<br>
+Official Documentation - <br>
+https://www.yiiframework.com/doc/api <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=whuIf33v2Ug <br>
+https://www.youtube.com/watch?v=sRJ6GYiCwkI <br>
+https://www.youtube.com/watch?v=z1xtFbO9jgQ&list=PLRd0zhQj3CBmusDbBzFgg3H20VxLx2mkF <br>
+https://www.youtube.com/watch?v=sRJ6GYiCwkI&list=PLLQuc_7jk__VZFYZa9uVbU2mYPbnfAMC6 <br>
+https://www.youtube.com/watch?v=_7siHAXnttc <br>
+https://www.youtube.com/watch?v=VJuSbEdUUpc <br>
+<br>
+Useful Websites -
+<br>
+https://www.yiiframework.com <br>
+https://www.tutorialspoint.com/yii/index.htm<br>
+https://www.javatpoint.com/yii-tutorial <br>
+https://www.yiiframework.com/wiki?tag=tutorial&category=3&version=2.0 <br>
+https://yii2-framework.readthedocs.io/en/stable/guide/tutorial-start-from-scratch/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/yiisoft/yii2 <br>
+https://github.com/yiisoft-contrib/yiiframework.com<br>
+https://github.com/yiisoft/yii<br>
+https://github.com/yiisoft<br>
+https://github.com/samdark/yii2-shop <br>
+https://github.com/samdark/yiipowered <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/yii2-beginner-to-professional/<br>
+https://www.udemy.com/course/yii2-php-framework/<br>
+https://www.udemy.com/course/web-application-development-with-yii-php-framework/<br>
+https://hackr.io/tutorials/learn-yii <br>
+https://www.yiiframework.com/wiki/268/how-to-learn-yii<br>
+https://www.lynda.com/Yii-training-tutorials/6778-0.html<br>
+<br>
+Other Tips / Hacks - <br>
+https://www.yiiframework.com/doc/guide/2.0/en/tutorial-performance-tuning <br>
+https://forum.yiiframework.com/t/yii2-tips-tricks/69503<br>
+https://www.cloudways.com/blog/php/yii/ <br>
+https://yii2-framework.readthedocs.io/en/stable/guide/tutorial-performance-tuning/<br>
+https://code.tutsplus.com/articles/introduction-to-the-yii-framework--cms-20948<br>
+<br>
+</details>
+
 <details>
 <summary>ZBrush</summary>
 <br>Category/Type - <br>Software<br>
