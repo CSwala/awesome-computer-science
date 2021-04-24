@@ -646,6 +646,26 @@ https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/aws-cheat
 </details>
 
 <details>
+<summary>Azure</summary>
+<br>Category/Type - <br>Cloud Computing Service<br>
+<br>Official Documentation - <br>
+https://docs.microsoft.com/en-us/azure/<br>
+<br>Best YouTube creators - <br> https://www.youtube.com/watch?v=tDuruX7XSac <br> https://www.youtube.com/watch?v=0bNFkI_0jhc <br>
+https://www.youtube.com/watch?v=wdUK7bCMXqs <br> https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM <br>
+<br>Useful Websites - <br> https://azure.microsoft.com/en-in/ <br> 
+https://en.wikipedia.org/wiki/Microsoft_Azure <br> https://searchcloudcomputing.techtarget.com/definition/Windows-Azure <br>
+<br>Dedicated Github page - <br> https://github.com/Azure <br> https://github.com/MicrosoftDocs/azure-docs <br> https://github.com/Azure/azure-cli <br>
+<br>Best Courses - <br> https://docs.microsoft.com/en-us/learn/azure/ <br> https://www.udemy.com/topic/microsoft-azure/ <br>
+https://acloudguru.com/azure-cloud-training <br> https://cloudacademy.com/library/azure/ <br> https://www.edx.org/learn/azure <br> https://www.coursera.org/learn/cloud-azure-intro <br>
+<br>Other Tips / Hacks - <br> https://microsoft.github.io/AzureTipsAndTricks/ <br> https://azure.microsoft.com/en-in/blog/azure-tips-and-tricks-become-more-productive-with-azure/ <br>
+https://gregorsuttie.com/2020/05/07/azure-tips-n-tricks/ <br> https://dailydotnettips.com/azure-portal-tips-tricks/ <br> <br>
+<a href="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
+  <img align="center" src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Big Data</summary>
 <br>Category/Type - <br>Data Analytics<br>
 <br>Official Documentation - <br>
