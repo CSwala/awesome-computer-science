@@ -5476,6 +5476,42 @@ https://www.cloudways.com/blog/php/symfony/<br>
 </details>
 
 <details>
+<summary>Tableau</summary>
+<br>Category/Type - <br> Data Visualization Software<br>
+<br>Official Documentation - <br> https://help.tableau.com/current/pro/desktop/en-us/gettingstarted_overview.htm <br>
+<br>Best YouTube creators - <br> 
+https://www.youtube.com/watch?v=aHaOIvR00So<br>
+https://www.youtube.com/watch?v=jEgVto5QME8 <br> 
+https://www.youtube.com/watch?v=Wh4sCCZjOwo<br> 
+https://www.youtube.com/watch?v=6mBtTNggkUk <br>
+https://www.youtube.com/watch?v=KA0QHWm0nWo<br>
+
+<br>Useful Websites - <br> 
+https://www.tableau.com/<br> 
+https://www.guru99.com/what-is-tableau.html<br>
+https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/<br>
+https://www.tutorialspoint.com/tableau/index.htm <br> 
+https://www.tutorialgateway.org/tableau/<br>
+<br>Dedicated Github page - <br> 
+https://github.com/tableau<br> 
+https://github.com/tableau/TabPy <br> 
+https://github.com/tableau/webdataconnector<br>
+https://github.com/tableau/document-api-python<br>
+<br>Best Courses - <br> 
+https://www.tableau.com/learn/training<br>
+https://www.udemy.com/course/tableau-tutorial-for-beginners/<br> 
+https://www.udacity.com/course/data-visualization-in-tableau--ud1006<br>
+https://www.simplilearn.com/tableau-training-and-data-visualization-course<br>
+https://www.linkedin.com/learning/topics/tableau<br>
+<br>Other Tips / Hacks - <br>
+https://www.edureka.co/blog/tableau-tips-and-tricks/ <br> 
+https://evolytics.com/blog/six-favorite-tableau-tips-tricks-and-hacks-to-enhance-dashboards/ <br>
+https://interworks.com/blog/2021/01/05/five-tableau-ux-hacks-for-2021/ <br>
+https://www.vizwiz.com/p/tips.html<br>
+<br>
+</details>
+
+<details>
 <summary>Tailwind CSS</summary>
 <br>Category/Type - <br> CSS Framework <br>
 <br>Official Documentation - <br> https://tailwindcss.com/docs <br>
