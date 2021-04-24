@@ -705,6 +705,65 @@ https://3dtotal.com/tutorials/t/10-blender-tricks-you-might-not-know-about <br> 
 </details>
 
 <details>
+<summary>Blockchain</summary>
+<br>
+Category/Type - <br>
+Database <br>
+<br>
+Official Documentation - <br>
+https://www.blockchain.com/api <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/playlist?list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW- <br>
+https://www.youtube.com/watch?v=QCvL-DWcojc <br>
+https://www.youtube.com/watch?v=SyVMma1IkXM <br>
+https://www.youtube.com/watch?v=qRKzeas369s <br>
+https://www.youtube.com/watch?v=coQ5dg8wM2o <br>
+https://www.youtube.com/playlist?list=PLS5SEs8ZftgUTXs0OJD2LFpYBPr4L54id <br>
+https://www.youtube.com/watch?v=orexiRMFJqs <br>
+https://www.youtube.com/watch?v=99pYGpTWcXM <br>
+<br>
+Useful Websites- <br>
+https://www.javatpoint.com/blockchain-tutorial <br>
+https://www.tutorialspoint.com/blockchain/index.htm <br>
+https://www.guru99.com/blockchain-tutorial.html <br>
+https://www.simplilearn.com/tutorials/blockchain-tutorial <br>
+https://www.edureka.co/blog/blockchain-tutorial/ <br>
+https://data-flair.training/blogs/blockchain-tutorial/ <br>
+https://www.upgrad.com/blog/blockchain-tutorial-for-beginners/ <br>
+https://intellipaat.com/blog/tutorial/blockchain-tutorial/ <br>
+https://www.investopedia.com/terms/b/blockchain.asp <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/dvf/blockchain <br>
+https://github.com/yjjnls/awesome-blockchain <br>
+https://github.com/corda/corda <br>
+https://github.com/anders94/blockchain-demo <br>
+https://github.com/IBM-Blockchain/ansible-collection <br>
+<br>
+Best Courses- <br>
+https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals <br>
+https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business <br>
+https://www.udemy.com/course/build-your-blockchain-az/ <br>
+https://www.udemy.com/course/build-blockchain/ <br>
+https://www.udemy.com/course/blockchain-and-bitcoin-fundamentals/ <br>
+https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309 <br>
+https://www.coursera.org/learn/blockchain-foundations-and-use-cases <br>
+https://www.coursera.org/learn/blockchain-basics <br>
+https://www.coursera.org/specializations/blockchain <br>
+<br>
+Other Tips/Hacks- <br>
+https://onlinedegrees.und.edu/blog/5-blockchain-security-issues/ <br>
+https://www.information-age.com/best-practice-tips-adopting-blockchain-technology-123484896/ <br>
+https://www.planetcompliance.com/cryptocurrency-for-beginners-5-tips-and-tricks-you-should-know/ <br>
+https://www.cnbctv18.com/personal-finance/key-tips-cryptocurrency-investor-should-know-9017321.htm <br>
+https://proov.io/blog/three-critical-tips-before-adopting-a-blockchain-solution/ <br>
+https://www.blockchain-council.org/blockchain/tips-to-understanding-blockchain-as-a-non-coder/ <br>
+https://icoholder.com/blog/tips-for-cryptocurrency-trading/ <br>
+<br>
+</details>
+
+<details>
 <summary>Blockly</summary>
 <br>Category/Type - <br>Software <br>
 <br>Official Documentation - <br>
@@ -5476,6 +5535,42 @@ https://www.cloudways.com/blog/php/symfony/<br>
 </details>
 
 <details>
+<summary>Tableau</summary>
+<br>Category/Type - <br> Data Visualization Software<br>
+<br>Official Documentation - <br> https://help.tableau.com/current/pro/desktop/en-us/gettingstarted_overview.htm <br>
+<br>Best YouTube creators - <br> 
+https://www.youtube.com/watch?v=aHaOIvR00So<br>
+https://www.youtube.com/watch?v=jEgVto5QME8 <br> 
+https://www.youtube.com/watch?v=Wh4sCCZjOwo<br> 
+https://www.youtube.com/watch?v=6mBtTNggkUk <br>
+https://www.youtube.com/watch?v=KA0QHWm0nWo<br>
+
+<br>Useful Websites - <br> 
+https://www.tableau.com/<br> 
+https://www.guru99.com/what-is-tableau.html<br>
+https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/<br>
+https://www.tutorialspoint.com/tableau/index.htm <br> 
+https://www.tutorialgateway.org/tableau/<br>
+<br>Dedicated Github page - <br> 
+https://github.com/tableau<br> 
+https://github.com/tableau/TabPy <br> 
+https://github.com/tableau/webdataconnector<br>
+https://github.com/tableau/document-api-python<br>
+<br>Best Courses - <br> 
+https://www.tableau.com/learn/training<br>
+https://www.udemy.com/course/tableau-tutorial-for-beginners/<br> 
+https://www.udacity.com/course/data-visualization-in-tableau--ud1006<br>
+https://www.simplilearn.com/tableau-training-and-data-visualization-course<br>
+https://www.linkedin.com/learning/topics/tableau<br>
+<br>Other Tips / Hacks - <br>
+https://www.edureka.co/blog/tableau-tips-and-tricks/ <br> 
+https://evolytics.com/blog/six-favorite-tableau-tips-tricks-and-hacks-to-enhance-dashboards/ <br>
+https://interworks.com/blog/2021/01/05/five-tableau-ux-hacks-for-2021/ <br>
+https://www.vizwiz.com/p/tips.html<br>
+<br>
+</details>
+
+<details>
 <summary>Tailwind CSS</summary>
 <br>Category/Type - <br> CSS Framework <br>
 <br>Official Documentation - <br> https://tailwindcss.com/docs <br>
@@ -6243,6 +6338,55 @@ https://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/ <br>
   <img align="center" src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" width="900" height="500"/>
 </a>
 <br><br><br>
+</details>
+
+<details>  
+<summary>YII Framework</summary>
+<br>
+Category/Type - <br>PHP Framework<br>
+<br>
+Official Documentation - <br>
+https://www.yiiframework.com/doc/api <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=whuIf33v2Ug <br>
+https://www.youtube.com/watch?v=sRJ6GYiCwkI <br>
+https://www.youtube.com/watch?v=z1xtFbO9jgQ&list=PLRd0zhQj3CBmusDbBzFgg3H20VxLx2mkF <br>
+https://www.youtube.com/watch?v=sRJ6GYiCwkI&list=PLLQuc_7jk__VZFYZa9uVbU2mYPbnfAMC6 <br>
+https://www.youtube.com/watch?v=_7siHAXnttc <br>
+https://www.youtube.com/watch?v=VJuSbEdUUpc <br>
+<br>
+Useful Websites -
+<br>
+https://www.yiiframework.com <br>
+https://www.tutorialspoint.com/yii/index.htm<br>
+https://www.javatpoint.com/yii-tutorial <br>
+https://www.yiiframework.com/wiki?tag=tutorial&category=3&version=2.0 <br>
+https://yii2-framework.readthedocs.io/en/stable/guide/tutorial-start-from-scratch/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/yiisoft/yii2 <br>
+https://github.com/yiisoft-contrib/yiiframework.com<br>
+https://github.com/yiisoft/yii<br>
+https://github.com/yiisoft<br>
+https://github.com/samdark/yii2-shop <br>
+https://github.com/samdark/yiipowered <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/yii2-beginner-to-professional/<br>
+https://www.udemy.com/course/yii2-php-framework/<br>
+https://www.udemy.com/course/web-application-development-with-yii-php-framework/<br>
+https://hackr.io/tutorials/learn-yii <br>
+https://www.yiiframework.com/wiki/268/how-to-learn-yii<br>
+https://www.lynda.com/Yii-training-tutorials/6778-0.html<br>
+<br>
+Other Tips / Hacks - <br>
+https://www.yiiframework.com/doc/guide/2.0/en/tutorial-performance-tuning <br>
+https://forum.yiiframework.com/t/yii2-tips-tricks/69503<br>
+https://www.cloudways.com/blog/php/yii/ <br>
+https://yii2-framework.readthedocs.io/en/stable/guide/tutorial-performance-tuning/<br>
+https://code.tutsplus.com/articles/introduction-to-the-yii-framework--cms-20948<br>
+<br>
 </details>
 
 <details>
