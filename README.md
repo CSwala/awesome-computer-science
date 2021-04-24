@@ -705,6 +705,65 @@ https://3dtotal.com/tutorials/t/10-blender-tricks-you-might-not-know-about <br> 
 </details>
 
 <details>
+<summary>Blockchain</summary>
+<br>
+Category/Type - <br>
+Database <br>
+<br>
+Official Documentation - <br>
+https://www.blockchain.com/api <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/playlist?list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW- <br>
+https://www.youtube.com/watch?v=QCvL-DWcojc <br>
+https://www.youtube.com/watch?v=SyVMma1IkXM <br>
+https://www.youtube.com/watch?v=qRKzeas369s <br>
+https://www.youtube.com/watch?v=coQ5dg8wM2o <br>
+https://www.youtube.com/playlist?list=PLS5SEs8ZftgUTXs0OJD2LFpYBPr4L54id <br>
+https://www.youtube.com/watch?v=orexiRMFJqs <br>
+https://www.youtube.com/watch?v=99pYGpTWcXM <br>
+<br>
+Useful Websites- <br>
+https://www.javatpoint.com/blockchain-tutorial <br>
+https://www.tutorialspoint.com/blockchain/index.htm <br>
+https://www.guru99.com/blockchain-tutorial.html <br>
+https://www.simplilearn.com/tutorials/blockchain-tutorial <br>
+https://www.edureka.co/blog/blockchain-tutorial/ <br>
+https://data-flair.training/blogs/blockchain-tutorial/ <br>
+https://www.upgrad.com/blog/blockchain-tutorial-for-beginners/ <br>
+https://intellipaat.com/blog/tutorial/blockchain-tutorial/ <br>
+https://www.investopedia.com/terms/b/blockchain.asp <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/dvf/blockchain <br>
+https://github.com/yjjnls/awesome-blockchain <br>
+https://github.com/corda/corda <br>
+https://github.com/anders94/blockchain-demo <br>
+https://github.com/IBM-Blockchain/ansible-collection <br>
+<br>
+Best Courses- <br>
+https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals <br>
+https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business <br>
+https://www.udemy.com/course/build-your-blockchain-az/ <br>
+https://www.udemy.com/course/build-blockchain/ <br>
+https://www.udemy.com/course/blockchain-and-bitcoin-fundamentals/ <br>
+https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309 <br>
+https://www.coursera.org/learn/blockchain-foundations-and-use-cases <br>
+https://www.coursera.org/learn/blockchain-basics <br>
+https://www.coursera.org/specializations/blockchain <br>
+<br>
+Other Tips/Hacks- <br>
+https://onlinedegrees.und.edu/blog/5-blockchain-security-issues/ <br>
+https://www.information-age.com/best-practice-tips-adopting-blockchain-technology-123484896/ <br>
+https://www.planetcompliance.com/cryptocurrency-for-beginners-5-tips-and-tricks-you-should-know/ <br>
+https://www.cnbctv18.com/personal-finance/key-tips-cryptocurrency-investor-should-know-9017321.htm <br>
+https://proov.io/blog/three-critical-tips-before-adopting-a-blockchain-solution/ <br>
+https://www.blockchain-council.org/blockchain/tips-to-understanding-blockchain-as-a-non-coder/ <br>
+https://icoholder.com/blog/tips-for-cryptocurrency-trading/ <br>
+<br>
+</details>
+
+<details>
 <summary>Blockly</summary>
 <br>Category/Type - <br>Software <br>
 <br>Official Documentation - <br>
