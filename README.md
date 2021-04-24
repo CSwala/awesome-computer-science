@@ -6340,6 +6340,57 @@ https://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/ <br>
 <br><br><br>
 </details>
 
+<details>
+<summary>Xamarin</summary>
+<br>
+Category/Type - <br>
+Software <br>
+<br>
+Official Documentation - <br>
+https://docs.microsoft.com/en-us/xamarin/ <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=93ZU6j59wL4 <br>
+https://www.youtube.com/watch?v=zvp7wvbyceo <br>
+https://www.youtube.com/playlist?list=PLjzsl6AoCF8mjXJJDUUtGiFy9VksaMBgC <br>
+https://www.youtube.com/playlist?list=PLNcJs0ZTbcSoNQCA3SWDLEYlrofE52dji <br>
+https://www.youtube.com/playlist?list=PLV916idiqLvcKS1JY3S3jHWx9ELGJ1cJB <br>
+https://www.youtube.com/playlist?list=PL4WEkbdagHIRv7ggbtrp969--y-goYS7d <br>
+https://www.youtube.com/playlist?list=PLaoF-xhnnrRVglZztNl99ih76fvBOLMe8 <br>
+https://www.youtube.com/playlist?list=PLFKlnjWl05IxtbfAQuPHx_Ctlg3fucYwD <br>
+<br>
+Useful Websites- <br>
+https://www.tutorialspoint.com/xamarin/index.htm <br>
+https://www.javatpoint.com/xamarin <br>
+https://www.dotnettricks.com/learn/xamarin <br>
+https://channel9.msdn.com/Series/Xamarin-101 <br>
+https://www.c-sharpcorner.com/article/introduction-to-xamarin-for-beginners/ <br>
+https://github.com/xamarinhq/app-myshoppe <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/xamarin/Xamarin.Forms <br>
+https://github.com/xamarin/xamarin-android <br>
+https://github.com/xamarin/xamarin-macios <br>
+https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI <br>
+https://github.com/jamesmontemagno/Xamarin.Plugins <br>
+<br>
+Best Courses- <br>
+https://www.udemy.com/course/complete-xamarin-developer-course-ios-and-android/ <br>
+https://www.udemy.com/course/xamarin-forms-course/ <br>
+https://www.udemy.com/course/xamarin-and-firebase/ <br>
+https://www.linkedin.com/learning/xamarin-forms-essential-training-2 <br>
+https://www.udemy.com/course/the-advanced-xamarin-developer-masterclass/ <br>
+https://www.udemy.com/course/xamarin-android-app-with-cshap/ <br>
+<br>
+Other Tips/Hacks- <br>
+https://www.syncfusion.com/blogs/post/10-tips-to-avoid-common-mistakes-in-xamarin-forms-app-development.aspx <br>
+https://altkomsoftware.pl/en/blog/xamarin-forms-tips-tricks/ <br>
+https://willowtreeapps.com/ideas/tips-and-tricks-on-speeding-the-xamarin-development-process <br>
+https://xamgirl.com/xaml-tips-and-tricks/ <br>
+https://www.slideshare.net/rid00z/10-awesome-xamarinforms-tips-tricks-52954064 <br>
+<br>
+</details>
+
 <details>  
 <summary>YII Framework</summary>
 <br>
