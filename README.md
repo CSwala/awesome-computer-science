@@ -646,6 +646,45 @@ https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/aws-cheat
 </details>
 
 <details>
+<summary>Big Data</summary>
+<br>Category/Type - <br>Data Analytics<br>
+<br>Official Documentation - <br>
+https://docs.oracle.com/en/bigdata/index.html<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=1vbXmCrkT3Y<br>
+https://www.youtube.com/watch?v=bAyrObl7TYE<br>
+https://www.youtube.com/watch?v=LOuAOZWJ9RA&t=175s<br>
+https://www.youtube.com/watch?v=zez2Tv-bcXY<br>
+https://www.youtube.com/watch?v=Uv96qQ3uC6Y&list=PLWPirh4EWFpENnR0p1JvhJkyTK1M0sOLR<br>
+<br>Useful Websites - <br>
+https://www.guru99.com/what-is-big-data.html#:~:text=Big%20Data%20is%20a%20collection,data%20but%20with%20huge%20size.<br>
+https://www.sas.com/en_in/insights/big-data/what-is-big-data.html<br>
+https://www.ibm.com/in-en/analytics/hadoop/big-data-analytics<br>
+https://searchdatamanagement.techtarget.com/definition/big-data<br>
+https://www.investopedia.com/terms/b/big-data.asp<br>
+<br>Dedicated Github page - 
+<br>
+https://github.com/0xnr/awesome-bigdata<br>
+https://github.com/ClickHouse/ClickHouse<br>
+https://github.com/amazon-archives/aws-big-data-blog<br>
+https://github.com/Netflix/genie<br>
+https://github.com/blaze/blaze<br>
+<br>Best Courses - <br>
+https://www.simplilearn.com/big-data-engineer-masters-certification-training-course?utm_source=google&utm_medium=cpc&utm_term=big%20data%20course&utm_content=1428905913-112970112950-505463519026&utm_device=c&utm_campaign=Search-DataCluster-BigData-IN-Main-AllDevice-adgroup-BD-Generic-Course-exact&gclid=Cj0KCQjw4ImEBhDFARIsAGOTMj_An_yolWYOwm3mYRvh1a_eA8zgMZL38iY1ZWuC7e_yqyaFNqPIfaUaAtqTEALw_wcB<br>
+https://www.coursera.org/specializations/big-data<br>
+https://www.greatlearning.in/academy/learn-for-free/courses/mastering-big-data-analytics<br>
+https://www.edx.org/learn/big-data<br>
+https://www.udemy.com/topic/big-data/<br>
+<br>Other Tips / Hacks - <br>
+https://www.newgenapps.com/blog/top-10-tips-for-successful-big-data-analysis-tips/<br>
+https://www.dezyre.com/article/5-tips-for-turning-big-data-to-big-success/113<br>
+https://www.dbta.com/BigDataQuarterly/Articles/6-Tips-for-Getting-the-Most-Out-of-Big-Data-Analytics-111502.aspx<br>
+https://www.tableau.com/learn/whitepapers/7-tips-succeed-big-data<br>
+https://www.kolabtree.com/blog/tips-to-succeed-with-big-data/<br>
+<br><br>
+</details>
+
+<details>
 <summary>Blender</summary>
 <br>Category/Type - <br>3D modeling and animation program<br>
 <br>Official Documentation - <br>
