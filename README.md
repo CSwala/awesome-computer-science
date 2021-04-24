@@ -556,6 +556,50 @@ https://github.com/kailashahirwar/cheatsheets-ai<br>
 </details>
 
 <details>
+<summary>AWK</summary>
+<br>
+Category/Type - <br>
+Programming Language <br>
+<br>
+Official Documentation - <br>
+https://www.gnu.org/software/gawk/manual/gawk.html <br>
+<br>
+Best Youtube Creators- <br>
+https://likegeeks.com/awk-command/ <br>
+https://www.youtube.com/watch?v=jJ02kEETw70 <br>
+https://www.youtube.com/watch?v=X-dm71lYHQ0 <br>
+https://www.youtube.com/watch?v=1l8n3TRK-34 <br>
+<br>
+Useful Websites- <br>
+https://www.tutorialspoint.com/awk/index.htm <br>
+https://www.grymoire.com/Unix/Awk.html <br>
+https://www.geeksforgeeks.org/awk-command-unixlinux-examples/ <br>
+https://zetcode.com/lang/awk/ <br>
+https://www.digitalocean.com/community/tutorials/how-to-use-the-awk-language-to-manipulate-text-in-linux <br>
+https://likegeeks.com/awk-command/ <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/onetrueawk/awk <br>
+https://github.com/TheMozg/awk-raycaster <br>
+https://github.com/learnbyexample/learn_gnuawk <br>
+https://github.com/freznicek/awesome-awk <br>
+<br>
+Best Courses- <br>
+https://www.linkedin.com/learning/awk-essential-training <br>
+https://www.udemy.com/course/mastering-unix-commands/ <br>
+https://www.udemy.com/course/linux-commands/ <br>
+https://onlinecourses.swayam2.ac.in/aic20_sp25/preview <br>
+<br>
+Other Tips/Hacks- <br>
+https://catonmat.net/ten-awk-tips-tricks-and-pitfalls <br>
+https://blog.urfix.com/25-awk-commands-tricks/ <br>
+https://linuxaria.com/article/6-trucchi-con-awk <br>
+https://securitronlinux.com/debian-testing/more-very-useful-tricks-with-awk-on-linux/ <br>
+https://wiki.christophchamp.com/index.php?title=Awk/tips_and_tricks <br>
+<br>
+</details>
+
+<details>
 <summary>AWS</summary>
 <br>Category/Type - <br>IT service management company <br>
 <br>Official Documentation - <br>
