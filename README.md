@@ -4480,6 +4480,44 @@ https://thomashoneyman.com/articles/replace-react-components-with-purescript/ <b
 </details>
 
 <details>
+<summary>Pygame</summary>
+<br>Category/Type - <br>
+Python Library<br>
+<br>
+Official Documentation - <br>
+https://www.pygame.org/docs/<br>
+<br>
+Best Youtube Creators - <br>
+https://www.youtube.com/watch?v=FfWpgLFMI7w<br>
+https://www.youtube.com/watch?v=jO6qQDNa2UY<br>
+https://www.youtube.com/playlist?list=PLu0W_9lII9ailUQcxEPZrWgDoL36BtPYb<br>
+https://www.youtube.com/playlist?list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5<br>
+<br>
+Useful Websites - <br>
+https://inventwithpython.com/pygame/<br>
+https://www.reddit.com/r/pygame/<br>
+https://wiki.python.org/moin/GameProgramming<br>
+https://medium.com/iothincvit/pygame-for-beginners-234da7d3c56f<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/pygame/pygame<br>
+https://github.com/raymondberg/pygames<br>
+https://github.com/CCareaga/Pygame-Examples<br>
+https://github.com/PythonProgramming/pygame-tutorial-series<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/projects/python-game<br>
+https://www.pluralsight.com/courses/game-programming-python-pygame<br>
+https://freevideolectures.com/course/3408/pygame-python-game-development<br>
+https://free.aicte-india.org/Game-development-using-PyGame.php<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.pygame.org/docs/tut/newbieguide.html<br>
+https://nerdparadise.com/programming/pygametips<br>
+https://gamedevelopment.tutsplus.com/tutorials/how-to-learn-pygame--cms-24184<br>
+</details>
+
+<details>
 <summary>Pyglet</summary>
 <br>
 Category/Type - <br>
