@@ -18,7 +18,7 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2021)
 
 
-<ddetails>
+<details>
 <summary>Adobe XD</summary>
 <br>Category/Type - <br> Design Tool<br>
 <br>Official Documentation - <br> https://www.adobe.io/xd/uxp/ <br>
