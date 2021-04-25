@@ -3632,6 +3632,56 @@ https://www.youtube.com/watch?v=GYedTnX9vJQ <br>
 </details>
 
 <details>
+<summary>Meteor</summary>
+<br>
+Category/Type - <br>
+JavaScript Framework <br>
+<br>
+Official Documentation - <br>
+https://guide.meteor.com/ <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV <br>
+https://www.youtube.com/playlist?list=PLqiT-vn2D1sa9a36O2l4dM8MWmtW0BFyw <br>
+https://www.youtube.com/watch?v=9494-2E4riQ <br>
+https://www.youtube.com/watch?v=vSFH1T3SnBY <br>
+https://www.youtube.com/watch?v=Pa5D1XKXQuo <br>
+https://www.youtube.com/watch?v=JGs0cl9nsgM <br>
+<br>
+Useful Websites- <br>
+https://www.tutorialspoint.com/meteor/index.htm <br>
+https://www.toptal.com/meteor/building-real-time-web-applications-with-meteor <br>
+http://meteortips.com/ <br>
+https://www.meteor-tuts.com/ <br>
+https://flaviocopes.com/meteor/ <br>
+https://www.habilelabs.io/meteor-js-tutorial-for-beginners/ <br>
+https://www.meteor.com/tutorials/blaze/creating-an-app <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/meteor/meteor <br>
+https://github.com/meteor/examples <br>
+https://github.com/meteor/docs <br>
+https://github.com/meteor/blaze <br>
+https://github.com/meteor/babel-preset-meteor <br>
+<br>
+Best Courses- <br>
+https://www.udemy.com/course/meteor-react-tutorial/ <br>
+https://www.udemy.com/course/learn-meteorjs-by-building-10-real-world-projects/ <br>
+https://www.coursera.org/learn/meteor-development <br>
+https://www.lynda.com/Node-js-tutorials/Meteor-Essential-Training/656814-2.html <br>
+https://www.classcentral.com/course/meteor-development-4328 <br>
+https://www.eduonix.com/courses/Web-Development/Learn-MeteorJS-By-Building-10-Real-World-Projects <br>
+<br>
+Other Tips/Hacks- <br>
+https://apiko.com/blog/15-meteor-tips-for-beginners-from-professional-developers/ <br>
+https://abhiaiyer.medium.com/10-tips-to-get-off-the-meteor-93b5bb16c104 <br>
+https://code.tutsplus.com/tutorials/essential-meteor-tips--cms-28863 <br>
+https://blog.zipboard.co/cfs-tips-and-tricks-for-meteorjs-d6a9f4e9ba43 <br>
+https://til.codes/meteor-js-best-practices-and-techniques/ <br>
+<br>
+</details>
+
+<details>
 <summary>Modo</summary>
 <br>Category/Type - <br>Software<br>
 <br>Official Documentation - <br>
