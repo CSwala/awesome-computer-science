@@ -2444,6 +2444,58 @@ https://www.infoq.com/presentations/groovy-features/ <br>
 </details>
 
 <details>
+<summary>Hack </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://docs.hhvm.com/hack/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=eDz8IbGsVrc <br>
+https://www.youtube.com/watch?v=Q9gmHl_U0Tk <br>
+https://www.youtube.com/watch?v=_YUQ-x3c7-s <br>
+https://www.youtube.com/watch?v=aC8k5Zps4hM <br>
+https://www.youtube.com/watch?v=h7GsBMRd9PI <br>
+https://www.youtube.com/watch?v=gmCN76Mr_ms <br>
+<br>
+Useful Websites -
+<br>
+https://engineering.fb.com/2014/03/20/developer-tools/hack-a-new-programming-language-for-hhvm/ <br>
+https://hacklang.org/ <br>
+https://www.sutori.com/story/hack-programming-language--QZUzZ4YCbkS96PeSPu6tTxjc <br>
+https://therenegadecoder.com/code/hello-world-in-hack/ <br>
+https://hhvm.com/blog/4223/introducing-hack-a-programming-language-for-hhvm <br>
+https://en.wikipedia.org/wiki/Hack_(programming_language) <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/taueres/hacklang-examples <br>
+https://github.com/hhvm/user-documentation <br>
+https://github.com/hhvm/hack-codegen <br>
+https://github.com/hhvm/hhast <br>
+https://github.com/hhvm?language=hack <br>
+https://github.com/facebook/hhvm/tree/master/hphp/hack <br>
+<br>
+Best Courses - <br>
+https://www.oreilly.com/library/view/fluent-conference-2015/9781491927786/video213477.html <br>
+https://learnxinyminutes.com/docs/hack/ <br>
+https://docs.hhvm.com/hack/classes/introduction <br>
+https://abhikmitra.github.io/blog/hack-php/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://nuclide.io/docs/languages/hack/ <br>
+https://masnun.com/2014/03/24/hhvm-hack-the-painless-way-to-get-started.html <br>
+https://heera.it/facebook-hack <br>
+http://jessesnet.com/development-notes/2014/hacklang-generics/ <br>
+https://hhvm.com/blog/713/hhvm-optimization-tips <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hack_%28programming_language%29_logo.svg/686px-Hack_%28programming_language%29_logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hack_%28programming_language%29_logo.svg/686px-Hack_%28programming_language%29_logo.svg.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Haskell</summary>
 <br>Category/Type - <br>Functional programming language<br>
 <br>Official Documentation - <br>
