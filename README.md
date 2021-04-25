@@ -3950,6 +3950,60 @@ https://www.toptal.com/dot-net/tips-and-practices<br><br>
 <br><br><br>
 </details>
 
+
+<details>
+<summary>NetworkX</summary>
+<br>
+Category/Type -Python Library<br>
+<br>
+Official Documentation - <br>
+https://networkx.org/documentation/stable/index.html<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Q-qKKQLNLPo<br>
+https://www.youtube.com/watch?v=flwcAf1_1RU<br>
+youtube.com/watch?v=PouhDHfssYA<br>
+https://www.youtube.com/watch?v=x1UIYFMY2Xk&list=PLMtP8YtzV6HZ4-vRKp2OiQUYUf603zMBj<br>
+https://www.youtube.com/watch?v=CPQeSmDGiOQ<br>
+https://www.youtube.com/watch?v=NgkMVRGeS1c<br>
+https://www.youtube.com/watch?v=_AfhbYkLxzU<br>
+<br>
+Useful Websites -
+<br>
+https://medium.com/swlh/a-tutorial-on-networkx-network-analysis-in-python-part-i-43c1d35830b6<br>
+https://www.datacamp.com/community/tutorials/networkx-python-graph-tutorial<br>
+https://www.python-course.eu/networkx.php <br>
+https://towardsdatascience.com/tutorial-network-visualization-basics-with-networkx-and-plotly-and-a-little-nlp-57c9bbb55bb9<br>
+https://www.cl.cam.ac.uk/teaching/1314/L109/tutorial.pdf <br>
+"https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/topics/social-network-analysis<br>
+https://github.com/briatte/awesome-network-analysis<br>
+https://github.com/cisco-ie/awesome-network-programmability <br>
+https://github.com/nyquist/awesome-networking<br>
+https://github.com/sindresorhus/awesome <br>
+https://github.com/networkx<br>
+<br>
+Best Courses - <br>
+https://www.datacamp.com/courses/network-analysis-in-python-part-1?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631908&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=278443377098&utm_targetid=dsa-473406578555&utm_loc_interest_ms=&utm_loc_physical_ms=9040198&gclid=Cj0KCQjw4ImEBhDFARIsAGOTMj_hRSuRzG9iF_zEI4pPxq8iY7BmKZzQ_9j85DpKRS3imAeDyHfcGKYaAqMTEALw_wcB <br>
+https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/<br>
+https://www.udemy.com/course/network-security-course/<br>
+https://www.udemy.com/course/python-network-programming-for-network-engineers-python-3/<br>
+https://www.classcentral.com/course/networkx-20787 <br>
+https://www.coursera.org/projects/networkx <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.datacamp.com/community/tutorials/networkx-python-graph-tutorial<br>
+https://www.quora.com/What-are-some-advanced-NetworkX-tips<br>
+https://www.slideshare.net/MohammedTaie/python-networkx-library-quick-start-guide<br>
+<br>
+<a href="https://networkx.org/_static/networkx_logo.svg">
+  <img align="center"src="https://networkx.org/_static/networkx_logo.svg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
 <details>
 <summary>Next.js</summary>
 <br>Category/Type - <br> React front-end development web framework <br> 
