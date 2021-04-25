@@ -4449,6 +4449,42 @@ https://pgdash.io/blog/postgres-psql-tips-tricks.html <br> https://www.enterpris
 </details>
 
 <details>
+<summary>Power BI</summary>
+<br>Category/Type - <br>Business Analytics Service<br>
+<br>Official Documentation - <br> https://docs.microsoft.com/en-us/power-bi/<br>
+<br>Best YouTube creators - <br> 
+https://www.youtube.com/watch?v=AGrl-H87pRU<br>
+https://www.youtube.com/channel/UCy--PYvwBwAeuYaR8JLmrfg<br>
+https://www.youtube.com/watch?v=i3CSD7bMMbg <br>
+https://www.youtube.com/watch?v=gqO0EiCn4cY<br>
+https://www.youtube.com/watch?v=AuYzsfXKkbM <br> 
+https://www.youtube.com/watch?v=j5RAHGfKaBc<br>
+<br>Useful Websites - <br> 
+https://powerbi.microsoft.com/en/ <br> 
+https://en.wikipedia.org/wiki/Microsoft_Power_BI<br> 
+https://www.nigelfrank.com/blog/everything-you-ever-wanted-to-know-about-microsoft-power-bi/ <br> 
+https://www.stitchdata.com/resources/7-reasons-power-bi/ <br>
+https://searchcontentmanagement.techtarget.com/definition/Microsoft-Power-BI <br>
+<br>Dedicated Github page - <br> 
+https://docs.microsoft.com/en-us/power-bi/connect-data/service-tutorial-connect-to-github <br> 
+https://github.com/MicrosoftLearning/DA-100-Analyzing-Data-with-Power-BI <br>
+https://github.com/microsoft/PowerBI-Developer-Samples<br>
+https://github.com/NajiElKotob/Awesome-Power-BI<br>
+<br>Best Courses - <br> 
+https://www.coursera.org/courses?query=power%20bi <br>
+https://powerbi.microsoft.com/en-us/learning/ <br> 
+https://www.udemy.com/topic/microsoft-power-bi/ <br>
+https://www.edx.org/learn/power-bi <br>
+https://www.simplilearn.com/power-bi-certification-training-course <br>
+<br>Other Tips / Hacks - <br>
+https://zebrabi.com/top-power-bi-dashboard-tips-and-tricks/<br> 
+https://powerbi.tips/ <br>
+https://powerbi.microsoft.com/en-us/blog/tag/tips-and-tricks/ <br> 
+https://redlevelgroup.com/ms-power-bi-hacks-the-ultimate-guide/ <br>
+<br><br><br>
+</details>
+
+<details>
 <summary>Puppet </summary>
 <br>Category/Type - <br>IT automation<br>
 <br>Official Documentation - <br>
