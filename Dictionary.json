@@ -36,6 +36,51 @@
 		"Tips3" : "https://www.toptal.com/dot-net/tips-and-practices",
 		"Image1" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png" 
 	},
+
+	{
+		"Title": "Adobe XD",
+		"Tag": "Design Tool",
+		"Documentation": "https://www.adobe.io/xd/uxp/",
+        "YT1": "https://www.youtube.com/watch?v=68w2VwalD5w&t=20s",
+		"YT2": "https://www.youtube.com/watch?v=3rQ-eTmWah0",
+		"YT3": "https://www.youtube.com/watch?v=JttI6YpmPGI",
+        "YT4": "https://www.youtube.com/watch?v=7vhqsuSSqsQ",
+		"YT5": "https://www.youtube.com/watch?v=WEljsc2jorI",
+		"YT6": "https://www.youtube.com/watch?v=hRTi1Elkz3U&list=PLuRPummNMvIN43IBo1EltezV2ngqYz5T6",
+        "YT7": "https://www.youtube.com/watch?v=UIno2VAB5ss",
+        "YT8": "https://www.youtube.com/watch?v=K2ovfwfja_E&list=PLt7HkDVHvsa6d3wxz0t1Koc-BSsXnySwo",
+        "YT9": "https://www.youtube.com/watch?v=4H2FZfoXnrs",
+             
+        "Website1": "https://medium.com/drill/learning-the-basics-of-adobe-xd-in-one-hour-3537f3ac02a3",
+		"Website2": "https://www.mockplus.com/blog/post/adobe-xd-tutorial",
+        "Website3": "https://webdesign.tutsplus.com/courses/adobe-xd-for-beginners/lessons/welcome-to-the-course",
+		"Website4": "https://www.toptal.com/designers/ui/adobe-xd-components-tutorial",
+        "Website5": "https://www.digitalartsonline.co.uk/tutorials/interactive-design/adobe-xd-for-beginners/",
+		"Website6": "https://www.softwaretutorialvideos.com/tutorial-xd.html",
+		"Website7": "https://www.xdguru.com/adobe-xd-tutorials/",
+        "Website8": "https://www.domestika.org/en/blog/4741-adobe-xd-tutorial-basic-prototype-interactions",
+        "Website9": "https://designshack.net/articles/software/adobe-xd-tutorials/",
+
+
+		"Dedicated GH page1": "https://github.com/AdobeXD/plugin-samples",
+		"Dedicated GH page2": "https://github.com/AdobeXD/AdobeXD.github.io-Site",
+		"Dedicated GH page3": "https://github.com/AdobeXD/xd-to-flutter-plugin",
+		"Dedicated GH page4": "https://github.com/AdobeXD/cloud-content-api-docs",
+		"Dedicated GH page5": "https://github.com/AdobeXD/xdpm",
+		"Dedicated GH page6": "https://github.com/AdobeXD/xd-awesome",
+             
+        "Course1": "https://www.udemy.com/course/learn-adobe-xd-ux-designing-and-prototyping-from-scratch/",
+		"Course2": "https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/",
+		"Course3": "https://www.udemy.com/course/adobe-xd-course/",
+		"Course4": "https://www.udemy.com/course/adobe-cc-masterclass-graphic-design-photoshop-illustrator-xd-indesign/",
+	
+		"Tips1": "https://uxplanet.org/15-pro-tips-for-adobe-xd-users-3dbcbc66ffb3?gi=e602f6ea06b6",
+		"Tips2": "https://medium.com/@learnux.io/adobe-xd-30-tips-tricks-you-wish-youd-known-earlier-54bd117b2eb7",
+		"Tips3": "https://bashooka.com/resources/adobe-xd-tips-tricks-and-tutorials/",
+        "Tips4" :"https://www.technoarchsoftwares.com/blog/adobe-xd-tricks/",
+		"Tips5": "https://webdesign.tutsplus.com/articles/a-to-z-of-adobe-xd-tips-tricks--cms-36820",
+		"Tips6": "https://www.bringyourownlaptop.com/courses/ui-ux-web-design-using-adobe-xd/advanced-symbol-tricks-tips-for-adobe-xd"
+		},
 	{
 		"Title" : "Android",
 		"Tag" : "OS",
