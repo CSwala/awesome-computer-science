@@ -959,6 +959,45 @@ https://medium.com/@marinamakarova/26-tips-on-c-programming-61cb54900234<br><br>
 </details>
 
 <details>
+<summary>CakePHP</summary>
+<br>Category/Type - <br>PHP Framework<br>
+<br>Official Documentation - <br>
+https://book.cakephp.org/2/en/contributing/documentation.html<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=747K6W40ur0<br>
+https://www.youtube.com/watch?v=K19G1re5LlQ&list=PLT9miexWCpPXtHIZmS_Yn1IGpgcEoVqZr<br>
+https://www.youtube.com/watch?v=CHgjex_Grp4<br>
+https://www.youtube.com/watch?v=x31wZ71dPMQ<br>
+https://www.youtube.com/watch?v=5GDvAhfB6-Y&list=PLLo-6h61K2VodB-nC_UMZgruk1DrNVash<br>
+<br>Useful Websites - <br>
+https://www.tutorialspoint.com/cakephp/index.htm<br>
+https://www.guru99.com/cakephp-tutorial.html<br>
+https://www.eduonix.com/courses/Web-Development/Build-Web-Apps-with-PHP-Cake-Framework<br>
+https://cakephp.en.uptodown.com/windows<br>
+https://cakephp.org<br>
+<br>Dedicated Github page - <br>
+https://github.com/cakephp<br>
+https://github.com/cakephp/cakephp<br>
+https://github.com/FriendsOfCake/awesome-cakephp<br>
+https://github.com/cakephp/tutorials.cakephp.org<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/cakephp-3-advanced-techniques/<br>
+https://www.udemy.com/course/learn-to-build-web-apps-using-cake-php/<br>
+https://www.udemy.com/course/cakephp-complete-project/<br>
+https://training.cakephp.org<br>
+https://www.lynda.com/CakePHP-training-tutorials/1134-0.html<br>
+https://hackr.io/tutorials/learn-cakephp<br>
+<br>Other Tips / Hacks - <br>
+http://www.bestdevlist.com/tips-and-tricks-for-cakephp-developers/<br>
+https://www.toptal.com/cakephp/most-common-cakephp-mistakes<br>
+https://www.zenofcoding.com/2008/06/09/15-essential-cakephp-tips/<br>
+http://www.huntsvillepr.com/posts/cakephp-tips-and-tricks-936.html<br>
+https://skytechgeek.com/2017/05/tips-tricks-php-cake-developers/<br>
+https://www.cakephpexpert.com/blog/10-essential-tips-for-cakephp-development<br>
+<br>
+</details>
+
+<details>
  <summary>Chef</summary>
  <br>Category/Type - <br> Configuration management tool <br> 
  <br>Official Documentation - <br> https://docs.chef.io <br>
