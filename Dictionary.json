@@ -2015,6 +2015,43 @@
 		"Tips1" : "https://docs.oracle.com/en/cloud/saas/applications-common/20b/cgsac/groovy-tips-and-techniques.html#groovy-tips-and-techniques",
 		"Tips2" : "https://www.infoq.com/presentations/groovy-features/"
 	},
+	
+        {	
+	"Title" : "Hack",
+	"Tag": "Programming language",
+	"Documentation" : "https://docs.hhvm.com/hack/ ",
+	"YT1 " :"https://www.youtube.com/watch?v=eDz8IbGsVrc ",
+	"YT2 " :"https://www.youtube.com/watch?v=Q9gmHl_U0Tk ",
+	"YT3 " :"https://www.youtube.com/watch?v=_YUQ-x3c7-s ",
+	"YT4 " :"https://www.youtube.com/watch?v=aC8k5Zps4hM ",
+	"YT5 " :"https://www.youtube.com/watch?v=h7GsBMRd9PI ",
+	"YT6 " :"https://www.youtube.com/watch?v=gmCN76Mr_ms ",
+	"Website1": "https://engineering.fb.com/2014/03/20/developer-tools/hack-a-new-programming-language-for-hhvm/ ",
+	"Website2": "https://hacklang.org/ ",
+	"Website3": "https://www.sutori.com/story/hack-programming-language--QZUzZ4YCbkS96PeSPu6tTxjc ",
+	"Website4": "https://therenegadecoder.com/code/hello-world-in-hack/ ",
+	"Website5": "https://hhvm.com/blog/4223/introducing-hack-a-programming-language-for-hhvm ",
+	"Website6": "https://en.wikipedia.org/wiki/Hack_(programming_language) ",
+	"Dedicated GH page1" : "https://github.com/taueres/hacklang-examples ",
+	"Dedicated GH page2" : "https://github.com/hhvm/user-documentation ",
+	"Dedicated GH page3" : "https://github.com/hhvm/hack-codegen ",
+	"Dedicated GH page4" : "https://github.com/hhvm/hhast ",
+	"Dedicated GH page5" : "https://github.com/hhvm?language=hack ",
+	"Dedicated GH page6" : "https://github.com/facebook/hhvm/tree/master/hphp/hack ",
+	"Course1" : "https://www.oreilly.com/library/view/fluent-conference-2015/9781491927786/video213477.html ",
+	"Course2" : "https://learnxinyminutes.com/docs/hack/ ",
+	"Course3" : "https://docs.hhvm.com/hack/classes/introduction ",
+	"Course4" : "https://abhikmitra.github.io/blog/hack-php/ ",
+	"Tips1" : "https://nuclide.io/docs/languages/hack/ ",
+	"Tips2" : "https://masnun.com/2014/03/24/hhvm-hack-the-painless-way-to-get-started.html ",
+	"Tips3" : "https://heera.it/facebook-hack ",
+	"Tips4" : "http://jessesnet.com/development-notes/2014/hacklang-generics/ ",
+	"Tips5" : "https://hhvm.com/blog/713/hhvm-optimization-tips ",
+	"Image1":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hack_%28programming_language%29_logo.svg/686px-Hack_%28programming_language%29_logo.svg.png" 
+
+	},
+
+	
 	{
 		"Title" : "Haskell",
 		"Tag" : "Functional programming language",
