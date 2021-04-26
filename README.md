@@ -2959,7 +2959,7 @@ https://www.raywenderlich.com/19019328-xcode-tips-and-tricks <br>
 
 
 <details>
-<summary>IOT</summary>
+<summary>IoT</summary>
 <br>Category/Type - <br> Software<br>
 <br>Official Documentation - <br> https://cloud.google.com/iot/docs <br>
 <br>Best YouTube creators - <br>
