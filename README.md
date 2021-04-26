@@ -6500,6 +6500,64 @@ https://argonsys.com/microsoft-cloud/library/vagrant-and-hyper-v-tips-and-tricks
 </details>
 
 <details>
+<summary>Vala </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://valadoc.org/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=0R8gzwiR9sI <br>
+https://www.youtube.com/watch?v=TGyAhkcwXdU <br>
+https://www.youtube.com/watch?v=Eqa38B0GV6U <br>
+https://www.youtube.com/watch?v=7hEvXxiXUvE <br>
+https://www.youtube.com/watch?v=cvLKh4Fz_NA <br>
+https://www.youtube.com/watch?v=IiDOBe-tg_w <br>
+<br>
+Useful Websites -
+<br>
+https://wiki.gnome.org/Projects/Vala <br>
+https://www.reddit.com/r/vala/ <br>
+https://wiki.gnome.org/Projects/Vala/Examples <br>
+https://developer.gnome.org/gnome-devel-demos/stable/vala.html.en <br>
+https://dev.to/goober99/vala-deserves-a-closer-look-m56 <br>
+https://riptutorial.com/vala/topic/9319/functions <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/GNOME/vala <br>
+https://github.com/desiderantes/awesome-vala <br>
+https://github.com/GNOME/vala-extra-vapis <br>
+https://github.com/philippejer/vala-language-server-alpha <br>
+https://github.com/arteymix/compose <br>
+https://github.com/rainwoodman/libyaml-glib <br>
+https://github.com/rainwoodman/vast <br>
+https://github.com/valum-framework/valum <br>
+https://github.com/fusilero/balistica <br>
+<br>
+Best Courses - <br>
+https://developer.gnome.org/gnome-devel-demos/stable/beginner.vala.html.en <br>
+https://www.linuxlinks.com/excellent-free-tutorials-learn-vala/ <br>
+https://learnxinyminutes.com/docs/vala/ <br>
+https://qwikcourse.ru/c/learnvala <br>
+https://qwikcourse.in/c/learnvala <br>
+https://www.vala-project.org/doc/vala/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://stackoverflow.com/questions/2167393/vala-gotchas-tips-and-tricks <br>
+https://notesread.com/vala/ <br>
+https://arstechnica.com/information-technology/2007/09/vala-high-level-programming-with-less-fat/ <br>
+https://naaando.gitbooks.io/the-vala-tutorial/content/en/3-basics/syntax-overview.html <br>
+https://translatedby.com/you/vala-tutorial/original/ <br>
+https://wiki.gnome.org/Projects/Vala/Tutorial <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Vala_Logo.svg/1200px-Vala_Logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Vala_Logo.svg/1200px-Vala_Logo.svg.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Vanilla JS</summary>
 <br>
 Category/Type - <br>Framework <br>
