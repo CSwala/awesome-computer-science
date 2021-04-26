@@ -5758,6 +5758,53 @@ https://medium.com/@davekaj/solidity-tips-and-tricks-for-beginners-building-thei
 </details>
 
 <details>
+<summary>Spring Framework </summary>
+<br>
+Category/Type - <br>Application Development <br>
+<br>
+Official Documentation - <br>
+https://docs.spring.io/spring-framework/docs/current/reference/html/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=If1Lw4pLLEo <br>
+https://www.youtube.com/watch?v=VvGjZgqojMc<br>
+https://www.youtube.com/watch?v=KRMNTudb0AY&list=PL0zysOflRCekeiERASkpi-crREVensZGS <br>
+https://www.youtube.com/watch?v=MHoFSfXGX_A&list=PLw_k9CF7hBpJJsRWAhwSrDlWAzuMV0irl <br>
+https://www.youtube.com/watch?v=gq4S-ovWVlM <br>
+https://www.youtube.com/watch?v=vtPkZShrvXQ <br>
+<br>
+Useful Websites -
+<br>
+https://spring.io/projects/spring-framework <br>
+https://spring.io <br>
+https://www.tutorialspoint.com/spring/spring_overview.htm<br>
+https://www.javatpoint.com/spring-tutorial <br>
+https://www.geeksforgeeks.org/introduction-to-spring-framework/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/spring-projects/gh-pages <br>
+https://github.com/spring-io<br>
+https://github.com/spring-io/sagan <br>
+https://github.com/spring-projects/spring-framework <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/spring-tutorial-for-beginners/ <br>
+https://www.udemy.com/course/spring-framework-5-beginner-to-guru/ <br>
+https://www.udemy.com/course/java-spring-framework-masterclass/ <br>
+https://www.coursera.org/courses?query=spring%20framework <br>
+https://www.baeldung.com/learn-spring-course<br>
+<br>
+Other Tips / Hacks - <br>
+https://javarevisited.blogspot.com/2018/06/top-6-spring-framework-online-courses-Java-programmers.html <br>
+https://piotrminkowski.com/2021/01/13/spring-boot-tips-tricks-and-techniques/ <br>
+https://medium.com/priceline-labs/10-tips-for-working-with-core-spring-framework-22a7a1bb4d94<br>
+https://www.toptal.com/spring/top-10-most-common-spring-framework-mistakes <br>
+https://www.viralpatel.net/category/spring/ <br>
+https://springframework.guru/free-spring-framework-tutorials/ <br>
+<br>
+</details>
+
+<details>
 <summary>Stencyl </summary>
 <br>
 Category/Type - <br>Game Engine" <br>
