@@ -1,4 +1,4 @@
-[
+﻿[
 	{	
 		"Title" : ".NET",
 		"Tag" : "Programming Language",
@@ -569,6 +569,56 @@
 		"Tips4" : "https://www.mygreatlearning.com/blog/aws-certification-roadmap",
 		"Tips5" : "https://tutorialsdojo.com/aws-cheat-sheets/",
 		"Tips6" : "https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/aws-cheat-sheet"
+	},
+	{
+		"Title" : "Azure",
+		"Tag" : "Cloud Computing Service",
+		"Documentation" : "https://docs.microsoft.com/en-us/azure/",
+		"YT1 " : "https://www.youtube.com/watch?v=tDuruX7XSac",
+		"YT2 " : "https://www.youtube.com/watch?v=0bNFkI_0jhc",
+		"YT3 " : "https://www.youtube.com/watch?v=wdUK7bCMXqs",
+		"YT4 " : "https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM",
+		"YT5 " : "https://www.youtube.com/watch?v=0bPJPiX89K0",
+		"YT6 " : "https://www.youtube.com/watch?v=EeQILt8jLt8", 
+		"YT7 " : "https://www.youtube.com/watch?v=R1sZNw-lb6Q",
+		"YT8 " : "https://www.youtube.com/watch?v=Mt2WSly9qBI",
+		"YT9 " : "https://www.youtube.com/watch?v=2CLcw-PXXa4",
+		"YT10 " : "https://www.youtube.com/watch?v=1QE1-1Djubo",
+		"Website1" : "https://azure.microsoft.com/en-in/",
+		"Website2" : "https://en.wikipedia.org/wiki/Microsoft_Azure",
+		"Website3" : "https://searchcloudcomputing.techtarget.com/definition/Windows-Azure",
+		"Website4" : "https://www.parkmycloud.com/blog/free-azure-training/",
+		"Website5" : "https://www.w3schools.in/microsoft-cloud-services/",
+		"Website6" : "https://www.tutorialspoint.com/microsoft_azure/index.htm",
+		"Website7" : "https://www.guru99.com/microsoft-azure-tutorial.html",
+		"Website8" : "https://azure.microsoft.com/en-in/get-started/",
+		"Dedicated GH page1" : "https://github.com/Azure",
+		"Dedicated GH page2" : "https://github.com/MicrosoftDocs/azure-docs",
+		"Dedicated GH page3" : "https://github.com/Azure/azure-cli",
+		"Dedicated GH page4" : "https://github.com/Azure/azure.github.io",
+		"Dedicated GH page5" : "https://azure.microsoft.com/en-in/services/devops/repos/",
+		"Dedicated GH page6" : "https://microsoft.github.io/AzureTipsAndTricks/blog/tip16.html",
+		"Course1" : "https://docs.microsoft.com/en-us/learn/azure/",
+		"Course2" : "https://www.udemy.com/topic/microsoft-azure/",
+		"Course3" : "https://acloudguru.com/azure-cloud-training",
+		"Course4" : "https://cloudacademy.com/library/azure/",
+		"Course5" : "https://www.edx.org/learn/azure",
+		"Course6" : "https://www.coursera.org/learn/cloud-azure-intro",
+		"Course7" : "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwipje_g8ZnwAhXSZIsKHTnbDGoYABADGgJ0bQ&ae=2&ohost=www.google.com&cid=CAESQeD28vzsE2xtMbkJzHkeTvKcJ6Z9Ahrpy45Uq9K84e2qh7dcKhPM3kzBDOEaFTFxyQx5RQWD6Scb-0xhUZvnHyBq&sig=AOD64_2FHMyhCG3gHoUAvLjTalDtHwJ6dQ&q&adurl&ved=2ahUKEwjbmebg8ZnwAhUozjgGHYA-AsMQ0Qx6BAgEEAE",
+		"Course8" : "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwipje_g8ZnwAhXSZIsKHTnbDGoYABABGgJ0bQ&ohost=www.google.com&cid=CAESQeD28vzsE2xtMbkJzHkeTvKcJ6Z9Ahrpy45Uq9K84e2qh7dcKhPM3kzBDOEaFTFxyQx5RQWD6Scb-0xhUZvnHyBq&sig=AOD64_0mxkDAADgZBg3c7zyXUztkiReDbQ&q&adurl&ved=2ahUKEwjbmebg8ZnwAhUozjgGHYA-AsMQ0Qx6BAgDEAE",
+		"Course9" : "https://www.lynda.com/Azure-training-tutorials/1700-0.html",
+		"Course10" : "https://hackr.io/tutorials/learn-microsoft-azure",
+		"Course11" : "https://www.cloudinspired.com/azure-free-training-free-200-video-courses/",
+		"Tips1" : "https://microsoft.github.io/AzureTipsAndTricks/",
+		"Tips2" : "https://azure.microsoft.com/en-in/blog/azure-tips-and-tricks-become-more-productive-with-azure/",
+		"Tips3" : "https://gregorsuttie.com/2020/05/07/azure-tips-n-tricks/",
+		"Tips4" : "https://dailydotnettips.com/azure-portal-tips-tricks/",
+		"Tips5" : "https://azure.microsoft.com/pt-br/blog/azure-tips-and-tricks-become-more-productive-with-azure/#:~:text=Featuring%20a%20new%20weekly%20tip,Azure%20Tips%20and%20Tricks%20homepage.",
+		"Tips6" : "http://download.microsoft.com/download/5/E/1/5E123D98-0C5A-49B2-BE50-13D8C0984988/Azure_Tips_and_Tricks_EN_US.pdf",
+		"Tips7" : "https://cswsolutions.com/blog/posts/2020/january/learning-azure-in-2020-resources-tips-and-guides/",
+		"Tips8" : "https://channel9.msdn.com/Shows/Azure-Friday/Improve-your-productivity-with-Azure-Tips-and-Tricks",
+		"Tips9" : "https://stackify.com/azure-portal-tips/",
+		"Image1" : "https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png"
 	},
 	{
 		"Title" : "Big Data",
@@ -2916,10 +2966,14 @@
 		"YT2 " : "https://www.youtube.com/channel/UCNYJACuYKQlScmTuyIe8J0g",
 		"YT3 " : "https://www.youtube.com/channel/UCEaVN5-XCvLgJOFAR_VOIoQ",
 		"YT4 " : "https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA",
+		"YT5 " : "https://www.youtube.com/playlist?list=PL60D54836FB8893F0",
+		"YT6 " : "https://www.youtube.com/watch?v=5A9sEaEt3Z4&list=PLcgIaTuuWp3kWI8d1C1wZDl0SfQDxm-CK",
+		"YT7 " : "https://www.youtube.com/watch?v=IuEOMyGuuIg&list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN",
 		"Website1" : "https://matlabacademy.mathworks.com/?s_tid=ac_ml_tut_til",
 		"Website2" : "https://nhigham.com/matlab-guide/",
 		"Website3" : "https://engineerexperiences.com/category/matlab",
 		"Website4" : "https://blogs.mathworks.com/videos/",
+		"Website5" : "https://medium.com/mathworks",
 		"Dedicated GH page1" : "https://github.com/mathworks",
 		"Dedicated GH page2" : "https://github.com/topics/matlab-codes",
 		"Dedicated GH page3" : "https://github.com/VivekKrG/MATLAB-projects-and-Assignments",
@@ -2929,10 +2983,19 @@
 		"Course2" : "https://www.udemy.com/course/matlab-essentials-for-engineering-and-science-students/",
 		"Course3" : "https://www.coursera.org/learn/matlab",
 		"Course4" : "https://www.linkedin.com/learning/learning-matlab-2/welcome",
+		"Course5" : " https://www.coursera.org/learn/advanced-matlab-programming",
+		"Course6" : "https://www.edx.org/course/matlab-and-octave-for-beginners",
+		"Course7" : "https://www.udemy.com/course/the-complete-matlab-mastery-course-for-beginners/",
+		"Course8" : "https://www.udemy.com/course/matlab_simulink-for-power-system-simulations/",
+		"Course9" : "https://www.udemy.com/course/matlab-the-need-to-know-basics/",
 		"Tips1" : "https://in.mathworks.com/videos/matlab-and-simulink-racing-lounge-how-to-make-your-matlab-experience-more-productive-99548.html",
 		"Tips2" : "https://www.ee.columbia.edu/~marios/matlab/GUIwithMatlab.pdf",
 		"Tips3" : "https://www.ee.columbia.edu/~marios/matlab/Writing_Fast_MATLAB_Code.pdf",	
-		"Tips4" : "https://www.ee.columbia.edu/~marios/matlab/Matlab%20array%20manipulation%20tips%20and%20tricks.pdf",	
+		"Tips4" : "https://www.ee.columbia.edu/~marios/matlab/Matlab%20array%20manipulation%20tips%20and%20tricks.pdf",
+		"Tips5" : "https://medium.com/@srishtisaha/matlab-my-learning-journey-and-some-tips-3c953b7e393a",
+		"Tips6" : "https://web.stanford.edu/class/cme001/handouts/matlab.pdf",
+		"Tips7" : "https://www.mccormick.northwestern.edu/documents/students/undergraduate/introduction-to-matlab.pdf",
+		"Tips8" : "https://medium.com/@info_76575/what-are-the-best-sources-to-learn-matlab-programming-language-for-beginners-e3b817888cfc",
 		"Image1" : "https://user-images.githubusercontent.com/68437435/113461750-80cf9080-943b-11eb-88c5-74067ca42376.jpg" 
     },
 	{
@@ -3074,6 +3137,7 @@
 	"Tips6" : "https://smlhelp.github.io/book/types/bool.html ",
 	"Tips7" : "https://www.youtube.com/watch?v=GYedTnX9vJQ "
 	},
+
     {
 		"Title": "Meteor",
 		"Tag": "JavaScript Framework",
@@ -3108,6 +3172,7 @@
 		"Tips4": "https://blog.zipboard.co/cfs-tips-and-tricks-for-meteorjs-d6a9f4e9ba43",
 		"Tips5": "https://til.codes/meteor-js-best-practices-and-techniques/"
 	},
+
 
 	{
 		"Title" : "Modo",
@@ -4644,6 +4709,37 @@
 		"Image1" : "https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png"
 	},
 	{
+		"Title" : "Spring Framework",
+		"Tag" : "Application Development",
+		"Documentation" : "https://docs.spring.io/spring-framework/docs/current/reference/html/ ",
+		"YT1 " : "https://www.youtube.com/watch?v=If1Lw4pLLEo ",
+		"YT2 " : "https://www.youtube.com/watch?v=VvGjZgqojMc",
+		"YT3 " : "https://www.youtube.com/watch?v=KRMNTudb0AY&list=PL0zysOflRCekeiERASkpi-crREVensZGS ",
+		"YT4 " : "https://www.youtube.com/watch?v=MHoFSfXGX_A&list=PLw_k9CF7hBpJJsRWAhwSrDlWAzuMV0irl ",
+		"YT5 " : "https://www.youtube.com/watch?v=gq4S-ovWVlM ",
+		"YT6 " : "https://www.youtube.com/watch?v=vtPkZShrvXQ ",
+		"Website1" : "https://spring.io/projects/spring-framework ",
+		"Website2" : "https://spring.io ",
+		"Website3" : "https://www.tutorialspoint.com/spring/spring_overview.htm ",
+		"Website4" : "https://www.javatpoint.com/spring-tutorial ",
+		"Website5" : "https://www.geeksforgeeks.org/introduction-to-spring-framework/ ",
+		"Dedicated GH page1" : "https://github.com/spring-projects/gh-pages ",
+		"Dedicated GH page2" : "https://github.com/spring-io ",
+		"Dedicated GH page3" : "https://github.com/spring-io/sagan",
+		"Dedicated GH page4" : "https://github.com/spring-projects/spring-framework ",
+		"Course1" : "https://www.udemy.com/course/spring-tutorial-for-beginners/ ",
+		"Course2" : "https://www.udemy.com/course/spring-framework-5-beginner-to-guru/ ",
+		"Course3" : "https://www.udemy.com/course/java-spring-framework-masterclass/ ",
+		"Course4" : "https://www.coursera.org/courses?query=spring%20framework ",
+		"Course5" : "https://www.baeldung.com/learn-spring-course ",
+		"Tips1" : "https://javarevisited.blogspot.com/2018/06/top-6-spring-framework-online-courses-Java-programmers.html ",
+		"Tips2" : "https://piotrminkowski.com/2021/01/13/spring-boot-tips-tricks-and-techniques/ ",
+		"Tips3" : "https://medium.com/priceline-labs/10-tips-for-working-with-core-spring-framework-22a7a1bb4d94 ",
+		"Tips4" : "https://www.toptal.com/spring/top-10-most-common-spring-framework-mistakes ",
+		"Tips5" : "https://www.viralpatel.net/category/spring/ ",
+		"Tips6" : "https://springframework.guru/free-spring-framework-tutorials/ "
+	},
+	{
 		"Title" : "Stencyl",
 		"Tag" : "Game Engine",
 		"Documentation" : "http://www.stencyl.com/help/ ",
@@ -5401,6 +5497,7 @@
 		"Image1" : "https://s.w.org/style/images/about/WordPress-logotype-standard.png"
 	},
 	{
+
 		"Title": "Xamarin",
 		"Tag": "Software",
 		"Documentation": "https://docs.microsoft.com/en-us/xamarin/",
@@ -5436,6 +5533,7 @@
 		"Tips5": "https://www.slideshare.net/rid00z/10-awesome-xamarinforms-tips-tricks-52954064"
 	},
 	{
+
 		"Title" : "YII Framework",
 		"Tag" : "PHP Framework",
 		"Documentation" : "https://www.yiiframework.com/doc/api",

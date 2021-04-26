@@ -696,6 +696,27 @@ https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/aws-cheat
 </details>
 
 <details>
+<summary>Azure</summary>
+<br>Category/Type - <br>Cloud Computing Service<br>
+<br>Official Documentation - <br>
+https://docs.microsoft.com/en-us/azure/<br>
+<br>Best YouTube creators - <br> https://www.youtube.com/watch?v=tDuruX7XSac <br> https://www.youtube.com/watch?v=0bNFkI_0jhc <br>
+https://www.youtube.com/watch?v=wdUK7bCMXqs <br> https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM <br> https://www.youtube.com/watch?v=0bPJPiX89K0 <br> https://www.youtube.com/watch?v=EeQILt8jLt8 <br> https://www.youtube.com/watch?v=R1sZNw-lb6Q <br> https://www.youtube.com/watch?v=Mt2WSly9qBI <br> https://www.youtube.com/watch?v=2CLcw-PXXa4 <br> https://www.youtube.com/watch?v=1QE1-1Djubo <br> 
+<br>Useful Websites - <br> https://azure.microsoft.com/en-in/ <br> 
+https://en.wikipedia.org/wiki/Microsoft_Azure <br> https://searchcloudcomputing.techtarget.com/definition/Windows-Azure <br> https://www.parkmycloud.com/blog/free-azure-training/ <br> https://www.w3schools.in/microsoft-cloud-services/ <br> https://www.tutorialspoint.com/microsoft_azure/index.htm <br> https://www.guru99.com/microsoft-azure-tutorial.html <br> https://azure.microsoft.com/en-in/get-started/ <br>
+<br>Dedicated Github page - <br> https://github.com/Azure <br> https://github.com/MicrosoftDocs/azure-docs <br> https://github.com/Azure/azure-cli <br> https://github.com/Azure/azure.github.io <br> https://azure.microsoft.com/en-in/services/devops/repos/ <br> https://microsoft.github.io/AzureTipsAndTricks/blog/tip16.html <br>
+<br>Best Courses - <br> https://docs.microsoft.com/en-us/learn/azure/ <br> https://www.udemy.com/topic/microsoft-azure/ <br>
+https://acloudguru.com/azure-cloud-training <br> https://cloudacademy.com/library/azure/ <br> https://www.edx.org/learn/azure <br> https://www.coursera.org/learn/cloud-azure-intro <br> https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwipje_g8ZnwAhXSZIsKHTnbDGoYABADGgJ0bQ&ae=2&ohost=www.google.com&cid=CAESQeD28vzsE2xtMbkJzHkeTvKcJ6Z9Ahrpy45Uq9K84e2qh7dcKhPM3kzBDOEaFTFxyQx5RQWD6Scb-0xhUZvnHyBq&sig=AOD64_2FHMyhCG3gHoUAvLjTalDtHwJ6dQ&q&adurl&ved=2ahUKEwjbmebg8ZnwAhUozjgGHYA-AsMQ0Qx6BAgEEAE <br> https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwipje_g8ZnwAhXSZIsKHTnbDGoYABABGgJ0bQ&ohost=www.google.com&cid=CAESQeD28vzsE2xtMbkJzHkeTvKcJ6Z9Ahrpy45Uq9K84e2qh7dcKhPM3kzBDOEaFTFxyQx5RQWD6Scb-0xhUZvnHyBq&sig=AOD64_0mxkDAADgZBg3c7zyXUztkiReDbQ&q&adurl&ved=2ahUKEwjbmebg8ZnwAhUozjgGHYA-AsMQ0Qx6BAgDEAE <br> https://www.lynda.com/Azure-training-tutorials/1700-0.html <br> https://hackr.io/tutorials/learn-microsoft-azure <br>
+https://www.cloudinspired.com/azure-free-training-free-200-video-courses/ <br>
+<br>Other Tips / Hacks - <br> https://microsoft.github.io/AzureTipsAndTricks/ <br> https://azure.microsoft.com/en-in/blog/azure-tips-and-tricks-become-more-productive-with-azure/ <br>
+https://gregorsuttie.com/2020/05/07/azure-tips-n-tricks/ <br> https://dailydotnettips.com/azure-portal-tips-tricks/ <br> https://azure.microsoft.com/pt-br/blog/azure-tips-and-tricks-become-more-productive-with-azure/#:~:text=Featuring%20a%20new%20weekly%20tip,Azure%20Tips%20and%20Tricks%20homepage. <br> http://download.microsoft.com/download/5/E/1/5E123D98-0C5A-49B2-BE50-13D8C0984988/Azure_Tips_and_Tricks_EN_US.pdf <br> https://cswsolutions.com/blog/posts/2020/january/learning-azure-in-2020-resources-tips-and-guides/ <br> https://channel9.msdn.com/Shows/Azure-Friday/Improve-your-productivity-with-Azure-Tips-and-Tricks <br> https://stackify.com/azure-portal-tips/ <br> <br>
+<a href="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
+  <img align="center" src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Big Data</summary>
 <br>Category/Type - <br>Data Analytics<br>
 <br>Official Documentation - <br>
@@ -3544,11 +3565,15 @@ https://www.youtube.com/user/MATLAB<br>
 https://www.youtube.com/channel/UCNYJACuYKQlScmTuyIe8J0g<br>
 https://www.youtube.com/channel/UCEaVN5-XCvLgJOFAR_VOIoQ<br>
 https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA<br>
+https://www.youtube.com/playlist?list=PL60D54836FB8893F0<br>
+https://www.youtube.com/watch?v=5A9sEaEt3Z4&list=PLcgIaTuuWp3kWI8d1C1wZDl0SfQDxm-CK<br>
+https://www.youtube.com/watch?v=IuEOMyGuuIg&list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN<br>
 <br>Useful Websites - <br>
 https://matlabacademy.mathworks.com/?s_tid=ac_ml_tut_til<br>
 https://nhigham.com/matlab-guide/<br>
 https://engineerexperiences.com/category/matlab<br>
 https://blogs.mathworks.com/videos/<br>
+https://medium.com/mathworks<br>
 <br>Dedicated Github page - <br>
 https://github.com/mathworks<br>
 https://github.com/topics/matlab-codes <br>
@@ -3560,11 +3585,20 @@ https://matlabacademy.mathworks.com/<br>
 https://www.udemy.com/course/matlab-essentials-for-engineering-and-science-students/<br>
 https://www.coursera.org/learn/matlab<br>
 https://www.linkedin.com/learning/learning-matlab-2/welcome<br>
+https://www.coursera.org/learn/advanced-matlab-programming<br>
+https://www.edx.org/course/matlab-and-octave-for-beginners<br>
+https://www.udemy.com/course/the-complete-matlab-mastery-course-for-beginners/<br>
+https://www.udemy.com/course/matlab_simulink-for-power-system-simulations/<br>
+https://www.udemy.com/course/matlab-the-need-to-know-basics/<br>
 <br>Other Tips / Hacks - <br>
 https://in.mathworks.com/videos/matlab-and-simulink-racing-lounge-how-to-make-your-matlab-experience-more-productive-99548.html<br>
 https://www.ee.columbia.edu/~marios/matlab/GUIwithMatlab.pdf<br>
 https://www.ee.columbia.edu/~marios/matlab/Writing_Fast_MATLAB_Code.pdf<br>
-https://www.ee.columbia.edu/~marios/matlab/Matlab%20array%20manipulation%20tips%20and%20tricks.pdf<br><br>
+https://www.ee.columbia.edu/~marios/matlab/Matlab%20array%20manipulation%20tips%20and%20tricks.pdf<br>
+https://medium.com/@srishtisaha/matlab-my-learning-journey-and-some-tips-3c953b7e393a<br>
+https://web.stanford.edu/class/cme001/handouts/matlab.pdf<br>
+https://www.mccormick.northwestern.edu/documents/students/undergraduate/introduction-to-matlab.pdf<br>
+https://medium.com/@info_76575/what-are-the-best-sources-to-learn-matlab-programming-language-for-beginners-e3b817888cfc<br><br>
 <a href="https://in.mathworks.com/matlabcentral/answers/228557-experts-of-matlab-how-did-you-learn-any-advice-for-beginner-intermediate-users">
   <img align="center" src="https://user-images.githubusercontent.com/68437435/113461750-80cf9080-943b-11eb-88c5-74067ca42376.jpg" width="300" height="200"/>
 </a>
@@ -5805,6 +5839,53 @@ https://medium.com/@davekaj/solidity-tips-and-tricks-for-beginners-building-thei
   <img align="center" src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png" width="900" height="500"/>
 </a>
 <br><br><br>
+</details>
+
+<details>
+<summary>Spring Framework </summary>
+<br>
+Category/Type - <br>Application Development <br>
+<br>
+Official Documentation - <br>
+https://docs.spring.io/spring-framework/docs/current/reference/html/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=If1Lw4pLLEo <br>
+https://www.youtube.com/watch?v=VvGjZgqojMc<br>
+https://www.youtube.com/watch?v=KRMNTudb0AY&list=PL0zysOflRCekeiERASkpi-crREVensZGS <br>
+https://www.youtube.com/watch?v=MHoFSfXGX_A&list=PLw_k9CF7hBpJJsRWAhwSrDlWAzuMV0irl <br>
+https://www.youtube.com/watch?v=gq4S-ovWVlM <br>
+https://www.youtube.com/watch?v=vtPkZShrvXQ <br>
+<br>
+Useful Websites -
+<br>
+https://spring.io/projects/spring-framework <br>
+https://spring.io <br>
+https://www.tutorialspoint.com/spring/spring_overview.htm<br>
+https://www.javatpoint.com/spring-tutorial <br>
+https://www.geeksforgeeks.org/introduction-to-spring-framework/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/spring-projects/gh-pages <br>
+https://github.com/spring-io<br>
+https://github.com/spring-io/sagan <br>
+https://github.com/spring-projects/spring-framework <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/spring-tutorial-for-beginners/ <br>
+https://www.udemy.com/course/spring-framework-5-beginner-to-guru/ <br>
+https://www.udemy.com/course/java-spring-framework-masterclass/ <br>
+https://www.coursera.org/courses?query=spring%20framework <br>
+https://www.baeldung.com/learn-spring-course<br>
+<br>
+Other Tips / Hacks - <br>
+https://javarevisited.blogspot.com/2018/06/top-6-spring-framework-online-courses-Java-programmers.html <br>
+https://piotrminkowski.com/2021/01/13/spring-boot-tips-tricks-and-techniques/ <br>
+https://medium.com/priceline-labs/10-tips-for-working-with-core-spring-framework-22a7a1bb4d94<br>
+https://www.toptal.com/spring/top-10-most-common-spring-framework-mistakes <br>
+https://www.viralpatel.net/category/spring/ <br>
+https://springframework.guru/free-spring-framework-tutorials/ <br>
+<br>
 </details>
 
 <details>
