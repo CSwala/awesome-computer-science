@@ -2957,6 +2957,56 @@ https://www.raywenderlich.com/19019328-xcode-tips-and-tricks <br>
 <br><br><br>
 </details>
 
+
+<details>
+<summary>IOT</summary>
+<br>Category/Type - <br> Software<br>
+<br>Official Documentation - <br> https://cloud.google.com/iot/docs <br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=6mBO2vqLv38 <br>
+https://www.youtube.com/watch?v=h0gWfVCSGQQ <br>
+https://www.youtube.com/watch?v=b7GC4Zr74M0 <br>
+https://www.youtube.com/watch?v=APH6Nrar27w <br>
+https://www.youtube.com/watch?v=mZ24zRRzlsI <br>
+https://www.youtube.com/watch?v=OVOzj0-fr80&list=PLunlGNVWDAabBuzMTn3kh6XpFss7fNksp <br>
+		
+<br>Useful Websites - <br>
+https://www.edureka.co/blog/iot-tutorial/ <br>
+https://www.guru99.com/iot-tutorial.html <br>
+https://www.tutorialspoint.com/internet_of_things/index.htm <br>
+https://www.javatpoint.com/iot-internet-of-things <br>
+https://www.gangboard.com/blog/iot-tutorial <br>
+https://data-flair.training/blogs/iot-tutorial/ <br>
+http://www.steves-internet-guide.com/internet-of-things/ <br>
+https://mindmajix.com/iot-tutorial <br>
+
+<br>Dedicated Github page - <br> 
+https://github.com/ibm-watson-iot/iot-python <br>
+https://github.com/ibm-watson-iot/iot-nodejs <br>
+https://github.com/ibm-watson-iot/functions <br>
+https://github.com/ibm-watson-iot/iot-java <br>
+https://github.com/ibm-watson-iot/gateway-hue <br>
+https://github.com/ibm-watson-iot/iot-c <br>
+
+<br>Best Courses - <br>
+https://www.udemy.com/course/complete-guide-to-build-iot-things-from-scratch-to-market/ <br>
+https://www.udemy.com/course/exploring-aws-iot/ <br>
+https://www.udemy.com/course/internet-of-things-business-impact/ <br>
+https://www.coursera.org/specializations/iot <br>
+https://www.coursera.org/learn/iiot-google-cloud-platform <br>
+https://www.coursera.org/specializations/emerging-technologies <br>
+
+<br>Other Tips / Hacks - <br> 
+https://blog.knoldus.com/how-to-successfully-develop-iot-applications/ <br>
+https://www.techrepublic.com/article/how-to-become-an-iot-developer-6-tips/ <br>
+https://iotbusinessnews.com/2020/07/13/02098-5-key-tips-to-keep-your-iot-internet-of-things-network-at-home-private-and-secure/ <br>
+https://www.embedded.com/embedded-iot-design-tips-tricks-and-tutorials/ <br>
+https://steadynetworks.com/tips-and-tricks-for-avoiding-iot-threats/ <br>
+ 
+<br><br>
+
+</details>
+
 <details>
 <summary>Java</summary>
 <br>Category/Type - <br>
