@@ -1738,21 +1738,39 @@
 	},
 	{
 		"Title": "Linux",
+		
 		"Tag": " Operating System",
+		
 		"Documentation": " https://www.linux.org/ ",
+		
 		"YT1 ": "https://www.youtube.com/watch?v=V1y-mbWM3B8 ",
-		"YT2 ": "https://www.youtube.com/watch?v=_tCY-c-sPZc ",
-		"YT3 ": "https://www.youtube.com/watch?v=4ZHvZge1Lsw ",
-		"YT4 ": "https://www.youtube.com/watch?v=Wgi-OfbP2Gw ",
+		"YT2 ": "https://www.youtube.com/watch?v=x-3TBVtM0-Y ",
+		"YT3 ": "https://www.youtube.com/watch?v=_tCY-c-sPZc ",
+		"YT4 ": "https://www.youtube.com/watch?v=4ZHvZge1Lsw ",
+		"YT5 ": "https://www.youtube.com/watch?v=a2qblT7o4mE ",
+		"YT6 ": "https://www.youtube.com/watch?v=Wgi-OfbP2Gw ",
+		
 		"Website1": "https://www.w3schools.in/operating-system-tutorial/linux-operating-system/ ",
-		"Website2": "https://www.javatpoint.com/linux-tutorial ",
-		"Website3": "https://www.tutorialspoint.com/unix/index.html  ",
+		"Website2": "http://www.linuxfromscratch.org/ ",
+		"Website3": "https://coderscat.com/how-to-learn-linux/",
+		"Website4": "https://www.javatpoint.com/linux-tutorial ",
+		"Website5": "https://www.tutorialspoint.com/unix/index.html  ",
+		
 		"Dedicated GH page1": "https://github.com/torvalds/linux   ",
 		"Dedicated GH page2": "https://github.com/raspberrypi/linux   ",
 		"Dedicated GH page3": "https://github.com/digi-embedded/linux ",
                 "Dedicated GH page4": "https://github.com/gregkh/linux ",
+		
 		"Course1": "https://www.udemy.com/course/learn-linux-in-5-days/ ",
 		"Course2": "https://www.udemy.com/course/linux-command-line-volume1/ ",
+		"Course3": "https://www.udemy.com/course/linux-mastery/ ",
+		"Course4": "https://www.udemy.com/course/linuxforbeginners/ ",
+		
+	        "Some Other Tips / Hacks 1":"https://developer.ibm.com/technologies/linux/tutorials/l-lpic1-map/",
+		"Some Other Tips / Hacks 2":"https://access.redhat.com/sites/default/files/attachments/ron_pachecov2.pdf",
+		"Some Other Tips / Hacks 3":"https://www.educba.com/careers-in-linux/",
+		"Some Other Tips / Hacks 4":"http://www.linuxfromscratch.org/",
+		"Some Other Tips / Hacks 5":"https://www.cyberciti.biz/open-source/command-line-hacks/20-unix-command-line-tricks-part-i/",
 		
 	},	
 	{
