@@ -199,6 +199,43 @@ https://blog.ippon.tech/ansible-tips-and-tricks/ <br> https://docs.ansible.com/a
 </details>
 
 <details>
+ <summary>Apache Cordova</summary>
+ <br>Category/Type - <br> Mobile Application Development Framework <br>
+ <br>Official Documentation - <br> https://cordova.apache.org/docs/en/10.x/<br>
+ <br>Best YouTube creators - <br> 
+ https://www.youtube.com/watch?v=-JxciEQ1YnQ <br> 
+ https://youtube.com/playlist?list=PLyuRouwmQCjkLnfGRHMosenaxPq9PqH0n<br> 
+ https://youtube.com/playlist?list=PLbibGb3ou-BARw6kqdLy8IEMBka7H1uC4 <br>
+ https://www.youtube.com/watch?v=45Q63QHfiAA<br>
+ https://www.youtube.com/watch?v=_0BqxJ3eB0k <br> 
+ <br>Useful Websites - <br> 
+ https://cordova.apache.org/ <br> 
+ https://www.javatpoint.com/apache-cordova<br> 
+ https://www.geeksforgeeks.org/what-is-apache-cordova/ <br>
+ https://www.tutorialspoint.com/cordova/index.htm <br> 
+ https://www.toptal.com/mobile/developing-mobile-applications-with-apache-cordova<br>
+ https://www.studytonight.com/apache-cordova/<br>
+ <br>Dedicated Github page - <br> 
+ https://github.com/apache/cordova<br> 
+ https://github.com/apache/cordova-cli <br>
+ https://ccoenraets.github.io/cordova-tutorial/ <br> 
+ https://github.com/cfjedimaster/Cordova-Examples<br> 
+ <br>Best Courses - <br> 
+ https://www.udemy.com/course/apache-cordova-fundamentals/<br> 
+ https://www.webagesolutions.com/courses/apache-cordova-training<br>
+ https://www.cognixia.com/course/cordova <br> 
+ https://www.software-skills-training.com/Courses/apache-cordova-training.htm <br> 
+ https://www.linkedin.com/learning/learning-apache-cordova <br>
+ <br>Other Tips / Hacks - <br> 
+ https://blog.mayflower.de/5688-Ten-tips-for-frictionless-development-with-Apache-Cordova.html<br> 
+ https://anarsolutions.com/cordova-tips-and-tricks/ <br>
+ https://docs.microsoft.com/en-us/visualstudio/cross-platform/tools-for-cordova/tips-workarounds/performance-tips <br> 
+ https://www.developer.com/lang/six-tips-for-more-responsive-cordova-apps.html <br>
+ https://aptude.com/blog/entry/7-tips-and-tricks-for-developing-hybrid-mobile-apps-with-the-ionic-framework/ <br>
+ <br>
+ </details>
+
+<details>
  <summary>Apache Hadoop</summary>
  <br>Category/Type - <br> Distributed storage and processing of big data <br>
  <br>Official Documentation - <br> http://hadoop.apache.org/docs/current/ <br>
@@ -1677,6 +1714,76 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
 </details>
 
 <details>
+<summary>ECMAScript </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://262.ecma-international.org/5.1/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=IEf1KAcK6A8 <br>
+https://www.youtube.com/watch?v=Jakoi0G8lBg <br>
+https://www.youtube.com/watch?v=ZJZfIw3P8No <br>
+https://www.youtube.com/watch?v=Iek4DtRobLA <br>
+https://www.youtube.com/watch?v=ma8vnKXuqRQ <br>
+https://www.youtube.com/watch?v=WZQc7RUAg18 <br>
+https://www.youtube.com/watch?v=TscMCI6do2I <br>
+https://www.youtube.com/watch?v=0Mp2kwE8xY0 <br>
+https://www.youtube.com/watch?v=JVKFTS9duIo <br>
+<br>
+Useful Websites -
+<br>
+https://www.ecma-international.org/publications-and-standards/standards/ecma-262/ <br>
+https://www.reddit.com/r/learnjavascript/comments/7g6g61/eli5_ecmascript/ <br>
+https://www.freecodecamp.org/news/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e/ <br>
+http://es6-features.org/#Constants <br>
+https://www.javascripttutorial.net/es6/setting-es6-project-using-babel/ <br>
+http://ccoenraets.github.io/es6-tutorial-data/project-setup/ <br>
+https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/es6-modules <br>
+https://ccoenraets.github.io/es6-tutorial/arrow-functions/#:~:text=The%20ECMAScript%206%20arrow%20function,track%20of%20the%20current%20scope. <br>
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/jonataswalker/es6-sample-project <br>
+https://github.com/rse/es6-features <br>
+https://github.com/tc39/test262 <br>
+https://github.com/tc39/agendas <br>
+https://github.com/tc39/notes <br>
+https://github.com/tyrchen/awesome-es6 <br>
+https://github.com/babel/babel <br>
+https://github.com/google/traceur-compiler <br>
+https://github.com/babel/babelify <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/ecmascript-2016-and-beyond/ <br>
+https://www.udemy.com/course/leveling-up-to-es6/ <br>
+https://www.udemy.com/course/es6-es7-and-es8-its-time-to-update-your-javascript/ <br>
+https://www.udemy.com/course/complete-javascript-es6-course/ <br>
+https://www.udemy.com/course/the-complete-javascript-es6-course/ <br>
+https://www.udacity.com/course/es6-javascript-improved--ud356 <br>
+https://www.pluralsight.com/courses/javascript-fundamentals-es6 <br>
+https://egghead.io/courses/learn-es6-ecmascript-2015 <br>
+https://www.udemy.com/course/modern-javascript-mastering-es6/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.benmvp.com/blog/learning-es6-12-tricks-for-es6-fun/ <br>
+https://www.freecodecamp.org/news/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c/ <br>
+https://www.freecodecamp.org/news/check-out-these-useful-ecmascript-2015-es6-tips-and-tricks-6db105590377/ <br>
+https://tkssharma.com/common-hacks-in-es6-es7-javascript/ <br>
+https://medium.com/dailyjs/7-hacks-for-es6-developers-4e24ff425d0b <br>
+https://medium.com/@bretcameron/12-javascript-tricks-you-wont-find-in-most-tutorials-a9c9331f169d <br>
+https://2ality.com/2016/05/six-nifty-es6-tricks.html <br>
+https://css-tricks.com/all-the-new-es2019-tips-and-tricks/ <br>
+https://levelup.gitconnected.com/ultimate-guide-to-tips-tricks-and-javascript-features-you-should-know-27e0a4a6ffdf <br>
+<br>
+<a href="https://i.pinimg.com/originals/b5/57/64/b55764416830e7d8b0133c7c0eeaf445.png">
+  <img align="center" src="https://i.pinimg.com/originals/b5/57/64/b55764416830e7d8b0133c7c0eeaf445.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
  <summary>Elasticsearch</summary>
  <br>Category/Type - <br> Database <br>
  <br>Official Documentation - <br> https://www.elastic.co/guide/index.html <br>
@@ -2955,6 +3062,56 @@ https://www.raywenderlich.com/19019328-xcode-tips-and-tricks <br>
   <img align="center" src="https://1000logos.net/wp-content/uploads/2017/02/iOS-Logo-2013.jpg" width="900" height="500"/>
 </a>
 <br><br><br>
+</details>
+
+
+<details>
+<summary>IoT</summary>
+<br>Category/Type - <br> Software<br>
+<br>Official Documentation - <br> https://cloud.google.com/iot/docs <br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=6mBO2vqLv38 <br>
+https://www.youtube.com/watch?v=h0gWfVCSGQQ <br>
+https://www.youtube.com/watch?v=b7GC4Zr74M0 <br>
+https://www.youtube.com/watch?v=APH6Nrar27w <br>
+https://www.youtube.com/watch?v=mZ24zRRzlsI <br>
+https://www.youtube.com/watch?v=OVOzj0-fr80&list=PLunlGNVWDAabBuzMTn3kh6XpFss7fNksp <br>
+		
+<br>Useful Websites - <br>
+https://www.edureka.co/blog/iot-tutorial/ <br>
+https://www.guru99.com/iot-tutorial.html <br>
+https://www.tutorialspoint.com/internet_of_things/index.htm <br>
+https://www.javatpoint.com/iot-internet-of-things <br>
+https://www.gangboard.com/blog/iot-tutorial <br>
+https://data-flair.training/blogs/iot-tutorial/ <br>
+http://www.steves-internet-guide.com/internet-of-things/ <br>
+https://mindmajix.com/iot-tutorial <br>
+
+<br>Dedicated Github page - <br> 
+https://github.com/ibm-watson-iot/iot-python <br>
+https://github.com/ibm-watson-iot/iot-nodejs <br>
+https://github.com/ibm-watson-iot/functions <br>
+https://github.com/ibm-watson-iot/iot-java <br>
+https://github.com/ibm-watson-iot/gateway-hue <br>
+https://github.com/ibm-watson-iot/iot-c <br>
+
+<br>Best Courses - <br>
+https://www.udemy.com/course/complete-guide-to-build-iot-things-from-scratch-to-market/ <br>
+https://www.udemy.com/course/exploring-aws-iot/ <br>
+https://www.udemy.com/course/internet-of-things-business-impact/ <br>
+https://www.coursera.org/specializations/iot <br>
+https://www.coursera.org/learn/iiot-google-cloud-platform <br>
+https://www.coursera.org/specializations/emerging-technologies <br>
+
+<br>Other Tips / Hacks - <br> 
+https://blog.knoldus.com/how-to-successfully-develop-iot-applications/ <br>
+https://www.techrepublic.com/article/how-to-become-an-iot-developer-6-tips/ <br>
+https://iotbusinessnews.com/2020/07/13/02098-5-key-tips-to-keep-your-iot-internet-of-things-network-at-home-private-and-secure/ <br>
+https://www.embedded.com/embedded-iot-design-tips-tricks-and-tutorials/ <br>
+https://steadynetworks.com/tips-and-tricks-for-avoiding-iot-threats/ <br>
+ 
+<br><br>
+
 </details>
 
 <details>
@@ -6495,6 +6652,64 @@ https://technology.amis.nl/continuous-delivery/provisioning/6-tips-to-make-your-
 https://argonsys.com/microsoft-cloud/library/vagrant-and-hyper-v-tips-and-tricks/<br>
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MediaWiki_Vagrant_Visualization.jpg/900px-MediaWiki_Vagrant_Visualization.jpg">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MediaWiki_Vagrant_Visualization.jpg/900px-MediaWiki_Vagrant_Visualization.jpg" width="800" height="400"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
+<summary>Vala </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://valadoc.org/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=0R8gzwiR9sI <br>
+https://www.youtube.com/watch?v=TGyAhkcwXdU <br>
+https://www.youtube.com/watch?v=Eqa38B0GV6U <br>
+https://www.youtube.com/watch?v=7hEvXxiXUvE <br>
+https://www.youtube.com/watch?v=cvLKh4Fz_NA <br>
+https://www.youtube.com/watch?v=IiDOBe-tg_w <br>
+<br>
+Useful Websites -
+<br>
+https://wiki.gnome.org/Projects/Vala <br>
+https://www.reddit.com/r/vala/ <br>
+https://wiki.gnome.org/Projects/Vala/Examples <br>
+https://developer.gnome.org/gnome-devel-demos/stable/vala.html.en <br>
+https://dev.to/goober99/vala-deserves-a-closer-look-m56 <br>
+https://riptutorial.com/vala/topic/9319/functions <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/GNOME/vala <br>
+https://github.com/desiderantes/awesome-vala <br>
+https://github.com/GNOME/vala-extra-vapis <br>
+https://github.com/philippejer/vala-language-server-alpha <br>
+https://github.com/arteymix/compose <br>
+https://github.com/rainwoodman/libyaml-glib <br>
+https://github.com/rainwoodman/vast <br>
+https://github.com/valum-framework/valum <br>
+https://github.com/fusilero/balistica <br>
+<br>
+Best Courses - <br>
+https://developer.gnome.org/gnome-devel-demos/stable/beginner.vala.html.en <br>
+https://www.linuxlinks.com/excellent-free-tutorials-learn-vala/ <br>
+https://learnxinyminutes.com/docs/vala/ <br>
+https://qwikcourse.ru/c/learnvala <br>
+https://qwikcourse.in/c/learnvala <br>
+https://www.vala-project.org/doc/vala/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://stackoverflow.com/questions/2167393/vala-gotchas-tips-and-tricks <br>
+https://notesread.com/vala/ <br>
+https://arstechnica.com/information-technology/2007/09/vala-high-level-programming-with-less-fat/ <br>
+https://naaando.gitbooks.io/the-vala-tutorial/content/en/3-basics/syntax-overview.html <br>
+https://translatedby.com/you/vala-tutorial/original/ <br>
+https://wiki.gnome.org/Projects/Vala/Tutorial <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Vala_Logo.svg/1200px-Vala_Logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Vala_Logo.svg/1200px-Vala_Logo.svg.png" width="500" height="500"/>
 </a>
 <br><br><br>
 </details>
