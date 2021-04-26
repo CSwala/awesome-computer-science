@@ -7155,6 +7155,41 @@ https://www.creativebloq.com/features/15-tips-to-master-zbrush<br>
 </a>
   </details>
 
+<details>
+<summary>Zend Framework</summary>
+<br>Category/Type - <br>PHP Framework<br>
+<br>Official Documentation - <br>https://framework.zend.com/learnbr>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=NJVS5yt5fHw&list=PLillGF-RfqbYl4mB0oZA1tSh7tJr78Zzh<br>
+https://www.youtube.com/watch?v=vR-wDHu_RZo&list=PL9fcHFJHtFabKy_6qARJKvNN7fFOtEeH6<br>
+https://www.youtube.com/watch?v=FsAKXQk6XC0<br>
+https://www.youtube.com/watch?v=BOwSfKXKpZQ<br>
+https://www.youtube.com/watch?v=sXTaWb7Tg6k&list=PLXRC3l-ZhN3rQrtVm9nLe_vRi7AB-iWOX<br>
+<br>Useful Websites - <br>
+https://framework.zend.com<br>
+https://www.tutorialspoint.com/zend_framework/index.htm<br>
+https://docs.zendframework.com/tutorials/getting-started/overview/<br>
+https://code.tutsplus.com/tutorials/zend-framework-from-scratch--net-22502<br>
+https://akrabat.com/zend-framework-tutorial/<br>
+<br>Dedicated Github page - <br>
+https://github.com/zendframework/zf-web<br>
+https://github.com/zendframework<br>
+https://github.com/zendframework/ZendSkeletonApplication<br>
+https://github.com/zendframework/zf3-web<br>
+https://github.com/olegkrivtsov/using-zend-framework-3-book<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/zend-framework-2-from-beginner-to-professional/<br>
+https://www.udemy.com/course/zend-framework-2-from-beginner-to-professional/<br>
+https://www.lynda.com/Zend-Framework-training-tutorials/1135-0.html<br>
+https://www.zeolearn.com/zend-training<br>
+<br>Other Tips / Hacks - <br>
+https://www.developer.com/lang/php/article.php/3903536/Ten-Tips-for-Getting-the-Most-from-the-Zend-Framework.htm<br>
+https://livebook.manning.com/book/zend-framework-in-action/appendix-c/<br>
+https://www.andreafiori.net/posts/zend-framework-2-tips-and-tricks<br>
+https://code.tutsplus.com/tutorials/10-compelling-reasons-to-use-zend-framework--net-12214<br>
+ <br>
+  </details>
+
  <details>  
 <summary>Zig</summary>
 <br>
