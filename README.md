@@ -18,6 +18,56 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2021)
 
 
+<details>
+<summary>Adobe XD</summary>
+<br>Category/Type - <br> Design Tool<br>
+<br>Official Documentation - <br> https://www.adobe.io/xd/uxp/ <br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=68w2VwalD5w&t=20s <br>
+https://www.youtube.com/watch?v=3rQ-eTmWah0 <br>
+https://www.youtube.com/watch?v=JttI6YpmPGI <br>
+https://www.youtube.com/watch?v=7vhqsuSSqsQ <br>
+https://www.youtube.com/watch?v=WEljsc2jorI <br>
+https://www.youtube.com/watch?v=hRTi1Elkz3U&list=PLuRPummNMvIN43IBo1EltezV2ngqYz5T6 <br>
+https://www.youtube.com/watch?v=UIno2VAB5ss <br>
+https://www.youtube.com/watch?v=K2ovfwfja_E&list=PLt7HkDVHvsa6d3wxz0t1Koc-BSsXnySwo <br>
+https://www.youtube.com/watch?v=4H2FZfoXnrs <br>
+
+<br>Useful Websites - <br>
+https://medium.com/drill/learning-the-basics-of-adobe-xd-in-one-hour-3537f3ac02a3 <br>
+https://www.mockplus.com/blog/post/adobe-xd-tutorial <br>
+https://webdesign.tutsplus.com/courses/adobe-xd-for-beginners/lessons/welcome-to-the-course <br>
+https://www.toptal.com/designers/ui/adobe-xd-components-tutorial <br>
+https://www.digitalartsonline.co.uk/tutorials/interactive-design/adobe-xd-for-beginners/ <br>
+https://www.softwaretutorialvideos.com/tutorial-xd.html <br>
+https://www.xdguru.com/adobe-xd-tutorials/ <br>
+https://www.domestika.org/en/blog/4741-adobe-xd-tutorial-basic-prototype-interactions <br>
+https://designshack.net/articles/software/adobe-xd-tutorials/ <br>
+
+<br>Dedicated Github page - <br> 
+https://github.com/AdobeXD/plugin-samples <br>
+https://github.com/AdobeXD/AdobeXD.github.io-Site <br>
+https://github.com/AdobeXD/xd-to-flutter-plugin <br>
+https://github.com/AdobeXD/cloud-content-api-docs <br>
+https://github.com/AdobeXD/xdpm <br>
+https://github.com/AdobeXD/xd-awesome <br>
+
+<br>Best Courses - <br>
+https://www.udemy.com/course/learn-adobe-xd-ux-designing-and-prototyping-from-scratch/ <br> 
+https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/ <br> 
+https://www.udemy.com/course/adobe-xd-course/ <br> 
+https://www.udemy.com/course/adobe-cc-masterclass-graphic-design-photoshop-illustrator-xd-indesign/ <br> 
+
+<br>Other Tips / Hacks - <br> 
+https://uxplanet.org/15-pro-tips-for-adobe-xd-users-3dbcbc66ffb3?gi=e602f6ea06b6 <br> 
+https://medium.com/@learnux.io/adobe-xd-30-tips-tricks-you-wish-youd-known-earlier-54bd117b2eb7 <br> 
+https://bashooka.com/resources/adobe-xd-tips-tricks-and-tutorials/ <br> 
+https://www.technoarchsoftwares.com/blog/adobe-xd-tricks/ <br> 
+https://webdesign.tutsplus.com/articles/a-to-z-of-adobe-xd-tips-tricks--cms-36820 <br> 
+https://www.bringyourownlaptop.com/courses/ui-ux-web-design-using-adobe-xd/advanced-symbol-tricks-tips-for-adobe-xd <br> 
+<br><br>
+
+</details>
 
 <details>
 <summary>Android</summary>
@@ -646,6 +696,27 @@ https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/aws-cheat
 </details>
 
 <details>
+<summary>Azure</summary>
+<br>Category/Type - <br>Cloud Computing Service<br>
+<br>Official Documentation - <br>
+https://docs.microsoft.com/en-us/azure/<br>
+<br>Best YouTube creators - <br> https://www.youtube.com/watch?v=tDuruX7XSac <br> https://www.youtube.com/watch?v=0bNFkI_0jhc <br>
+https://www.youtube.com/watch?v=wdUK7bCMXqs <br> https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM <br> https://www.youtube.com/watch?v=0bPJPiX89K0 <br> https://www.youtube.com/watch?v=EeQILt8jLt8 <br> https://www.youtube.com/watch?v=R1sZNw-lb6Q <br> https://www.youtube.com/watch?v=Mt2WSly9qBI <br> https://www.youtube.com/watch?v=2CLcw-PXXa4 <br> https://www.youtube.com/watch?v=1QE1-1Djubo <br> 
+<br>Useful Websites - <br> https://azure.microsoft.com/en-in/ <br> 
+https://en.wikipedia.org/wiki/Microsoft_Azure <br> https://searchcloudcomputing.techtarget.com/definition/Windows-Azure <br> https://www.parkmycloud.com/blog/free-azure-training/ <br> https://www.w3schools.in/microsoft-cloud-services/ <br> https://www.tutorialspoint.com/microsoft_azure/index.htm <br> https://www.guru99.com/microsoft-azure-tutorial.html <br> https://azure.microsoft.com/en-in/get-started/ <br>
+<br>Dedicated Github page - <br> https://github.com/Azure <br> https://github.com/MicrosoftDocs/azure-docs <br> https://github.com/Azure/azure-cli <br> https://github.com/Azure/azure.github.io <br> https://azure.microsoft.com/en-in/services/devops/repos/ <br> https://microsoft.github.io/AzureTipsAndTricks/blog/tip16.html <br>
+<br>Best Courses - <br> https://docs.microsoft.com/en-us/learn/azure/ <br> https://www.udemy.com/topic/microsoft-azure/ <br>
+https://acloudguru.com/azure-cloud-training <br> https://cloudacademy.com/library/azure/ <br> https://www.edx.org/learn/azure <br> https://www.coursera.org/learn/cloud-azure-intro <br> https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwipje_g8ZnwAhXSZIsKHTnbDGoYABADGgJ0bQ&ae=2&ohost=www.google.com&cid=CAESQeD28vzsE2xtMbkJzHkeTvKcJ6Z9Ahrpy45Uq9K84e2qh7dcKhPM3kzBDOEaFTFxyQx5RQWD6Scb-0xhUZvnHyBq&sig=AOD64_2FHMyhCG3gHoUAvLjTalDtHwJ6dQ&q&adurl&ved=2ahUKEwjbmebg8ZnwAhUozjgGHYA-AsMQ0Qx6BAgEEAE <br> https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwipje_g8ZnwAhXSZIsKHTnbDGoYABABGgJ0bQ&ohost=www.google.com&cid=CAESQeD28vzsE2xtMbkJzHkeTvKcJ6Z9Ahrpy45Uq9K84e2qh7dcKhPM3kzBDOEaFTFxyQx5RQWD6Scb-0xhUZvnHyBq&sig=AOD64_0mxkDAADgZBg3c7zyXUztkiReDbQ&q&adurl&ved=2ahUKEwjbmebg8ZnwAhUozjgGHYA-AsMQ0Qx6BAgDEAE <br> https://www.lynda.com/Azure-training-tutorials/1700-0.html <br> https://hackr.io/tutorials/learn-microsoft-azure <br>
+https://www.cloudinspired.com/azure-free-training-free-200-video-courses/ <br>
+<br>Other Tips / Hacks - <br> https://microsoft.github.io/AzureTipsAndTricks/ <br> https://azure.microsoft.com/en-in/blog/azure-tips-and-tricks-become-more-productive-with-azure/ <br>
+https://gregorsuttie.com/2020/05/07/azure-tips-n-tricks/ <br> https://dailydotnettips.com/azure-portal-tips-tricks/ <br> https://azure.microsoft.com/pt-br/blog/azure-tips-and-tricks-become-more-productive-with-azure/#:~:text=Featuring%20a%20new%20weekly%20tip,Azure%20Tips%20and%20Tricks%20homepage. <br> http://download.microsoft.com/download/5/E/1/5E123D98-0C5A-49B2-BE50-13D8C0984988/Azure_Tips_and_Tricks_EN_US.pdf <br> https://cswsolutions.com/blog/posts/2020/january/learning-azure-in-2020-resources-tips-and-guides/ <br> https://channel9.msdn.com/Shows/Azure-Friday/Improve-your-productivity-with-Azure-Tips-and-Tricks <br> https://stackify.com/azure-portal-tips/ <br> <br>
+<a href="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
+  <img align="center" src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Big Data</summary>
 <br>Category/Type - <br>Data Analytics<br>
 <br>Official Documentation - <br>
@@ -956,6 +1027,45 @@ https://www.geeksforgeeks.org/c-tricks-competitive-programming-c-11/<br>http://w
 https://medium.com/dsc-dypcoe/must-know-c-tips-and-tricks-for-competitive-programming-part-1-d8a4d38243f5<br>
 https://codeforces.com/blog/entry/74684<br>
 https://medium.com/@marinamakarova/26-tips-on-c-programming-61cb54900234<br><br>
+</details>
+
+<details>
+<summary>CakePHP</summary>
+<br>Category/Type - <br>PHP Framework<br>
+<br>Official Documentation - <br>
+https://book.cakephp.org/2/en/contributing/documentation.html<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=747K6W40ur0<br>
+https://www.youtube.com/watch?v=K19G1re5LlQ&list=PLT9miexWCpPXtHIZmS_Yn1IGpgcEoVqZr<br>
+https://www.youtube.com/watch?v=CHgjex_Grp4<br>
+https://www.youtube.com/watch?v=x31wZ71dPMQ<br>
+https://www.youtube.com/watch?v=5GDvAhfB6-Y&list=PLLo-6h61K2VodB-nC_UMZgruk1DrNVash<br>
+<br>Useful Websites - <br>
+https://www.tutorialspoint.com/cakephp/index.htm<br>
+https://www.guru99.com/cakephp-tutorial.html<br>
+https://www.eduonix.com/courses/Web-Development/Build-Web-Apps-with-PHP-Cake-Framework<br>
+https://cakephp.en.uptodown.com/windows<br>
+https://cakephp.org<br>
+<br>Dedicated Github page - <br>
+https://github.com/cakephp<br>
+https://github.com/cakephp/cakephp<br>
+https://github.com/FriendsOfCake/awesome-cakephp<br>
+https://github.com/cakephp/tutorials.cakephp.org<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/cakephp-3-advanced-techniques/<br>
+https://www.udemy.com/course/learn-to-build-web-apps-using-cake-php/<br>
+https://www.udemy.com/course/cakephp-complete-project/<br>
+https://training.cakephp.org<br>
+https://www.lynda.com/CakePHP-training-tutorials/1134-0.html<br>
+https://hackr.io/tutorials/learn-cakephp<br>
+<br>Other Tips / Hacks - <br>
+http://www.bestdevlist.com/tips-and-tricks-for-cakephp-developers/<br>
+https://www.toptal.com/cakephp/most-common-cakephp-mistakes<br>
+https://www.zenofcoding.com/2008/06/09/15-essential-cakephp-tips/<br>
+http://www.huntsvillepr.com/posts/cakephp-tips-and-tricks-936.html<br>
+https://skytechgeek.com/2017/05/tips-tricks-php-cake-developers/<br>
+https://www.cakephpexpert.com/blog/10-essential-tips-for-cakephp-development<br>
+<br>
 </details>
 
 <details>
@@ -1279,6 +1389,68 @@ https://cuda-tutorial.readthedocs.io/en/latest/tutorials/tutorial01/ <br>
 https://www.udemy.com/course/introduction-to-gpu-computing-with-cuda/ <br>
 <br>Other Tips / Hacks - <br> https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=dc7112-cuda+optimization+tips%2C+tricks+and+techniques <br>
 https://medium.com/@sciencemonk/cuda-programming-tips-and-tricks-12d60310817a <br> https://www.quora.com/What-are-some-CUDA-tricks-and-optimizations <br> <br>
+</details>
+
+<details>
+<summary>D </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://dlang.org/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=rwZFTnf9bDU <br>
+https://www.youtube.com/watch?v=7kqgDn0md2U <br>
+https://www.youtube.com/watch?v=7JQx07GMt_8 <br>
+https://www.youtube.com/watch?v=q2_3cCukZzo <br>
+https://www.youtube.com/watch?v=p22MM1wc7xQ <br>
+https://www.youtube.com/watch?v=N5v_XhQYu2Y <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/d_language/ <br>
+https://awesomeopensource.com/projects/dlang <br>
+https://summerofcode.withgoogle.com/archive/2019/organizations/6223494952517632/ <br>
+https://en.wikibooks.org/wiki/D_Programming/First_Program_Examples <br>
+https://opensource.com/article/17/5/d-open-source-software-development <br>
+https://dlang.org/spec/module.html <br>
+https://tour.dlang.org/tour/en/vibed/vibe-d-web-framework <br>
+https://www.quora.com/Is-there-a-D-web-framework-yet <br>
+https://vibed.org/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/dlang-community/awesome-d <br>
+https://github.com/huntlabs/hunt-framework <br>
+https://github.com/dlang/dmd <br>
+https://github.com/dlang/phobos <br>
+https://github.com/dlang/druntime <br>
+https://github.com/dlang/tools <br>
+https://github.com/dlang/dlang.org <br>
+https://github.com/dlang/dub <br>
+https://github.com/dlang-community <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/d-programming-language/ <br>
+http://ddili.org/ders/d.en/ <br>
+https://www.pluralsight.com/courses/introduction-to-d?clickid=Txxw0JU01xyLR5CwUx0Mo3QpUkB0JWT1qSIjUQ0&irgwc=1&mpid=1286032&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1286032&utm_source=impactradius <br>
+https://www.wisdomjobs.com/e-university/d-programming-language-tutorial-1617.html <br>
+https://www.whoishostingthis.com/resources/d-programming/ <br>
+https://siit.co/courses/d-programming-course-and-certification/791 <br>
+https://www.educative.io/edpresso/what-is-the-d-programming-language <br>
+<br>
+Other Tips / Hacks - <br>
+https://opensource.com/article/20/7/d-programming <br>
+https://p0nce.github.io/d-idioms/ <br>
+https://insights.dice.com/2015/01/20/state-d-programming-language/ <br>
+https://dlang.org/blog/category/tutorials/ <br>
+https://www.tutorialspoint.com/d_programming/d_programming_quick_guide.htm <br>
+https://exercism.io/tracks/d <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/D_Programming_Language_logo.svg/1200px-D_Programming_Language_logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/D_Programming_Language_logo.svg/1200px-D_Programming_Language_logo.svg.png" width="500" height="500"/>
+</a>
+<br><br><br>
 </details>
 
 <details>
@@ -2405,6 +2577,58 @@ https://www.infoq.com/presentations/groovy-features/ <br>
 </details>
 
 <details>
+<summary>Hack </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://docs.hhvm.com/hack/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=eDz8IbGsVrc <br>
+https://www.youtube.com/watch?v=Q9gmHl_U0Tk <br>
+https://www.youtube.com/watch?v=_YUQ-x3c7-s <br>
+https://www.youtube.com/watch?v=aC8k5Zps4hM <br>
+https://www.youtube.com/watch?v=h7GsBMRd9PI <br>
+https://www.youtube.com/watch?v=gmCN76Mr_ms <br>
+<br>
+Useful Websites -
+<br>
+https://engineering.fb.com/2014/03/20/developer-tools/hack-a-new-programming-language-for-hhvm/ <br>
+https://hacklang.org/ <br>
+https://www.sutori.com/story/hack-programming-language--QZUzZ4YCbkS96PeSPu6tTxjc <br>
+https://therenegadecoder.com/code/hello-world-in-hack/ <br>
+https://hhvm.com/blog/4223/introducing-hack-a-programming-language-for-hhvm <br>
+https://en.wikipedia.org/wiki/Hack_(programming_language) <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/taueres/hacklang-examples <br>
+https://github.com/hhvm/user-documentation <br>
+https://github.com/hhvm/hack-codegen <br>
+https://github.com/hhvm/hhast <br>
+https://github.com/hhvm?language=hack <br>
+https://github.com/facebook/hhvm/tree/master/hphp/hack <br>
+<br>
+Best Courses - <br>
+https://www.oreilly.com/library/view/fluent-conference-2015/9781491927786/video213477.html <br>
+https://learnxinyminutes.com/docs/hack/ <br>
+https://docs.hhvm.com/hack/classes/introduction <br>
+https://abhikmitra.github.io/blog/hack-php/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://nuclide.io/docs/languages/hack/ <br>
+https://masnun.com/2014/03/24/hhvm-hack-the-painless-way-to-get-started.html <br>
+https://heera.it/facebook-hack <br>
+http://jessesnet.com/development-notes/2014/hacklang-generics/ <br>
+https://hhvm.com/blog/713/hhvm-optimization-tips <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hack_%28programming_language%29_logo.svg/686px-Hack_%28programming_language%29_logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hack_%28programming_language%29_logo.svg/686px-Hack_%28programming_language%29_logo.svg.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Haskell</summary>
 <br>Category/Type - <br>Functional programming language<br>
 <br>Official Documentation - <br>
@@ -3341,11 +3565,15 @@ https://www.youtube.com/user/MATLAB<br>
 https://www.youtube.com/channel/UCNYJACuYKQlScmTuyIe8J0g<br>
 https://www.youtube.com/channel/UCEaVN5-XCvLgJOFAR_VOIoQ<br>
 https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA<br>
+https://www.youtube.com/playlist?list=PL60D54836FB8893F0<br>
+https://www.youtube.com/watch?v=5A9sEaEt3Z4&list=PLcgIaTuuWp3kWI8d1C1wZDl0SfQDxm-CK<br>
+https://www.youtube.com/watch?v=IuEOMyGuuIg&list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN<br>
 <br>Useful Websites - <br>
 https://matlabacademy.mathworks.com/?s_tid=ac_ml_tut_til<br>
 https://nhigham.com/matlab-guide/<br>
 https://engineerexperiences.com/category/matlab<br>
 https://blogs.mathworks.com/videos/<br>
+https://medium.com/mathworks<br>
 <br>Dedicated Github page - <br>
 https://github.com/mathworks<br>
 https://github.com/topics/matlab-codes <br>
@@ -3357,11 +3585,20 @@ https://matlabacademy.mathworks.com/<br>
 https://www.udemy.com/course/matlab-essentials-for-engineering-and-science-students/<br>
 https://www.coursera.org/learn/matlab<br>
 https://www.linkedin.com/learning/learning-matlab-2/welcome<br>
+https://www.coursera.org/learn/advanced-matlab-programming<br>
+https://www.edx.org/course/matlab-and-octave-for-beginners<br>
+https://www.udemy.com/course/the-complete-matlab-mastery-course-for-beginners/<br>
+https://www.udemy.com/course/matlab_simulink-for-power-system-simulations/<br>
+https://www.udemy.com/course/matlab-the-need-to-know-basics/<br>
 <br>Other Tips / Hacks - <br>
 https://in.mathworks.com/videos/matlab-and-simulink-racing-lounge-how-to-make-your-matlab-experience-more-productive-99548.html<br>
 https://www.ee.columbia.edu/~marios/matlab/GUIwithMatlab.pdf<br>
 https://www.ee.columbia.edu/~marios/matlab/Writing_Fast_MATLAB_Code.pdf<br>
-https://www.ee.columbia.edu/~marios/matlab/Matlab%20array%20manipulation%20tips%20and%20tricks.pdf<br><br>
+https://www.ee.columbia.edu/~marios/matlab/Matlab%20array%20manipulation%20tips%20and%20tricks.pdf<br>
+https://medium.com/@srishtisaha/matlab-my-learning-journey-and-some-tips-3c953b7e393a<br>
+https://web.stanford.edu/class/cme001/handouts/matlab.pdf<br>
+https://www.mccormick.northwestern.edu/documents/students/undergraduate/introduction-to-matlab.pdf<br>
+https://medium.com/@info_76575/what-are-the-best-sources-to-learn-matlab-programming-language-for-beginners-e3b817888cfc<br><br>
 <a href="https://in.mathworks.com/matlabcentral/answers/228557-experts-of-matlab-how-did-you-learn-any-advice-for-beginner-intermediate-users">
   <img align="center" src="https://user-images.githubusercontent.com/68437435/113461750-80cf9080-943b-11eb-88c5-74067ca42376.jpg" width="300" height="200"/>
 </a>
@@ -3538,6 +3775,56 @@ https://smlhelp.github.io/book/types/bool.html <br>
 https://www.youtube.com/watch?v=GYedTnX9vJQ <br>
 <br>
 <br><br><br>
+</details>
+
+<details>
+<summary>Meteor</summary>
+<br>
+Category/Type - <br>
+JavaScript Framework <br>
+<br>
+Official Documentation - <br>
+https://guide.meteor.com/ <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV <br>
+https://www.youtube.com/playlist?list=PLqiT-vn2D1sa9a36O2l4dM8MWmtW0BFyw <br>
+https://www.youtube.com/watch?v=9494-2E4riQ <br>
+https://www.youtube.com/watch?v=vSFH1T3SnBY <br>
+https://www.youtube.com/watch?v=Pa5D1XKXQuo <br>
+https://www.youtube.com/watch?v=JGs0cl9nsgM <br>
+<br>
+Useful Websites- <br>
+https://www.tutorialspoint.com/meteor/index.htm <br>
+https://www.toptal.com/meteor/building-real-time-web-applications-with-meteor <br>
+http://meteortips.com/ <br>
+https://www.meteor-tuts.com/ <br>
+https://flaviocopes.com/meteor/ <br>
+https://www.habilelabs.io/meteor-js-tutorial-for-beginners/ <br>
+https://www.meteor.com/tutorials/blaze/creating-an-app <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/meteor/meteor <br>
+https://github.com/meteor/examples <br>
+https://github.com/meteor/docs <br>
+https://github.com/meteor/blaze <br>
+https://github.com/meteor/babel-preset-meteor <br>
+<br>
+Best Courses- <br>
+https://www.udemy.com/course/meteor-react-tutorial/ <br>
+https://www.udemy.com/course/learn-meteorjs-by-building-10-real-world-projects/ <br>
+https://www.coursera.org/learn/meteor-development <br>
+https://www.lynda.com/Node-js-tutorials/Meteor-Essential-Training/656814-2.html <br>
+https://www.classcentral.com/course/meteor-development-4328 <br>
+https://www.eduonix.com/courses/Web-Development/Learn-MeteorJS-By-Building-10-Real-World-Projects <br>
+<br>
+Other Tips/Hacks- <br>
+https://apiko.com/blog/15-meteor-tips-for-beginners-from-professional-developers/ <br>
+https://abhiaiyer.medium.com/10-tips-to-get-off-the-meteor-93b5bb16c104 <br>
+https://code.tutsplus.com/tutorials/essential-meteor-tips--cms-28863 <br>
+https://blog.zipboard.co/cfs-tips-and-tricks-for-meteorjs-d6a9f4e9ba43 <br>
+https://til.codes/meteor-js-best-practices-and-techniques/ <br>
+<br>
 </details>
 
 <details>
@@ -3743,6 +4030,60 @@ https://scoop.eduncle.com/tips-to-crack-ugc-net-exam<br>
 https://www.toptal.com/dot-net/tips-and-practices<br><br>
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+
+<details>
+<summary>NetworkX</summary>
+<br>
+Category/Type -Python Library<br>
+<br>
+Official Documentation - <br>
+https://networkx.org/documentation/stable/index.html<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Q-qKKQLNLPo<br>
+https://www.youtube.com/watch?v=flwcAf1_1RU<br>
+youtube.com/watch?v=PouhDHfssYA<br>
+https://www.youtube.com/watch?v=x1UIYFMY2Xk&list=PLMtP8YtzV6HZ4-vRKp2OiQUYUf603zMBj<br>
+https://www.youtube.com/watch?v=CPQeSmDGiOQ<br>
+https://www.youtube.com/watch?v=NgkMVRGeS1c<br>
+https://www.youtube.com/watch?v=_AfhbYkLxzU<br>
+<br>
+Useful Websites -
+<br>
+https://medium.com/swlh/a-tutorial-on-networkx-network-analysis-in-python-part-i-43c1d35830b6<br>
+https://www.datacamp.com/community/tutorials/networkx-python-graph-tutorial<br>
+https://www.python-course.eu/networkx.php <br>
+https://towardsdatascience.com/tutorial-network-visualization-basics-with-networkx-and-plotly-and-a-little-nlp-57c9bbb55bb9<br>
+https://www.cl.cam.ac.uk/teaching/1314/L109/tutorial.pdf <br>
+"https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/topics/social-network-analysis<br>
+https://github.com/briatte/awesome-network-analysis<br>
+https://github.com/cisco-ie/awesome-network-programmability <br>
+https://github.com/nyquist/awesome-networking<br>
+https://github.com/sindresorhus/awesome <br>
+https://github.com/networkx<br>
+<br>
+Best Courses - <br>
+https://www.datacamp.com/courses/network-analysis-in-python-part-1?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631908&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=278443377098&utm_targetid=dsa-473406578555&utm_loc_interest_ms=&utm_loc_physical_ms=9040198&gclid=Cj0KCQjw4ImEBhDFARIsAGOTMj_hRSuRzG9iF_zEI4pPxq8iY7BmKZzQ_9j85DpKRS3imAeDyHfcGKYaAqMTEALw_wcB <br>
+https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/<br>
+https://www.udemy.com/course/network-security-course/<br>
+https://www.udemy.com/course/python-network-programming-for-network-engineers-python-3/<br>
+https://www.classcentral.com/course/networkx-20787 <br>
+https://www.coursera.org/projects/networkx <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.datacamp.com/community/tutorials/networkx-python-graph-tutorial<br>
+https://www.quora.com/What-are-some-advanced-NetworkX-tips<br>
+https://www.slideshare.net/MohammedTaie/python-networkx-library-quick-start-guide<br>
+<br>
+<a href="https://networkx.org/_static/networkx_logo.svg">
+  <img align="center"src="https://networkx.org/_static/networkx_logo.svg" width="500" height="500"/>
 </a>
 <br><br><br>
 </details>
@@ -4410,6 +4751,42 @@ https://pgdash.io/blog/postgres-psql-tips-tricks.html <br> https://www.enterpris
 </details>
 
 <details>
+<summary>Power BI</summary>
+<br>Category/Type - <br>Business Analytics Service<br>
+<br>Official Documentation - <br> https://docs.microsoft.com/en-us/power-bi/<br>
+<br>Best YouTube creators - <br> 
+https://www.youtube.com/watch?v=AGrl-H87pRU<br>
+https://www.youtube.com/channel/UCy--PYvwBwAeuYaR8JLmrfg<br>
+https://www.youtube.com/watch?v=i3CSD7bMMbg <br>
+https://www.youtube.com/watch?v=gqO0EiCn4cY<br>
+https://www.youtube.com/watch?v=AuYzsfXKkbM <br> 
+https://www.youtube.com/watch?v=j5RAHGfKaBc<br>
+<br>Useful Websites - <br> 
+https://powerbi.microsoft.com/en/ <br> 
+https://en.wikipedia.org/wiki/Microsoft_Power_BI<br> 
+https://www.nigelfrank.com/blog/everything-you-ever-wanted-to-know-about-microsoft-power-bi/ <br> 
+https://www.stitchdata.com/resources/7-reasons-power-bi/ <br>
+https://searchcontentmanagement.techtarget.com/definition/Microsoft-Power-BI <br>
+<br>Dedicated Github page - <br> 
+https://docs.microsoft.com/en-us/power-bi/connect-data/service-tutorial-connect-to-github <br> 
+https://github.com/MicrosoftLearning/DA-100-Analyzing-Data-with-Power-BI <br>
+https://github.com/microsoft/PowerBI-Developer-Samples<br>
+https://github.com/NajiElKotob/Awesome-Power-BI<br>
+<br>Best Courses - <br> 
+https://www.coursera.org/courses?query=power%20bi <br>
+https://powerbi.microsoft.com/en-us/learning/ <br> 
+https://www.udemy.com/topic/microsoft-power-bi/ <br>
+https://www.edx.org/learn/power-bi <br>
+https://www.simplilearn.com/power-bi-certification-training-course <br>
+<br>Other Tips / Hacks - <br>
+https://zebrabi.com/top-power-bi-dashboard-tips-and-tricks/<br> 
+https://powerbi.tips/ <br>
+https://powerbi.microsoft.com/en-us/blog/tag/tips-and-tricks/ <br> 
+https://redlevelgroup.com/ms-power-bi-hacks-the-ultimate-guide/ <br>
+<br><br><br>
+</details>
+
+<details>
 <summary>Puppet </summary>
 <br>Category/Type - <br>IT automation<br>
 <br>Official Documentation - <br>
@@ -4477,6 +4854,44 @@ https://exercism.io/tracks/purescript<br>
 https://blog.functorial.com/posts/2017-08-09-Why-You-Should-Use-PureScript.html<br>
 https://thomashoneyman.com/articles/replace-react-components-with-purescript/ <br>
 <br>
+</details>
+
+<details>
+<summary>Pygame</summary>
+<br>Category/Type - <br>
+Python Library<br>
+<br>
+Official Documentation - <br>
+https://www.pygame.org/docs/<br>
+<br>
+Best Youtube Creators - <br>
+https://www.youtube.com/watch?v=FfWpgLFMI7w<br>
+https://www.youtube.com/watch?v=jO6qQDNa2UY<br>
+https://www.youtube.com/playlist?list=PLu0W_9lII9ailUQcxEPZrWgDoL36BtPYb<br>
+https://www.youtube.com/playlist?list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5<br>
+<br>
+Useful Websites - <br>
+https://inventwithpython.com/pygame/<br>
+https://www.reddit.com/r/pygame/<br>
+https://wiki.python.org/moin/GameProgramming<br>
+https://medium.com/iothincvit/pygame-for-beginners-234da7d3c56f<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/pygame/pygame<br>
+https://github.com/raymondberg/pygames<br>
+https://github.com/CCareaga/Pygame-Examples<br>
+https://github.com/PythonProgramming/pygame-tutorial-series<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/projects/python-game<br>
+https://www.pluralsight.com/courses/game-programming-python-pygame<br>
+https://freevideolectures.com/course/3408/pygame-python-game-development<br>
+https://free.aicte-india.org/Game-development-using-PyGame.php<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.pygame.org/docs/tut/newbieguide.html<br>
+https://nerdparadise.com/programming/pygametips<br>
+https://gamedevelopment.tutsplus.com/tutorials/how-to-learn-pygame--cms-24184<br>
 </details>
 
 <details>
@@ -5427,6 +5842,53 @@ https://medium.com/@davekaj/solidity-tips-and-tricks-for-beginners-building-thei
 </details>
 
 <details>
+<summary>Spring Framework </summary>
+<br>
+Category/Type - <br>Application Development <br>
+<br>
+Official Documentation - <br>
+https://docs.spring.io/spring-framework/docs/current/reference/html/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=If1Lw4pLLEo <br>
+https://www.youtube.com/watch?v=VvGjZgqojMc<br>
+https://www.youtube.com/watch?v=KRMNTudb0AY&list=PL0zysOflRCekeiERASkpi-crREVensZGS <br>
+https://www.youtube.com/watch?v=MHoFSfXGX_A&list=PLw_k9CF7hBpJJsRWAhwSrDlWAzuMV0irl <br>
+https://www.youtube.com/watch?v=gq4S-ovWVlM <br>
+https://www.youtube.com/watch?v=vtPkZShrvXQ <br>
+<br>
+Useful Websites -
+<br>
+https://spring.io/projects/spring-framework <br>
+https://spring.io <br>
+https://www.tutorialspoint.com/spring/spring_overview.htm<br>
+https://www.javatpoint.com/spring-tutorial <br>
+https://www.geeksforgeeks.org/introduction-to-spring-framework/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/spring-projects/gh-pages <br>
+https://github.com/spring-io<br>
+https://github.com/spring-io/sagan <br>
+https://github.com/spring-projects/spring-framework <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/spring-tutorial-for-beginners/ <br>
+https://www.udemy.com/course/spring-framework-5-beginner-to-guru/ <br>
+https://www.udemy.com/course/java-spring-framework-masterclass/ <br>
+https://www.coursera.org/courses?query=spring%20framework <br>
+https://www.baeldung.com/learn-spring-course<br>
+<br>
+Other Tips / Hacks - <br>
+https://javarevisited.blogspot.com/2018/06/top-6-spring-framework-online-courses-Java-programmers.html <br>
+https://piotrminkowski.com/2021/01/13/spring-boot-tips-tricks-and-techniques/ <br>
+https://medium.com/priceline-labs/10-tips-for-working-with-core-spring-framework-22a7a1bb4d94<br>
+https://www.toptal.com/spring/top-10-most-common-spring-framework-mistakes <br>
+https://www.viralpatel.net/category/spring/ <br>
+https://springframework.guru/free-spring-framework-tutorials/ <br>
+<br>
+</details>
+
+<details>
 <summary>Stencyl </summary>
 <br>
 Category/Type - <br>Game Engine" <br>
@@ -6338,6 +6800,57 @@ https://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/ <br>
   <img align="center" src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" width="900" height="500"/>
 </a>
 <br><br><br>
+</details>
+
+<details>
+<summary>Xamarin</summary>
+<br>
+Category/Type - <br>
+Software <br>
+<br>
+Official Documentation - <br>
+https://docs.microsoft.com/en-us/xamarin/ <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=93ZU6j59wL4 <br>
+https://www.youtube.com/watch?v=zvp7wvbyceo <br>
+https://www.youtube.com/playlist?list=PLjzsl6AoCF8mjXJJDUUtGiFy9VksaMBgC <br>
+https://www.youtube.com/playlist?list=PLNcJs0ZTbcSoNQCA3SWDLEYlrofE52dji <br>
+https://www.youtube.com/playlist?list=PLV916idiqLvcKS1JY3S3jHWx9ELGJ1cJB <br>
+https://www.youtube.com/playlist?list=PL4WEkbdagHIRv7ggbtrp969--y-goYS7d <br>
+https://www.youtube.com/playlist?list=PLaoF-xhnnrRVglZztNl99ih76fvBOLMe8 <br>
+https://www.youtube.com/playlist?list=PLFKlnjWl05IxtbfAQuPHx_Ctlg3fucYwD <br>
+<br>
+Useful Websites- <br>
+https://www.tutorialspoint.com/xamarin/index.htm <br>
+https://www.javatpoint.com/xamarin <br>
+https://www.dotnettricks.com/learn/xamarin <br>
+https://channel9.msdn.com/Series/Xamarin-101 <br>
+https://www.c-sharpcorner.com/article/introduction-to-xamarin-for-beginners/ <br>
+https://github.com/xamarinhq/app-myshoppe <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/xamarin/Xamarin.Forms <br>
+https://github.com/xamarin/xamarin-android <br>
+https://github.com/xamarin/xamarin-macios <br>
+https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI <br>
+https://github.com/jamesmontemagno/Xamarin.Plugins <br>
+<br>
+Best Courses- <br>
+https://www.udemy.com/course/complete-xamarin-developer-course-ios-and-android/ <br>
+https://www.udemy.com/course/xamarin-forms-course/ <br>
+https://www.udemy.com/course/xamarin-and-firebase/ <br>
+https://www.linkedin.com/learning/xamarin-forms-essential-training-2 <br>
+https://www.udemy.com/course/the-advanced-xamarin-developer-masterclass/ <br>
+https://www.udemy.com/course/xamarin-android-app-with-cshap/ <br>
+<br>
+Other Tips/Hacks- <br>
+https://www.syncfusion.com/blogs/post/10-tips-to-avoid-common-mistakes-in-xamarin-forms-app-development.aspx <br>
+https://altkomsoftware.pl/en/blog/xamarin-forms-tips-tricks/ <br>
+https://willowtreeapps.com/ideas/tips-and-tricks-on-speeding-the-xamarin-development-process <br>
+https://xamgirl.com/xaml-tips-and-tricks/ <br>
+https://www.slideshare.net/rid00z/10-awesome-xamarinforms-tips-tricks-52954064 <br>
+<br>
 </details>
 
 <details>  
