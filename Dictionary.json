@@ -1,4 +1,4 @@
-﻿[
+[
 	{	
 		"Title" : ".NET",
 		"Tag" : "Programming Language",
@@ -5697,6 +5697,61 @@
 		"Tips4": "https://xamgirl.com/xaml-tips-and-tricks/",
 		"Tips5": "https://www.slideshare.net/rid00z/10-awesome-xamarinforms-tips-tricks-52954064"
 	},
+
+	{	
+	"Title" : "Xcode",
+	"Tag": "Software",
+	"Documentation" : "https://developer.apple.com/xcode/ ",
+	"YT1 " :"https://www.youtube.com/watch?v=_YvAUgV6GYM ",
+	"YT2 " :"https://www.youtube.com/watch?v=tPWUsSELJyY ",
+	"YT3 " :"https://www.youtube.com/watch?v=lOZSQzsrNVQ ",
+	"YT4 " :"https://www.youtube.com/watch?v=MvEZqNr6d1E ",
+	"YT5 " :"https://www.youtube.com/watch?v=EVjw2L_osKg ",
+	"YT6 " :"https://www.youtube.com/watch?v=xsohzfdeDng ",
+	"YT7 " :"https://www.youtube.com/watch?v=htGBvkn0tN0 ",
+	"YT8 " :"https://www.youtube.com/watch?v=CvqJ0QRIWH8 ",
+	"YT9 " :"https://www.youtube.com/watch?v=CYZYcEi8Ll4 ",
+	"Website1": "https://developer.apple.com/xcode/resources/ ",
+	"Website2": "https://developer.apple.com/xcode/ide/ ",
+	"Website3": "https://learnappmaking.com/xcode-tutorial/ ",
+	"Website4": "https://developer.apple.com/documentation/xcode/creating_an_xcode_project_for_an_app ",
+	"Website5": "https://medium.com/remote-ios-dev/9-requirements-for-setting-up-a-new-xcode-project-781b80e72d02 ",
+	"Website6": "https://www.reddit.com/r/Xcode/ ",
+	"Website7": "https://spin.atomicobject.com/2016/02/06/alcatraz-xcode-plugins/ ",
+	"Website8": "https://nshipster.com/xcode-plugins/ ",
+	"Website9": "https://maniacdev.com/xcode-plugins ",
+	"Dedicated GH page1" : "https://github.com/tuist/XcodeProj ",
+	"Dedicated GH page2" : "https://github.com/apple/swift ",
+	"Dedicated GH page3" : "https://github.com/soapyigu/Swift-30-Projects ",
+	"Dedicated GH page4" : "https://github.com/Alamofire/Alamofire ",
+	"Dedicated GH page5" : "https://github.com/davidwernhart/AlDente ",
+	"Dedicated GH page6" : "https://github.com/signalapp/Signal-iOS ",
+	"Dedicated GH page7" : "https://github.com/BenSova/Patched-Sur ",
+	"Dedicated GH page8" : "https://github.com/MessageKit/MessageKit ",
+	"Dedicated GH page9" : "https://github.com/shadowsocks/ShadowsocksX-NG ",
+	"Course1" : "https://developer.apple.com/learn/curriculum/ ",
+	"Course2" : "https://www.coursera.org/learn/swift-5-programming-introduction ",
+	"Course3" : "https://www.udemy.com/course/ios-9-swift-2-xcode-73-build-a-live-weather-app/ ",
+	"Course4" : "https://www.udemy.com/course/ios-10-xcode-8/ ",
+	"Course5" : "https://www.udemy.com/course/ios-11-xcode-9-swift-4/ ",
+	"Course6" : "https://www.udemy.com/course/ios-12-xcode-10/ ",
+	"Course7" : "https://www.udemy.com/course/ios10developer/ ",
+	"Course8" : "https://www.udemy.com/course/xcode-tips-and-tricks/ ",
+	"Course9" : "https://www.udemy.com/course/master-xcode-and-swift/ ",
+	"Tips1" : "https://www.hackingwithswift.com/articles/229/24-quick-xcode-tips#:~:text=Filtering%20the%20jump%20bar,also%20works%20for%20device%20selection. ",
+	"Tips2" : "https://www.hackingwithswift.com/articles/166/xcode-tips-and-tricks-part-one ",
+	"Tips3" : "https://medium.com/snowdog-labs/37-xcode-tips-and-tricks-c8427784ba48 ",
+	"Tips4" : "https://www.raywenderlich.com/19019328-xcode-tips-and-tricks ",
+	"Tips5" : "https://www.detroitlabs.com/blog/2017/04/13/17-xcode-tips-and-tricks-that-every-ios-developer-should-know/ ",
+	"Tips6" : "https://betterprogramming.pub/xcode-hacks-cf32434cbc2 ",
+	"Tips7" : "https://dzone.com/articles/the-best-xcode-tips-amp-tricks-every-developer-sho ",
+	"Tips8" : "https://www.git-tower.com/blog/6-tips-for-xcode/ ",
+	"Tips9" : "https://www.reddit.com/r/iOSProgramming/comments/f6pss/what_are_some_xcode_tips_tricks_and_hacks_that/ ",
+	"Image1":"https://3d.bk.tudelft.nl/ken/img/blog/xcode-logo.jpg" 
+
+	},
+
+
 	{
 
 		"Title" : "YII Framework",
