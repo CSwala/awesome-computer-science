@@ -5163,6 +5163,43 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 </details>
 
 <details>
+<summary>Qlik Sense</summary>
+<br>Category/Type - <br>
+Data Analytics Platform<br>
+<br>Official Documentation - <br>
+https://help.qlik.com/en-US/sense<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=RB-O4nAMTAI<br>
+https://www.youtube.com/channel/UCqDEwoclB5Btepxr6O9EkAQ<br>
+https://youtube.com/playlist?list=PLSFb2_aycoM0yypiK9KlML0Tgsk8KAetn<br>
+https://youtube.com/playlist?list=PL6_D9USWkG1CvXmMXE24Ax38iyHvos7HO<br>
+https://www.youtube.com/playlist?list=PLkRFvjyuHFvIrasWTmdtcJ3EKnUuNb1xD<br>
+<br>Useful Websites - <br>
+https://www.qlik.com/us/trial/qlik-sense-business<br>
+https://data-flair.training/blogs/qlik-sense-tutorial/<br>
+https://help.qlik.com/en-US/sense/February2021/Content/Sense_Helpsites/Tutorials.htm<br>
+https://mindmajix.com/qlik-sense-tutorial<br>
+https://www.tutorialspoint.com/qlikview/index.htm<br>
+https://www.datasciencelearner.com/qlik-sense-tutorial-complete-overview-beginners/<br>
+<br>Dedicated Github page - <br>
+https://github.com/qlik-oss<br>
+https://github.com/murraygm/qs-mgoqliksenseapps<br>
+https://github.com/topics/qlik-sense<br>
+<br>Best Courses - <br>
+https://learning.qlik.com/<br>
+https://www.udemy.com/share/101Wbi/<br>
+https://www.udemy.com/share/1022OI/<br>
+https://mindmajix.com/qlik-sense-training<br>
+https://www.besanttechnologies.com/qlik-sense-training<br>
+<br>Other Tips / Hacks - <br>
+https://www.qalyptus.com/blog/8-tips-and-tricks-for-qlik-sense<br>
+https://www.scopesystems.com.au/21-tips-tricks-qlik-scopetalk/<br><br>
+http://livingqlikview.com/17-qlik-experts-reveal-favorite-tips/<br><br>
+https://analyticshub.io/2020/03/22/qlik-tips-tricks/<br><br>
+https://home.vizlib.com/8-tips-for-creating-impactful-tables-in-qlik-sense/<br><br>
+</details>
+
+<details>
 <summary>R </summary>
 <br>
 Category/Type - <br>Programming language <br>
