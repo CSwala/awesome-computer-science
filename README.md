@@ -3515,11 +3515,15 @@ https://www.youtube.com/user/MATLAB<br>
 https://www.youtube.com/channel/UCNYJACuYKQlScmTuyIe8J0g<br>
 https://www.youtube.com/channel/UCEaVN5-XCvLgJOFAR_VOIoQ<br>
 https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA<br>
+https://www.youtube.com/playlist?list=PL60D54836FB8893F0<br>
+https://www.youtube.com/watch?v=5A9sEaEt3Z4&list=PLcgIaTuuWp3kWI8d1C1wZDl0SfQDxm-CK<br>
+https://www.youtube.com/watch?v=IuEOMyGuuIg&list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN<br>
 <br>Useful Websites - <br>
 https://matlabacademy.mathworks.com/?s_tid=ac_ml_tut_til<br>
 https://nhigham.com/matlab-guide/<br>
 https://engineerexperiences.com/category/matlab<br>
 https://blogs.mathworks.com/videos/<br>
+https://medium.com/mathworks<br>
 <br>Dedicated Github page - <br>
 https://github.com/mathworks<br>
 https://github.com/topics/matlab-codes <br>
@@ -3531,11 +3535,20 @@ https://matlabacademy.mathworks.com/<br>
 https://www.udemy.com/course/matlab-essentials-for-engineering-and-science-students/<br>
 https://www.coursera.org/learn/matlab<br>
 https://www.linkedin.com/learning/learning-matlab-2/welcome<br>
+https://www.coursera.org/learn/advanced-matlab-programming<br>
+https://www.edx.org/course/matlab-and-octave-for-beginners<br>
+https://www.udemy.com/course/the-complete-matlab-mastery-course-for-beginners/<br>
+https://www.udemy.com/course/matlab_simulink-for-power-system-simulations/<br>
+https://www.udemy.com/course/matlab-the-need-to-know-basics/<br>
 <br>Other Tips / Hacks - <br>
 https://in.mathworks.com/videos/matlab-and-simulink-racing-lounge-how-to-make-your-matlab-experience-more-productive-99548.html<br>
 https://www.ee.columbia.edu/~marios/matlab/GUIwithMatlab.pdf<br>
 https://www.ee.columbia.edu/~marios/matlab/Writing_Fast_MATLAB_Code.pdf<br>
-https://www.ee.columbia.edu/~marios/matlab/Matlab%20array%20manipulation%20tips%20and%20tricks.pdf<br><br>
+https://www.ee.columbia.edu/~marios/matlab/Matlab%20array%20manipulation%20tips%20and%20tricks.pdf<br>
+https://medium.com/@srishtisaha/matlab-my-learning-journey-and-some-tips-3c953b7e393a<br>
+https://web.stanford.edu/class/cme001/handouts/matlab.pdf<br>
+https://www.mccormick.northwestern.edu/documents/students/undergraduate/introduction-to-matlab.pdf<br>
+https://medium.com/@info_76575/what-are-the-best-sources-to-learn-matlab-programming-language-for-beginners-e3b817888cfc<br><br>
 <a href="https://in.mathworks.com/matlabcentral/answers/228557-experts-of-matlab-how-did-you-learn-any-advice-for-beginner-intermediate-users">
   <img align="center" src="https://user-images.githubusercontent.com/68437435/113461750-80cf9080-943b-11eb-88c5-74067ca42376.jpg" width="300" height="200"/>
 </a>

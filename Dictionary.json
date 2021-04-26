@@ -1,4 +1,4 @@
-[
+﻿[
 	{	
 		"Title" : ".NET",
 		"Tag" : "Programming Language",
@@ -2921,10 +2921,14 @@
 		"YT2 " : "https://www.youtube.com/channel/UCNYJACuYKQlScmTuyIe8J0g",
 		"YT3 " : "https://www.youtube.com/channel/UCEaVN5-XCvLgJOFAR_VOIoQ",
 		"YT4 " : "https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA",
+		"YT5 " : "https://www.youtube.com/playlist?list=PL60D54836FB8893F0",
+		"YT6 " : "https://www.youtube.com/watch?v=5A9sEaEt3Z4&list=PLcgIaTuuWp3kWI8d1C1wZDl0SfQDxm-CK",
+		"YT7 " : "https://www.youtube.com/watch?v=IuEOMyGuuIg&list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN",
 		"Website1" : "https://matlabacademy.mathworks.com/?s_tid=ac_ml_tut_til",
 		"Website2" : "https://nhigham.com/matlab-guide/",
 		"Website3" : "https://engineerexperiences.com/category/matlab",
 		"Website4" : "https://blogs.mathworks.com/videos/",
+		"Website5" : "https://medium.com/mathworks",
 		"Dedicated GH page1" : "https://github.com/mathworks",
 		"Dedicated GH page2" : "https://github.com/topics/matlab-codes",
 		"Dedicated GH page3" : "https://github.com/VivekKrG/MATLAB-projects-and-Assignments",
@@ -2934,10 +2938,19 @@
 		"Course2" : "https://www.udemy.com/course/matlab-essentials-for-engineering-and-science-students/",
 		"Course3" : "https://www.coursera.org/learn/matlab",
 		"Course4" : "https://www.linkedin.com/learning/learning-matlab-2/welcome",
+		"Course5" : " https://www.coursera.org/learn/advanced-matlab-programming",
+		"Course6" : "https://www.edx.org/course/matlab-and-octave-for-beginners",
+		"Course7" : "https://www.udemy.com/course/the-complete-matlab-mastery-course-for-beginners/",
+		"Course8" : "https://www.udemy.com/course/matlab_simulink-for-power-system-simulations/",
+		"Course9" : "https://www.udemy.com/course/matlab-the-need-to-know-basics/",
 		"Tips1" : "https://in.mathworks.com/videos/matlab-and-simulink-racing-lounge-how-to-make-your-matlab-experience-more-productive-99548.html",
 		"Tips2" : "https://www.ee.columbia.edu/~marios/matlab/GUIwithMatlab.pdf",
 		"Tips3" : "https://www.ee.columbia.edu/~marios/matlab/Writing_Fast_MATLAB_Code.pdf",	
-		"Tips4" : "https://www.ee.columbia.edu/~marios/matlab/Matlab%20array%20manipulation%20tips%20and%20tricks.pdf",	
+		"Tips4" : "https://www.ee.columbia.edu/~marios/matlab/Matlab%20array%20manipulation%20tips%20and%20tricks.pdf",
+		"Tips5" : "https://medium.com/@srishtisaha/matlab-my-learning-journey-and-some-tips-3c953b7e393a",
+		"Tips6" : "https://web.stanford.edu/class/cme001/handouts/matlab.pdf",
+		"Tips7" : "https://www.mccormick.northwestern.edu/documents/students/undergraduate/introduction-to-matlab.pdf",
+		"Tips8" : "https://medium.com/@info_76575/what-are-the-best-sources-to-learn-matlab-programming-language-for-beginners-e3b817888cfc",
 		"Image1" : "https://user-images.githubusercontent.com/68437435/113461750-80cf9080-943b-11eb-88c5-74067ca42376.jpg" 
     },
 	{
@@ -3079,6 +3092,7 @@
 	"Tips6" : "https://smlhelp.github.io/book/types/bool.html ",
 	"Tips7" : "https://www.youtube.com/watch?v=GYedTnX9vJQ "
 	},
+
     {
 		"Title": "Meteor",
 		"Tag": "JavaScript Framework",
@@ -3113,6 +3127,7 @@
 		"Tips4": "https://blog.zipboard.co/cfs-tips-and-tricks-for-meteorjs-d6a9f4e9ba43",
 		"Tips5": "https://til.codes/meteor-js-best-practices-and-techniques/"
 	},
+
 
 	{
 		"Title" : "Modo",
@@ -5437,6 +5452,7 @@
 		"Image1" : "https://s.w.org/style/images/about/WordPress-logotype-standard.png"
 	},
 	{
+
 		"Title": "Xamarin",
 		"Tag": "Software",
 		"Documentation": "https://docs.microsoft.com/en-us/xamarin/",
@@ -5472,6 +5488,7 @@
 		"Tips5": "https://www.slideshare.net/rid00z/10-awesome-xamarinforms-tips-tricks-52954064"
 	},
 	{
+
 		"Title" : "YII Framework",
 		"Tag" : "PHP Framework",
 		"Documentation" : "https://www.yiiframework.com/doc/api",
