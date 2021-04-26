@@ -1677,6 +1677,76 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
 </details>
 
 <details>
+<summary>ECMAScript </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://262.ecma-international.org/5.1/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=IEf1KAcK6A8 <br>
+https://www.youtube.com/watch?v=Jakoi0G8lBg <br>
+https://www.youtube.com/watch?v=ZJZfIw3P8No <br>
+https://www.youtube.com/watch?v=Iek4DtRobLA <br>
+https://www.youtube.com/watch?v=ma8vnKXuqRQ <br>
+https://www.youtube.com/watch?v=WZQc7RUAg18 <br>
+https://www.youtube.com/watch?v=TscMCI6do2I <br>
+https://www.youtube.com/watch?v=0Mp2kwE8xY0 <br>
+https://www.youtube.com/watch?v=JVKFTS9duIo <br>
+<br>
+Useful Websites -
+<br>
+https://www.ecma-international.org/publications-and-standards/standards/ecma-262/ <br>
+https://www.reddit.com/r/learnjavascript/comments/7g6g61/eli5_ecmascript/ <br>
+https://www.freecodecamp.org/news/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e/ <br>
+http://es6-features.org/#Constants <br>
+https://www.javascripttutorial.net/es6/setting-es6-project-using-babel/ <br>
+http://ccoenraets.github.io/es6-tutorial-data/project-setup/ <br>
+https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/es6-modules <br>
+https://ccoenraets.github.io/es6-tutorial/arrow-functions/#:~:text=The%20ECMAScript%206%20arrow%20function,track%20of%20the%20current%20scope. <br>
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/jonataswalker/es6-sample-project <br>
+https://github.com/rse/es6-features <br>
+https://github.com/tc39/test262 <br>
+https://github.com/tc39/agendas <br>
+https://github.com/tc39/notes <br>
+https://github.com/tyrchen/awesome-es6 <br>
+https://github.com/babel/babel <br>
+https://github.com/google/traceur-compiler <br>
+https://github.com/babel/babelify <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/ecmascript-2016-and-beyond/ <br>
+https://www.udemy.com/course/leveling-up-to-es6/ <br>
+https://www.udemy.com/course/es6-es7-and-es8-its-time-to-update-your-javascript/ <br>
+https://www.udemy.com/course/complete-javascript-es6-course/ <br>
+https://www.udemy.com/course/the-complete-javascript-es6-course/ <br>
+https://www.udacity.com/course/es6-javascript-improved--ud356 <br>
+https://www.pluralsight.com/courses/javascript-fundamentals-es6 <br>
+https://egghead.io/courses/learn-es6-ecmascript-2015 <br>
+https://www.udemy.com/course/modern-javascript-mastering-es6/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.benmvp.com/blog/learning-es6-12-tricks-for-es6-fun/ <br>
+https://www.freecodecamp.org/news/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c/ <br>
+https://www.freecodecamp.org/news/check-out-these-useful-ecmascript-2015-es6-tips-and-tricks-6db105590377/ <br>
+https://tkssharma.com/common-hacks-in-es6-es7-javascript/ <br>
+https://medium.com/dailyjs/7-hacks-for-es6-developers-4e24ff425d0b <br>
+https://medium.com/@bretcameron/12-javascript-tricks-you-wont-find-in-most-tutorials-a9c9331f169d <br>
+https://2ality.com/2016/05/six-nifty-es6-tricks.html <br>
+https://css-tricks.com/all-the-new-es2019-tips-and-tricks/ <br>
+https://levelup.gitconnected.com/ultimate-guide-to-tips-tricks-and-javascript-features-you-should-know-27e0a4a6ffdf <br>
+<br>
+<a href="https://i.pinimg.com/originals/b5/57/64/b55764416830e7d8b0133c7c0eeaf445.png">
+  <img align="center" src="https://i.pinimg.com/originals/b5/57/64/b55764416830e7d8b0133c7c0eeaf445.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
  <summary>Elasticsearch</summary>
  <br>Category/Type - <br> Database <br>
  <br>Official Documentation - <br> https://www.elastic.co/guide/index.html <br>
