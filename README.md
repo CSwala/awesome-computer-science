@@ -1320,6 +1320,46 @@ https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/<br>
 </details>
 
 <details>
+<summary>Computer Networks</summary>
+<br>
+Category/Type - <br>Communication Protocol
+<br>
+<br>
+Official Documentation - <br>
+https://en.wikipedia.org/wiki/Computer_network<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx<br>
+https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx<br>
+https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j<br>
+https://www.youtube.com/playlist?list=PLbRMhDVUMngf-peFloB7kyiA40EptH1up<br>
+<br>
+Useful Websites -
+https://www.javatpoint.com/types-of-computer-network<br>
+https://www.fieldengineer.com/blogs/what-is-a-computer-network<br>
+https://www.geeksforgeeks.org/basics-computer-networking/<br>
+https://www.tutorialspoint.com/computer_fundamentals/computer_networking.htm<br>
+https://www.guru99.com/basic-computer-network.html
+<br>
+Dedicated Github page - <br>
+https://github.com/HanochShi/Supplements-ComputerNetworking-ATopDownApproach-7th-ed<br>
+https://github.com/ruanyf/book-computer-networks<br>
+https://github.com/vincenzobaz/Computer-Networks-Notes<br>
+https://github.com/khanhnamle1994/computer-networking
+<br>
+Best Courses - <br>
+https://www.coursera.org/courses?query=computer%20network&page=1<br>
+https://www.coursera.org/courses?=&query=computer%20networks&page=1<br>
+https://www.coursera.org/browse/information-technology/networking
+<br>
+Other Tips / Hacks - <br>
+https://www.smallbusinesscomputing.com/webmaster/10-tips-for-better-computer-and-network-security.html<br>
+https://www.home-network-help.com/computer-networking.html<br>
+http://profameencse.weebly.com/news-letters/25-computer-networking-tips-and-tricks<br>
+<br><br>
+</details>
+
+<details>
 <summary>Computer Organization and Architecture</summary>
 <br>
 Category/Type - <br>
