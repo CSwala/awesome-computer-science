@@ -3576,6 +3576,43 @@ https://www.lwks.com/index.php?option=com_kunena&func=view&catid=27&id=32211&Ite
 </details>
 
 <details>
+<summary>Linux</summary>
+<br>Category/Type - <br>Operating System <br>
+<br>Official Documentation - <br> https://www.linux.org/ <br>
+<br>Best YouTube creators - 
+	<br> https://www.youtube.com/watch?v=V1y-mbWM3B8 
+	<br> https://www.youtube.com/watch?v=x-3TBVtM0-Y
+	<br> https://www.youtube.com/watch?v=_tCY-c-sPZc 
+	<br> https://www.youtube.com/watch?v=4ZHvZge1Lsw 
+	<br> https://www.youtube.com/watch?v=a2qblT7o4mE
+	<br> https://www.youtube.com/watch?v=Wgi-OfbP2Gw <br> 
+<br>Useful Websites - 
+	<br> https://www.w3schools.in/operating-system-tutorial/linux-operating-system/ 
+	<br> http://www.linuxfromscratch.org/ 
+	<br> https://coderscat.com/how-to-learn-linux/
+	<br> https://www.javatpoint.com/linux-tutorial 
+	<br> https://www.tutorialspoint.com/unix/index.html <br>
+<br>Dedicated Github page - 
+	<br> https://github.com/torvalds/linux 	
+	<br> https://github.com/raspberrypi/linux 
+	<br> https://github.com/digi-embedded/linux 
+	<br> https://github.com/gregkh/linux <br>
+<br>Best Courses - 
+	<br> https://www.udemy.com/course/learn-linux-in-5-days/ 
+	<br> https://www.udemy.com/course/linux-command-line-volume1/ 
+	<br> https://www.udemy.com/course/linux-mastery/ 
+	<br> https://www.udemy.com/course/linuxforbeginners/ <br>
+<br> Some Other Tips / Hacks -
+	<br> https://developer.ibm.com/technologies/linux/tutorials/l-lpic1-map/ 	
+	<br> https://access.redhat.com/sites/default/files/attachments/ron_pachecov2.pdf 	
+	<br> https://www.educba.com/careers-in-linux/
+	<br> http://www.linuxfromscratch.org/
+	<br> https://www.cyberciti.biz/open-source/command-line-hacks/20-unix-command-line-tricks-part-i/
+	
+<br><br><br>
+</details>
+
+<details>
 <summary>Lisp</summary>
 <br>Category/Type - <br>
 family of programming languages<br>
