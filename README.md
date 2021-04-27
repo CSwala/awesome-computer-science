@@ -4608,6 +4608,7 @@ https://www.datacamp.com/community/blog/python-scipy-cheat-sheet
 https://ugoproto.github.io/ugo_py_doc/pdf/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf<br>
 </details>
 
+
 <details>
 <summary>Scikit Learn</summary>
 <br>
@@ -4650,6 +4651,7 @@ https://medium.com/edureka/scikit-learn-machine-learning-7a2d92e4dd07<br>
 https://www.kdnuggets.com/2021/01/ultimate-scikit-learn-machine-learning-cheatsheet.html<br>
 <br>
 </details>
+
 
 
 <details>
