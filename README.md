@@ -3395,6 +3395,77 @@ https://crunchify.com/5-cool-useful-jquery-tips-tricks-solutions/ <br>
 </details>
 
 <details>
+<summary>JSX </summary>
+<br>
+Category/Type - <br>Programming Language <br>
+<br>
+Official Documentation - <br>
+https://reactjs.org/docs/introducing-jsx.html <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=7fPXI_MnBOY <br>
+https://www.youtube.com/watch?v=70fadMRqnBo <br>
+https://www.youtube.com/watch?v=yc8fg7gWbBA <br>
+https://www.youtube.com/watch?v=aNoq9-thvjQ <br>
+https://www.youtube.com/watch?v=ELQvmmxqDHI <br>
+https://www.youtube.com/watch?v=iuGpYzzyd6I <br>
+https://www.youtube.com/watch?v=p9m_v9OxfAM <br>
+https://www.youtube.com/watch?v=RBuofX5CghE <br>
+https://www.youtube.com/watch?v=mkTht9aQf4I <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/reactjs/comments/46u85g/when_do_you_use_jsx/ <br>
+https://reactjs.org/docs/jsx-in-depth.html <br>
+https://www.freecodecamp.org/news/jsx-in-react-introduction/ <br>
+https://reactjs.org/community/examples.html <br>
+https://reactjs.org/docs/code-splitting.html <br>
+https://www.npmjs.com/package/react-jsx <br>
+https://blog.bitsrc.io/understanding-fragments-in-react-a1b6e534b01a <br>
+https://stackoverflow.com/questions/33042923/what-is-the-difference-between-javascript-and-jsx <br>
+https://thecodebarbarian.com/overview-of-jsx-with-non-react-examples.html <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/jsx/JSX <br>
+https://github.com/facebook/jsx <br>
+https://github.com/acornjs/acorn-jsx <br>
+https://github.com/vuejs/jsx <br>
+https://github.com/jsx/nodejs.jsx <br>
+https://github.com/jsx/jsx.github.com <br>
+https://github.com/jsx/jsx-ui <br>
+https://github.com/jsx/jsx-websql <br>
+https://github.com/jsx/mizuki <br>
+<br>
+Best Courses - <br>
+https://jsx.github.io/ <br>
+https://scotch.io/starters/react/jsx-basics <br>
+https://www.w3schools.com/react/react_jsx.asp <br>
+https://www.sitepoint.com/an-introduction-to-jsx/ <br>
+https://www.reactenlightenment.com/react-jsx/5.1.html <br>
+https://www.edx.org/course/programming-for-the-web-with-javascript <br>
+https://www.udemy.com/course/reactjs-training/ <br>
+https://www.udemy.com/course/intermediate-coders-use-javascript-to-make-web-apps-and-art/ <br>
+https://www.udemy.com/course/react-basics-for-beginners-javascript/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://javascript.plainenglish.io/8-react-tips-tricks-1f1a429d7da0 <br>
+https://www.freecodecamp.org/news/the-beginners-collection-of-powerful-tips-and-tricks-for-react-f2e3833c6f12/ <br>
+https://dev.to/simonholdorf/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-4fhn <br>
+https://jsmanifest.com/8-useful-tricks-in-react-you-should-know/ <br>
+https://thesmartcoder.dev/10-tips-and-tricks-that-will-make-you-a-better-reactjs-dev/ <br>
+http://www.hackingwithreact.com/ <br>
+https://blog.bitsrc.io/5-recommended-reactjs-tips-and-best-practices-9a7e2f6526a4 <br>
+https://betterprogramming.pub/10-tips-and-tricks-to-boost-your-react-apps-performance-in-2020-9388159f6ebf <br>
+https://www.toptal.com/react/tips-and-practices <br>
+<br>
+<a href="https://res.cloudinary.com/practicaldev/image/fetch/s--jaFWlQCW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/bqc1gncxdhau0zfuxqmp.png">
+  <img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--jaFWlQCW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/bqc1gncxdhau0zfuxqmp.png" width="1000" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+
+<details>
 <summary>Keras</summary>
 <br>Category/Type - <br> API <br>
 <br>Official Documentation - <br> https://keras.io/api/ <br>
