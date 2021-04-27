@@ -6328,6 +6328,50 @@ https://stencyltutorials.wordpress.com/tag/tricks/<br>
 </details>
 
 <details>
+<summary>Svelte</summary>
+<br>Category/Type - <br>Frontend JavaScript Framework<br>
+<br>Official Documentation - <br>
+https://svelte.dev/tutorial/basics<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/channel/UCZSr5B0l07JXK2FIeWA0-jw
+<br>
+https://www.youtube.com/channel/UCg6SQd5jnWo5Y70rZD9SQFA
+<br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO
+<br>
+<br>Useful Websites - <br>
+https://sveltesummit.com/
+<br>
+https://svelte.school/
+<br>
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started<br>
+<br>Dedicated Github page - <br>
+https://github.com/sveltejs/template
+<br>
+https://github.com/sveltejs/svelte-preprocess
+<br>
+https://github.com/ItalyPaleAle/svelte-spa-router
+<br>
+https://github.com/matyunya/smelte
+<br>
+<br>Best Courses - 	<br>
+https://www.udemy.com/course/svelte-tutorial-and-projects-course/
+<br>
+https://www.udemy.com/course/sveltejs-the-complete-guide/
+<br>
+https://www.pluralsight.com/courses/svelte-getting-started
+<br>
+https://www.youtube.com/watch?v=ujbE0mzX-CU
+<br>
+<br>Other Tips / Hacks - <br>
+https://www.freecodecamp.org/news/the-svelte-handbook/
+<br>
+https://syntax.fm/show/173/hasty-treat-wes-and-scott-look-at-svelte-3
+<br>
+</details> 
+
+
+<details>
 <summary>Swift</summary>
 <br>Category/Type - <br> Programming language <br>
 <br>Official Documentation - <br> https://developer.apple.com/documentation/swift <br>
