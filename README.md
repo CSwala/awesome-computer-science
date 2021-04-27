@@ -5955,7 +5955,51 @@ https://www.datacamp.com/community/blog/python-scipy-cheat-sheet
 https://ugoproto.github.io/ugo_py_doc/pdf/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf<br>
 </details>
 
-
+<details>
+<summary>Scikit Learn</summary>
+<br>
+Category/Type - <br>
+Python Library<br>
+<br>
+Documentation - <br>
+https://scikit-learn.org/stable/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=pqNCD_5r0IU<br>
+https://www.youtube.com/watch?v=URTZ2jKCgBc&list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3<br>
+https://www.youtube.com/watch?v=0Lt9w-BxKFQ<br>
+https://www.youtube.com/watch?v=bwZ3Qiuj3i8<br>
+https://www.youtube.com/watch?v=OobqWEUrVKw<br>
+https://www.youtube.com/watch?v=y5V-4AML-C8&list=PL3GCZkoyKK4ehShTj1umQDmRJORS6ZI9S<br>
+https://www.youtube.com/watch?v=ylzmtKJnFko&list=PLTgRMOcmRb3MQnbKVkKIkYnQTlhBEXWSJ<br>
+<br>
+Useful Websites - <br>
+https://www.tutorialspoint.com/scikit_learn/scikit_learn_introduction.htm<br>
+https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/<br>
+https://www.analyticsvidhya.com/blog/2015/01/scikit-learn-python-machine-learning-tool/ <br>
+https://www.tutorialspoint.com/scikit_learn/index.htm<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/scikit-learn/scikit-learn<br>
+https://github.com/jakevdp/sklearn_tutorial<br>
+https://github.com/automl/auto-sklearn<br>
+https://github.com/scikit-learn/scikit-learn.github.io<br>
+<br>
+Best Courses - <br>
+https://www.datacamp.com/community/tutorials/machine-learning-python<br>
+https://www.dataquest.io/blog/sci-kit-learn-tutorial/<br>
+https://www.coursera.org/learn/python-machine-learning?utm_medium=institutions&utm_source=umich&utm_campaign=adwords-applied-data-science-with-python-applied-machine-learning&utm_term=%2Bscikit-learn%20%2Bcourse&gclid=CjwKCAjwg4-EBhBwEiwAzYAlssTWnfwkDGWca2TxJ12mlmD27hbdQmdtEhzuVsl3UDe6xCIvUHuc8hoCW40QAvD_BwE<br>
+https://www.pluralsight.com/courses/python-understanding-machine-learning?aid=7010a000002BWq6AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=IN_Dynamic&utm_content=&gclid=CjwKCAjwg4-EBhBwEiwAzYAlsojh7wFhPPJIq6OG_CXgY7OICtM-nnJId25Vyl5AOE6lNgY9Ett1jRoCZa4QAvD_BwE<br>
+https://www.freecodecamp.org/news/machine-learning-with-scikit-learn-full-course/ <br>
+https://www.classcentral.com/course/scikit-learn-simple-linear-regression-17015<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.guru99.com/scikit-learn-tutorial.html<br>
+https://www.dataschool.io/machine-learning-with-scikit-learn/<br>
+https://medium.com/bootrain-blog/a-comprehensive-guide-to-scikit-learn-part-1-overview-of-the-package-b766f1da50da<br>
+https://medium.com/edureka/scikit-learn-machine-learning-7a2d92e4dd07<br>
+https://www.kdnuggets.com/2021/01/ultimate-scikit-learn-machine-learning-cheatsheet.html<br>
+</details>
 <details>
 <summary>Scrapy</summary>
 <br>
