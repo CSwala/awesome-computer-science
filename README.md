@@ -7185,6 +7185,76 @@ https://www.slideshare.net/rid00z/10-awesome-xamarinforms-tips-tricks-52954064 <
 <br>
 </details>
 
+<details>
+<summary>Xcode </summary>
+<br>
+Category/Type - <br>Software <br>
+<br>
+Official Documentation - <br>
+https://developer.apple.com/xcode/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=_YvAUgV6GYM <br>
+https://www.youtube.com/watch?v=tPWUsSELJyY <br>
+https://www.youtube.com/watch?v=lOZSQzsrNVQ <br>
+https://www.youtube.com/watch?v=MvEZqNr6d1E <br>
+https://www.youtube.com/watch?v=EVjw2L_osKg <br>
+https://www.youtube.com/watch?v=xsohzfdeDng <br>
+https://www.youtube.com/watch?v=htGBvkn0tN0 <br>
+https://www.youtube.com/watch?v=CvqJ0QRIWH8 <br>
+https://www.youtube.com/watch?v=CYZYcEi8Ll4 <br>
+<br>
+Useful Websites -
+<br>
+https://developer.apple.com/xcode/resources/ <br>
+https://developer.apple.com/xcode/ide/ <br>
+https://learnappmaking.com/xcode-tutorial/ <br>
+https://developer.apple.com/documentation/xcode/creating_an_xcode_project_for_an_app <br>
+https://medium.com/remote-ios-dev/9-requirements-for-setting-up-a-new-xcode-project-781b80e72d02 <br>
+https://www.reddit.com/r/Xcode/ <br>
+https://spin.atomicobject.com/2016/02/06/alcatraz-xcode-plugins/ <br>
+https://nshipster.com/xcode-plugins/ <br>
+https://maniacdev.com/xcode-plugins <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/tuist/XcodeProj <br>
+https://github.com/apple/swift <br>
+https://github.com/soapyigu/Swift-30-Projects <br>
+https://github.com/Alamofire/Alamofire <br>
+https://github.com/davidwernhart/AlDente <br>
+https://github.com/signalapp/Signal-iOS <br>
+https://github.com/BenSova/Patched-Sur <br>
+https://github.com/MessageKit/MessageKit <br>
+https://github.com/shadowsocks/ShadowsocksX-NG <br>
+<br>
+Best Courses - <br>
+https://developer.apple.com/learn/curriculum/ <br>
+https://www.coursera.org/learn/swift-5-programming-introduction <br>
+https://www.udemy.com/course/ios-9-swift-2-xcode-73-build-a-live-weather-app/ <br>
+https://www.udemy.com/course/ios-10-xcode-8/ <br>
+https://www.udemy.com/course/ios-11-xcode-9-swift-4/ <br>
+https://www.udemy.com/course/ios-12-xcode-10/ <br>
+https://www.udemy.com/course/ios10developer/ <br>
+https://www.udemy.com/course/xcode-tips-and-tricks/ <br>
+https://www.udemy.com/course/master-xcode-and-swift/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.hackingwithswift.com/articles/229/24-quick-xcode-tips#:~:text=Filtering%20the%20jump%20bar,also%20works%20for%20device%20selection. <br>
+https://www.hackingwithswift.com/articles/166/xcode-tips-and-tricks-part-one <br>
+https://medium.com/snowdog-labs/37-xcode-tips-and-tricks-c8427784ba48 <br>
+https://www.raywenderlich.com/19019328-xcode-tips-and-tricks <br>
+https://www.detroitlabs.com/blog/2017/04/13/17-xcode-tips-and-tricks-that-every-ios-developer-should-know/ <br>
+https://betterprogramming.pub/xcode-hacks-cf32434cbc2 <br>
+https://dzone.com/articles/the-best-xcode-tips-amp-tricks-every-developer-sho <br>
+https://www.git-tower.com/blog/6-tips-for-xcode/ <br>
+https://www.reddit.com/r/iOSProgramming/comments/f6pss/what_are_some_xcode_tips_tricks_and_hacks_that/ <br>
+<br>
+<a href="https://3d.bk.tudelft.nl/ken/img/blog/xcode-logo.jpg">
+  <img align="center" src="https://3d.bk.tudelft.nl/ken/img/blog/xcode-logo.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
 <details>  
 <summary>YII Framework</summary>
 <br>
