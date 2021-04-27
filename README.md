@@ -1656,6 +1656,52 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 </details>
 
 <details>
+<summary>Deep Learning</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/Deep_learning<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI<br>
+https://www.youtube.com/watch?v=9jA0KjS7V_c&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi<br>
+https://www.youtube.com/watch?v=aPfkYu_qiF4&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT<br>
+https://www.youtube.com/watch?v=tDaGT4N4aCA&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL<br>
+<br>
+Useful Websites - <br>
+https://www.geeksforgeeks.org/convolutional-neural-network-cnn-in-machine-learning/<br>
+https://www.geeksforgeeks.org/introduction-deep-learning/<br>
+https://www.tensorflow.org/<br>
+https://www.tutorialspoint.com/python_deep_learning/index.htm<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/udacity/deep-learning<br>
+https://github.com/mbadry1/Top-Deep-Learning<br>
+https://github.com/mbadry1/Trending-Deep-Learning<br>
+https://github.com/ChristosChristofidis/awesome-deep-learning<br>
+https://github.com/mnielsen/neural-networks-and-deep-learning<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/specializations/deep-learning<br>
+https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187<br>
+https://www.mathworks.com/discovery/deep-learning.html<br>
+https://www.udacity.com/course/deep-learning-nanodegree--nd101<br>
+https://www.coursera.org/learn/deep-neural-network<br>
+https://www.udemy.com/course/deep-learning-with-python-and-keras/<br>
+<br>
+Other Tips/Hacks - <br>
+https://machinelearningmastery.com/what-is-deep-learning/<br>
+https://medium.com/intro-to-artificial-intelligence/deep-learning-series-1-intro-to-deep-learning-abb1780ee20<br>
+https://towardsdatascience.com/introducing-deep-learning-and-neural-networks-deep-learning-for-rookies-1-bd68f9cf5883<br>
+https://towardsdatascience.com/intro-to-deep-learning-d5caceedcf85<br>
+https://www.analyticsvidhya.com/blog/2018/10/introduction-neural-networks-deep-learning/<br>
+<br>
+</details>
+
+
+<details>
 <summary>DevOps</summary>
 <br>
 Category/Type - <br>
