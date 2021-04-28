@@ -4805,7 +4805,7 @@ https://www.i-programmer.info/programming/other-languages/4779-a-programmers-gui
 https://homepages.inf.ed.ac.uk/imurray2/compnotes/octmattricks.html <br>
 <br>
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" width="1000" height="500"/>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" width="500" height="500"/>
 </a>
 <br><br><br>
 </details>
