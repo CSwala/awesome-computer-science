@@ -1284,6 +1284,36 @@
 		"Tips3" : "https://www.educative.io/blog/dart-tips-tricks ",
 		"Image1" : "https://miro.medium.com/max/3532/1*nucyFw-E5Lotofy1WSWMqw.png "
 	},
+	{	
+		"Title" : "Data Mining",
+		"Tag" : "Data Analysis",
+		"Documentation" : "https://www.oracle.com/database/technologies/advanced-analytics/odm-documentation.html",
+		"YT1" : "https://www.youtube.com/watch?v=z--2rCShvL0",
+		"YT2" : "https://www.youtube.com/watch?v=bz0N-WP2FQE",
+		"YT3" : "https://www.youtube.com/watch?v=BB2O4VCu5j8",
+		"YT4" : "https://www.youtube.com/watch?v=NGnst2LDlUo",
+		
+		"Website1" : "https://www.investopedia.com/terms/d/datamining.asp#:~:text=Data%20mining%20is%20a%20process,increase%20sales%20and%20decrease%20costs.",
+		"Website2" : "https://www.javatpoint.com/data-mining",
+		"Website3" : "https://www.talend.com/resources/what-is-data-mining/",
+		"Website4" : "https://economictimes.indiatimes.com/definition/data-mining",
+
+		"Dedicated GH page1" : "https://github.com/nirbarazida/Data-mining-project",
+		"Dedicated GH page2" : "https://github.com/elki-project/elki",
+		"Dedicated GH page3" : "https://github.com/eclarson/DataMiningNotebooks",
+
+		"Course1" : "https://www.coursera.org/specializations/data-mining",
+		"Course2" : "https://www.udemy.com/topic/data-mining/",
+		"Course3" : "https://online-learning.harvard.edu/subject/data-mining",
+		"Course4" : "https://online.stanford.edu/courses/stats202-data-mining-and-analysis",
+		
+		"Tips1" : "https://www.datasciencecentral.com/profiles/blogs/9-tips-for-effective-data-mining",
+		"Tips2" : "https://neilpatel.com/blog/data-mining/",
+		"Tips3" : "https://www.analyticsvidhya.com/blog/2020/03/10-awesome-data-manipulation-and-wrangling-hacks-tips-and-tricks/",
+		"Tips4" : "https://www.dummies.com/programming/big-data/data-science/data-mining-for-dummies-cheat-sheet/",
+		"Tips5" : "https://www.javatpoint.com/data-mining", 
+		"Tips6" : "https://snov.io/blog/data-mining-tools-the-what-the-why-and-the-how/", 
+	},
 	{
 		"Title" : "Data Science",
 		"Tag" : "Development",
