@@ -5080,6 +5080,42 @@ https://websitesetup.org/php-cheat-sheet/ <br> https://www.smashingmagazine.com/
 <br><br>
 </details>
 
+
+ <details>
+ <summary>Play Framework</summary>
+ <br>Category/Type - <br>Web Application Framework<br>
+ <br>Official Documentation - <br> https://www.playframework.com/documentation/2.8.x/Home <br>
+ <br>Best YouTube creators - <br> 
+ https://www.youtube.com/watch?v=zQUZOiQPz_I&list=PLYPFxrXyK0Bx9SBkNhJr1e2-NlIq4E7ED <br> 
+ https://www.youtube.com/watch?v=bLrmnjPQsZc <br>
+ https://www.youtube.com/watch?v=FqMDHsFNlxQ&list=PLLMXbkbDbVt8tBiGc1y69BZdG8at1D7ZF <br> 
+ https://www.youtube.com/watch?v=skd4YrfgniM <br>
+ https://www.youtube.com/watch?v=t620S8-cwWg <br> 
+ <br>Useful Websites - <br>
+ https://www.playframework.com <br>
+ https://dzone.com/refcardz/getting-started-play-framework <br> 
+ https://www.baeldung.com/java-intro-to-the-play-framework<br> 
+ https://www.lightbend.com/play-framework-part-of-akka-platform <br> 
+ https://www.playframework.com/modules/scala-0.9.1/home <br>
+ <br>Dedicated Github page - <br> 
+ https://github.com/playframework/playframework <br> 
+ https://github.com/playframework <br>
+ https://github.com/playframework/play1<br>
+ https://github.com/reljicd/play-framework-blog<br>
+ https://github.com/gradle/playframework<br>
+ <br>Best Courses - <br> 
+ https://www.lynda.com/Java-tutorials/Learning-Play-2-Framework/2811356-2.html <br>
+ https://www.udemy.com/course/play-framework-for-web-application-development/ <br> 
+ https://www.developintelligence.com/catalog/big-data/scala/introduction-to-play-framework/ <br>
+ https://www.playframework.com/modules/scala-0.9.1/learnscala <br>
+ https://www.eduonix.com/courses/Web-Development/learn-to-build-apps-using-play-framework<br>
+ <br>Other Tips / Hacks - <br> 
+ https://www.viralpatel.net/category/play-framework-2/ <br>
+  https://www.playframework.com/documentation/2.1.1/Tips <br>
+ https://www.toptal.com/scala/scaling-play-to-thousands-of-concurrent-requests <br> 
+ <br>
+ </details>
+
 <details>
 <summary>PostgreSQL</summary>
 <br>Category/Type - <br>Relational Database Management System<br>

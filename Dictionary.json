@@ -3113,8 +3113,6 @@
 		"Some Other Tips / Hacks 5":"https://www.cyberciti.biz/open-source/command-line-hacks/20-unix-command-line-tricks-part-i/",
 
 	},
-
-	
 	{
 		"Title" : "Lisp",
 		"Tag" : "Family of programming languages",
@@ -4105,6 +4103,34 @@
 		"Tips3" : "https://websitesetup.org/php-cheat-sheet/",
 		"Tips4" : "https://www.smashingmagazine.com/2009/03/10-useful-php-tips-revisited/"
 	},
+   {
+	 "Title":"Play Framework",
+	 "Tag":"Web Application Framework",
+	 "Documentation" :"https://www.playframework.com/documentation/2.8.x/Home ",
+	 "YT1":"https://www.youtube.com/watch?v=zQUZOiQPz_I&list=PLYPFxrXyK0Bx9SBkNhJr1e2-NlIq4E7ED",
+	 "YT2" :" https://www.youtube.com/watch?v=bLrmnjPQsZc ",
+	 "YT3":"https://www.youtube.com/watch?v=FqMDHsFNlxQ&list=PLLMXbkbDbVt8tBiGc1y69BZdG8at1D7ZF",
+	 "YT4": "https://www.youtube.com/watch?v=skd4YrfgniM ",
+	 "YT5": "https://www.youtube.com/watch?v=t620S8-cwWg",
+	 "Website1":"https://www.playframework.com",
+	 "Website2":"https://dzone.com/refcardz/getting-started-play-framework",
+	 "Website3":"https://www.baeldung.com/java-intro-to-the-play-framework",
+	 "Website4":"https://www.lightbend.com/play-framework-part-of-akka-platform",
+	 "Website5":"https://www.playframework.com/modules/scala-0.9.1/home ",
+	 "Dedicated GH page1":"https://github.com/playframework/playframework",
+	 "Dedicated GH page2":"https://github.com/playframework ",
+	 "Dedicated GH page3":"https://github.com/playframework/play1",
+	 "Dedicated GH page4":"https://github.com/reljicd/play-framework-blog",
+	 "Dedicated GH page5":"https://github.com/gradle/playframework",
+	 "Course1":"https://www.lynda.com/Java-tutorials/Learning-Play-2-Framework/2811356-2.html",
+	 "Course2":"https://www.udemy.com/course/play-framework-for-web-application-development/ ",
+	 "Course3":"https://www.developintelligence.com/catalog/big-data/scala/introduction-to-play-framework/ ",
+	 "Course4":"https://www.playframework.com/modules/scala-0.9.1/learnscala ",
+	 "Course5":"https://www.eduonix.com/courses/Web-Development/learn-to-build-apps-using-play-framework",
+	 "Tips1":"https://www.viralpatel.net/category/play-framework-2/",
+	 "Tips2":" https://www.playframework.com/documentation/2.1.1/Tips ",
+	 "Tips3":"https://www.toptal.com/scala/scaling-play-to-thousands-of-concurrent-requests"
+   },
 	{
 		"Title" : "PostgreSQL",
 		"Tag" : "Relational Database Management System",
