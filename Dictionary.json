@@ -5071,6 +5071,28 @@
 		"Image1" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Stencyl_logotype.svg/245px-Stencyl_logotype.svg.png"
 	},
 	{
+		"Title": "Svelte",
+		"Tag": "Frontend JavaScript Framework",
+		"Documentation": "https://svelte.dev/tutorial/basics",
+		"YT1": "https://www.youtube.com/channel/UCZSr5B0l07JXK2FIeWA0-jw",
+		"YT2": "https://www.youtube.com/channel/UCg6SQd5jnWo5Y70rZD9SQFA",
+		"YT3": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO",
+		"Website1": "https://sveltesummit.com/",
+		"Website2": "https://svelte.school/",
+		"Website3": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started",
+		"Dedicated GH page1": "https://github.com/sveltejs/template",
+		"Dedicated GH page2": "https://github.com/sveltejs/svelte-preprocess",
+		"Dedicated GH page3": "https://github.com/ItalyPaleAle/svelte-spa-router",
+		"Dedicated GH page4": "https://github.com/matyunya/smelte",
+		"Course1": "https://www.udemy.com/course/svelte-tutorial-and-projects-course/",
+		"Course2": "https://www.udemy.com/course/sveltejs-the-complete-guide/",
+		"Course3": "https://www.pluralsight.com/courses/svelte-getting-started",
+		"Course4": "https://www.youtube.com/watch?v=ujbE0mzX-CU",
+		"Tips1": "https://www.freecodecamp.org/news/the-svelte-handbook/",
+		"Tips2": "https://syntax.fm/show/173/hasty-treat-wes-and-scott-look-at-svelte-3",
+		"Image1": "https://res.cloudinary.com/practicaldev/image/fetch/s--be3eR7Dm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nunomalex.me/svelte-logo.png"
+	},
+	{
 		"Title" : "Swift",
 		"Tag" : "Programming language",
 		"Documentation" : "https://developer.apple.com/documentation/swift",
