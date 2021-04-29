@@ -4755,6 +4755,62 @@ https://dev.realworldocaml.org/compiler-frontend.html <br>
 </details>
 
 <details>
+<summary>Octave </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://www.gnu.org/software/octave/index <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=sHGqwF2s-tM <br>
+https://www.youtube.com/watch?v=e2Ypm-fNVlA <br>
+https://www.youtube.com/playlist?list=PL1A2CSdiySGJ6oZe6XB-TTCFuHc5Fs1PO <br>
+https://www.youtube.com/playlist?list=PLTwPa5Tfu7AWcFaPV4uQSRr8EzYlv61Ow <br>
+https://www.youtube.com/watch?v=woiU5PRVm7M <br>
+<br>
+Useful Websites -
+<br>
+https://www.gnu.org/software/octave/octave.pdf <br>
+https://octave.sourceforge.io/docs.php <br>
+https://docs.octave.dev/ <br>
+https://octave.org/doc/latest/ <br>
+https://octave.org/doc/v5.2.0/ <br>
+https://octave.org/doc/v4.0.0/ <br>
+https://wiki.octave.org/wiki/index.php?title=Project_-_Documentation&mobileaction=toggle_view_desktop <br>
+http://www-mdp.eng.cam.ac.uk/web/CD/engapps/octave/octavetut.pdf <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/gnu-octave <br>
+https://github.com/NexMirror/Octave <br>
+https://github.com/TheAlgorithms/MATLAB-Octave <br>
+https://education.github.community/t/math-exercises-using-gnu-octave-and-github-autograding/66286 <br>
+https://github.com/schneems/Octave <br>
+https://github.com/terrychenism/OctaveConv <br>
+<br>
+Best Courses - <br>
+https://www.edx.org/course/matlab-and-octave-for-beginners <br>
+https://www.coursera.org/courses?query=octave <br>
+https://www.classcentral.com/course/edx-matlab-and-octave-for-beginners-7376 <br>
+https://www.mooc-list.com/tags/octave <br>
+https://www.educba.com/data-science/courses/octave-training/ <br>
+https://towardsdatascience.com/octave-scientific-programming-language-crash-course-2ab8d864a01d <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.pianistmagazine.com/blogs/9-professional-tips-for-practising-octaves/ <br>
+http://wiki.octave.org/Tips_and_tricks <br>
+https://melaniespanswick.com/2015/12/07/9-top-tips-for-practising-octaves/ <br>
+https://www.packtpub.com/big-data-and-business-intelligence/gnu-octave-beginners-guide <br>
+https://www.i-programmer.info/programming/other-languages/4779-a-programmers-guide-to-octave.html <br>
+https://homepages.inf.ed.ac.uk/imurray2/compnotes/octmattricks.html <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>OpenCV</summary>
 <br>
 Category/Type - <br>
