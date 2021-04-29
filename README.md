@@ -1612,6 +1612,54 @@ https://www.educative.io/blog/dart-tips-tricks <br><br>
 </details>
 
 <details>
+<summary>Data Mining</summary>
+<br>
+Category/Type - <br>
+Data Analysis<br>
+Official Documentation -<br>
+https://www.oracle.com/database/technologies/advanced-analytics/odm-documentation.html
+<br>
+
+Best YouTube creators - 
+<br> https://www.youtube.com/watch?v=z--2rCShvL0
+<br>https://www.youtube.com/watch?v=bz0N-WP2FQE
+<br>https://www.youtube.com/watch?v=BB2O4VCu5j8
+<br>https://www.youtube.com/watch?v=NGnst2LDlUo
+<br><br>
+
+Useful Websites -
+<br> https://www.investopedia.com/terms/d/datamining.asp#:~:text=Data%20mining%20is%20a%20process,increase%20sales%20and%20decrease%20costs.
+<br> https://www.javatpoint.com/data-mining
+<br> https://www.talend.com/resources/what-is-data-mining/
+<br> https://economictimes.indiatimes.com/definition/data-mining
+<br><br>
+
+Dedicated Github page - 
+<br>https://github.com/nirbarazida/Data-mining-project
+<br>https://github.com/elki-project/elki
+<br>https://github.com/eclarson/DataMiningNotebooks
+<br><br>
+
+Best Courses - 
+<br>https://www.coursera.org/specializations/data-mining
+<br>https://www.udemy.com/topic/data-mining/
+<br>https://online-learning.harvard.edu/subject/data-mining
+<br>https://online.stanford.edu/courses/stats202-data-mining-and-analysis
+<br><br>
+
+Other Tips / Hacks -
+<br>https://www.datasciencecentral.com/profiles/blogs/9-tips-for-effective-data-mining
+<br>https://neilpatel.com/blog/data-mining/
+<br>https://www.analyticsvidhya.com/blog/2020/03/10-awesome-data-manipulation-and-wrangling-hacks-tips-and-tricks/
+<br>https://www.dummies.com/programming/big-data/data-science/data-mining-for-dummies-cheat-sheet/
+<br>https://www.javatpoint.com/data-mining
+<br>https://snov.io/blog/data-mining-tools-the-what-the-why-and-the-how/
+
+
+<br><br>
+</details>
+
+<details>
 <summary>Data Science</summary>
 <br>
 Category/Type - <br>
