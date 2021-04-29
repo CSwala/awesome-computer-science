@@ -1193,6 +1193,41 @@
 		"Tips1" : "https://www.geeksforgeeks.org/last-minute-notes-computer-organization/ ",
 		"Tips2" : "https://lastmomenttuitions.com/course/coa/"
 	},
+
+        {
+"Title" : "Computer Vision",
+		"Tag" : "Development",
+		"Documentation" : "https://en.wikipedia.org/wiki/Computer_vision",
+		"YT1 " : "https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ",
+		"YT2 " : "https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r",
+		"YT3 " : "https://www.youtube.com/watch?v=h8tk0hmWB44&list=PLRqwX-V7Uu6aG2RJHErXKSWFDXU4qo_ro",
+		"YT4 " : "https://www.youtube.com/watch?v=vsCc-A_1V04&list=PLkPmSWtWNIyQTrMpEdX35OusFgRB5G9AO",
+		"Website1" : "https://www.geeksforgeeks.org/computer-vision-introduction/",
+		"Website2" : "https://medium.com/edureka/python-opencv-tutorial-5549bd4940e3",
+		"Dedicated GH page1" : "https://github.com/jbhuang0604/awesome-computer-vision ",
+		"Dedicated GH page2" : "https://github.com/topics/computer-vision ",
+		"Dedicated GH page3" : "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+		"Dedicated GH page4" : "https://github.com/microsoft/computervision-recipes ",	
+		"Dedicated GH page5" : "https://github.com/anuragreddygv323/computer-vision-projects",	
+		"Course1" : "https://www.udacity.com/course/introduction-to-computer-vision--ud810 ",
+		"Course2" : "https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow",
+		"Course3" : "https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/",
+		"Course4" : "https://www.udemy.com/course/computer-vision-masterclass/",
+                                 "Course5" : "https://www.udemy.com/course/computer-vision-face-recognition-quick-starter-in-python/",
+		 "Course6" : "https://www.udemy.com/course/computer-vision-in-python-face-detection-image-processing/",
+ 		"Course7" : "https://www.udemy.com/course/learn-computer-vision-with-opencv-and-python/",
+		"Tips1" : "https://towardsdatascience.com/computer-vision-for-beginners-part-1-7cca775f58ef",
+		"Tips2" : "https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e",
+		"Tips3" : " https://www.tutorialspoint.com/dip/computer_vision_and_graphics.htm",	
+		"Tips4" : "https://medium.com/@rinu.gour123/ai-python-computer-vision-tutorial-with-opencv-b7f86c3c6a1a ",	
+		"Tips5" : "https://medium.com/@ODSC/4-steps-to-start-machine-learning-with-computer-vision-9658fef424c0 ",	
+		"Tips6" : "https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b",
+                "Tips7" : "https://towardsdatascience.com/a-beginners-guide-to-computer-vision-dca81b0e94b4",	
+                "Tips8" : "https://medium.com/@anirbanvalueinvesting/computer-vision-projects-64a59df35493",	
+                "Tips9" : "https://medium.com/analytics-vidhya/ways-to-boost-your-computer-vision-projects-by-using-5-open-source-facial-recognition-projects-56668f170cb9"	
+        },
+
+
 	{
 		"Title" : "CryEngine",
 		"Tag" : "Game engine",
