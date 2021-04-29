@@ -1612,6 +1612,54 @@ https://www.educative.io/blog/dart-tips-tricks <br><br>
 </details>
 
 <details>
+<summary>Data Mining</summary>
+<br>
+Category/Type - <br>
+Data Analysis<br>
+Official Documentation -<br>
+https://www.oracle.com/database/technologies/advanced-analytics/odm-documentation.html
+<br>
+
+Best YouTube creators - 
+<br> https://www.youtube.com/watch?v=z--2rCShvL0
+<br>https://www.youtube.com/watch?v=bz0N-WP2FQE
+<br>https://www.youtube.com/watch?v=BB2O4VCu5j8
+<br>https://www.youtube.com/watch?v=NGnst2LDlUo
+<br><br>
+
+Useful Websites -
+<br> https://www.investopedia.com/terms/d/datamining.asp#:~:text=Data%20mining%20is%20a%20process,increase%20sales%20and%20decrease%20costs.
+<br> https://www.javatpoint.com/data-mining
+<br> https://www.talend.com/resources/what-is-data-mining/
+<br> https://economictimes.indiatimes.com/definition/data-mining
+<br><br>
+
+Dedicated Github page - 
+<br>https://github.com/nirbarazida/Data-mining-project
+<br>https://github.com/elki-project/elki
+<br>https://github.com/eclarson/DataMiningNotebooks
+<br><br>
+
+Best Courses - 
+<br>https://www.coursera.org/specializations/data-mining
+<br>https://www.udemy.com/topic/data-mining/
+<br>https://online-learning.harvard.edu/subject/data-mining
+<br>https://online.stanford.edu/courses/stats202-data-mining-and-analysis
+<br><br>
+
+Other Tips / Hacks -
+<br>https://www.datasciencecentral.com/profiles/blogs/9-tips-for-effective-data-mining
+<br>https://neilpatel.com/blog/data-mining/
+<br>https://www.analyticsvidhya.com/blog/2020/03/10-awesome-data-manipulation-and-wrangling-hacks-tips-and-tricks/
+<br>https://www.dummies.com/programming/big-data/data-science/data-mining-for-dummies-cheat-sheet/
+<br>https://www.javatpoint.com/data-mining
+<br>https://snov.io/blog/data-mining-tools-the-what-the-why-and-the-how/
+
+
+<br><br>
+</details>
+
+<details>
 <summary>Data Science</summary>
 <br>
 Category/Type - <br>
@@ -1653,6 +1701,51 @@ https://www.geeksforgeeks.org/the-future-of-data-science/<br>
 https://www.analyticsvidhya.com/blog/2015/10/tips-tricks-awesom-data-science-jobs/<br>
 https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debunking-few-myths-30537117a4e4<br>
 <br><br>
+</details>
+
+<details>
+<summary>Deep Learning</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/Deep_learning<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI<br>
+https://www.youtube.com/watch?v=9jA0KjS7V_c&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi<br>
+https://www.youtube.com/watch?v=aPfkYu_qiF4&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT<br>
+https://www.youtube.com/watch?v=tDaGT4N4aCA&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL<br>
+<br>
+Useful Websites - <br>
+https://www.geeksforgeeks.org/convolutional-neural-network-cnn-in-machine-learning/<br>
+https://www.geeksforgeeks.org/introduction-deep-learning/<br>
+https://www.tensorflow.org/<br>
+https://www.tutorialspoint.com/python_deep_learning/index.htm<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/udacity/deep-learning<br>
+https://github.com/mbadry1/Top-Deep-Learning<br>
+https://github.com/mbadry1/Trending-Deep-Learning<br>
+https://github.com/ChristosChristofidis/awesome-deep-learning<br>
+https://github.com/mnielsen/neural-networks-and-deep-learning<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/specializations/deep-learning<br>
+https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187<br>
+https://www.mathworks.com/discovery/deep-learning.html<br>
+https://www.udacity.com/course/deep-learning-nanodegree--nd101<br>
+https://www.coursera.org/learn/deep-neural-network<br>
+https://www.udemy.com/course/deep-learning-with-python-and-keras/<br>
+<br>
+Other Tips/Hacks - <br>
+https://machinelearningmastery.com/what-is-deep-learning/<br>
+https://medium.com/intro-to-artificial-intelligence/deep-learning-series-1-intro-to-deep-learning-abb1780ee20<br>
+https://towardsdatascience.com/introducing-deep-learning-and-neural-networks-deep-learning-for-rookies-1-bd68f9cf5883<br>
+https://towardsdatascience.com/intro-to-deep-learning-d5caceedcf85<br>
+https://www.analyticsvidhya.com/blog/2018/10/introduction-neural-networks-deep-learning/<br>
+<br>
 </details>
 
 <details>
@@ -4750,6 +4843,62 @@ https://dev.realworldocaml.org/compiler-frontend.html <br>
 <br>
 <a href="https://www.logo.wine/a/logo/OCaml/OCaml-Logo.wine.svg">
   <img align="center" src="https://www.logo.wine/a/logo/OCaml/OCaml-Logo.wine.svg" width="1000" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
+<summary>Octave </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://www.gnu.org/software/octave/index <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=sHGqwF2s-tM <br>
+https://www.youtube.com/watch?v=e2Ypm-fNVlA <br>
+https://www.youtube.com/playlist?list=PL1A2CSdiySGJ6oZe6XB-TTCFuHc5Fs1PO <br>
+https://www.youtube.com/playlist?list=PLTwPa5Tfu7AWcFaPV4uQSRr8EzYlv61Ow <br>
+https://www.youtube.com/watch?v=woiU5PRVm7M <br>
+<br>
+Useful Websites -
+<br>
+https://www.gnu.org/software/octave/octave.pdf <br>
+https://octave.sourceforge.io/docs.php <br>
+https://docs.octave.dev/ <br>
+https://octave.org/doc/latest/ <br>
+https://octave.org/doc/v5.2.0/ <br>
+https://octave.org/doc/v4.0.0/ <br>
+https://wiki.octave.org/wiki/index.php?title=Project_-_Documentation&mobileaction=toggle_view_desktop <br>
+http://www-mdp.eng.cam.ac.uk/web/CD/engapps/octave/octavetut.pdf <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/gnu-octave <br>
+https://github.com/NexMirror/Octave <br>
+https://github.com/TheAlgorithms/MATLAB-Octave <br>
+https://education.github.community/t/math-exercises-using-gnu-octave-and-github-autograding/66286 <br>
+https://github.com/schneems/Octave <br>
+https://github.com/terrychenism/OctaveConv <br>
+<br>
+Best Courses - <br>
+https://www.edx.org/course/matlab-and-octave-for-beginners <br>
+https://www.coursera.org/courses?query=octave <br>
+https://www.classcentral.com/course/edx-matlab-and-octave-for-beginners-7376 <br>
+https://www.mooc-list.com/tags/octave <br>
+https://www.educba.com/data-science/courses/octave-training/ <br>
+https://towardsdatascience.com/octave-scientific-programming-language-crash-course-2ab8d864a01d <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.pianistmagazine.com/blogs/9-professional-tips-for-practising-octaves/ <br>
+http://wiki.octave.org/Tips_and_tricks <br>
+https://melaniespanswick.com/2015/12/07/9-top-tips-for-practising-octaves/ <br>
+https://www.packtpub.com/big-data-and-business-intelligence/gnu-octave-beginners-guide <br>
+https://www.i-programmer.info/programming/other-languages/4779-a-programmers-guide-to-octave.html <br>
+https://homepages.inf.ed.ac.uk/imurray2/compnotes/octmattricks.html <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" width="500" height="500"/>
 </a>
 <br><br><br>
 </details>
