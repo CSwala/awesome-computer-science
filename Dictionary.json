@@ -1368,7 +1368,7 @@
 		"Tips3" : "https://www.analyticsvidhya.com/blog/2020/03/10-awesome-data-manipulation-and-wrangling-hacks-tips-and-tricks/",
 		"Tips4" : "https://www.dummies.com/programming/big-data/data-science/data-mining-for-dummies-cheat-sheet/",
 		"Tips5" : "https://www.javatpoint.com/data-mining", 
-		"Tips6" : "https://snov.io/blog/data-mining-tools-the-what-the-why-and-the-how/", 
+		"Tips6" : "https://snov.io/blog/data-mining-tools-the-what-the-why-and-the-how/"
 	},
 
 	{
@@ -3171,7 +3171,7 @@
 		"Some Other Tips / Hacks 2":"https://access.redhat.com/sites/default/files/attachments/ron_pachecov2.pdf",
 		"Some Other Tips / Hacks 3":"https://www.educba.com/careers-in-linux/",
 		"Some Other Tips / Hacks 4":"http://www.linuxfromscratch.org/",
-		"Some Other Tips / Hacks 5":"https://www.cyberciti.biz/open-source/command-line-hacks/20-unix-command-line-tricks-part-i/",
+		"Some Other Tips / Hacks 5":"https://www.cyberciti.biz/open-source/command-line-hacks/20-unix-command-line-tricks-part-i/"
 
 	},
 	{
@@ -4761,6 +4761,52 @@
 		"Tips2": "https://medium.com/dailyjs/tips-and-tricks-for-react-redux-application-c8d0db0ab0c8",
 		"Tips3": "https://itnext.io/3-small-tips-for-better-redux-performance-in-a-react-app-9cde549df6af",
 		"Tips4": "https://slashgear.github.io/react-redux-pitfalls-and-best-pratices/"
+	},
+	{
+      
+
+		"Title": "REST API",
+		"Tag": "Web Service",
+		"Documentation": "https://idratherbewriting.com/learnapidoc/docapis_what_is_a_rest_api.html",
+        "YT1": "https://www.youtube.com/watch?v=rtWH70_MMHM&t=67s",
+		"YT2": "https://www.youtube.com/watch?v=BZi44GOD8kY",
+        "YT3": "https://www.youtube.com/watch?v=SLwpqD8n3d0",
+		"YT4": "https://www.youtube.com/watch?v=Q-BpqyOT3a8&t=295s",
+        "YT5": "https://www.youtube.com/watch?v=qVTAB8Z2VmA&list=PLsyeobzWxl7ps4Z1C4VMtvZEx5-PgyoYI",
+		"YT6": "https://www.youtube.com/watch?v=qbLc5a9jdXo",             
+		"YT7": "https://www.youtube.com/watch?v=sdDDuQuX2cg",
+        "YT8": "https://www.youtube.com/watch?v=ALrOcDPimWE",
+		"YT9": "https://www.youtube.com/watch?v=lsMQRaeKNDk",
+
+        "Website1": "https://www.freecodecamp.org/news/rest-api-tutorial-rest-client-rest-service-and-api-calls-explained-with-code-examples/",
+        "Website2": "https://www.edureka.co/blog/what-is-rest-api/",
+        "Website3": "https://restfulapi.net/",
+        "Website4": "https://www.restapitutorial.com/",     
+	    "Website5": "https://stackify.com/rest-api-tutorial/",
+        "Website6": "https://www.toptal.com/laravel/restful-laravel-api-tutorial",
+        "Website7": "https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-api-from-example.html",
+        "Website8": "https://www.tutorialspoint.com/restful/index.htm",
+        "Website9": "https://spring.io/guides/tutorials/rest/",
+        "Website10": "https://tutorialedge.net/golang/creating-restful-api-with-golang/",
+        "Website11": "https://codesnippet.io/github-api-tutorial/",
+    
+
+		"Dedicated GH page1": "https://github.com/microsoft/api-guidelines",
+		"Dedicated GH page2": "https://github.com/encode/django-rest-framework",
+        "Dedicated GH page3": "https://github.com/diegohaz/rest",
+        "Dedicated GH page4": "https://github.com/tfredrich/RestApiTutorial.com",
+		"Dedicated GH page5": "https://github.com/public-apis/public-apis",
+
+        "Course1": "https://www.udemy.com/course/rest-api-flask-and-python/",
+		"Course2": "https://www.udemy.com/course/webservices-testing-with-soap-ui/",
+		"Course3": "https://www.udemy.com/course/advanced-rest-apis-flask-python/",
+		"Course4": "https://www.pluralsight.com/courses/rest-fundamental?aid=7010a000002BWq6AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=IN_Dynamic&utm_content=&gclid=Cj0KCQjwsqmEBhDiARIsANV8H3bcY5DukQD9Tq_by3B3ppoJsK_23MhbTSjS_0qgFoSHZgFLWyBTECIaApw7EALw_wcB",
+	    "Tips1": "https://medium.com/@petertboyer/learn-restful-api-design-ideals-c5ec915a430f",
+		"Tips2": "https://www.restapitutorial.com/lessons/restquicktips.html",
+		"Tips3": "https://florimond.dev/en/posts/2018/08/restful-api-design-13-best-practices-to-make-your-users-happy/",
+		"Tips4": "https://medium.com/epignosis-engineering/rest-api-development-tips-and-best-practices-part-1-9cbd4b924285",
+	    "Tips5": "https://www.slideshare.net/MaksymBruner/rest-api-tips-and-tricks",
+		"Tips6": "https://blog.bitsrc.io/10-tips-for-building-an-api-9ec335601d59?gi=da0e612e7ff0"
 	},
 	{
 		"Title" : "Ruby",

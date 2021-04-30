@@ -5946,6 +5946,59 @@ https://slashgear.github.io/react-redux-pitfalls-and-best-pratices/ <br>
 </details>
 
 <details>
+<summary>REST API</summary>
+<br>Category/Type - <br> Web Service <br>
+<br>Official Documentation - <br> https://idratherbewriting.com/learnapidoc/docapis_what_is_a_rest_api.html<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=rtWH70_MMHM&t=67s <br>
+https://www.youtube.com/watch?v=BZi44GOD8kY <br>
+https://www.youtube.com/watch?v=SLwpqD8n3d0 <br>
+https://www.youtube.com/watch?v=Q-BpqyOT3a8&t=295s <br>
+https://www.youtube.com/watch?v=qVTAB8Z2VmA&list=PLsyeobzWxl7ps4Z1C4VMtvZEx5-PgyoYI <br>
+https://www.youtube.com/watch?v=qbLc5a9jdXo <br>            
+https://www.youtube.com/watch?v=sdDDuQuX2cg <br>
+https://www.youtube.com/watch?v=ALrOcDPimWE <br>
+https://www.youtube.com/watch?v=lsMQRaeKNDk <br>
+
+
+<br>Useful Websites - <br>
+https://www.freecodecamp.org/news/rest-api-tutorial-rest-client-rest-service-and-api-calls-explained-with-code-examples/ <br>
+https://www.edureka.co/blog/what-is-rest-api/ <br>
+https://restfulapi.net/ <br>
+https://www.restapitutorial.com/ <br>
+https://stackify.com/rest-api-tutorial/ <br>
+https://www.toptal.com/laravel/restful-laravel-api-tutorial <br>
+https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-api-from-example.html <br>
+https://www.tutorialspoint.com/restful/index.htm <br>
+https://spring.io/guides/tutorials/rest/ <br>
+https://tutorialedge.net/golang/creating-restful-api-with-golang/ <br>
+https://codesnippet.io/github-api-tutorial/ <br>
+
+<br>Dedicated Github page - <br> 
+https://github.com/microsoft/api-guidelines <br>
+https://github.com/encode/django-rest-framework <br>
+https://github.com/diegohaz/rest <br>
+https://github.com/tfredrich/RestApiTutorial.com <br>
+https://github.com/public-apis/public-apis <br>
+
+<br>Best Courses - <br>
+https://www.udemy.com/course/rest-api-flask-and-python/ <br>
+https://www.udemy.com/course/webservices-testing-with-soap-ui/ <br>
+https://www.udemy.com/course/advanced-rest-apis-flask-python/ <br>
+https://www.pluralsight.com/courses/rest-fundamental?aid=7010a000002BWq6AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=IN_Dynamic&utm_content=&gclid=Cj0KCQjwsqmEBhDiARIsANV8H3bcY5DukQD9Tq_by3B3ppoJsK_23MhbTSjS_0qgFoSHZgFLWyBTECIaApw7EALw_wcB <br>
+
+<br>Other Tips / Hacks - <br> 
+https://medium.com/@petertboyer/learn-restful-api-design-ideals-c5ec915a430f <br>
+https://www.restapitutorial.com/lessons/restquicktips.html <br>
+https://florimond.dev/en/posts/2018/08/restful-api-design-13-best-practices-to-make-your-users-happy <br>
+https://medium.com/epignosis-engineering/rest-api-development-tips-and-best-practices-part-1-9cbd4b924285 <br>
+https://www.slideshare.net/MaksymBruner/rest-api-tips-and-tricks <br>
+https://blog.bitsrc.io/10-tips-for-building-an-api-9ec335601d59?gi=da0e612e7ff0 <br>
+
+<br><br><br>
+</details>
+
+<details>
 <summary>Ruby</summary>
 <br>
 Category/Type - <br>Programming language <br>
