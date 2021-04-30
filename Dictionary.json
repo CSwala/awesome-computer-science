@@ -4459,6 +4459,28 @@
 		"Tips5" : "https://jarvislabs.ai/blogs/transfer-learning",
 		"Image1" : "https://miro.medium.com/max/7680/1*FOD9HqlC31Qmtl6YzHDFIw.png"
 	},
+  {
+    "Title": "PyQt",
+    "Tag": "Python Plugin",
+    "Documentation": "https://doc.qt.io/qtforpython/",
+    "YT1": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj",
+    "YT2": "https://www.youtube.com/playlist?list=PLQVvvaa0QuDdVpDFNq4FwY9APZPGSUyR4",
+    "YT3": "https://www.youtube.com/playlist?list=PL3JVwFmb_BnRpvOeIh_To4YSiebiggyXS",
+    "YT4": "https://www.youtube.com/playlist?list=PLS1QulWo1RIZTkXbVkjr5Z3m-uMs05u7V",
+    "Website1": "https://www.mfitzp.com/courses/pyqt/",
+    "Website2": "https://realpython.com/learning-paths/pyqt-gui-programming/",
+    "Website3": "https://www.tutorialspoint.com/pyqt/index.htm",
+    "Website4": "https://www.tutorialspoint.com/pyqt/index.htm",
+    "Dedicated GH page1": "https://github.com/pyqt",
+    "Dedicated GH page2": "https://github.com/learnpyqt/15-minute-apps",
+    "Dedicated GH page3": "https://github.com/JulienGrv/awesome-python-qt",
+    "Dedicated GH page4": "https://github.com/learnpyqt",
+    "Course1": "https://www.udemy.com/course/pyqt5-the-python-gui-framework/",
+    "Course2": "https://www.udemy.com/course/python-pyqt5/",
+    "Course3": "https://www.udemy.com/course/python-gui-programming-recipes-using-pyqt5/",
+    "Tips1": "https://wiki.maemo.org/PyQt_Tips_and_Tricks",
+    "Tips2": "https://www.reddit.com/r/Python/comments/4c7q2j/any_tipsexamples_of_making_pyqtpyside_widgets/"
+  },
 	{
 		"Title" : "Qlik Sense",
 		"Tag" : "Data Analytics Platform",

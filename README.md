@@ -5539,6 +5539,36 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 </details>
 
 <details>
+<summary>PyQt</summary>
+<br>Catefory/Type - <br>
+Python plugin<br>
+<br>Official Documentation</br>
+https://doc.qt.io/qtforpython/ <br>
+<br>Best YouTubers - <br>
+https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj<br>
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDdVpDFNq4FwY9APZPGSUyR4<br>
+https://www.youtube.com/playlist?list=PL3JVwFmb_BnRpvOeIh_To4YSiebiggyXS<br>
+https://www.youtube.com/playlist?list=PLS1QulWo1RIZTkXbVkjr5Z3m-uMs05u7V<br>
+<br>Useful Websites - <br>
+https://www.mfitzp.com/courses/pyqt/<br>
+https://realpython.com/learning-paths/pyqt-gui-programming/<br>
+https://www.tutorialspoint.com/pyqt/index.htm<br>
+https://www.tutorialspoint.com/pyqt/index.htm<br>
+<br>Dedicated Github page - <br>
+https://github.com/pyqt<br>
+https://github.com/learnpyqt/15-minute-apps<br>
+https://github.com/JulienGrv/awesome-python-qt<br>
+https://github.com/learnpyqt<br>
+<br>Best courses - <br>
+https://www.udemy.com/course/pyqt5-the-python-gui-framework/<br>
+https://www.udemy.com/course/python-pyqt5/<br>
+https://www.udemy.com/course/python-gui-programming-recipes-using-pyqt5/<br>
+<br>Other Tips/Hacks - <br>
+https://wiki.maemo.org/PyQt_Tips_and_Tricks<br>
+https://www.reddit.com/r/Python/comments/4c7q2j/any_tipsexamples_of_making_pyqtpyside_widgets/<br>
+</details>
+
+<details>
 <summary>Qlik Sense</summary>
 <br>Category/Type - <br>
 Data Analytics Platform<br>
