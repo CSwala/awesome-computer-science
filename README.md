@@ -1243,6 +1243,62 @@ https://prograils.com/5-tips-for-elixir-phoenix-projects<br>
 </details>
 
 <details>
+<summary>Cloud Computing</summary>
+<br>
+Category/Type - <br>
+Computer Service <br>
+<br>
+Official Documentation - <br>
+https://cloud.google.com/docs <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=2LaAJq1lB1Q <br>
+https://www.youtube.com/watch?v=RWgW-CgdIk0 <br>
+https://www.youtube.com/watch?v=EN4fEbcFZ_E <br>
+https://www.youtube.com/watch?v=gIWel4gFZaY <br>
+https://www.youtube.com/playlist?list=PL-JvKqQx2AtfQ8cGyKsFE7Tj2FyB1yCkd <br>
+https://www.youtube.com/playlist?list=PLV8vIYTIdSnaKSiSGvJf2QquSN4lEzGob <br>
+https://www.youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV <br>
+https://www.youtube.com/playlist?list=PLrjkTql3jnm86_Jr9195OaqN-HeiBy49I <br>
+<br>
+Useful Websites- <br>
+https://www.tutorialspoint.com/cloud_computing/index.htm <br>
+https://www.javatpoint.com/cloud-computing-tutorial <br>
+https://www.guru99.com/cloud-computing-for-beginners.html <br>
+https://www.simplilearn.com/cloud-computing-tutorial-video <br>
+https://data-flair.training/blogs/cloud-computing-tutorial/ <br>
+https://www.pragimtech.com/blog/cloud/cloud-tutorial-for-beginners/ <br>
+https://www.w3schools.in/cloud-computing/cloud-computing/ <br>
+https://www.tutorialandexample.com/cloud-computing-tutorial/ <br>
+https://www.digitalocean.com/community/tutorials/a-general-introduction-to-cloud-computing <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/mohan08p/CloudComputing <br>
+https://github.com/prachi220/Cloud-Computing <br>
+https://github.com/DovAmir/awesome-design-patterns <br>
+https://github.com/mgmartinezl/Exploring-Cloud-Computing-Technologies <br>
+https://github.com/rezan21/Trade-Analysis-SaaS <br>
+https://github.com/lavelle96/cyclomatic-complexity <br>
+<br>
+Best Courses- <br>
+https://www.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners/ <br>
+https://www.udemy.com/course/getting-started-with-cloud-computing-level-1/ <br>
+https://www.coursera.org/learn/cloud-computing <br>
+https://www.udemy.com/course/cloud-computing-concepts/ <br>
+https://www.udemy.com/course/introduction-to-cloud-computing-with-amazon-web-services/ <br>
+https://www.edx.org/course/introduction-to-cloud-computing-6 <br>
+https://www.edx.org/micromasters/usmx-umgc-cloud-computing <br>
+<br>
+Other Tips/Hacks- <br>
+https://www.appneta.com/blog/5-cloud-computing-tips-time-money/ <br>
+https://www.techspertservices.com/blog/11-cloud-computing-tips-for-businesses <br>
+https://www.ntiva.com/blog/6-tips-for-improving-cloud-computing-security <br>
+https://searchcloudcomputing.techtarget.com/tip/Cloud-computing-tips-and-tricks-by-the-numbers <br>
+https://www.cloudinstitute.io/blog/cloud-computing-tips-and-tricks/ <br>
+<br>
+</details>
+
+<details>
 <summary>Codeigniter</summary>
 <br>
 Category/Type - <br>
