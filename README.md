@@ -5115,6 +5115,47 @@ https://www.dataschool.io/future-of-pandas/
 </details>
 
 <details>
+<summary>Padrino</summary>
+<br>
+Category/Type - <br>
+Ruby-Framework<br>
+<br>
+Official Documentation - <br>
+https://www.rubydoc.info/github/padrino/padrino-framework<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=CH_a3yNbYDM<br>
+https://www.youtube.com/watch?v=8aA9Enb8NVc<br>
+https://www.youtube.com/watch?v=8aA9Enb8NVc<br>
+https://www.youtube.com/watch?v=O_I6mABxzsY<br>
+<br>
+Useful Websites -
+http://padrinorb.com/<br>
+https://en.wikipedia.org/wiki/Padrino_(web_framework)<br>
+https://rubygems.org/gems/padrino/versions/0.15.0<br>
+https://www.softcover.io/books/wikimatze/padrinobook<br>
+https://programmingzen.com/padrino-a-ruby-framework-built-upon-sinatra/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/padrino/padrino-framework<br>
+https://github.com/padrino<br>
+https://github.com/padrino/padrino-recipes<br>
+https://github.com/padrinobook/padrinobook<br>
+https://github.com/padrino/padrino-docs<br>
+https://github.com/padrino/blog-tutorial<br>
+<br>
+Other Tips / Hacks - <br>
+https://staging.padrinobook.com/<br>
+https://www.quora.com/What-features-and-advantages-does-the-Padrino-framework-offer-compared-to-Ruby-on-Rails<br>
+https://padrinorb.com/guides/getting-started/blog-tutorial/<br>
+https://www.softcover.io/books/wikimatze/padrinobook
+<br><br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/8/89/Padrinologo.jpg">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Padrinologo.jpg" width="500" height="500"/>
+</a>
+</details>
+
+<details>
 <summary>Pascal</summary>
 <br>
 Category/Type - <br>
