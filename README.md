@@ -1612,6 +1612,54 @@ https://www.educative.io/blog/dart-tips-tricks <br><br>
 </details>
 
 <details>
+<summary>Data Mining</summary>
+<br>
+Category/Type - <br>
+Data Analysis<br>
+Official Documentation -<br>
+https://www.oracle.com/database/technologies/advanced-analytics/odm-documentation.html
+<br>
+
+Best YouTube creators - 
+<br> https://www.youtube.com/watch?v=z--2rCShvL0
+<br>https://www.youtube.com/watch?v=bz0N-WP2FQE
+<br>https://www.youtube.com/watch?v=BB2O4VCu5j8
+<br>https://www.youtube.com/watch?v=NGnst2LDlUo
+<br><br>
+
+Useful Websites -
+<br> https://www.investopedia.com/terms/d/datamining.asp#:~:text=Data%20mining%20is%20a%20process,increase%20sales%20and%20decrease%20costs.
+<br> https://www.javatpoint.com/data-mining
+<br> https://www.talend.com/resources/what-is-data-mining/
+<br> https://economictimes.indiatimes.com/definition/data-mining
+<br><br>
+
+Dedicated Github page - 
+<br>https://github.com/nirbarazida/Data-mining-project
+<br>https://github.com/elki-project/elki
+<br>https://github.com/eclarson/DataMiningNotebooks
+<br><br>
+
+Best Courses - 
+<br>https://www.coursera.org/specializations/data-mining
+<br>https://www.udemy.com/topic/data-mining/
+<br>https://online-learning.harvard.edu/subject/data-mining
+<br>https://online.stanford.edu/courses/stats202-data-mining-and-analysis
+<br><br>
+
+Other Tips / Hacks -
+<br>https://www.datasciencecentral.com/profiles/blogs/9-tips-for-effective-data-mining
+<br>https://neilpatel.com/blog/data-mining/
+<br>https://www.analyticsvidhya.com/blog/2020/03/10-awesome-data-manipulation-and-wrangling-hacks-tips-and-tricks/
+<br>https://www.dummies.com/programming/big-data/data-science/data-mining-for-dummies-cheat-sheet/
+<br>https://www.javatpoint.com/data-mining
+<br>https://snov.io/blog/data-mining-tools-the-what-the-why-and-the-how/
+
+
+<br><br>
+</details>
+
+<details>
 <summary>Data Science</summary>
 <br>
 Category/Type - <br>
@@ -1653,6 +1701,51 @@ https://www.geeksforgeeks.org/the-future-of-data-science/<br>
 https://www.analyticsvidhya.com/blog/2015/10/tips-tricks-awesom-data-science-jobs/<br>
 https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debunking-few-myths-30537117a4e4<br>
 <br><br>
+</details>
+
+<details>
+<summary>Deep Learning</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/Deep_learning<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI<br>
+https://www.youtube.com/watch?v=9jA0KjS7V_c&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi<br>
+https://www.youtube.com/watch?v=aPfkYu_qiF4&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT<br>
+https://www.youtube.com/watch?v=tDaGT4N4aCA&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL<br>
+<br>
+Useful Websites - <br>
+https://www.geeksforgeeks.org/convolutional-neural-network-cnn-in-machine-learning/<br>
+https://www.geeksforgeeks.org/introduction-deep-learning/<br>
+https://www.tensorflow.org/<br>
+https://www.tutorialspoint.com/python_deep_learning/index.htm<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/udacity/deep-learning<br>
+https://github.com/mbadry1/Top-Deep-Learning<br>
+https://github.com/mbadry1/Trending-Deep-Learning<br>
+https://github.com/ChristosChristofidis/awesome-deep-learning<br>
+https://github.com/mnielsen/neural-networks-and-deep-learning<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/specializations/deep-learning<br>
+https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187<br>
+https://www.mathworks.com/discovery/deep-learning.html<br>
+https://www.udacity.com/course/deep-learning-nanodegree--nd101<br>
+https://www.coursera.org/learn/deep-neural-network<br>
+https://www.udemy.com/course/deep-learning-with-python-and-keras/<br>
+<br>
+Other Tips/Hacks - <br>
+https://machinelearningmastery.com/what-is-deep-learning/<br>
+https://medium.com/intro-to-artificial-intelligence/deep-learning-series-1-intro-to-deep-learning-abb1780ee20<br>
+https://towardsdatascience.com/introducing-deep-learning-and-neural-networks-deep-learning-for-rookies-1-bd68f9cf5883<br>
+https://towardsdatascience.com/intro-to-deep-learning-d5caceedcf85<br>
+https://www.analyticsvidhya.com/blog/2018/10/introduction-neural-networks-deep-learning/<br>
+<br>
 </details>
 
 <details>
@@ -5446,6 +5539,36 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 </details>
 
 <details>
+<summary>PyQt</summary>
+<br>Catefory/Type - <br>
+Python plugin<br>
+<br>Official Documentation</br>
+https://doc.qt.io/qtforpython/ <br>
+<br>Best YouTubers - <br>
+https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj<br>
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDdVpDFNq4FwY9APZPGSUyR4<br>
+https://www.youtube.com/playlist?list=PL3JVwFmb_BnRpvOeIh_To4YSiebiggyXS<br>
+https://www.youtube.com/playlist?list=PLS1QulWo1RIZTkXbVkjr5Z3m-uMs05u7V<br>
+<br>Useful Websites - <br>
+https://www.mfitzp.com/courses/pyqt/<br>
+https://realpython.com/learning-paths/pyqt-gui-programming/<br>
+https://www.tutorialspoint.com/pyqt/index.htm<br>
+https://www.tutorialspoint.com/pyqt/index.htm<br>
+<br>Dedicated Github page - <br>
+https://github.com/pyqt<br>
+https://github.com/learnpyqt/15-minute-apps<br>
+https://github.com/JulienGrv/awesome-python-qt<br>
+https://github.com/learnpyqt<br>
+<br>Best courses - <br>
+https://www.udemy.com/course/pyqt5-the-python-gui-framework/<br>
+https://www.udemy.com/course/python-pyqt5/<br>
+https://www.udemy.com/course/python-gui-programming-recipes-using-pyqt5/<br>
+<br>Other Tips/Hacks - <br>
+https://wiki.maemo.org/PyQt_Tips_and_Tricks<br>
+https://www.reddit.com/r/Python/comments/4c7q2j/any_tipsexamples_of_making_pyqtpyside_widgets/<br>
+</details>
+
+<details>
 <summary>Qlik Sense</summary>
 <br>Category/Type - <br>
 Data Analytics Platform<br>
@@ -5820,6 +5943,59 @@ https://medium.com/dailyjs/tips-and-tricks-for-react-redux-application-c8d0db0ab
 https://itnext.io/3-small-tips-for-better-redux-performance-in-a-react-app-9cde549df6af <br>
 https://slashgear.github.io/react-redux-pitfalls-and-best-pratices/ <br>
 <br>
+</details>
+
+<details>
+<summary>REST API</summary>
+<br>Category/Type - <br> Web Service <br>
+<br>Official Documentation - <br> https://idratherbewriting.com/learnapidoc/docapis_what_is_a_rest_api.html<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=rtWH70_MMHM&t=67s <br>
+https://www.youtube.com/watch?v=BZi44GOD8kY <br>
+https://www.youtube.com/watch?v=SLwpqD8n3d0 <br>
+https://www.youtube.com/watch?v=Q-BpqyOT3a8&t=295s <br>
+https://www.youtube.com/watch?v=qVTAB8Z2VmA&list=PLsyeobzWxl7ps4Z1C4VMtvZEx5-PgyoYI <br>
+https://www.youtube.com/watch?v=qbLc5a9jdXo <br>            
+https://www.youtube.com/watch?v=sdDDuQuX2cg <br>
+https://www.youtube.com/watch?v=ALrOcDPimWE <br>
+https://www.youtube.com/watch?v=lsMQRaeKNDk <br>
+
+
+<br>Useful Websites - <br>
+https://www.freecodecamp.org/news/rest-api-tutorial-rest-client-rest-service-and-api-calls-explained-with-code-examples/ <br>
+https://www.edureka.co/blog/what-is-rest-api/ <br>
+https://restfulapi.net/ <br>
+https://www.restapitutorial.com/ <br>
+https://stackify.com/rest-api-tutorial/ <br>
+https://www.toptal.com/laravel/restful-laravel-api-tutorial <br>
+https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-api-from-example.html <br>
+https://www.tutorialspoint.com/restful/index.htm <br>
+https://spring.io/guides/tutorials/rest/ <br>
+https://tutorialedge.net/golang/creating-restful-api-with-golang/ <br>
+https://codesnippet.io/github-api-tutorial/ <br>
+
+<br>Dedicated Github page - <br> 
+https://github.com/microsoft/api-guidelines <br>
+https://github.com/encode/django-rest-framework <br>
+https://github.com/diegohaz/rest <br>
+https://github.com/tfredrich/RestApiTutorial.com <br>
+https://github.com/public-apis/public-apis <br>
+
+<br>Best Courses - <br>
+https://www.udemy.com/course/rest-api-flask-and-python/ <br>
+https://www.udemy.com/course/webservices-testing-with-soap-ui/ <br>
+https://www.udemy.com/course/advanced-rest-apis-flask-python/ <br>
+https://www.pluralsight.com/courses/rest-fundamental?aid=7010a000002BWq6AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=IN_Dynamic&utm_content=&gclid=Cj0KCQjwsqmEBhDiARIsANV8H3bcY5DukQD9Tq_by3B3ppoJsK_23MhbTSjS_0qgFoSHZgFLWyBTECIaApw7EALw_wcB <br>
+
+<br>Other Tips / Hacks - <br> 
+https://medium.com/@petertboyer/learn-restful-api-design-ideals-c5ec915a430f <br>
+https://www.restapitutorial.com/lessons/restquicktips.html <br>
+https://florimond.dev/en/posts/2018/08/restful-api-design-13-best-practices-to-make-your-users-happy <br>
+https://medium.com/epignosis-engineering/rest-api-development-tips-and-best-practices-part-1-9cbd4b924285 <br>
+https://www.slideshare.net/MaksymBruner/rest-api-tips-and-tricks <br>
+https://blog.bitsrc.io/10-tips-for-building-an-api-9ec335601d59?gi=da0e612e7ff0 <br>
+
+<br><br><br>
 </details>
 
 <details>

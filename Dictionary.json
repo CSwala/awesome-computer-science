@@ -1340,6 +1340,37 @@
 		"Tips3" : "https://www.educative.io/blog/dart-tips-tricks ",
 		"Image1" : "https://miro.medium.com/max/3532/1*nucyFw-E5Lotofy1WSWMqw.png "
 	},
+	{	
+		"Title" : "Data Mining",
+		"Tag" : "Data Analysis",
+		"Documentation" : "https://www.oracle.com/database/technologies/advanced-analytics/odm-documentation.html",
+		"YT1" : "https://www.youtube.com/watch?v=z--2rCShvL0",
+		"YT2" : "https://www.youtube.com/watch?v=bz0N-WP2FQE",
+		"YT3" : "https://www.youtube.com/watch?v=BB2O4VCu5j8",
+		"YT4" : "https://www.youtube.com/watch?v=NGnst2LDlUo",
+		
+		"Website1" : "https://www.investopedia.com/terms/d/datamining.asp#:~:text=Data%20mining%20is%20a%20process,increase%20sales%20and%20decrease%20costs.",
+		"Website2" : "https://www.javatpoint.com/data-mining",
+		"Website3" : "https://www.talend.com/resources/what-is-data-mining/",
+		"Website4" : "https://economictimes.indiatimes.com/definition/data-mining",
+
+		"Dedicated GH page1" : "https://github.com/nirbarazida/Data-mining-project",
+		"Dedicated GH page2" : "https://github.com/elki-project/elki",
+		"Dedicated GH page3" : "https://github.com/eclarson/DataMiningNotebooks",
+
+		"Course1" : "https://www.coursera.org/specializations/data-mining",
+		"Course2" : "https://www.udemy.com/topic/data-mining/",
+		"Course3" : "https://online-learning.harvard.edu/subject/data-mining",
+		"Course4" : "https://online.stanford.edu/courses/stats202-data-mining-and-analysis",
+		
+		"Tips1" : "https://www.datasciencecentral.com/profiles/blogs/9-tips-for-effective-data-mining",
+		"Tips2" : "https://neilpatel.com/blog/data-mining/",
+		"Tips3" : "https://www.analyticsvidhya.com/blog/2020/03/10-awesome-data-manipulation-and-wrangling-hacks-tips-and-tricks/",
+		"Tips4" : "https://www.dummies.com/programming/big-data/data-science/data-mining-for-dummies-cheat-sheet/",
+		"Tips5" : "https://www.javatpoint.com/data-mining", 
+		"Tips6" : "https://snov.io/blog/data-mining-tools-the-what-the-why-and-the-how/"
+	},
+
 	{
 		"Title" : "Data Science",
 		"Tag" : "Development",
@@ -1367,6 +1398,36 @@
 		"Tips7" : "https://www.analyticsvidhya.com/blog/2015/10/tips-tricks-awesom-data-science-jobs/ ",
 		"Tips8" : "https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debunking-few-myths-30537117a4e4 "
 	},
+	{
+		"Title" : "Deep Learning",
+		"Tag" : "Development",
+		"Documentation" : "https://en.wikipedia.org/wiki/Deep_learning",
+		"YT1 " : "https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI",
+		"YT2 " : "https://www.youtube.com/watch?v=9jA0KjS7V_c&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi",
+		"YT3 " : "https://www.youtube.com/watch?v=aPfkYu_qiF4&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT",
+		"YT4 " : "https://www.youtube.com/watch?v=tDaGT4N4aCA&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL",
+		"Website1" : "https://www.geeksforgeeks.org/convolutional-neural-network-cnn-in-machine-learning/",
+		"Website2" : "https://www.geeksforgeeks.org/introduction-deep-learning/",
+		"Website3" : "https://www.tensorflow.org/",
+		"Website4" : "https://www.tutorialspoint.com/python_deep_learning/index.htm",
+		"Dedicated GH page1" : "https://github.com/udacity/deep-learning ",
+		"Dedicated GH page2" : "https://github.com/mbadry1/Top-Deep-Learning ",
+		"Dedicated GH page3" : "https://github.com/mbadry1/Trending-Deep-Learning ",
+		"Dedicated GH page4" : "https://github.com/ChristosChristofidis/awesome-deep-learning ",	
+		"Dedicated GH page5" : "https://github.com/mnielsen/neural-networks-and-deep-learning ",	
+		"Course1" : "https://www.coursera.org/specializations/deep-learning ",
+		"Course2" : "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187",
+		"Course3" : " https://www.mathworks.com/discovery/deep-learning.html",
+		"Course4" : "https://www.udacity.com/course/deep-learning-nanodegree--nd101",
+                                 "Course5" : "https://www.coursera.org/learn/deep-neural-network",
+		 "Course6" : " https://www.udemy.com/course/deep-learning-with-python-and-keras/ ",
+		"Tips1" : "https://machinelearningmastery.com/what-is-deep-learning/",
+		"Tips2" : " https://medium.com/intro-to-artificial-intelligence/deep-learning-series-1-intro-to-deep-learning-abb1780ee20",
+		"Tips3" : " https://towardsdatascience.com/introducing-deep-learning-and-neural-networks-deep-learning-for-rookies-1-bd68f9cf5883 ",	
+		"Tips4" : "https://towardsdatascience.com/intro-to-deep-learning-d5caceedcf85 ",	
+		"Tips5" : "https://www.analyticsvidhya.com/blog/2018/10/introduction-neural-networks-deep-learning/ "
+	},
+	
 	{
 		"Title" : "DevOps",
 		"Tag" : "Development+Operation",
@@ -3110,7 +3171,7 @@
 		"Some Other Tips / Hacks 2":"https://access.redhat.com/sites/default/files/attachments/ron_pachecov2.pdf",
 		"Some Other Tips / Hacks 3":"https://www.educba.com/careers-in-linux/",
 		"Some Other Tips / Hacks 4":"http://www.linuxfromscratch.org/",
-		"Some Other Tips / Hacks 5":"https://www.cyberciti.biz/open-source/command-line-hacks/20-unix-command-line-tricks-part-i/",
+		"Some Other Tips / Hacks 5":"https://www.cyberciti.biz/open-source/command-line-hacks/20-unix-command-line-tricks-part-i/"
 
 	},
 	{
@@ -4398,6 +4459,28 @@
 		"Tips5" : "https://jarvislabs.ai/blogs/transfer-learning",
 		"Image1" : "https://miro.medium.com/max/7680/1*FOD9HqlC31Qmtl6YzHDFIw.png"
 	},
+  {
+    "Title": "PyQt",
+    "Tag": "Python Plugin",
+    "Documentation": "https://doc.qt.io/qtforpython/",
+    "YT1": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj",
+    "YT2": "https://www.youtube.com/playlist?list=PLQVvvaa0QuDdVpDFNq4FwY9APZPGSUyR4",
+    "YT3": "https://www.youtube.com/playlist?list=PL3JVwFmb_BnRpvOeIh_To4YSiebiggyXS",
+    "YT4": "https://www.youtube.com/playlist?list=PLS1QulWo1RIZTkXbVkjr5Z3m-uMs05u7V",
+    "Website1": "https://www.mfitzp.com/courses/pyqt/",
+    "Website2": "https://realpython.com/learning-paths/pyqt-gui-programming/",
+    "Website3": "https://www.tutorialspoint.com/pyqt/index.htm",
+    "Website4": "https://www.tutorialspoint.com/pyqt/index.htm",
+    "Dedicated GH page1": "https://github.com/pyqt",
+    "Dedicated GH page2": "https://github.com/learnpyqt/15-minute-apps",
+    "Dedicated GH page3": "https://github.com/JulienGrv/awesome-python-qt",
+    "Dedicated GH page4": "https://github.com/learnpyqt",
+    "Course1": "https://www.udemy.com/course/pyqt5-the-python-gui-framework/",
+    "Course2": "https://www.udemy.com/course/python-pyqt5/",
+    "Course3": "https://www.udemy.com/course/python-gui-programming-recipes-using-pyqt5/",
+    "Tips1": "https://wiki.maemo.org/PyQt_Tips_and_Tricks",
+    "Tips2": "https://www.reddit.com/r/Python/comments/4c7q2j/any_tipsexamples_of_making_pyqtpyside_widgets/"
+  },
 	{
 		"Title" : "Qlik Sense",
 		"Tag" : "Data Analytics Platform",
@@ -4678,6 +4761,52 @@
 		"Tips2": "https://medium.com/dailyjs/tips-and-tricks-for-react-redux-application-c8d0db0ab0c8",
 		"Tips3": "https://itnext.io/3-small-tips-for-better-redux-performance-in-a-react-app-9cde549df6af",
 		"Tips4": "https://slashgear.github.io/react-redux-pitfalls-and-best-pratices/"
+	},
+	{
+      
+
+		"Title": "REST API",
+		"Tag": "Web Service",
+		"Documentation": "https://idratherbewriting.com/learnapidoc/docapis_what_is_a_rest_api.html",
+        "YT1": "https://www.youtube.com/watch?v=rtWH70_MMHM&t=67s",
+		"YT2": "https://www.youtube.com/watch?v=BZi44GOD8kY",
+        "YT3": "https://www.youtube.com/watch?v=SLwpqD8n3d0",
+		"YT4": "https://www.youtube.com/watch?v=Q-BpqyOT3a8&t=295s",
+        "YT5": "https://www.youtube.com/watch?v=qVTAB8Z2VmA&list=PLsyeobzWxl7ps4Z1C4VMtvZEx5-PgyoYI",
+		"YT6": "https://www.youtube.com/watch?v=qbLc5a9jdXo",             
+		"YT7": "https://www.youtube.com/watch?v=sdDDuQuX2cg",
+        "YT8": "https://www.youtube.com/watch?v=ALrOcDPimWE",
+		"YT9": "https://www.youtube.com/watch?v=lsMQRaeKNDk",
+
+        "Website1": "https://www.freecodecamp.org/news/rest-api-tutorial-rest-client-rest-service-and-api-calls-explained-with-code-examples/",
+        "Website2": "https://www.edureka.co/blog/what-is-rest-api/",
+        "Website3": "https://restfulapi.net/",
+        "Website4": "https://www.restapitutorial.com/",     
+	    "Website5": "https://stackify.com/rest-api-tutorial/",
+        "Website6": "https://www.toptal.com/laravel/restful-laravel-api-tutorial",
+        "Website7": "https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-api-from-example.html",
+        "Website8": "https://www.tutorialspoint.com/restful/index.htm",
+        "Website9": "https://spring.io/guides/tutorials/rest/",
+        "Website10": "https://tutorialedge.net/golang/creating-restful-api-with-golang/",
+        "Website11": "https://codesnippet.io/github-api-tutorial/",
+    
+
+		"Dedicated GH page1": "https://github.com/microsoft/api-guidelines",
+		"Dedicated GH page2": "https://github.com/encode/django-rest-framework",
+        "Dedicated GH page3": "https://github.com/diegohaz/rest",
+        "Dedicated GH page4": "https://github.com/tfredrich/RestApiTutorial.com",
+		"Dedicated GH page5": "https://github.com/public-apis/public-apis",
+
+        "Course1": "https://www.udemy.com/course/rest-api-flask-and-python/",
+		"Course2": "https://www.udemy.com/course/webservices-testing-with-soap-ui/",
+		"Course3": "https://www.udemy.com/course/advanced-rest-apis-flask-python/",
+		"Course4": "https://www.pluralsight.com/courses/rest-fundamental?aid=7010a000002BWq6AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=IN_Dynamic&utm_content=&gclid=Cj0KCQjwsqmEBhDiARIsANV8H3bcY5DukQD9Tq_by3B3ppoJsK_23MhbTSjS_0qgFoSHZgFLWyBTECIaApw7EALw_wcB",
+	    "Tips1": "https://medium.com/@petertboyer/learn-restful-api-design-ideals-c5ec915a430f",
+		"Tips2": "https://www.restapitutorial.com/lessons/restquicktips.html",
+		"Tips3": "https://florimond.dev/en/posts/2018/08/restful-api-design-13-best-practices-to-make-your-users-happy/",
+		"Tips4": "https://medium.com/epignosis-engineering/rest-api-development-tips-and-best-practices-part-1-9cbd4b924285",
+	    "Tips5": "https://www.slideshare.net/MaksymBruner/rest-api-tips-and-tricks",
+		"Tips6": "https://blog.bitsrc.io/10-tips-for-building-an-api-9ec335601d59?gi=da0e612e7ff0"
 	},
 	{
 		"Title" : "Ruby",
