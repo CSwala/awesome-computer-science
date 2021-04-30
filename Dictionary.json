@@ -1,4 +1,4 @@
-[
+﻿[
 	{	
 		"Title" : ".NET",
 		"Tag" : "Programming Language",
@@ -4594,6 +4594,33 @@
 		"Tips3" : "https://www.ranorex.com/blog/ranorexpath-tips-and-tricks/",
 		"Tips4" : "https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/",
 		"Image1" : "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2018/01/Ranorex-Introduction.jpg"
+	},
+	{
+		"Title" : "RapidMiner",
+		"Tag" : " Data Science Software",
+		"Documentation" : "https://docs.rapidminer.com/",
+		"YT1" : "https://www.youtube.com/channel/UCxneJBWWNLs-A6ckls1Rrug",
+		"YT2" : "https://www.youtube.com/watch?v=9i05kf0AxoE",
+		"YT3" : "https://www.youtube.com/playlist?list=PLssWC2d9JhOZLbQNZ80uOxLypglgWqbJA",
+		"YT4" : "https://www.youtube.com/watch?v=AMkQpICUEdg",
+		"YT5" : "https://www.youtube.com/watch?v=YXb1wZO-Evw",
+		"Website1" : "https://academy.rapidminer.com/learning-paths/get-started-with-rapidminer-and-machine-learning",
+		"Website2" : "https://analyticsindiamag.com/tutorial-on-rapidminer-a-tool-for-machine-learning-without-coding/",
+		"Website3" : "https://mindmajix.com/rapidminer-tutorial",
+		"Website4" : "https://neuralmarkettrends.com/rapidminer-tutorials/",
+		"Website5" : "https://www.slideshare.net/rapidminercontent/rapidminer-introduction-to-rapid-miner-3667256",
+		"Dedicated GH page1" : "https://github.com/rapidminer/",
+		"Dedicated GH page2" : "https://github.com/rapidminer?language=html",
+		"Dedicated GH page3" : "https://github.com/xbwei/machine_learning_in_rapidminer",
+		"Course1" : "https://academy.rapidminer.com/pages/content-library",
+		"Course2" : "https://www.mooc-list.com/tags/rapidminer",
+		"Course3" : "https://www.udemy.com/topic/rapidminer/",
+		"Course4" : "https://www.besanttechnologies.com/rapidminer-training",
+		"Course5" : "https://www.nobleprog.com/rapidminer-training",
+		"Tips1" : "https://rapidminer.com/resource/rapidminer-studio-tips/",
+		"Tips2" : "https://rapidminer.com/blog/ten-tips-to-master-rapidminer-studio/",
+		"Tips3" : "https://rapidminer.com/blog/tips-tricks-using-rapidminer-server/",
+		"Tips4" : "https://rapidminer.com/blog/using-execute-script-operator/"
 	},
 	{
 		"Title" : "ReactJS",
