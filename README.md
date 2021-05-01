@@ -6172,6 +6172,42 @@ https://aml3.github.io/RustTutorial/html/toc.html?ref=hackr.io
  </details>
 
 <details>
+ <summary>SAS</summary>
+ <br>Category/Type - <br> 
+ Statistical Software <br>
+ <br>Official Documentation - <br> 
+ https://support.sas.com/en/documentation.html <br>
+ <br>Best YouTube creators - <br> 
+ https://www.youtube.com/sassoftware <br>
+ https://www.youtube.com/sasusers<br>
+ https://www.youtube.com/watch?v=qLC0x9AMmoU<br>
+ https://www.youtube.com/watch?v=r1Yy_sYbfy0A<br>
+ https://www.youtube.com/watch?v=F9kldec5h5U<br>
+ <br>Useful Websites - <br> 
+ https://www.sas.com/en_in/training/home/academic-program/sas-tutorials.html<br>
+ https://www.tutorialspoint.com/sas/index.htm<br>
+ https://www.listendata.com/p/sas-tutorials.html <br>
+ https://www.guru99.com/sas-tutorial.html <br>
+ https://www.javatpoint.com/sas-tutorial <br>
+ <br>Dedicated Github page - <br>
+ https://github.com/sassoftware<br> 
+ https://github.com/sassoftware/sas-access-samples<br>
+ https://github.com/sassoftware/sas-visualanalytics-geowebmap<br>
+ <br>Best Courses - <br>
+ https://www.sas.com/en_in/training/overview.html<br>
+ https://www.coursera.org/sas<br>
+ https://www.udemy.com/topic/sas/<br> 
+ https://intellipaat.com/sas-training/<br>
+ https://www.edureka.co/sas-training<br>
+ <br>Other Tips / Hacks - <br>
+ https://blogs.sas.com/content/tag/tips-and-tricks/<br>
+ https://www.quanticate.com/blog/4-sas-tips-in-clinical-programming<br>   
+ https://www.beoptimized.be/SAS_tips_and_tricks?SAS_cat=Data+Step&page=1s<br>
+ https://www.beoptimized.be/SAS_tips_and_tricks?SAS_cat=Data+Step&page=1s<br>
+ https://www.pauldickman.com/sastips/<br>
+ </details>
+
+<details>
  <summary>SASS</summary>
  <br>Category/Type - <br> Stylesheet Language <br>
  <br>Official Documentation - <br> https://sass-lang.com/documentation <br>
