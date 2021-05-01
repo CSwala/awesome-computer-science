@@ -5717,6 +5717,41 @@ https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/<br>
 </details>
 
 <details>
+<summary>RapidMiner</summary>
+<br>Category/Type - <br> Data Science Software<br>
+<br>Official Documentation - <br>
+https://docs.rapidminer.com/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/channel/UCxneJBWWNLs-A6ckls1Rrug<br>
+https://www.youtube.com/watch?v=9i05kf0AxoE<br>
+hhttps://www.youtube.com/playlist?list=PLssWC2d9JhOZLbQNZ80uOxLypglgWqbJA<br>
+https://www.youtube.com/watch?v=AMkQpICUEdg<br>
+https://www.youtube.com/watch?v=YXb1wZO-Evw<br>
+<br>Useful Websites - <br>
+https://academy.rapidminer.com/learning-paths/get-started-with-rapidminer-and-machine-learning<br>
+https://analyticsindiamag.com/tutorial-on-rapidminer-a-tool-for-machine-learning-without-coding/<br>
+https://mindmajix.com/rapidminer-tutorial<br>
+https://neuralmarkettrends.com/rapidminer-tutorials/<br>
+https://www.slideshare.net/rapidminercontent/rapidminer-introduction-to-rapid-miner-3667256<br>
+<br>Dedicated Github page - <br>
+https://github.com/rapidminer/<br>
+https://github.com/rapidminer?language=html<br>
+https://github.com/xbwei/machine_learning_in_rapidminer<br>
+<br>Best Courses - <br>
+https://academy.rapidminer.com/pages/content-library<br>
+https://www.mooc-list.com/tags/rapidminer<br>
+https://www.udemy.com/topic/rapidminer/<br>
+https://www.besanttechnologies.com/rapidminer-training<br>
+https://www.nobleprog.com/rapidminer-training<br>
+<br>Other Tips / Hacks - <br>
+https://rapidminer.com/resource/rapidminer-studio-tips/<br>
+https://rapidminer.com/blog/ten-tips-to-master-rapidminer-studio/<br>
+https://rapidminer.com/blog/tips-tricks-using-rapidminer-server/<br>
+https://rapidminer.com/blog/using-execute-script-operator/<br>
+<br><br><br>
+</details>
+
+<details>
 <summary>ReactJS</summary>
 <br>Category/Type - <br>JavaScript Framework<br>
 <br>Official Documentation - <br>
