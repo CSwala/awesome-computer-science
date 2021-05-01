@@ -1243,6 +1243,62 @@ https://prograils.com/5-tips-for-elixir-phoenix-projects<br>
 </details>
 
 <details>
+<summary>Cloud Computing</summary>
+<br>
+Category/Type - <br>
+Computer Service <br>
+<br>
+Official Documentation - <br>
+https://cloud.google.com/docs <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=2LaAJq1lB1Q <br>
+https://www.youtube.com/watch?v=RWgW-CgdIk0 <br>
+https://www.youtube.com/watch?v=EN4fEbcFZ_E <br>
+https://www.youtube.com/watch?v=gIWel4gFZaY <br>
+https://www.youtube.com/playlist?list=PL-JvKqQx2AtfQ8cGyKsFE7Tj2FyB1yCkd <br>
+https://www.youtube.com/playlist?list=PLV8vIYTIdSnaKSiSGvJf2QquSN4lEzGob <br>
+https://www.youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV <br>
+https://www.youtube.com/playlist?list=PLrjkTql3jnm86_Jr9195OaqN-HeiBy49I <br>
+<br>
+Useful Websites- <br>
+https://www.tutorialspoint.com/cloud_computing/index.htm <br>
+https://www.javatpoint.com/cloud-computing-tutorial <br>
+https://www.guru99.com/cloud-computing-for-beginners.html <br>
+https://www.simplilearn.com/cloud-computing-tutorial-video <br>
+https://data-flair.training/blogs/cloud-computing-tutorial/ <br>
+https://www.pragimtech.com/blog/cloud/cloud-tutorial-for-beginners/ <br>
+https://www.w3schools.in/cloud-computing/cloud-computing/ <br>
+https://www.tutorialandexample.com/cloud-computing-tutorial/ <br>
+https://www.digitalocean.com/community/tutorials/a-general-introduction-to-cloud-computing <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/mohan08p/CloudComputing <br>
+https://github.com/prachi220/Cloud-Computing <br>
+https://github.com/DovAmir/awesome-design-patterns <br>
+https://github.com/mgmartinezl/Exploring-Cloud-Computing-Technologies <br>
+https://github.com/rezan21/Trade-Analysis-SaaS <br>
+https://github.com/lavelle96/cyclomatic-complexity <br>
+<br>
+Best Courses- <br>
+https://www.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners/ <br>
+https://www.udemy.com/course/getting-started-with-cloud-computing-level-1/ <br>
+https://www.coursera.org/learn/cloud-computing <br>
+https://www.udemy.com/course/cloud-computing-concepts/ <br>
+https://www.udemy.com/course/introduction-to-cloud-computing-with-amazon-web-services/ <br>
+https://www.edx.org/course/introduction-to-cloud-computing-6 <br>
+https://www.edx.org/micromasters/usmx-umgc-cloud-computing <br>
+<br>
+Other Tips/Hacks- <br>
+https://www.appneta.com/blog/5-cloud-computing-tips-time-money/ <br>
+https://www.techspertservices.com/blog/11-cloud-computing-tips-for-businesses <br>
+https://www.ntiva.com/blog/6-tips-for-improving-cloud-computing-security <br>
+https://searchcloudcomputing.techtarget.com/tip/Cloud-computing-tips-and-tricks-by-the-numbers <br>
+https://www.cloudinstitute.io/blog/cloud-computing-tips-and-tricks/ <br>
+<br>
+</details>
+
+<details>
 <summary>Codeigniter</summary>
 <br>
 Category/Type - <br>
@@ -5072,6 +5128,47 @@ http://www.evcomps.com/computer-repair/tips-and-tricks/operating-systems.html<br
 </details>
 
 <details>
+<summary>Padrino</summary>
+<br>
+Category/Type - <br>
+Ruby-Framework<br>
+<br>
+Official Documentation - <br>
+https://www.rubydoc.info/github/padrino/padrino-framework<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=CH_a3yNbYDM<br>
+https://www.youtube.com/watch?v=8aA9Enb8NVc<br>
+https://www.youtube.com/watch?v=8aA9Enb8NVc<br>
+https://www.youtube.com/watch?v=O_I6mABxzsY<br>
+<br>
+Useful Websites -
+http://padrinorb.com/<br>
+https://en.wikipedia.org/wiki/Padrino_(web_framework)<br>
+https://rubygems.org/gems/padrino/versions/0.15.0<br>
+https://www.softcover.io/books/wikimatze/padrinobook<br>
+https://programmingzen.com/padrino-a-ruby-framework-built-upon-sinatra/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/padrino/padrino-framework<br>
+https://github.com/padrino<br>
+https://github.com/padrino/padrino-recipes<br>
+https://github.com/padrinobook/padrinobook<br>
+https://github.com/padrino/padrino-docs<br>
+https://github.com/padrino/blog-tutorial<br>
+<br>
+Other Tips / Hacks - <br>
+https://staging.padrinobook.com/<br>
+https://www.quora.com/What-features-and-advantages-does-the-Padrino-framework-offer-compared-to-Ruby-on-Rails<br>
+https://padrinorb.com/guides/getting-started/blog-tutorial/<br>
+https://www.softcover.io/books/wikimatze/padrinobook
+<br><br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/8/89/Padrinologo.jpg">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Padrinologo.jpg" width="800" height="500"/>
+</a>
+</details>
+
+<details>
 <summary>Pandas</summary>
 <br>
 Category/Type - <br>
@@ -5717,6 +5814,41 @@ https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/<br>
 </details>
 
 <details>
+<summary>RapidMiner</summary>
+<br>Category/Type - <br> Data Science Software<br>
+<br>Official Documentation - <br>
+https://docs.rapidminer.com/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/channel/UCxneJBWWNLs-A6ckls1Rrug<br>
+https://www.youtube.com/watch?v=9i05kf0AxoE<br>
+hhttps://www.youtube.com/playlist?list=PLssWC2d9JhOZLbQNZ80uOxLypglgWqbJA<br>
+https://www.youtube.com/watch?v=AMkQpICUEdg<br>
+https://www.youtube.com/watch?v=YXb1wZO-Evw<br>
+<br>Useful Websites - <br>
+https://academy.rapidminer.com/learning-paths/get-started-with-rapidminer-and-machine-learning<br>
+https://analyticsindiamag.com/tutorial-on-rapidminer-a-tool-for-machine-learning-without-coding/<br>
+https://mindmajix.com/rapidminer-tutorial<br>
+https://neuralmarkettrends.com/rapidminer-tutorials/<br>
+https://www.slideshare.net/rapidminercontent/rapidminer-introduction-to-rapid-miner-3667256<br>
+<br>Dedicated Github page - <br>
+https://github.com/rapidminer/<br>
+https://github.com/rapidminer?language=html<br>
+https://github.com/xbwei/machine_learning_in_rapidminer<br>
+<br>Best Courses - <br>
+https://academy.rapidminer.com/pages/content-library<br>
+https://www.mooc-list.com/tags/rapidminer<br>
+https://www.udemy.com/topic/rapidminer/<br>
+https://www.besanttechnologies.com/rapidminer-training<br>
+https://www.nobleprog.com/rapidminer-training<br>
+<br>Other Tips / Hacks - <br>
+https://rapidminer.com/resource/rapidminer-studio-tips/<br>
+https://rapidminer.com/blog/ten-tips-to-master-rapidminer-studio/<br>
+https://rapidminer.com/blog/tips-tricks-using-rapidminer-server/<br>
+https://rapidminer.com/blog/using-execute-script-operator/<br>
+<br><br><br>
+</details>
+
+<details>
 <summary>ReactJS</summary>
 <br>Category/Type - <br>JavaScript Framework<br>
 <br>Official Documentation - <br>
@@ -6134,6 +6266,42 @@ https://aml3.github.io/RustTutorial/html/toc.html?ref=hackr.io
  <br>Other Tips / Hacks - <br> https://help.saltstack.com/hc/en-us/sections/360007948432-Command-Tips <br> https://docs.saltproject.io/en/latest/topics/hardening.html <br>
  https://www.linode.com/docs/guides/beginners-guide-to-salt/ <br>
  <br>
+ </details>
+
+<details>
+ <summary>SAS</summary>
+ <br>Category/Type - <br> 
+ Statistical Software <br>
+ <br>Official Documentation - <br> 
+ https://support.sas.com/en/documentation.html <br>
+ <br>Best YouTube creators - <br> 
+ https://www.youtube.com/sassoftware <br>
+ https://www.youtube.com/sasusers<br>
+ https://www.youtube.com/watch?v=qLC0x9AMmoU<br>
+ https://www.youtube.com/watch?v=r1Yy_sYbfy0A<br>
+ https://www.youtube.com/watch?v=F9kldec5h5U<br>
+ <br>Useful Websites - <br> 
+ https://www.sas.com/en_in/training/home/academic-program/sas-tutorials.html<br>
+ https://www.tutorialspoint.com/sas/index.htm<br>
+ https://www.listendata.com/p/sas-tutorials.html <br>
+ https://www.guru99.com/sas-tutorial.html <br>
+ https://www.javatpoint.com/sas-tutorial <br>
+ <br>Dedicated Github page - <br>
+ https://github.com/sassoftware<br> 
+ https://github.com/sassoftware/sas-access-samples<br>
+ https://github.com/sassoftware/sas-visualanalytics-geowebmap<br>
+ <br>Best Courses - <br>
+ https://www.sas.com/en_in/training/overview.html<br>
+ https://www.coursera.org/sas<br>
+ https://www.udemy.com/topic/sas/<br> 
+ https://intellipaat.com/sas-training/<br>
+ https://www.edureka.co/sas-training<br>
+ <br>Other Tips / Hacks - <br>
+ https://blogs.sas.com/content/tag/tips-and-tricks/<br>
+ https://www.quanticate.com/blog/4-sas-tips-in-clinical-programming<br>   
+ https://www.beoptimized.be/SAS_tips_and_tricks?SAS_cat=Data+Step&page=1s<br>
+ https://www.beoptimized.be/SAS_tips_and_tricks?SAS_cat=Data+Step&page=1s<br>
+ https://www.pauldickman.com/sastips/<br>
  </details>
 
 <details>
