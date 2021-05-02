@@ -2793,6 +2793,62 @@ https://www.udemy.com/course/gimp-photo-editing/ <br> https://www.udemy.com/cour
 https://www.pcgamer.com/10-sweet-gimp-photo-editing-tricks-to-wean-you-off-photoshop/ <br> https://windowsreport.com/how-to-use-gimp-2-10/ <br> <br>
 </details>
 
+
+
+<details>
+<summary>Git</summary>
+<br>Category/Type - <br> Version Control System <br>
+<br>Official Documentation - <br>https://git-scm.com/doc <br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=SWYqp7iY_Tc <br>
+https://www.youtube.com/watch?v=WbwIoQYP6no <br>
+https://www.youtube.com/watch?v=xuB1Id2Wxak <br>
+https://www.youtube.com/watch?v=8JJ101D3knE <br>
+https://www.youtube.com/watch?v=gwWKnnCMQ5c <br>
+https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR <br>
+https://www.youtube.com/watch?v=RGOj5yH7evk <br>
+https://www.youtube.com/watch?v=xAAmje1H9YM&list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW <br>
+https://www.youtube.com/watch?v=uj4fy4kpaOA <br>
+https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx <br>
+
+<br>Useful Websites - <br>
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners <br>
+https://www.vogella.com/tutorials/Git/article.html <br>
+https://www.atlassian.com/git/tutorials/what-is-version-control <br>
+https://www.tutorialspoint.com/git/index.htm <br>
+https://www.javatpoint.com/git <br>
+https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/ <br>
+https://academind.com/tutorials/git-the-basics/ <br>
+https://intellipaat.com/blog/tutorial/devops-tutorial/git-tutorial/ <br>
+
+<br>Dedicated Github page - <br> 
+https://github.com/Gazler/githug <br> 
+https://github.com/git/git <br> 
+https://github.com/github/gitignore <br> 
+https://github.com/tj/git-extra <br> 
+https://github.com/k88hudson/git-flight-rules <br> 
+
+<br>Best Courses - <br>
+https://www.udemy.com/course/git-and-github-bootcamp/ <br>
+ttps://www.udemy.com/course/git-complete/ <br>
+https://www.udemy.com/course/git-going-fast/ <br>
+https://www.udemy.com/course/github-ultimate/ <br>
+https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/ <br>
+https://www.udemy.com/course/learn-git-by-doing-a-step-by-step-guide-to-version-control/ <br>
+
+<br>Other Tips / Hacks - <br> 
+https://medium.com/swlh/git-tips-and-tricks-3c012cacbdcc <br> 
+https://codeburst.io/git-tips-and-tricks-to-improve-your-git-workflow-3f8652fa4a62 <br> 
+https://about.gitlab.com/blog/2020/04/07/15-git-tips-improve-workflow/ <br> 
+https://opensource.com/article/20/10/advanced-git-tips <br> 
+https://dev.to/jacobherrington/10-git-tricks-to-save-your-time-and-sanity-289h <br> 
+https://www.scalefactory.com/blog/2020/05/22/git-tips-and-tricks/ <br> 
+https://wikileaks.org/ciav7p1/cms/page_1179773.html <br> 
+
+<br><br><br>
+</details>
+
+
 <details>
 <summary>Go</summary>
 <br>Category/Type - <br> Programming language <br>
