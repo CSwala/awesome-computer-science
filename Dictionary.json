@@ -3044,6 +3044,40 @@
 	"Image1":"https://res.cloudinary.com/practicaldev/image/fetch/s--jaFWlQCW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/bqc1gncxdhau0zfuxqmp.png" 
 
 	},
+	{
+		"Title" : "Julia",
+		"Tag" : "Programming Language",
+		"Documentation" : "https://julialang.org/",
+		"YT1" : "https://www.youtube.com/watch?v=4igzy3bGVkQ&list=PLP8iPy9hna6SCcFv3FvY_qjAmtTsNYHQE",
+		"YT2" : "https://www.youtube.com/watch?v=8h8rQyEpiZA",
+		"YT3" : "https://www.youtube.com/watch?v=4igzy3bGVkQ",
+		"YT4" : "https://www.youtube.com/watch?v=lwj-1mclq0U",
+		"YT5" : "https://www.youtube.com/watch?v=RDr64bTDEw4&list=PL6_D9USWkG1DslafZLTnltyhxkihWCXiI",
+		"YT6" : "https://www.youtube.com/watch?v=-txkOkk4nJc",
+
+		"Website1" : "https://www.tutorialspoint.com/julia/index.htm",
+		"Website2" : "https://mindmajix.com/julia-tutorial",
+		"Website3" : "https://syl1.gitbook.io/julia-language-a-concise-tutorial/",
+		"Website4" : "https://www.mygreatlearning.com/blog/julia-tutorial/",
+		"Website5" : "https://www.geeksforgeeks.org/julia-language-introduction/",
+
+		"Dedicated GH page1" : "https://github.com/JuliaLang/julia",
+		"Dedicated GH page2" : "https://github.com/JuliaAcademy/JuliaTutorials",
+		"Dedicated GH page3" : "https://github.com/JuliaLang/IJulia.jl",
+		"Dedicated GH page4" : "https://github.com/juanklopper/JuliaCourseNotebooks",
+	    "Dedicated GH page5":"https://github.com/svaksha/Julia.jl",
+		"Course1" : "https://www.udemy.com/course/julia-foundations-2020/",
+		"Course2" : "https://www.udemy.com/course/getting-started-with-julia/",
+		"Course3" : "https://www.udemy.com/course/basics-of-julia-programming-for-machine-learning/",
+		"Course4" : "https://www.coursera.org/learn/julia-programming",
+        "Course5" : "https://www.coursera.org/projects/julia-beginners-data-science",
+
+		"Tips1" : "https://docs.julialang.org/en/v1/manual/performance-tips/",
+        "Tips2" : "https://www.juliabloggers.com/7-julia-gotchas-and-how-to-handle-them/",
+		"Tips3" : "https://towardsdatascience.com/9-cool-julia-tricks-in-4-minutes-47a3a4496054",
+		"Tips4" : "https://www.cs.purdue.edu/homes/hnassar/JPUG/performance.html",
+        "Tips5" : "https://codegolf.stackexchange.com/questions/24407/tips-for-golfing-in-julia"
+	},
 
         
 	{
