@@ -686,6 +686,60 @@ https://github.com/kailashahirwar/cheatsheets-ai<br>
 </details>
 
 <details>
+<summary>ASP</summary>
+<br>
+Category/Type - <br>Open-Source, Server-Side Web-Application Framework<br>
+<br>
+Official Documentation - <br>
+https://docs.microsoft.com/en-us/aspnet/core/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PL6n9fhu94yhXQS_p1i-HLIftB9Y7Vnxlo<br>
+https://www.youtube.com/watch?v=C5cnZ-gZy2I<br>
+https://www.youtube.com/watch?v=E7Voso411Vs<br>
+https://www.youtube.com/watch?v=t3zj0c244UE<br>
+https://www.youtube.com/watch?v=exokw7WQQ-A<br>
+<br>
+Useful Websites -
+<br>
+https://www.w3schools.com/asp/default.ASP<br>
+https://dotnet.microsoft.com/apps/aspnet<br>
+https://en.wikipedia.org/wiki/Active_Server_Pages<br>
+https://www.guru99.com/what-is-asp-dot-net.html<br>
+https://searchwindowsserver.techtarget.com/definition/Active-Server-Page<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/aspnet<br>
+https://github.com/dotnet/aspnetcore<br>
+https://github.com/dotnet-architecture/eShopOnWeb<br>
+https://github.com/aspnetboilerplate/aspnetboilerplate<br>
+https://github.com/webgentle/aspnet-core-mvc<br>
+https://github.com/aspnet/Mvc<br>
+https://github.com/aspnet/AspNetWebStack<br>
+https://github.com/aspnet/samples<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/topic/aspnet/<br>
+https://dotnet.microsoft.com/learn/aspnet<br>
+https://www.lynda.com/ASP-NET-training-tutorials/157-0.html<br>
+https://medium.com/javarevisited/7-best-online-courses-to-learn-asp-net-core-and-mvc-in-depth-a68c1b728090<br>
+https://javarevisited.blogspot.com/2019/10/top-5-courses-to-learn-asp-net-in-2019.html<br>
+<br>
+Other Tips / Hacks - <br>
+https://www.syncfusion.com/blogs/post/10-performance-improvement-tips-for-asp-net-core-3-0-applications.aspx<br>
+https://stackify.com/asp-net-performance-tuning/<br>
+https://docs.microsoft.com/en-us/archive/msdn-magazine/2005/january/asp-net-10-tips-for-writing-high-performance-web-applications<br>
+https://www.c-sharpcorner.com/UploadFile/skumaar_mca/tips-to-improve-the-performance-in-Asp-Net-application/<br>
+https://visualstudiomagazine.com/blogs/tool-tracker/list/blog-list.aspx<br>
+https://www.assp.org/education/certification-preparation/asp<br>
+<br>
+<a href="https://mpng.subpng.com/20180625/thc/kisspng-net-framework-software-framework-c-microsoft-asp-ms-logo-5b313fce876081.9578708415299542545545.jpg">
+  <img align="center" src="https://mpng.subpng.com/20180625/thc/kisspng-net-framework-software-framework-c-microsoft-asp-ms-logo-5b313fce876081.9578708415299542545545.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>AWK</summary>
 <br>
 Category/Type - <br>
@@ -3235,6 +3289,56 @@ https://www.elated.com/10-html-tips-for-beginners/<br>
 </details>
 
 <details>
+<summary>HTTP</summary>
+<br>
+Category/Type - <br>
+Application layer protocol <br>
+<br>
+Official Documentation - <br>
+https://devdocs.io/http/ <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=iYM2zFP3Zn0 <br>
+https://www.youtube.com/watch?v=JFZMyhRTVt0 <br>
+https://www.youtube.com/watch?v=RsQ1tFLwldY <br>
+https://www.youtube.com/watch?v=eesqK59rhGA <br>
+https://www.youtube.com/watch?v=0OrmKCB0UrQ <br>
+https://www.youtube.com/watch?v=FAnuh0_BU4c <br>
+<br>
+Useful Websites- <br>
+https://www.tutorialspoint.com/http/index.htm <br>
+https://www.javatpoint.com/http-tutorial <br>
+https://developer.mozilla.org/en-US/docs/Web/HTTP <br>
+https://www.w3schools.com/whatis/whatis_http.asp <br>
+https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/ <br>
+https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html <br>
+https://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340 <br>
+http://www.steves-internet-guide.com/http-basics/ <br>
+https://cloud.google.com/functions/docs/tutorials/http <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/http-party/http-server <br>
+https://github.com/hyperium/http <br>
+https://github.com/yhirose/cpp-httplib <br>
+https://github.com/kevinsawicki/http-request <br>
+https://github.com/encode/httpx <br>
+<br>
+Best Courses- <br>
+https://www.udacity.com/course/http-web-servers--ud303 <br>
+https://www.pluralsight.com/courses/xhttp-fund <br>
+https://www.linkedin.com/learning/http-essential-training <br>
+https://www.udemy.com/course/new-web-development-secrets/ <br>
+https://www.udemy.com/course/http-hypertext-transfer-protocol/ <br>
+https://www.udemy.com/course/https-secure-website-ssl-certificate/ <br>
+<br>
+Other Tips/Hacks- <br>
+https://link.springer.com/chapter/10.1007/978-3-662-62157-8_7 <br>
+https://www.computerhope.com/tips/tip160.htm <br>
+https://www.techrepublic.com/blog/10-things/10-tips-for-smarter-more-efficient-internet-searching/ <br>
+<br>
+</details>
+
+<details>
 <summary>Inkscape</summary>
 <br>Category/Type - <br>Computer application<br>
 <br>Official Documentation - <br>
@@ -3757,6 +3861,48 @@ https://www.toptal.com/react/tips-and-practices <br>
 <br><br><br>
 </details>
 
+<details>
+<summary>Julia</summary>
+<br>Category/Type - <br> Programming Language<br>
+<br>Official Documentation - <br> https://julialang.org/<br>
+<br>Best YouTube creators - <br> 
+https://www.youtube.com/watch?v=4igzy3bGVkQ&list=PLP8iPy9hna6SCcFv3FvY_qjAmtTsNYHQE <br> 
+https://www.youtube.com/watch?v=8h8rQyEpiZA <br> 
+https://www.youtube.com/watch?v=4igzy3bGVkQ <br> 
+https://www.youtube.com/watch?v=lwj-1mclq0U <br> 
+https://www.youtube.com/watch?v=RDr64bTDEw4&list=PL6_D9USWkG1DslafZLTnltyhxkihWCXiI <br> 
+https://www.youtube.com/watch?v=-txkOkk4nJc <br> 
+
+
+<br>Useful Websites - <br>
+https://www.tutorialspoint.com/julia/index.htm <br>
+https://mindmajix.com/julia-tutorial <br>
+https://syl1.gitbook.io/julia-language-a-concise-tutorial/ <br>
+https://www.mygreatlearning.com/blog/julia-tutorial/ <br>
+https://www.geeksforgeeks.org/julia-language-introduction/ <br>
+
+<br>Dedicated Github page - <br>
+https://github.com/JuliaLang/julia <br>
+https://github.com/JuliaAcademy/JuliaTutorials <br>
+https://github.com/JuliaLang/IJulia.jl <br>
+https://github.com/juanklopper/JuliaCourseNotebooks <br>
+https://github.com/svaksha/Julia.jl <br>
+
+<br>Best Courses - <br> 
+https://www.udemy.com/course/julia-foundations-2020/ <br>
+https://www.udemy.com/course/getting-started-with-julia/ <br>
+https://www.udemy.com/course/basics-of-julia-programming-for-machine-learning/ <br>
+https://www.coursera.org/learn/julia-programming <br>
+https://www.coursera.org/projects/julia-beginners-data-science <br>
+
+<br>Other Tips / Hacks - <br> 
+https://docs.julialang.org/en/v1/manual/performance-tips/ <br> 
+https://www.juliabloggers.com/7-julia-gotchas-and-how-to-handle-them/ <br> 
+https://towardsdatascience.com/9-cool-julia-tricks-in-4-minutes-47a3a4496054 <br> 
+https://www.cs.purdue.edu/homes/hnassar/JPUG/performance.html <br> 
+https://codegolf.stackexchange.com/questions/24407/tips-for-golfing-in-julia <br> 
+ <br><br> 
+</details>
 
 <details>
 <summary>Keras</summary>
@@ -7008,6 +7154,50 @@ https://bornfight.com/blog/symfony-tips-tricks-named-routes/ <br>
 https://www.cloudways.com/blog/php/symfony/<br>
 <br>
 </details>
+
+<details>
+<summary>Sympy Library</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://docs.sympy.org/latest/index.html<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=kx2GzBeGPco<br>
+https://www.youtube.com/watch?v=NFJ0ud30mbA<br>
+https://www.youtube.com/watch?v=s0Tj2ausMBI<br>
+https://www.youtube.com/watch?v=IIe83MwQxFE<br>
+<br>
+Useful Websites - <br>
+https://summerofcode.withgoogle.com/archive/2019/organizations/5652307671252992/<br>
+https://www.tutorialspoint.com/sympy/index.htm<br>
+https://www.geeksforgeeks.org/python-getting-started-with-sympy-module/<br>
+https://scipy-lectures.org/packages/sympy.html<br>
+http://www.cfm.brown.edu/people/dobrush/am33/SymPy/index.html<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/sympy/sympy<br>
+https://github.com/sympy/sympy-paper<br>
+https://github.com/symengine/symengine<br>
+https://github.com/cbm755/octsympy<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/python-numpy-sympy/<br>
+https://www.my-courses.net/2020/10/the-sympy-python-library.html<br>
+https://www.classcentral.com/course/udemy-python-numpy-sympy-26123<br>
+https://www.my-courses.net/2020/10/the-sympy-python-library.html<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/analytics-vidhya/1-1-introduction-to-sympy-2dd09afdcda9<br>
+https://medium.com/swlh/basics-of-solving-equations-in-sympy-ad770c14debd<br>
+https://medium.com/swlh/cyclomatic-complexity-724056ef5516<br>
+https://medium.com/@rinu.gour123/python-standard-library-list-of-important-libraries-200eecbcb492<br>
+https://towardsdatascience.com/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac<br>
+<br>
+</details>
+
 
 <details>
 <summary>Tableau</summary>
