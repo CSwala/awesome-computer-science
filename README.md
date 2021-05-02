@@ -3811,6 +3811,48 @@ https://www.toptal.com/react/tips-and-practices <br>
 <br><br><br>
 </details>
 
+<details>
+<summary>Julia</summary>
+<br>Category/Type - <br> Programming Language<br>
+<br>Official Documentation - <br> https://julialang.org/<br>
+<br>Best YouTube creators - <br> 
+https://www.youtube.com/watch?v=4igzy3bGVkQ&list=PLP8iPy9hna6SCcFv3FvY_qjAmtTsNYHQE <br> 
+https://www.youtube.com/watch?v=8h8rQyEpiZA <br> 
+https://www.youtube.com/watch?v=4igzy3bGVkQ <br> 
+https://www.youtube.com/watch?v=lwj-1mclq0U <br> 
+https://www.youtube.com/watch?v=RDr64bTDEw4&list=PL6_D9USWkG1DslafZLTnltyhxkihWCXiI <br> 
+https://www.youtube.com/watch?v=-txkOkk4nJc <br> 
+
+
+<br>Useful Websites - <br>
+https://www.tutorialspoint.com/julia/index.htm <br>
+https://mindmajix.com/julia-tutorial <br>
+https://syl1.gitbook.io/julia-language-a-concise-tutorial/ <br>
+https://www.mygreatlearning.com/blog/julia-tutorial/ <br>
+https://www.geeksforgeeks.org/julia-language-introduction/ <br>
+
+<br>Dedicated Github page - <br>
+https://github.com/JuliaLang/julia <br>
+https://github.com/JuliaAcademy/JuliaTutorials <br>
+https://github.com/JuliaLang/IJulia.jl <br>
+https://github.com/juanklopper/JuliaCourseNotebooks <br>
+https://github.com/svaksha/Julia.jl <br>
+
+<br>Best Courses - <br> 
+https://www.udemy.com/course/julia-foundations-2020/ <br>
+https://www.udemy.com/course/getting-started-with-julia/ <br>
+https://www.udemy.com/course/basics-of-julia-programming-for-machine-learning/ <br>
+https://www.coursera.org/learn/julia-programming <br>
+https://www.coursera.org/projects/julia-beginners-data-science <br>
+
+<br>Other Tips / Hacks - <br> 
+https://docs.julialang.org/en/v1/manual/performance-tips/ <br> 
+https://www.juliabloggers.com/7-julia-gotchas-and-how-to-handle-them/ <br> 
+https://towardsdatascience.com/9-cool-julia-tricks-in-4-minutes-47a3a4496054 <br> 
+https://www.cs.purdue.edu/homes/hnassar/JPUG/performance.html <br> 
+https://codegolf.stackexchange.com/questions/24407/tips-for-golfing-in-julia <br> 
+ <br><br> 
+</details>
 
 <details>
 <summary>Keras</summary>
