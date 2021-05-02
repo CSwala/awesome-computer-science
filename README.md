@@ -1499,6 +1499,54 @@ https://lastmomenttuitions.com/course/coa/<br>
 </details>
 
 <details>
+<summary>Computer Vision</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/Computer_vision<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ<br>
+https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r<br>
+https://www.youtube.com/watch?v=h8tk0hmWB44&list=PLRqwX-V7Uu6aG2RJHErXKSWFDXU4qo_ro<br>
+https://www.youtube.com/watch?v=vsCc-A_1V04&list=PLkPmSWtWNIyQTrMpEdX35OusFgRB5G9AO<br>
+<br>
+Useful Websites - <br>
+https://www.geeksforgeeks.org/computer-vision-introduction/<br>
+https://medium.com/edureka/python-opencv-tutorial-5549bd4940e3<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/jbhuang0604/awesome-computer-vision<br>
+https://github.com/topics/computer-vision<br>
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code<br>
+https://github.com/microsoft/computervision-recipes<br>
+https://github.com/anuragreddygv323/computer-vision-projects<br>
+<br>
+Best Courses - <br>
+https://www.udacity.com/course/introduction-to-computer-vision--ud810<br>
+https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow<br>
+https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/<br>
+https://www.udemy.com/course/computer-vision-masterclass/<br>
+https://www.udemy.com/course/computer-vision-face-recognition-quick-starter-in-python/<br>
+https://www.udemy.com/course/computer-vision-in-python-face-detection-image-processing/<br>
+https://www.udemy.com/course/learn-computer-vision-with-opencv-and-python/<br>
+<br>
+Other Tips/Hacks - <br>
+https://towardsdatascience.com/computer-vision-for-beginners-part-1-7cca775f58ef<br>
+https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e<br>
+https://www.tutorialspoint.com/dip/computer_vision_and_graphics.htm<br>
+https://medium.com/@rinu.gour123/ai-python-computer-vision-tutorial-with-opencv-b7f86c3c6a1a<br>
+https://medium.com/@ODSC/4-steps-to-start-machine-learning-with-computer-vision-9658fef424c0<br>
+https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b<br>
+https://towardsdatascience.com/a-beginners-guide-to-computer-vision-dca81b0e94b4<br>
+https://medium.com/@anirbanvalueinvesting/computer-vision-projects-64a59df35493<br>
+https://medium.com/analytics-vidhya/ways-to-boost-your-computer-vision-projects-by-using-5-open-source-facial-recognition-projects-56668f170cb9<br>
+<br>
+</details>
+
+<details>
 
  <summary> CryEngine </summary>
  <br>Category/Type - <br> Game engine <br>
