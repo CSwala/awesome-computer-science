@@ -3235,6 +3235,56 @@ https://www.elated.com/10-html-tips-for-beginners/<br>
 </details>
 
 <details>
+<summary>HTTP</summary>
+<br>
+Category/Type - <br>
+Application layer protocol <br>
+<br>
+Official Documentation - <br>
+https://devdocs.io/http/ <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=iYM2zFP3Zn0 <br>
+https://www.youtube.com/watch?v=JFZMyhRTVt0 <br>
+https://www.youtube.com/watch?v=RsQ1tFLwldY <br>
+https://www.youtube.com/watch?v=eesqK59rhGA <br>
+https://www.youtube.com/watch?v=0OrmKCB0UrQ <br>
+https://www.youtube.com/watch?v=FAnuh0_BU4c <br>
+<br>
+Useful Websites- <br>
+https://www.tutorialspoint.com/http/index.htm <br>
+https://www.javatpoint.com/http-tutorial <br>
+https://developer.mozilla.org/en-US/docs/Web/HTTP <br>
+https://www.w3schools.com/whatis/whatis_http.asp <br>
+https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/ <br>
+https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html <br>
+https://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340 <br>
+http://www.steves-internet-guide.com/http-basics/ <br>
+https://cloud.google.com/functions/docs/tutorials/http <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/http-party/http-server <br>
+https://github.com/hyperium/http <br>
+https://github.com/yhirose/cpp-httplib <br>
+https://github.com/kevinsawicki/http-request <br>
+https://github.com/encode/httpx <br>
+<br>
+Best Courses- <br>
+https://www.udacity.com/course/http-web-servers--ud303 <br>
+https://www.pluralsight.com/courses/xhttp-fund <br>
+https://www.linkedin.com/learning/http-essential-training <br>
+https://www.udemy.com/course/new-web-development-secrets/ <br>
+https://www.udemy.com/course/http-hypertext-transfer-protocol/ <br>
+https://www.udemy.com/course/https-secure-website-ssl-certificate/ <br>
+<br>
+Other Tips/Hacks- <br>
+https://link.springer.com/chapter/10.1007/978-3-662-62157-8_7 <br>
+https://www.computerhope.com/tips/tip160.htm <br>
+https://www.techrepublic.com/blog/10-things/10-tips-for-smarter-more-efficient-internet-searching/ <br>
+<br>
+</details>
+
+<details>
 <summary>Inkscape</summary>
 <br>Category/Type - <br>Computer application<br>
 <br>Official Documentation - <br>
