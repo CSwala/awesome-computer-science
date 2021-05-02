@@ -6733,6 +6733,51 @@ https://medium.com/edureka/scikit-learn-machine-learning-7a2d92e4dd07<br>
 https://www.kdnuggets.com/2021/01/ultimate-scikit-learn-machine-learning-cheatsheet.html<br>
 </details>
 <details>
+
+<details>
+<summary>SciLab</summary>
+<br>
+Category/Type - <br>
+Software<br>
+<br>
+Documentation - <br>
+https://www.scilab.org/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/channel/UCFWJxS5_gUSdO4B2Vtl2QvA<br>
+https://www.youtube.com/watch?v=AzElVPaS71U<br>
+https://www.youtube.com/watch?v=UlgN4UHWvmU<br>
+https://www.youtube.com/watch?v=Rf3UjdF6g90&list=PLA1Sn1TGR3wX_yoUCr5hai4TV9jY2F70V<br>
+https://www.youtube.com/watch?v=DZ1sH7aMgyE<br>
+https://www.youtube.com/watch?v=geG671brL78&list=PL6wr_B29b3UR29TFrLCsgTlu6AMU5-X1D<br>
+https://www.youtube.com/watch?v=42tSRabYI3A&list=PLUhYFZgYOn8d1oDcaG2PfGioteMleH9B1<br>
+<br>
+Useful Websites - <br>
+https://www.scilab.org/tutorials/scilab-beginners-%E2%80%93-tutorial<br>
+https://scilab.in/spoken-tutorial<br>
+https://x-engineer.org/graduate-engineering/programming-languages/scilab/introduction-to-scilab/<br>
+https://www.numerical-tours.com/matlab/introduction_1_basics/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/scilab/scilab2c<br>
+https://github.com/scilab/scilab<br>
+https://github.com/scilab/scilab-prerequirements<br>
+<br>
+Best Courses - <br>
+https://onlinecourses.swayam2.ac.in/aic20_sp38/preview<br>
+https://www.udemy.com/course/scilab-the-first-course-beginners-to-intermediate/<br>
+https://www.learncax.com/courses/by-software/introduction-to-programming-using-scilab-detail<br>
+http://www.diginetinfosystems.com/basic-course-in-scilab-bangalore.php<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/@aguigui17/activity-3-scilab-basics-24cac9d79d50<br>
+https://medium.com/silibrain/the-lads-guide-to-matlab-scilab-6146fd46f6<br>
+https://medium.com/shiv-rec-publications/tagged/scilab<br>
+https://www.geeksforgeeks.org/difference-between-matlab-and-scilab/<br>
+<br>
+</details>
+
+
 <summary>Scrapy</summary>
 <br>
 Category/Type - <br>
