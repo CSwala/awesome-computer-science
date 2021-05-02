@@ -1243,6 +1243,62 @@ https://prograils.com/5-tips-for-elixir-phoenix-projects<br>
 </details>
 
 <details>
+<summary>Cloud Computing</summary>
+<br>
+Category/Type - <br>
+Computer Service <br>
+<br>
+Official Documentation - <br>
+https://cloud.google.com/docs <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=2LaAJq1lB1Q <br>
+https://www.youtube.com/watch?v=RWgW-CgdIk0 <br>
+https://www.youtube.com/watch?v=EN4fEbcFZ_E <br>
+https://www.youtube.com/watch?v=gIWel4gFZaY <br>
+https://www.youtube.com/playlist?list=PL-JvKqQx2AtfQ8cGyKsFE7Tj2FyB1yCkd <br>
+https://www.youtube.com/playlist?list=PLV8vIYTIdSnaKSiSGvJf2QquSN4lEzGob <br>
+https://www.youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV <br>
+https://www.youtube.com/playlist?list=PLrjkTql3jnm86_Jr9195OaqN-HeiBy49I <br>
+<br>
+Useful Websites- <br>
+https://www.tutorialspoint.com/cloud_computing/index.htm <br>
+https://www.javatpoint.com/cloud-computing-tutorial <br>
+https://www.guru99.com/cloud-computing-for-beginners.html <br>
+https://www.simplilearn.com/cloud-computing-tutorial-video <br>
+https://data-flair.training/blogs/cloud-computing-tutorial/ <br>
+https://www.pragimtech.com/blog/cloud/cloud-tutorial-for-beginners/ <br>
+https://www.w3schools.in/cloud-computing/cloud-computing/ <br>
+https://www.tutorialandexample.com/cloud-computing-tutorial/ <br>
+https://www.digitalocean.com/community/tutorials/a-general-introduction-to-cloud-computing <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/mohan08p/CloudComputing <br>
+https://github.com/prachi220/Cloud-Computing <br>
+https://github.com/DovAmir/awesome-design-patterns <br>
+https://github.com/mgmartinezl/Exploring-Cloud-Computing-Technologies <br>
+https://github.com/rezan21/Trade-Analysis-SaaS <br>
+https://github.com/lavelle96/cyclomatic-complexity <br>
+<br>
+Best Courses- <br>
+https://www.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners/ <br>
+https://www.udemy.com/course/getting-started-with-cloud-computing-level-1/ <br>
+https://www.coursera.org/learn/cloud-computing <br>
+https://www.udemy.com/course/cloud-computing-concepts/ <br>
+https://www.udemy.com/course/introduction-to-cloud-computing-with-amazon-web-services/ <br>
+https://www.edx.org/course/introduction-to-cloud-computing-6 <br>
+https://www.edx.org/micromasters/usmx-umgc-cloud-computing <br>
+<br>
+Other Tips/Hacks- <br>
+https://www.appneta.com/blog/5-cloud-computing-tips-time-money/ <br>
+https://www.techspertservices.com/blog/11-cloud-computing-tips-for-businesses <br>
+https://www.ntiva.com/blog/6-tips-for-improving-cloud-computing-security <br>
+https://searchcloudcomputing.techtarget.com/tip/Cloud-computing-tips-and-tricks-by-the-numbers <br>
+https://www.cloudinstitute.io/blog/cloud-computing-tips-and-tricks/ <br>
+<br>
+</details>
+
+<details>
 <summary>Codeigniter</summary>
 <br>
 Category/Type - <br>
@@ -1440,6 +1496,54 @@ Other Tips / Hacks - <br>
 https://www.geeksforgeeks.org/last-minute-notes-computer-organization/<br>
 https://lastmomenttuitions.com/course/coa/<br>
 <br><br>
+</details>
+
+<details>
+<summary>Computer Vision</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/Computer_vision<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ<br>
+https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r<br>
+https://www.youtube.com/watch?v=h8tk0hmWB44&list=PLRqwX-V7Uu6aG2RJHErXKSWFDXU4qo_ro<br>
+https://www.youtube.com/watch?v=vsCc-A_1V04&list=PLkPmSWtWNIyQTrMpEdX35OusFgRB5G9AO<br>
+<br>
+Useful Websites - <br>
+https://www.geeksforgeeks.org/computer-vision-introduction/<br>
+https://medium.com/edureka/python-opencv-tutorial-5549bd4940e3<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/jbhuang0604/awesome-computer-vision<br>
+https://github.com/topics/computer-vision<br>
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code<br>
+https://github.com/microsoft/computervision-recipes<br>
+https://github.com/anuragreddygv323/computer-vision-projects<br>
+<br>
+Best Courses - <br>
+https://www.udacity.com/course/introduction-to-computer-vision--ud810<br>
+https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow<br>
+https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/<br>
+https://www.udemy.com/course/computer-vision-masterclass/<br>
+https://www.udemy.com/course/computer-vision-face-recognition-quick-starter-in-python/<br>
+https://www.udemy.com/course/computer-vision-in-python-face-detection-image-processing/<br>
+https://www.udemy.com/course/learn-computer-vision-with-opencv-and-python/<br>
+<br>
+Other Tips/Hacks - <br>
+https://towardsdatascience.com/computer-vision-for-beginners-part-1-7cca775f58ef<br>
+https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e<br>
+https://www.tutorialspoint.com/dip/computer_vision_and_graphics.htm<br>
+https://medium.com/@rinu.gour123/ai-python-computer-vision-tutorial-with-opencv-b7f86c3c6a1a<br>
+https://medium.com/@ODSC/4-steps-to-start-machine-learning-with-computer-vision-9658fef424c0<br>
+https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b<br>
+https://towardsdatascience.com/a-beginners-guide-to-computer-vision-dca81b0e94b4<br>
+https://medium.com/@anirbanvalueinvesting/computer-vision-projects-64a59df35493<br>
+https://medium.com/analytics-vidhya/ways-to-boost-your-computer-vision-projects-by-using-5-open-source-facial-recognition-projects-56668f170cb9<br>
+<br>
 </details>
 
 <details>
@@ -2736,6 +2840,62 @@ https://www.udemy.com/course/gimp-photo-editing/ <br> https://www.udemy.com/cour
 <br>Other Tips / Hacks - <br> https://digital-photography-school.com/5-top-tips-for-working-with-gimp/ <br> https://www.pcworld.com/article/3451356/gimp-basics-tips-and-tricks-for-beginners.html <br>
 https://www.pcgamer.com/10-sweet-gimp-photo-editing-tricks-to-wean-you-off-photoshop/ <br> https://windowsreport.com/how-to-use-gimp-2-10/ <br> <br>
 </details>
+
+
+
+<details>
+<summary>Git</summary>
+<br>Category/Type - <br> Version Control System <br>
+<br>Official Documentation - <br>https://git-scm.com/doc <br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=SWYqp7iY_Tc <br>
+https://www.youtube.com/watch?v=WbwIoQYP6no <br>
+https://www.youtube.com/watch?v=xuB1Id2Wxak <br>
+https://www.youtube.com/watch?v=8JJ101D3knE <br>
+https://www.youtube.com/watch?v=gwWKnnCMQ5c <br>
+https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR <br>
+https://www.youtube.com/watch?v=RGOj5yH7evk <br>
+https://www.youtube.com/watch?v=xAAmje1H9YM&list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW <br>
+https://www.youtube.com/watch?v=uj4fy4kpaOA <br>
+https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx <br>
+
+<br>Useful Websites - <br>
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners <br>
+https://www.vogella.com/tutorials/Git/article.html <br>
+https://www.atlassian.com/git/tutorials/what-is-version-control <br>
+https://www.tutorialspoint.com/git/index.htm <br>
+https://www.javatpoint.com/git <br>
+https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/ <br>
+https://academind.com/tutorials/git-the-basics/ <br>
+https://intellipaat.com/blog/tutorial/devops-tutorial/git-tutorial/ <br>
+
+<br>Dedicated Github page - <br> 
+https://github.com/Gazler/githug <br> 
+https://github.com/git/git <br> 
+https://github.com/github/gitignore <br> 
+https://github.com/tj/git-extra <br> 
+https://github.com/k88hudson/git-flight-rules <br> 
+
+<br>Best Courses - <br>
+https://www.udemy.com/course/git-and-github-bootcamp/ <br>
+ttps://www.udemy.com/course/git-complete/ <br>
+https://www.udemy.com/course/git-going-fast/ <br>
+https://www.udemy.com/course/github-ultimate/ <br>
+https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/ <br>
+https://www.udemy.com/course/learn-git-by-doing-a-step-by-step-guide-to-version-control/ <br>
+
+<br>Other Tips / Hacks - <br> 
+https://medium.com/swlh/git-tips-and-tricks-3c012cacbdcc <br> 
+https://codeburst.io/git-tips-and-tricks-to-improve-your-git-workflow-3f8652fa4a62 <br> 
+https://about.gitlab.com/blog/2020/04/07/15-git-tips-improve-workflow/ <br> 
+https://opensource.com/article/20/10/advanced-git-tips <br> 
+https://dev.to/jacobherrington/10-git-tricks-to-save-your-time-and-sanity-289h <br> 
+https://www.scalefactory.com/blog/2020/05/22/git-tips-and-tricks/ <br> 
+https://wikileaks.org/ciav7p1/cms/page_1179773.html <br> 
+
+<br><br><br>
+</details>
+
 
 <details>
 <summary>Go</summary>
@@ -5072,6 +5232,47 @@ http://www.evcomps.com/computer-repair/tips-and-tricks/operating-systems.html<br
 </details>
 
 <details>
+<summary>Padrino</summary>
+<br>
+Category/Type - <br>
+Ruby-Framework<br>
+<br>
+Official Documentation - <br>
+https://www.rubydoc.info/github/padrino/padrino-framework<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=CH_a3yNbYDM<br>
+https://www.youtube.com/watch?v=8aA9Enb8NVc<br>
+https://www.youtube.com/watch?v=8aA9Enb8NVc<br>
+https://www.youtube.com/watch?v=O_I6mABxzsY<br>
+<br>
+Useful Websites -
+http://padrinorb.com/<br>
+https://en.wikipedia.org/wiki/Padrino_(web_framework)<br>
+https://rubygems.org/gems/padrino/versions/0.15.0<br>
+https://www.softcover.io/books/wikimatze/padrinobook<br>
+https://programmingzen.com/padrino-a-ruby-framework-built-upon-sinatra/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/padrino/padrino-framework<br>
+https://github.com/padrino<br>
+https://github.com/padrino/padrino-recipes<br>
+https://github.com/padrinobook/padrinobook<br>
+https://github.com/padrino/padrino-docs<br>
+https://github.com/padrino/blog-tutorial<br>
+<br>
+Other Tips / Hacks - <br>
+https://staging.padrinobook.com/<br>
+https://www.quora.com/What-features-and-advantages-does-the-Padrino-framework-offer-compared-to-Ruby-on-Rails<br>
+https://padrinorb.com/guides/getting-started/blog-tutorial/<br>
+https://www.softcover.io/books/wikimatze/padrinobook
+<br><br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/8/89/Padrinologo.jpg">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Padrinologo.jpg" width="800" height="500"/>
+</a>
+</details>
+
+<details>
 <summary>Pandas</summary>
 <br>
 Category/Type - <br>
@@ -5758,6 +5959,41 @@ https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/<br>
 </details>
 
 <details>
+<summary>RapidMiner</summary>
+<br>Category/Type - <br> Data Science Software<br>
+<br>Official Documentation - <br>
+https://docs.rapidminer.com/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/channel/UCxneJBWWNLs-A6ckls1Rrug<br>
+https://www.youtube.com/watch?v=9i05kf0AxoE<br>
+hhttps://www.youtube.com/playlist?list=PLssWC2d9JhOZLbQNZ80uOxLypglgWqbJA<br>
+https://www.youtube.com/watch?v=AMkQpICUEdg<br>
+https://www.youtube.com/watch?v=YXb1wZO-Evw<br>
+<br>Useful Websites - <br>
+https://academy.rapidminer.com/learning-paths/get-started-with-rapidminer-and-machine-learning<br>
+https://analyticsindiamag.com/tutorial-on-rapidminer-a-tool-for-machine-learning-without-coding/<br>
+https://mindmajix.com/rapidminer-tutorial<br>
+https://neuralmarkettrends.com/rapidminer-tutorials/<br>
+https://www.slideshare.net/rapidminercontent/rapidminer-introduction-to-rapid-miner-3667256<br>
+<br>Dedicated Github page - <br>
+https://github.com/rapidminer/<br>
+https://github.com/rapidminer?language=html<br>
+https://github.com/xbwei/machine_learning_in_rapidminer<br>
+<br>Best Courses - <br>
+https://academy.rapidminer.com/pages/content-library<br>
+https://www.mooc-list.com/tags/rapidminer<br>
+https://www.udemy.com/topic/rapidminer/<br>
+https://www.besanttechnologies.com/rapidminer-training<br>
+https://www.nobleprog.com/rapidminer-training<br>
+<br>Other Tips / Hacks - <br>
+https://rapidminer.com/resource/rapidminer-studio-tips/<br>
+https://rapidminer.com/blog/ten-tips-to-master-rapidminer-studio/<br>
+https://rapidminer.com/blog/tips-tricks-using-rapidminer-server/<br>
+https://rapidminer.com/blog/using-execute-script-operator/<br>
+<br><br><br>
+</details>
+
+<details>
 <summary>ReactJS</summary>
 <br>Category/Type - <br>JavaScript Framework<br>
 <br>Official Documentation - <br>
@@ -6175,6 +6411,42 @@ https://aml3.github.io/RustTutorial/html/toc.html?ref=hackr.io
  <br>Other Tips / Hacks - <br> https://help.saltstack.com/hc/en-us/sections/360007948432-Command-Tips <br> https://docs.saltproject.io/en/latest/topics/hardening.html <br>
  https://www.linode.com/docs/guides/beginners-guide-to-salt/ <br>
  <br>
+ </details>
+
+<details>
+ <summary>SAS</summary>
+ <br>Category/Type - <br> 
+ Statistical Software <br>
+ <br>Official Documentation - <br> 
+ https://support.sas.com/en/documentation.html <br>
+ <br>Best YouTube creators - <br> 
+ https://www.youtube.com/sassoftware <br>
+ https://www.youtube.com/sasusers<br>
+ https://www.youtube.com/watch?v=qLC0x9AMmoU<br>
+ https://www.youtube.com/watch?v=r1Yy_sYbfy0A<br>
+ https://www.youtube.com/watch?v=F9kldec5h5U<br>
+ <br>Useful Websites - <br> 
+ https://www.sas.com/en_in/training/home/academic-program/sas-tutorials.html<br>
+ https://www.tutorialspoint.com/sas/index.htm<br>
+ https://www.listendata.com/p/sas-tutorials.html <br>
+ https://www.guru99.com/sas-tutorial.html <br>
+ https://www.javatpoint.com/sas-tutorial <br>
+ <br>Dedicated Github page - <br>
+ https://github.com/sassoftware<br> 
+ https://github.com/sassoftware/sas-access-samples<br>
+ https://github.com/sassoftware/sas-visualanalytics-geowebmap<br>
+ <br>Best Courses - <br>
+ https://www.sas.com/en_in/training/overview.html<br>
+ https://www.coursera.org/sas<br>
+ https://www.udemy.com/topic/sas/<br> 
+ https://intellipaat.com/sas-training/<br>
+ https://www.edureka.co/sas-training<br>
+ <br>Other Tips / Hacks - <br>
+ https://blogs.sas.com/content/tag/tips-and-tricks/<br>
+ https://www.quanticate.com/blog/4-sas-tips-in-clinical-programming<br>   
+ https://www.beoptimized.be/SAS_tips_and_tricks?SAS_cat=Data+Step&page=1s<br>
+ https://www.beoptimized.be/SAS_tips_and_tricks?SAS_cat=Data+Step&page=1s<br>
+ https://www.pauldickman.com/sastips/<br>
  </details>
 
 <details>
