@@ -851,6 +851,52 @@ https://gregorsuttie.com/2020/05/07/azure-tips-n-tricks/ <br> https://dailydotne
 </details>
 
 <details>
+<summary>BeautifulSoup Library</summary>
+<br>
+Category/Type - <br>
+Python Library<br>
+<br>
+Documentation - <br>
+https://pypi.org/project/beautifulsoup4/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=mKxFfjNyj3c<br>
+https://www.youtube.com/watch?v=uufDGjTuq34<br>
+https://www.youtube.com/watch?v=aIPqt-OdmS0<br>
+https://www.youtube.com/watch?v=-BxshLa2H0c&list=PL47S5PRS_XOd7p4svEN75YR45eARHXdqQ<br>
+<br>
+Useful Websites - <br>
+https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/<br>
+https://programminghistorian.org/en/lessons/intro-to-beautiful-soup<br>
+https://www.tutorialspoint.com/beautiful_soup/index.htm<br>
+https://www.digitalocean.com/community/tutorials/how-to-scrape-web-pages-with-beautiful-soup-and-python-3<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/waylan/beautifulsoup<br>
+https://github.com/wention/BeautifulSoup4<br>
+https://github.com/akalongman/python-beautifulsoup<br>
+https://github.com/topics/beautiful-soup<br>
+https://github.com/hackersandslackers/beautifulsoup-tutorial<br>
+<br>
+Best Courses - <br>
+https://www.dataquest.io/blog/web-scraping-python-using-beautiful-soup/<br>
+https://www.coursera.org/projects/web-scraping<br>
+https://www.coursera.org/lecture/python-network-data/worked-example-beautifulsoup-chapter-12-S4FIR<br>
+https://www.coursera.org/lecture/basic-data-processing-visualization-python/urllib-and-beautifulsoup-BRJmD<br>
+https://www.coursera.org/learn/python-network-data<br>
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwicurzj7p_wAhXSbioKHSwVBrkYABABGgJ0bQ&ae=2&ohost=www.google.com&cid=CAESQOD2tWbUl8w6lnpqzSAjnDvGMwHVuBYTOgnlLi31fncpn35lUjLnIoPBxvRjIwy-lglsS0YOW_xDOIs3U2F_wRc&sig=AOD64_19JOeck4pAejGh_GEJk1QY85uI7Q&q&adurl&ved=2ahUKEwin67Pj7p_wAhXNxDgGHYeMDHcQ0Qx6BAgEEAE<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/technofunnel/web-scraping-with-python-using-beautifulsoup-76b710e3e92f<br>
+https://medium.com/@feliciaSWE/easy-web-scraping-with-python-beautifulsoup-afc7191d6432<br>
+https://medium.com/analytics-vidhya/web-scraping-with-python-using-beautifulsoup-69b8bc07ff43https://medium.com/@shivangisareen/beautiful-soup-in-python-79697b33e294<br>
+https://medium.com/the-innovation/scraping-medium-with-python-beautiful-soup-3314f898bbf5<br>
+https://medium.com/swlh/web-scraping-using-beautiful-soup-and-requests-in-python-ca44ff11e476<br>
+<br>
+</details>
+
+
+<details>
 <summary>Big Data</summary>
 <br>Category/Type - <br>Data Analytics<br>
 <br>Official Documentation - <br>
