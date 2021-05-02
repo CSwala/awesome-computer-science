@@ -686,6 +686,60 @@ https://github.com/kailashahirwar/cheatsheets-ai<br>
 </details>
 
 <details>
+<summary>ASP</summary>
+<br>
+Category/Type - <br>Open-Source, Server-Side Web-Application Framework<br>
+<br>
+Official Documentation - <br>
+https://docs.microsoft.com/en-us/aspnet/core/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PL6n9fhu94yhXQS_p1i-HLIftB9Y7Vnxlo<br>
+https://www.youtube.com/watch?v=C5cnZ-gZy2I<br>
+https://www.youtube.com/watch?v=E7Voso411Vs<br>
+https://www.youtube.com/watch?v=t3zj0c244UE<br>
+https://www.youtube.com/watch?v=exokw7WQQ-A<br>
+<br>
+Useful Websites -
+<br>
+https://www.w3schools.com/asp/default.ASP<br>
+https://dotnet.microsoft.com/apps/aspnet<br>
+https://en.wikipedia.org/wiki/Active_Server_Pages<br>
+https://www.guru99.com/what-is-asp-dot-net.html<br>
+https://searchwindowsserver.techtarget.com/definition/Active-Server-Page<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/aspnet<br>
+https://github.com/dotnet/aspnetcore<br>
+https://github.com/dotnet-architecture/eShopOnWeb<br>
+https://github.com/aspnetboilerplate/aspnetboilerplate<br>
+https://github.com/webgentle/aspnet-core-mvc<br>
+https://github.com/aspnet/Mvc<br>
+https://github.com/aspnet/AspNetWebStack<br>
+https://github.com/aspnet/samples<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/topic/aspnet/<br>
+https://dotnet.microsoft.com/learn/aspnet<br>
+https://www.lynda.com/ASP-NET-training-tutorials/157-0.html<br>
+https://medium.com/javarevisited/7-best-online-courses-to-learn-asp-net-core-and-mvc-in-depth-a68c1b728090<br>
+https://javarevisited.blogspot.com/2019/10/top-5-courses-to-learn-asp-net-in-2019.html<br>
+<br>
+Other Tips / Hacks - <br>
+https://www.syncfusion.com/blogs/post/10-performance-improvement-tips-for-asp-net-core-3-0-applications.aspx<br>
+https://stackify.com/asp-net-performance-tuning/<br>
+https://docs.microsoft.com/en-us/archive/msdn-magazine/2005/january/asp-net-10-tips-for-writing-high-performance-web-applications<br>
+https://www.c-sharpcorner.com/UploadFile/skumaar_mca/tips-to-improve-the-performance-in-Asp-Net-application/<br>
+https://visualstudiomagazine.com/blogs/tool-tracker/list/blog-list.aspx<br>
+https://www.assp.org/education/certification-preparation/asp<br>
+<br>
+<a href="https://mpng.subpng.com/20180625/thc/kisspng-net-framework-software-framework-c-microsoft-asp-ms-logo-5b313fce876081.9578708415299542545545.jpg">
+  <img align="center" src="https://mpng.subpng.com/20180625/thc/kisspng-net-framework-software-framework-c-microsoft-asp-ms-logo-5b313fce876081.9578708415299542545545.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>AWK</summary>
 <br>
 Category/Type - <br>
