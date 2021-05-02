@@ -7010,6 +7010,50 @@ https://www.cloudways.com/blog/php/symfony/<br>
 </details>
 
 <details>
+<summary>Sympy Library</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://docs.sympy.org/latest/index.html<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=kx2GzBeGPco<br>
+https://www.youtube.com/watch?v=NFJ0ud30mbA<br>
+https://www.youtube.com/watch?v=s0Tj2ausMBI<br>
+https://www.youtube.com/watch?v=IIe83MwQxFE<br>
+<br>
+Useful Websites - <br>
+https://summerofcode.withgoogle.com/archive/2019/organizations/5652307671252992/<br>
+https://www.tutorialspoint.com/sympy/index.htm<br>
+https://www.geeksforgeeks.org/python-getting-started-with-sympy-module/<br>
+https://scipy-lectures.org/packages/sympy.html<br>
+http://www.cfm.brown.edu/people/dobrush/am33/SymPy/index.html<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/sympy/sympy<br>
+https://github.com/sympy/sympy-paper<br>
+https://github.com/symengine/symengine<br>
+https://github.com/cbm755/octsympy<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/python-numpy-sympy/<br>
+https://www.my-courses.net/2020/10/the-sympy-python-library.html<br>
+https://www.classcentral.com/course/udemy-python-numpy-sympy-26123<br>
+https://www.my-courses.net/2020/10/the-sympy-python-library.html<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/analytics-vidhya/1-1-introduction-to-sympy-2dd09afdcda9<br>
+https://medium.com/swlh/basics-of-solving-equations-in-sympy-ad770c14debd<br>
+https://medium.com/swlh/cyclomatic-complexity-724056ef5516<br>
+https://medium.com/@rinu.gour123/python-standard-library-list-of-important-libraries-200eecbcb492<br>
+https://towardsdatascience.com/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac<br>
+<br>
+</details>
+
+
+<details>
 <summary>Tableau</summary>
 <br>Category/Type - <br> Data Visualization Software<br>
 <br>Official Documentation - <br> https://help.tableau.com/current/pro/desktop/en-us/gettingstarted_overview.htm <br>
