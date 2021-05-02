@@ -5397,6 +5397,35 @@
 		"Tips5" : "https://www.kdnuggets.com/2021/01/ultimate-scikit-learn-machine-learning-cheatsheet.html"
 	},
 
+{
+	"Title" : "SciLib Library",
+		"Tag" : "Python Library",
+		"Documentation" : "https://www.scilab.org/",
+		"YT1" :”https://www.youtube.com/channel/UCFWJxS5_gUSdO4B2Vtl2QvA",
+		"YT2" : "https://www.youtube.com/watch?v=AzElVPaS71U",
+		"YT3" : "https://www.youtube.com/watch?v=UlgN4UHWvmU ",
+		"YT4" : " https://www.youtube.com/watch?v=Rf3UjdF6g90&list=PLA1Sn1TGR3wX_yoUCr5hai4TV9jY2F70V",
+		"YT5" : "https://www.youtube.com/watch?v=DZ1sH7aMgyE",
+		"YT6" : "https://www.youtube.com/watch?v=geG671brL78&list=PL6wr_B29b3UR29TFrLCsgTlu6AMU5-X1D",
+		"YT7" : "https://www.youtube.com/watch?v=42tSRabYI3A&list=PLUhYFZgYOn8d1oDcaG2PfGioteMleH9B1",
+		"Website1" : "https://www.scilab.org/tutorials/scilab-beginners-%E2%80%93-tutorial",
+		"Website2" :https://scilab.in/spoken-tutorial",
+		"Website3" : "https://x-engineer.org/graduate-engineering/programming-languages/scilab/introduction-to-scilab/",
+		"Website4" : "https://www.numerical-tours.com/matlab/introduction_1_basics/",
+		"Dedicated GH page1" : "https://github.com/scilab/scilab2c",
+		"Dedicated GH page2" : "https://github.com/scilab/scilab",
+		"Dedicated GH page3" : "https://github.com/scilab/scilab-prerequirements",
+		"Course1" : "https://onlinecourses.swayam2.ac.in/aic20_sp38/preview",
+		"Course2" : "https://www.udemy.com/course/scilab-the-first-course-beginners-to-intermediate/",
+		"Course3" : "https://www.learncax.com/courses/by-software/introduction-to-programming-using-scilab-detail",
+		"Course4" : "http://www.diginetinfosystems.com/basic-course-in-scilab-bangalore.php",
+		"Tips1" : "https://medium.com/@aguigui17/activity-3-scilab-basics-24cac9d79d50",
+		"Tips2" : "https://medium.com/silibrain/the-lads-guide-to-matlab-scilab-6146fd46f6",
+		"Tips3" : "https://medium.com/shiv-rec-publications/tagged/scilab",
+		"Tips4" : "https://www.geeksforgeeks.org/difference-between-matlab-and-scilab/"
+	},
+
+
   {
 		"Title": "Scrapy",
 		"Tag": "Python Library",
