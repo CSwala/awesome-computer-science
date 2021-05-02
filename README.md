@@ -1243,6 +1243,62 @@ https://prograils.com/5-tips-for-elixir-phoenix-projects<br>
 </details>
 
 <details>
+<summary>Cloud Computing</summary>
+<br>
+Category/Type - <br>
+Computer Service <br>
+<br>
+Official Documentation - <br>
+https://cloud.google.com/docs <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=2LaAJq1lB1Q <br>
+https://www.youtube.com/watch?v=RWgW-CgdIk0 <br>
+https://www.youtube.com/watch?v=EN4fEbcFZ_E <br>
+https://www.youtube.com/watch?v=gIWel4gFZaY <br>
+https://www.youtube.com/playlist?list=PL-JvKqQx2AtfQ8cGyKsFE7Tj2FyB1yCkd <br>
+https://www.youtube.com/playlist?list=PLV8vIYTIdSnaKSiSGvJf2QquSN4lEzGob <br>
+https://www.youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV <br>
+https://www.youtube.com/playlist?list=PLrjkTql3jnm86_Jr9195OaqN-HeiBy49I <br>
+<br>
+Useful Websites- <br>
+https://www.tutorialspoint.com/cloud_computing/index.htm <br>
+https://www.javatpoint.com/cloud-computing-tutorial <br>
+https://www.guru99.com/cloud-computing-for-beginners.html <br>
+https://www.simplilearn.com/cloud-computing-tutorial-video <br>
+https://data-flair.training/blogs/cloud-computing-tutorial/ <br>
+https://www.pragimtech.com/blog/cloud/cloud-tutorial-for-beginners/ <br>
+https://www.w3schools.in/cloud-computing/cloud-computing/ <br>
+https://www.tutorialandexample.com/cloud-computing-tutorial/ <br>
+https://www.digitalocean.com/community/tutorials/a-general-introduction-to-cloud-computing <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/mohan08p/CloudComputing <br>
+https://github.com/prachi220/Cloud-Computing <br>
+https://github.com/DovAmir/awesome-design-patterns <br>
+https://github.com/mgmartinezl/Exploring-Cloud-Computing-Technologies <br>
+https://github.com/rezan21/Trade-Analysis-SaaS <br>
+https://github.com/lavelle96/cyclomatic-complexity <br>
+<br>
+Best Courses- <br>
+https://www.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners/ <br>
+https://www.udemy.com/course/getting-started-with-cloud-computing-level-1/ <br>
+https://www.coursera.org/learn/cloud-computing <br>
+https://www.udemy.com/course/cloud-computing-concepts/ <br>
+https://www.udemy.com/course/introduction-to-cloud-computing-with-amazon-web-services/ <br>
+https://www.edx.org/course/introduction-to-cloud-computing-6 <br>
+https://www.edx.org/micromasters/usmx-umgc-cloud-computing <br>
+<br>
+Other Tips/Hacks- <br>
+https://www.appneta.com/blog/5-cloud-computing-tips-time-money/ <br>
+https://www.techspertservices.com/blog/11-cloud-computing-tips-for-businesses <br>
+https://www.ntiva.com/blog/6-tips-for-improving-cloud-computing-security <br>
+https://searchcloudcomputing.techtarget.com/tip/Cloud-computing-tips-and-tricks-by-the-numbers <br>
+https://www.cloudinstitute.io/blog/cloud-computing-tips-and-tricks/ <br>
+<br>
+</details>
+
+<details>
 <summary>Codeigniter</summary>
 <br>
 Category/Type - <br>
@@ -1657,6 +1713,54 @@ https://www.educative.io/blog/dart-tips-tricks <br><br>
   <img align="center" src="https://miro.medium.com/max/3532/1*nucyFw-E5Lotofy1WSWMqw.png" width="900" height="500"/>
 </a>
 <br><br><br>
+</details>
+
+<details>
+<summary>Data Mining</summary>
+<br>
+Category/Type - <br>
+Data Analysis<br>
+Official Documentation -<br>
+https://www.oracle.com/database/technologies/advanced-analytics/odm-documentation.html
+<br>
+
+Best YouTube creators - 
+<br> https://www.youtube.com/watch?v=z--2rCShvL0
+<br>https://www.youtube.com/watch?v=bz0N-WP2FQE
+<br>https://www.youtube.com/watch?v=BB2O4VCu5j8
+<br>https://www.youtube.com/watch?v=NGnst2LDlUo
+<br><br>
+
+Useful Websites -
+<br> https://www.investopedia.com/terms/d/datamining.asp#:~:text=Data%20mining%20is%20a%20process,increase%20sales%20and%20decrease%20costs.
+<br> https://www.javatpoint.com/data-mining
+<br> https://www.talend.com/resources/what-is-data-mining/
+<br> https://economictimes.indiatimes.com/definition/data-mining
+<br><br>
+
+Dedicated Github page - 
+<br>https://github.com/nirbarazida/Data-mining-project
+<br>https://github.com/elki-project/elki
+<br>https://github.com/eclarson/DataMiningNotebooks
+<br><br>
+
+Best Courses - 
+<br>https://www.coursera.org/specializations/data-mining
+<br>https://www.udemy.com/topic/data-mining/
+<br>https://online-learning.harvard.edu/subject/data-mining
+<br>https://online.stanford.edu/courses/stats202-data-mining-and-analysis
+<br><br>
+
+Other Tips / Hacks -
+<br>https://www.datasciencecentral.com/profiles/blogs/9-tips-for-effective-data-mining
+<br>https://neilpatel.com/blog/data-mining/
+<br>https://www.analyticsvidhya.com/blog/2020/03/10-awesome-data-manipulation-and-wrangling-hacks-tips-and-tricks/
+<br>https://www.dummies.com/programming/big-data/data-science/data-mining-for-dummies-cheat-sheet/
+<br>https://www.javatpoint.com/data-mining
+<br>https://snov.io/blog/data-mining-tools-the-what-the-why-and-the-how/
+
+
+<br><br>
 </details>
 
 <details>
@@ -2736,6 +2840,62 @@ https://www.udemy.com/course/gimp-photo-editing/ <br> https://www.udemy.com/cour
 <br>Other Tips / Hacks - <br> https://digital-photography-school.com/5-top-tips-for-working-with-gimp/ <br> https://www.pcworld.com/article/3451356/gimp-basics-tips-and-tricks-for-beginners.html <br>
 https://www.pcgamer.com/10-sweet-gimp-photo-editing-tricks-to-wean-you-off-photoshop/ <br> https://windowsreport.com/how-to-use-gimp-2-10/ <br> <br>
 </details>
+
+
+
+<details>
+<summary>Git</summary>
+<br>Category/Type - <br> Version Control System <br>
+<br>Official Documentation - <br>https://git-scm.com/doc <br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=SWYqp7iY_Tc <br>
+https://www.youtube.com/watch?v=WbwIoQYP6no <br>
+https://www.youtube.com/watch?v=xuB1Id2Wxak <br>
+https://www.youtube.com/watch?v=8JJ101D3knE <br>
+https://www.youtube.com/watch?v=gwWKnnCMQ5c <br>
+https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR <br>
+https://www.youtube.com/watch?v=RGOj5yH7evk <br>
+https://www.youtube.com/watch?v=xAAmje1H9YM&list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW <br>
+https://www.youtube.com/watch?v=uj4fy4kpaOA <br>
+https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx <br>
+
+<br>Useful Websites - <br>
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners <br>
+https://www.vogella.com/tutorials/Git/article.html <br>
+https://www.atlassian.com/git/tutorials/what-is-version-control <br>
+https://www.tutorialspoint.com/git/index.htm <br>
+https://www.javatpoint.com/git <br>
+https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/ <br>
+https://academind.com/tutorials/git-the-basics/ <br>
+https://intellipaat.com/blog/tutorial/devops-tutorial/git-tutorial/ <br>
+
+<br>Dedicated Github page - <br> 
+https://github.com/Gazler/githug <br> 
+https://github.com/git/git <br> 
+https://github.com/github/gitignore <br> 
+https://github.com/tj/git-extra <br> 
+https://github.com/k88hudson/git-flight-rules <br> 
+
+<br>Best Courses - <br>
+https://www.udemy.com/course/git-and-github-bootcamp/ <br>
+ttps://www.udemy.com/course/git-complete/ <br>
+https://www.udemy.com/course/git-going-fast/ <br>
+https://www.udemy.com/course/github-ultimate/ <br>
+https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/ <br>
+https://www.udemy.com/course/learn-git-by-doing-a-step-by-step-guide-to-version-control/ <br>
+
+<br>Other Tips / Hacks - <br> 
+https://medium.com/swlh/git-tips-and-tricks-3c012cacbdcc <br> 
+https://codeburst.io/git-tips-and-tricks-to-improve-your-git-workflow-3f8652fa4a62 <br> 
+https://about.gitlab.com/blog/2020/04/07/15-git-tips-improve-workflow/ <br> 
+https://opensource.com/article/20/10/advanced-git-tips <br> 
+https://dev.to/jacobherrington/10-git-tricks-to-save-your-time-and-sanity-289h <br> 
+https://www.scalefactory.com/blog/2020/05/22/git-tips-and-tricks/ <br> 
+https://wikileaks.org/ciav7p1/cms/page_1179773.html <br> 
+
+<br><br><br>
+</details>
+
 
 <details>
 <summary>Go</summary>
@@ -4848,6 +5008,62 @@ https://dev.realworldocaml.org/compiler-frontend.html <br>
 </details>
 
 <details>
+<summary>Octave </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://www.gnu.org/software/octave/index <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=sHGqwF2s-tM <br>
+https://www.youtube.com/watch?v=e2Ypm-fNVlA <br>
+https://www.youtube.com/playlist?list=PL1A2CSdiySGJ6oZe6XB-TTCFuHc5Fs1PO <br>
+https://www.youtube.com/playlist?list=PLTwPa5Tfu7AWcFaPV4uQSRr8EzYlv61Ow <br>
+https://www.youtube.com/watch?v=woiU5PRVm7M <br>
+<br>
+Useful Websites -
+<br>
+https://www.gnu.org/software/octave/octave.pdf <br>
+https://octave.sourceforge.io/docs.php <br>
+https://docs.octave.dev/ <br>
+https://octave.org/doc/latest/ <br>
+https://octave.org/doc/v5.2.0/ <br>
+https://octave.org/doc/v4.0.0/ <br>
+https://wiki.octave.org/wiki/index.php?title=Project_-_Documentation&mobileaction=toggle_view_desktop <br>
+http://www-mdp.eng.cam.ac.uk/web/CD/engapps/octave/octavetut.pdf <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/gnu-octave <br>
+https://github.com/NexMirror/Octave <br>
+https://github.com/TheAlgorithms/MATLAB-Octave <br>
+https://education.github.community/t/math-exercises-using-gnu-octave-and-github-autograding/66286 <br>
+https://github.com/schneems/Octave <br>
+https://github.com/terrychenism/OctaveConv <br>
+<br>
+Best Courses - <br>
+https://www.edx.org/course/matlab-and-octave-for-beginners <br>
+https://www.coursera.org/courses?query=octave <br>
+https://www.classcentral.com/course/edx-matlab-and-octave-for-beginners-7376 <br>
+https://www.mooc-list.com/tags/octave <br>
+https://www.educba.com/data-science/courses/octave-training/ <br>
+https://towardsdatascience.com/octave-scientific-programming-language-crash-course-2ab8d864a01d <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.pianistmagazine.com/blogs/9-professional-tips-for-practising-octaves/ <br>
+http://wiki.octave.org/Tips_and_tricks <br>
+https://melaniespanswick.com/2015/12/07/9-top-tips-for-practising-octaves/ <br>
+https://www.packtpub.com/big-data-and-business-intelligence/gnu-octave-beginners-guide <br>
+https://www.i-programmer.info/programming/other-languages/4779-a-programmers-guide-to-octave.html <br>
+https://homepages.inf.ed.ac.uk/imurray2/compnotes/octmattricks.html <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>OpenCV</summary>
 <br>
 Category/Type - <br>
@@ -5016,6 +5232,47 @@ http://www.evcomps.com/computer-repair/tips-and-tricks/operating-systems.html<br
 </details>
 
 <details>
+<summary>Padrino</summary>
+<br>
+Category/Type - <br>
+Ruby-Framework<br>
+<br>
+Official Documentation - <br>
+https://www.rubydoc.info/github/padrino/padrino-framework<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=CH_a3yNbYDM<br>
+https://www.youtube.com/watch?v=8aA9Enb8NVc<br>
+https://www.youtube.com/watch?v=8aA9Enb8NVc<br>
+https://www.youtube.com/watch?v=O_I6mABxzsY<br>
+<br>
+Useful Websites -
+http://padrinorb.com/<br>
+https://en.wikipedia.org/wiki/Padrino_(web_framework)<br>
+https://rubygems.org/gems/padrino/versions/0.15.0<br>
+https://www.softcover.io/books/wikimatze/padrinobook<br>
+https://programmingzen.com/padrino-a-ruby-framework-built-upon-sinatra/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/padrino/padrino-framework<br>
+https://github.com/padrino<br>
+https://github.com/padrino/padrino-recipes<br>
+https://github.com/padrinobook/padrinobook<br>
+https://github.com/padrino/padrino-docs<br>
+https://github.com/padrino/blog-tutorial<br>
+<br>
+Other Tips / Hacks - <br>
+https://staging.padrinobook.com/<br>
+https://www.quora.com/What-features-and-advantages-does-the-Padrino-framework-offer-compared-to-Ruby-on-Rails<br>
+https://padrinorb.com/guides/getting-started/blog-tutorial/<br>
+https://www.softcover.io/books/wikimatze/padrinobook
+<br><br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/8/89/Padrinologo.jpg">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Padrinologo.jpg" width="800" height="500"/>
+</a>
+</details>
+
+<details>
 <summary>Pandas</summary>
 <br>
 Category/Type - <br>
@@ -5172,6 +5429,42 @@ https://www.udemy.com/course/the-complete-php-mysql-professional-course/ <br>
 https://websitesetup.org/php-cheat-sheet/ <br> https://www.smashingmagazine.com/2009/03/10-useful-php-tips-revisited/ <br>
 <br><br>
 </details>
+
+
+ <details>
+ <summary>Play Framework</summary>
+ <br>Category/Type - <br>Web Application Framework<br>
+ <br>Official Documentation - <br> https://www.playframework.com/documentation/2.8.x/Home <br>
+ <br>Best YouTube creators - <br> 
+ https://www.youtube.com/watch?v=zQUZOiQPz_I&list=PLYPFxrXyK0Bx9SBkNhJr1e2-NlIq4E7ED <br> 
+ https://www.youtube.com/watch?v=bLrmnjPQsZc <br>
+ https://www.youtube.com/watch?v=FqMDHsFNlxQ&list=PLLMXbkbDbVt8tBiGc1y69BZdG8at1D7ZF <br> 
+ https://www.youtube.com/watch?v=skd4YrfgniM <br>
+ https://www.youtube.com/watch?v=t620S8-cwWg <br> 
+ <br>Useful Websites - <br>
+ https://www.playframework.com <br>
+ https://dzone.com/refcardz/getting-started-play-framework <br> 
+ https://www.baeldung.com/java-intro-to-the-play-framework<br> 
+ https://www.lightbend.com/play-framework-part-of-akka-platform <br> 
+ https://www.playframework.com/modules/scala-0.9.1/home <br>
+ <br>Dedicated Github page - <br> 
+ https://github.com/playframework/playframework <br> 
+ https://github.com/playframework <br>
+ https://github.com/playframework/play1<br>
+ https://github.com/reljicd/play-framework-blog<br>
+ https://github.com/gradle/playframework<br>
+ <br>Best Courses - <br> 
+ https://www.lynda.com/Java-tutorials/Learning-Play-2-Framework/2811356-2.html <br>
+ https://www.udemy.com/course/play-framework-for-web-application-development/ <br> 
+ https://www.developintelligence.com/catalog/big-data/scala/introduction-to-play-framework/ <br>
+ https://www.playframework.com/modules/scala-0.9.1/learnscala <br>
+ https://www.eduonix.com/courses/Web-Development/learn-to-build-apps-using-play-framework<br>
+ <br>Other Tips / Hacks - <br> 
+ https://www.viralpatel.net/category/play-framework-2/ <br>
+  https://www.playframework.com/documentation/2.1.1/Tips <br>
+ https://www.toptal.com/scala/scaling-play-to-thousands-of-concurrent-requests <br> 
+ <br>
+ </details>
 
 <details>
 <summary>PostgreSQL</summary>
@@ -5447,6 +5740,36 @@ https://www.kaggle.com/getting-started/150888 <br> https://jarvislabs.ai/blogs/t
 </details>
 
 <details>
+<summary>PyQt</summary>
+<br>Catefory/Type - <br>
+Python plugin<br>
+<br>Official Documentation</br>
+https://doc.qt.io/qtforpython/ <br>
+<br>Best YouTubers - <br>
+https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj<br>
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDdVpDFNq4FwY9APZPGSUyR4<br>
+https://www.youtube.com/playlist?list=PL3JVwFmb_BnRpvOeIh_To4YSiebiggyXS<br>
+https://www.youtube.com/playlist?list=PLS1QulWo1RIZTkXbVkjr5Z3m-uMs05u7V<br>
+<br>Useful Websites - <br>
+https://www.mfitzp.com/courses/pyqt/<br>
+https://realpython.com/learning-paths/pyqt-gui-programming/<br>
+https://www.tutorialspoint.com/pyqt/index.htm<br>
+https://www.tutorialspoint.com/pyqt/index.htm<br>
+<br>Dedicated Github page - <br>
+https://github.com/pyqt<br>
+https://github.com/learnpyqt/15-minute-apps<br>
+https://github.com/JulienGrv/awesome-python-qt<br>
+https://github.com/learnpyqt<br>
+<br>Best courses - <br>
+https://www.udemy.com/course/pyqt5-the-python-gui-framework/<br>
+https://www.udemy.com/course/python-pyqt5/<br>
+https://www.udemy.com/course/python-gui-programming-recipes-using-pyqt5/<br>
+<br>Other Tips/Hacks - <br>
+https://wiki.maemo.org/PyQt_Tips_and_Tricks<br>
+https://www.reddit.com/r/Python/comments/4c7q2j/any_tipsexamples_of_making_pyqtpyside_widgets/<br>
+</details>
+
+<details>
 <summary>Qlik Sense</summary>
 <br>Category/Type - <br>
 Data Analytics Platform<br>
@@ -5591,6 +5914,41 @@ https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/<br>
 <a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2018/01/Ranorex-Introduction.jpg">
   <img align="center" src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2018/01/Ranorex-Introduction.jpg" width="800" height="400"/>
 </a>
+<br><br><br>
+</details>
+
+<details>
+<summary>RapidMiner</summary>
+<br>Category/Type - <br> Data Science Software<br>
+<br>Official Documentation - <br>
+https://docs.rapidminer.com/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/channel/UCxneJBWWNLs-A6ckls1Rrug<br>
+https://www.youtube.com/watch?v=9i05kf0AxoE<br>
+hhttps://www.youtube.com/playlist?list=PLssWC2d9JhOZLbQNZ80uOxLypglgWqbJA<br>
+https://www.youtube.com/watch?v=AMkQpICUEdg<br>
+https://www.youtube.com/watch?v=YXb1wZO-Evw<br>
+<br>Useful Websites - <br>
+https://academy.rapidminer.com/learning-paths/get-started-with-rapidminer-and-machine-learning<br>
+https://analyticsindiamag.com/tutorial-on-rapidminer-a-tool-for-machine-learning-without-coding/<br>
+https://mindmajix.com/rapidminer-tutorial<br>
+https://neuralmarkettrends.com/rapidminer-tutorials/<br>
+https://www.slideshare.net/rapidminercontent/rapidminer-introduction-to-rapid-miner-3667256<br>
+<br>Dedicated Github page - <br>
+https://github.com/rapidminer/<br>
+https://github.com/rapidminer?language=html<br>
+https://github.com/xbwei/machine_learning_in_rapidminer<br>
+<br>Best Courses - <br>
+https://academy.rapidminer.com/pages/content-library<br>
+https://www.mooc-list.com/tags/rapidminer<br>
+https://www.udemy.com/topic/rapidminer/<br>
+https://www.besanttechnologies.com/rapidminer-training<br>
+https://www.nobleprog.com/rapidminer-training<br>
+<br>Other Tips / Hacks - <br>
+https://rapidminer.com/resource/rapidminer-studio-tips/<br>
+https://rapidminer.com/blog/ten-tips-to-master-rapidminer-studio/<br>
+https://rapidminer.com/blog/tips-tricks-using-rapidminer-server/<br>
+https://rapidminer.com/blog/using-execute-script-operator/<br>
 <br><br><br>
 </details>
 
@@ -5824,6 +6182,59 @@ https://slashgear.github.io/react-redux-pitfalls-and-best-pratices/ <br>
 </details>
 
 <details>
+<summary>REST API</summary>
+<br>Category/Type - <br> Web Service <br>
+<br>Official Documentation - <br> https://idratherbewriting.com/learnapidoc/docapis_what_is_a_rest_api.html<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=rtWH70_MMHM&t=67s <br>
+https://www.youtube.com/watch?v=BZi44GOD8kY <br>
+https://www.youtube.com/watch?v=SLwpqD8n3d0 <br>
+https://www.youtube.com/watch?v=Q-BpqyOT3a8&t=295s <br>
+https://www.youtube.com/watch?v=qVTAB8Z2VmA&list=PLsyeobzWxl7ps4Z1C4VMtvZEx5-PgyoYI <br>
+https://www.youtube.com/watch?v=qbLc5a9jdXo <br>            
+https://www.youtube.com/watch?v=sdDDuQuX2cg <br>
+https://www.youtube.com/watch?v=ALrOcDPimWE <br>
+https://www.youtube.com/watch?v=lsMQRaeKNDk <br>
+
+
+<br>Useful Websites - <br>
+https://www.freecodecamp.org/news/rest-api-tutorial-rest-client-rest-service-and-api-calls-explained-with-code-examples/ <br>
+https://www.edureka.co/blog/what-is-rest-api/ <br>
+https://restfulapi.net/ <br>
+https://www.restapitutorial.com/ <br>
+https://stackify.com/rest-api-tutorial/ <br>
+https://www.toptal.com/laravel/restful-laravel-api-tutorial <br>
+https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-api-from-example.html <br>
+https://www.tutorialspoint.com/restful/index.htm <br>
+https://spring.io/guides/tutorials/rest/ <br>
+https://tutorialedge.net/golang/creating-restful-api-with-golang/ <br>
+https://codesnippet.io/github-api-tutorial/ <br>
+
+<br>Dedicated Github page - <br> 
+https://github.com/microsoft/api-guidelines <br>
+https://github.com/encode/django-rest-framework <br>
+https://github.com/diegohaz/rest <br>
+https://github.com/tfredrich/RestApiTutorial.com <br>
+https://github.com/public-apis/public-apis <br>
+
+<br>Best Courses - <br>
+https://www.udemy.com/course/rest-api-flask-and-python/ <br>
+https://www.udemy.com/course/webservices-testing-with-soap-ui/ <br>
+https://www.udemy.com/course/advanced-rest-apis-flask-python/ <br>
+https://www.pluralsight.com/courses/rest-fundamental?aid=7010a000002BWq6AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=IN_Dynamic&utm_content=&gclid=Cj0KCQjwsqmEBhDiARIsANV8H3bcY5DukQD9Tq_by3B3ppoJsK_23MhbTSjS_0qgFoSHZgFLWyBTECIaApw7EALw_wcB <br>
+
+<br>Other Tips / Hacks - <br> 
+https://medium.com/@petertboyer/learn-restful-api-design-ideals-c5ec915a430f <br>
+https://www.restapitutorial.com/lessons/restquicktips.html <br>
+https://florimond.dev/en/posts/2018/08/restful-api-design-13-best-practices-to-make-your-users-happy <br>
+https://medium.com/epignosis-engineering/rest-api-development-tips-and-best-practices-part-1-9cbd4b924285 <br>
+https://www.slideshare.net/MaksymBruner/rest-api-tips-and-tricks <br>
+https://blog.bitsrc.io/10-tips-for-building-an-api-9ec335601d59?gi=da0e612e7ff0 <br>
+
+<br><br><br>
+</details>
+
+<details>
 <summary>Ruby</summary>
 <br>
 Category/Type - <br>Programming language <br>
@@ -5959,6 +6370,42 @@ https://aml3.github.io/RustTutorial/html/toc.html?ref=hackr.io
  <br>Other Tips / Hacks - <br> https://help.saltstack.com/hc/en-us/sections/360007948432-Command-Tips <br> https://docs.saltproject.io/en/latest/topics/hardening.html <br>
  https://www.linode.com/docs/guides/beginners-guide-to-salt/ <br>
  <br>
+ </details>
+
+<details>
+ <summary>SAS</summary>
+ <br>Category/Type - <br> 
+ Statistical Software <br>
+ <br>Official Documentation - <br> 
+ https://support.sas.com/en/documentation.html <br>
+ <br>Best YouTube creators - <br> 
+ https://www.youtube.com/sassoftware <br>
+ https://www.youtube.com/sasusers<br>
+ https://www.youtube.com/watch?v=qLC0x9AMmoU<br>
+ https://www.youtube.com/watch?v=r1Yy_sYbfy0A<br>
+ https://www.youtube.com/watch?v=F9kldec5h5U<br>
+ <br>Useful Websites - <br> 
+ https://www.sas.com/en_in/training/home/academic-program/sas-tutorials.html<br>
+ https://www.tutorialspoint.com/sas/index.htm<br>
+ https://www.listendata.com/p/sas-tutorials.html <br>
+ https://www.guru99.com/sas-tutorial.html <br>
+ https://www.javatpoint.com/sas-tutorial <br>
+ <br>Dedicated Github page - <br>
+ https://github.com/sassoftware<br> 
+ https://github.com/sassoftware/sas-access-samples<br>
+ https://github.com/sassoftware/sas-visualanalytics-geowebmap<br>
+ <br>Best Courses - <br>
+ https://www.sas.com/en_in/training/overview.html<br>
+ https://www.coursera.org/sas<br>
+ https://www.udemy.com/topic/sas/<br> 
+ https://intellipaat.com/sas-training/<br>
+ https://www.edureka.co/sas-training<br>
+ <br>Other Tips / Hacks - <br>
+ https://blogs.sas.com/content/tag/tips-and-tricks/<br>
+ https://www.quanticate.com/blog/4-sas-tips-in-clinical-programming<br>   
+ https://www.beoptimized.be/SAS_tips_and_tricks?SAS_cat=Data+Step&page=1s<br>
+ https://www.beoptimized.be/SAS_tips_and_tricks?SAS_cat=Data+Step&page=1s<br>
+ https://www.pauldickman.com/sastips/<br>
  </details>
 
 <details>
@@ -6463,6 +6910,50 @@ https://stencyltutorials.wordpress.com/tag/tricks/<br>
 </a>
 <br><br><br>
 </details>
+
+<details>
+<summary>Svelte</summary>
+<br>Category/Type - <br>Frontend JavaScript Framework<br>
+<br>Official Documentation - <br>
+https://svelte.dev/tutorial/basics<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/channel/UCZSr5B0l07JXK2FIeWA0-jw
+<br>
+https://www.youtube.com/channel/UCg6SQd5jnWo5Y70rZD9SQFA
+<br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO
+<br>
+<br>Useful Websites - <br>
+https://sveltesummit.com/
+<br>
+https://svelte.school/
+<br>
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started<br>
+<br>Dedicated Github page - <br>
+https://github.com/sveltejs/template
+<br>
+https://github.com/sveltejs/svelte-preprocess
+<br>
+https://github.com/ItalyPaleAle/svelte-spa-router
+<br>
+https://github.com/matyunya/smelte
+<br>
+<br>Best Courses - 	<br>
+https://www.udemy.com/course/svelte-tutorial-and-projects-course/
+<br>
+https://www.udemy.com/course/sveltejs-the-complete-guide/
+<br>
+https://www.pluralsight.com/courses/svelte-getting-started
+<br>
+https://www.youtube.com/watch?v=ujbE0mzX-CU
+<br>
+<br>Other Tips / Hacks - <br>
+https://www.freecodecamp.org/news/the-svelte-handbook/
+<br>
+https://syntax.fm/show/173/hasty-treat-wes-and-scott-look-at-svelte-3
+<br>
+</details> 
+
 
 <details>
 <summary>Swift</summary>
