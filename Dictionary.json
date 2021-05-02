@@ -5566,6 +5566,34 @@
         "Tips3": "https://bornfight.com/blog/symfony-tips-tricks-named-routes/",
         "Tips4": "https://www.cloudways.com/blog/php/symfony/"
     },
+	 {
+	"Title" : "Sympy Library",
+		"Tag" : "Python Library",
+		"Documentation" : "https://docs.sympy.org/latest/index.html",
+		"YT1 " : "https://www.youtube.com/watch?v=kx2GzBeGPco",
+		"YT2 " : "https://www.youtube.com/watch?v=NFJ0ud30mbA",
+		"YT3 " : "https://www.youtube.com/watch?v=s0Tj2ausMBI",
+		"YT4 " : "https://www.youtube.com/watch?v=IIe83MwQxFE",
+		"Website1" : "https://summerofcode.withgoogle.com/archive/2019/organizations/5652307671252992/",
+		"Website2" : "https://www.tutorialspoint.com/sympy/index.htm",
+		"Website3" : "https://www.geeksforgeeks.org/python-getting-started-with-sympy-module/",
+		"Website4" : "https://scipy-lectures.org/packages/sympy.html",
+		"Website5" : "http://www.cfm.brown.edu/people/dobrush/am33/SymPy/index.html",
+		"Dedicated GH page1" : "https://github.com/sympy/sympy",
+		"Dedicated GH page2" : "https://github.com/sympy/sympy-paper ",
+		"Dedicated GH page3" : "https://github.com/symengine/symengine",
+		"Dedicated GH page4" : "https://github.com/cbm755/octsympy",	
+		"Course1" : "https://www.udemy.com/course/python-numpy-sympy/",
+		"Course2" : "https://www.my-courses.net/2020/10/the-sympy-python-library.html",
+		"Course3" : "https://www.classcentral.com/course/udemy-python-numpy-sympy-26123",
+		"Course4" : "https://www.my-courses.net/2020/10/the-sympy-python-library.html",
+		"Tips1" : "https://medium.com/analytics-vidhya/1-1-introduction-to-sympy-2dd09afdcda9",
+		"Tips2" : " https://medium.com/swlh/basics-of-solving-equations-in-sympy-ad770c14debd",
+		"Tips3" : "https://medium.com/swlh/cyclomatic-complexity-724056ef5516 ",	
+		"Tips4" : " https://medium.com/@rinu.gour123/python-standard-library-list-of-important-libraries-200eecbcb492",	
+		"Tips5" : " https://towardsdatascience.com/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac"
+	}
+
 	{
         "Title": "Tableau",
         "Tag": "Data Visualization Software",
