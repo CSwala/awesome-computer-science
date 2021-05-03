@@ -851,6 +851,52 @@ https://gregorsuttie.com/2020/05/07/azure-tips-n-tricks/ <br> https://dailydotne
 </details>
 
 <details>
+<summary>BeautifulSoup Library</summary>
+<br>
+Category/Type - <br>
+Python Library<br>
+<br>
+Documentation - <br>
+https://pypi.org/project/beautifulsoup4/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=mKxFfjNyj3c<br>
+https://www.youtube.com/watch?v=uufDGjTuq34<br>
+https://www.youtube.com/watch?v=aIPqt-OdmS0<br>
+https://www.youtube.com/watch?v=-BxshLa2H0c&list=PL47S5PRS_XOd7p4svEN75YR45eARHXdqQ<br>
+<br>
+Useful Websites - <br>
+https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/<br>
+https://programminghistorian.org/en/lessons/intro-to-beautiful-soup<br>
+https://www.tutorialspoint.com/beautiful_soup/index.htm<br>
+https://www.digitalocean.com/community/tutorials/how-to-scrape-web-pages-with-beautiful-soup-and-python-3<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/waylan/beautifulsoup<br>
+https://github.com/wention/BeautifulSoup4<br>
+https://github.com/akalongman/python-beautifulsoup<br>
+https://github.com/topics/beautiful-soup<br>
+https://github.com/hackersandslackers/beautifulsoup-tutorial<br>
+<br>
+Best Courses - <br>
+https://www.dataquest.io/blog/web-scraping-python-using-beautiful-soup/<br>
+https://www.coursera.org/projects/web-scraping<br>
+https://www.coursera.org/lecture/python-network-data/worked-example-beautifulsoup-chapter-12-S4FIR<br>
+https://www.coursera.org/lecture/basic-data-processing-visualization-python/urllib-and-beautifulsoup-BRJmD<br>
+https://www.coursera.org/learn/python-network-data<br>
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwicurzj7p_wAhXSbioKHSwVBrkYABABGgJ0bQ&ae=2&ohost=www.google.com&cid=CAESQOD2tWbUl8w6lnpqzSAjnDvGMwHVuBYTOgnlLi31fncpn35lUjLnIoPBxvRjIwy-lglsS0YOW_xDOIs3U2F_wRc&sig=AOD64_19JOeck4pAejGh_GEJk1QY85uI7Q&q&adurl&ved=2ahUKEwin67Pj7p_wAhXNxDgGHYeMDHcQ0Qx6BAgEEAE<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/technofunnel/web-scraping-with-python-using-beautifulsoup-76b710e3e92f<br>
+https://medium.com/@feliciaSWE/easy-web-scraping-with-python-beautifulsoup-afc7191d6432<br>
+https://medium.com/analytics-vidhya/web-scraping-with-python-using-beautifulsoup-69b8bc07ff43https://medium.com/@shivangisareen/beautiful-soup-in-python-79697b33e294<br>
+https://medium.com/the-innovation/scraping-medium-with-python-beautiful-soup-3314f898bbf5<br>
+https://medium.com/swlh/web-scraping-using-beautiful-soup-and-requests-in-python-ca44ff11e476<br>
+<br>
+</details>
+
+
+<details>
 <summary>Big Data</summary>
 <br>Category/Type - <br>Data Analytics<br>
 <br>Official Documentation - <br>
@@ -3289,6 +3335,56 @@ https://www.elated.com/10-html-tips-for-beginners/<br>
 </details>
 
 <details>
+<summary>HTTP</summary>
+<br>
+Category/Type - <br>
+Application layer protocol <br>
+<br>
+Official Documentation - <br>
+https://devdocs.io/http/ <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=iYM2zFP3Zn0 <br>
+https://www.youtube.com/watch?v=JFZMyhRTVt0 <br>
+https://www.youtube.com/watch?v=RsQ1tFLwldY <br>
+https://www.youtube.com/watch?v=eesqK59rhGA <br>
+https://www.youtube.com/watch?v=0OrmKCB0UrQ <br>
+https://www.youtube.com/watch?v=FAnuh0_BU4c <br>
+<br>
+Useful Websites- <br>
+https://www.tutorialspoint.com/http/index.htm <br>
+https://www.javatpoint.com/http-tutorial <br>
+https://developer.mozilla.org/en-US/docs/Web/HTTP <br>
+https://www.w3schools.com/whatis/whatis_http.asp <br>
+https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/ <br>
+https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html <br>
+https://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340 <br>
+http://www.steves-internet-guide.com/http-basics/ <br>
+https://cloud.google.com/functions/docs/tutorials/http <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/http-party/http-server <br>
+https://github.com/hyperium/http <br>
+https://github.com/yhirose/cpp-httplib <br>
+https://github.com/kevinsawicki/http-request <br>
+https://github.com/encode/httpx <br>
+<br>
+Best Courses- <br>
+https://www.udacity.com/course/http-web-servers--ud303 <br>
+https://www.pluralsight.com/courses/xhttp-fund <br>
+https://www.linkedin.com/learning/http-essential-training <br>
+https://www.udemy.com/course/new-web-development-secrets/ <br>
+https://www.udemy.com/course/http-hypertext-transfer-protocol/ <br>
+https://www.udemy.com/course/https-secure-website-ssl-certificate/ <br>
+<br>
+Other Tips/Hacks- <br>
+https://link.springer.com/chapter/10.1007/978-3-662-62157-8_7 <br>
+https://www.computerhope.com/tips/tip160.htm <br>
+https://www.techrepublic.com/blog/10-things/10-tips-for-smarter-more-efficient-internet-searching/ <br>
+<br>
+</details>
+
+<details>
 <summary>Inkscape</summary>
 <br>Category/Type - <br>Computer application<br>
 <br>Official Documentation - <br>
@@ -3811,6 +3907,48 @@ https://www.toptal.com/react/tips-and-practices <br>
 <br><br><br>
 </details>
 
+<details>
+<summary>Julia</summary>
+<br>Category/Type - <br> Programming Language<br>
+<br>Official Documentation - <br> https://julialang.org/<br>
+<br>Best YouTube creators - <br> 
+https://www.youtube.com/watch?v=4igzy3bGVkQ&list=PLP8iPy9hna6SCcFv3FvY_qjAmtTsNYHQE <br> 
+https://www.youtube.com/watch?v=8h8rQyEpiZA <br> 
+https://www.youtube.com/watch?v=4igzy3bGVkQ <br> 
+https://www.youtube.com/watch?v=lwj-1mclq0U <br> 
+https://www.youtube.com/watch?v=RDr64bTDEw4&list=PL6_D9USWkG1DslafZLTnltyhxkihWCXiI <br> 
+https://www.youtube.com/watch?v=-txkOkk4nJc <br> 
+
+
+<br>Useful Websites - <br>
+https://www.tutorialspoint.com/julia/index.htm <br>
+https://mindmajix.com/julia-tutorial <br>
+https://syl1.gitbook.io/julia-language-a-concise-tutorial/ <br>
+https://www.mygreatlearning.com/blog/julia-tutorial/ <br>
+https://www.geeksforgeeks.org/julia-language-introduction/ <br>
+
+<br>Dedicated Github page - <br>
+https://github.com/JuliaLang/julia <br>
+https://github.com/JuliaAcademy/JuliaTutorials <br>
+https://github.com/JuliaLang/IJulia.jl <br>
+https://github.com/juanklopper/JuliaCourseNotebooks <br>
+https://github.com/svaksha/Julia.jl <br>
+
+<br>Best Courses - <br> 
+https://www.udemy.com/course/julia-foundations-2020/ <br>
+https://www.udemy.com/course/getting-started-with-julia/ <br>
+https://www.udemy.com/course/basics-of-julia-programming-for-machine-learning/ <br>
+https://www.coursera.org/learn/julia-programming <br>
+https://www.coursera.org/projects/julia-beginners-data-science <br>
+
+<br>Other Tips / Hacks - <br> 
+https://docs.julialang.org/en/v1/manual/performance-tips/ <br> 
+https://www.juliabloggers.com/7-julia-gotchas-and-how-to-handle-them/ <br> 
+https://towardsdatascience.com/9-cool-julia-tricks-in-4-minutes-47a3a4496054 <br> 
+https://www.cs.purdue.edu/homes/hnassar/JPUG/performance.html <br> 
+https://codegolf.stackexchange.com/questions/24407/tips-for-golfing-in-julia <br> 
+ <br><br> 
+</details>
 
 <details>
 <summary>Keras</summary>
@@ -6595,6 +6733,51 @@ https://medium.com/edureka/scikit-learn-machine-learning-7a2d92e4dd07<br>
 https://www.kdnuggets.com/2021/01/ultimate-scikit-learn-machine-learning-cheatsheet.html<br>
 </details>
 <details>
+
+<details>
+<summary>SciLab</summary>
+<br>
+Category/Type - <br>
+Software<br>
+<br>
+Documentation - <br>
+https://www.scilab.org/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/channel/UCFWJxS5_gUSdO4B2Vtl2QvA<br>
+https://www.youtube.com/watch?v=AzElVPaS71U<br>
+https://www.youtube.com/watch?v=UlgN4UHWvmU<br>
+https://www.youtube.com/watch?v=Rf3UjdF6g90&list=PLA1Sn1TGR3wX_yoUCr5hai4TV9jY2F70V<br>
+https://www.youtube.com/watch?v=DZ1sH7aMgyE<br>
+https://www.youtube.com/watch?v=geG671brL78&list=PL6wr_B29b3UR29TFrLCsgTlu6AMU5-X1D<br>
+https://www.youtube.com/watch?v=42tSRabYI3A&list=PLUhYFZgYOn8d1oDcaG2PfGioteMleH9B1<br>
+<br>
+Useful Websites - <br>
+https://www.scilab.org/tutorials/scilab-beginners-%E2%80%93-tutorial<br>
+https://scilab.in/spoken-tutorial<br>
+https://x-engineer.org/graduate-engineering/programming-languages/scilab/introduction-to-scilab/<br>
+https://www.numerical-tours.com/matlab/introduction_1_basics/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/scilab/scilab2c<br>
+https://github.com/scilab/scilab<br>
+https://github.com/scilab/scilab-prerequirements<br>
+<br>
+Best Courses - <br>
+https://onlinecourses.swayam2.ac.in/aic20_sp38/preview<br>
+https://www.udemy.com/course/scilab-the-first-course-beginners-to-intermediate/<br>
+https://www.learncax.com/courses/by-software/introduction-to-programming-using-scilab-detail<br>
+http://www.diginetinfosystems.com/basic-course-in-scilab-bangalore.php<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/@aguigui17/activity-3-scilab-basics-24cac9d79d50<br>
+https://medium.com/silibrain/the-lads-guide-to-matlab-scilab-6146fd46f6<br>
+https://medium.com/shiv-rec-publications/tagged/scilab<br>
+https://www.geeksforgeeks.org/difference-between-matlab-and-scilab/<br>
+<br>
+</details>
+
+
 <summary>Scrapy</summary>
 <br>
 Category/Type - <br>
@@ -7062,6 +7245,50 @@ https://bornfight.com/blog/symfony-tips-tricks-named-routes/ <br>
 https://www.cloudways.com/blog/php/symfony/<br>
 <br>
 </details>
+
+<details>
+<summary>Sympy Library</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://docs.sympy.org/latest/index.html<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=kx2GzBeGPco<br>
+https://www.youtube.com/watch?v=NFJ0ud30mbA<br>
+https://www.youtube.com/watch?v=s0Tj2ausMBI<br>
+https://www.youtube.com/watch?v=IIe83MwQxFE<br>
+<br>
+Useful Websites - <br>
+https://summerofcode.withgoogle.com/archive/2019/organizations/5652307671252992/<br>
+https://www.tutorialspoint.com/sympy/index.htm<br>
+https://www.geeksforgeeks.org/python-getting-started-with-sympy-module/<br>
+https://scipy-lectures.org/packages/sympy.html<br>
+http://www.cfm.brown.edu/people/dobrush/am33/SymPy/index.html<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/sympy/sympy<br>
+https://github.com/sympy/sympy-paper<br>
+https://github.com/symengine/symengine<br>
+https://github.com/cbm755/octsympy<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/python-numpy-sympy/<br>
+https://www.my-courses.net/2020/10/the-sympy-python-library.html<br>
+https://www.classcentral.com/course/udemy-python-numpy-sympy-26123<br>
+https://www.my-courses.net/2020/10/the-sympy-python-library.html<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/analytics-vidhya/1-1-introduction-to-sympy-2dd09afdcda9<br>
+https://medium.com/swlh/basics-of-solving-equations-in-sympy-ad770c14debd<br>
+https://medium.com/swlh/cyclomatic-complexity-724056ef5516<br>
+https://medium.com/@rinu.gour123/python-standard-library-list-of-important-libraries-200eecbcb492<br>
+https://towardsdatascience.com/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac<br>
+<br>
+</details>
+
 
 <details>
 <summary>Tableau</summary>
