@@ -2094,6 +2094,40 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
 </details>
 
 <details>
+<summary>Dtale Library</summary>
+<br>
+Category/Type - <br>
+Python<br>
+<br>
+Documentation - <br>
+https://pypi.org/project/dtale/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=xSXGcuiEzUc<br>
+https://www.youtube.com/watch?v=jYlwwNycVh8<br>
+https://www.youtube.com/watch?v=kHFD7Il0mkg<br>
+https://www.youtube.com/watch?v=JUu5IYVGqCg<br>
+https://www.youtube.com/watch?v=G3e5S4q0Cs8<br>
+<br>
+Useful Websites - <br>
+https://analyticsindiamag.com/dtale-tutorial-guide-to-visualize-pandas-data-structure/<br>
+https://pydigger.com/pypi/dtale<br>
+https://www.analyticsvidhya.com/blog/2020/11/data-exploration-dtale/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/man-group/dtale<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/da-tum/exploratory-data-analysis-1-4-using-d-tale-99a2c267db79<br>
+https://medium.com/analytics-vidhya/introduction-to-d-tale-library-fabb369c5d91<br>
+https://medium.com/da-tum/exploratory-data-analysis-1-4-using-d-tale-99a2c267db79<br>
+https://towardsdatascience.com/introduction-to-d-tale-5eddd81abe3f<br>
+https://www.analyticsvidhya.com/blog/2021/04/top-python-libraries-to-automate-exploratory-data-analysis-in-2021/<br>
+https://www.kdnuggets.com/2020/08/bring-pandas-dataframes-life-d-tale.html<br>
+<br>
+</details>
+
+<details>
 <summary>ECMAScript </summary>
 <br>
 Category/Type - <br>Programming language <br>
