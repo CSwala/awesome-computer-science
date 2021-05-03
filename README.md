@@ -2551,6 +2551,56 @@ https://www.besanttechnologies.com/what-is-expressjs <br>
 </a>
 <br><br><br>
 </details>
+
+<details
+<summary> ExtJs </summary>
+<br>
+Category/Type - <br>Extended JavaScript Framework <br>
+<br>
+Official Documentation - <br>
+https://docs.sencha.com/extjs/6.2.0/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PL8p2I9GklV47EtM9MtAncMf4XLDJjaLkz <br>
+https://www.youtube.com/watch?v=6RQIG4rmlAg <br>
+https://www.youtube.com/playlist?list=PL6uGR-gYUnnrwEQ6QRGvhITvxBkvnsT8h <br>
+https://www.youtube.com/watch?v=ZNjXYbiU4bs <br>
+https://www.youtube.com/watch?v=TACdyR3IrrI<br>
+<br>
+Useful Websites -
+<br>
+https://www.sencha.com/products/extjs/ <br>
+https://www.tutorialspoint.com/extjs/index.htm <br>
+https://en.wikipedia.org/wiki/Ext_JS <br>
+https://www.cuelogic.com/blog/migrating-sencha-extjs-to-reactjs <br>
+https://stackoverflow.com/questions/tagged/sencha <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/sencha <br>
+https://github.com/sencha-extjs-examples<br>
+https://github.com/extjs<br>
+https://github.com/topics/extjs<br>
+https://github.com/sencha-extjs-examples/Coworkee<br>
+https://github.com/forcedotcom/aura-extjs<br>
+<br>
+Best Courses - <br>
+https://www.zeolearn.com/extjs-training<br>
+https://www.udemy.com/topic/ext-js/<br>
+https://www.iteanz.com/course/mastering-ext-js/<br>
+https://medium.com/@walkingtreetech/learn-sencha-ext-js-online-courses-c9ff588045ee<br>
+<br>
+Other Tips / Hacks - <br>
+https://swarmonline.com/20-tips-for-getting-started-with-ext-js/ <br>
+https://docs.sencha.com/extjs/6.2.0/modern/Ext.tip.ToolTip.html<br>
+https://moduscreate.com/blog/sencha-viewmodel-tips/<br>
+https://stackoverflow.com/questions/52578095/extjs-grid-tool-tip-for-specific-columns<br>
+<br>
+<a href="https://lh3.googleusercontent.com/proxy/jXrRqM7I5QWtVzarR201az-theqc0D4RlVZpPCfgGofJI52NZLZU1OIb4x7-gFHK28yjvvJrNmvisUeql-8lQil--fO9SsGhM00WuyesnxS3WKk8Y-qbCYv2">
+  <img align="center" src="https://lh3.googleusercontent.com/proxy/jXrRqM7I5QWtVzarR201az-theqc0D4RlVZpPCfgGofJI52NZLZU1OIb4x7-gFHK28yjvvJrNmvisUeql-8lQil--fO9SsGhM00WuyesnxS3WKk8Y-qbCYv2" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
 <details>
 <summary>Fabric</summary>
 <br>Category/Type - <br>Python Library<br>
@@ -2594,6 +2644,75 @@ https://readthedocs.org/projects/fabric-www/downloads/pdf/latest/<br>
 https://pypi.org/project/fabric/<br>
 <br>
 </details>
+
+<details
+<summary>ExtJs </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://docs.microsoft.com/en-us/dotnet/fsharp/what-is-fsharp <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=c7eNDJN758U <br>
+https://www.youtube.com/watch?v=O7Qld3q2Yuo <br>
+https://www.youtube.com/watch?v=SvOInBxPL30 <br>
+https://www.youtube.com/watch?v=Teak30_pXHk <br>
+https://www.youtube.com/watch?v=34C_7halqGw <br>
+https://www.youtube.com/watch?v=rxy9HfVspzE <br>
+https://www.youtube.com/watch?v=P-VNEYDwr5M <br>
+https://www.youtube.com/watch?v=cbTn9T7pijY <br>
+<br>
+Useful Websites -
+<br>
+https://fsharp.org/ <br>
+https://www.tutorialspoint.com/fsharp/index.htm <br>
+https://www.reddit.com/r/fsharp/ <br>
+https://fsharp.org/guides/web/ <br>
+https://docs.microsoft.com/en-us/dotnet/fsharp/ <br>
+https://www.javatpoint.com/f-sharp-tutorial <br>
+https://fsharpforfunandprofit.com/posts/fsharp-in-60-seconds/ <br>
+https://www.fincher.org/tips/Languages/fsharp.shtml <br>
+https://gist.github.com/odytrice/667bc1d8d7c872fe8c5b1baa58898c32 <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/dotnet/fsharp <br>
+https://github.com/fsharp/fsharp <br>
+https://github.com/fsprojects/Paket <br>
+https://github.com/xamarin/apple-api-docs <br>
+https://github.com/fsprojects/FSharp.Formatting <br>
+https://github.com/fsprojects/AzureStorageTypeProvider <br>
+https://github.com/fsprojects/SQLProvider <br>
+https://github.com/fsprojects/FSharp.Data.SqlClient <br>
+https://github.com/fsharp/FSharp.Compiler.Service <br>
+https://github.com/fsprojects/awesome-fsharp <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/fsharp-from-the-ground-up/ <br>
+https://www.manning.com/books/get-programming-with-f-sharp?a_aid=hackrio <br>
+https://fsharp.tv/ <br>
+https://www.pluralsight.com/courses/fsharp-fundamentals <br>
+https://www.lynda.com/F-tutorials/11445-0.html <br>
+https://www.zeolearn.com/f-sharp-training <br>
+https://www.udemy.com/course/building-f-applications/ <br>
+https://www.udemy.com/course/learning-functional-programming-with-f/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://gist.github.com/swlaschin/31d5a0a2c4478e82e3ed60d653c0206b <br>
+https://riptutorial.com/fsharp/topic/3562/fsharp-performance-tips-and-tricks <br>
+https://sodocumentation.net/fsharp/topic/3562/fsharp-performance-tips-and-tricks <br>
+https://markheath.net/post/3-tips-more-elegant-let-bindings-fsharp <br>
+https://www.reddit.com/r/fsharp/comments/g2smx9/tips_and_tricks_to_debug_stack_overflows/ <br>
+https://www.airpair.com/f%23/tips-n-tricks/seven-ineffective-coding-habits-many-fsharp-programmers-dont-have <br>
+https://functionalsoftware.net/category/f-tips-and-tricks/ <br>
+https://brandewinder.com/2016/02/06/10-fsharp-scripting-tips/ <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/5/57/Fsharp_logo.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Fsharp_logo.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
 <details
 <summary>F# </summary>
 <br>
