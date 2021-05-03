@@ -2552,7 +2552,7 @@ https://www.besanttechnologies.com/what-is-expressjs <br>
 <br><br><br>
 </details>
 
-<details
+<details>
 <summary> ExtJs </summary>
 <br>
 Category/Type - <br>Extended JavaScript Framework <br>
