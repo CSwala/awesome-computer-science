@@ -530,6 +530,34 @@
 		"Image1" : "https://banner2.cleanpng.com/20180704/vbt/kisspng-appium-test-automation-software-testing-selenium-calabash-5b3d2f3446f171.6657918015307364362906.jpg"
 	},
 	{
+		"Title" : "ARDUINO",
+		"Tag" : "Electronics hardware and software",
+		"Documentation" : "https://www.arduino.cc/",
+		"YT1 " : "https://www.youtube.com/watch?v=EdXQUEMOfgU&list=PLPK2l9Knytg5s2dk8V09thBmNl2g5pRSr",
+		"YT2 " : "https://www.youtube.com/watch?v=Pd754nSIr_E",
+		"YT3 " : "https://www.youtube.com/watch?v=1R3fqSFCAjM ",
+		"YT4 " : "https://www.youtube.com/watch?v=PzJayPUPV6A",
+		"YT5 " : "https://www.youtube.com/watch?v=09zfRaLEasY&list=PLZfay8jtbyJt6gkkOgeeapCS_UrsgfuJA",
+		"Website1" : "https://www.geeksforgeeks.org/what-is-arduino/",
+		"Website2" : "https://www.tutorialspoint.com/arduino/index.htm ",
+		"Website3" : "https://www.javatpoint.com/arduino/",
+		"Website4" : "https://www.electronicshub.org/arduino-tutorial/",
+		"Website5" : "https://hackr.io/tutorials/learn-arduino",
+		"Dedicated GH page1" : "https://github.com/arduino/Arduino",
+		"Dedicated GH page2" : "https://github.com/RobTillaart/Arduino",
+		"Dedicated GH page3" : "https://github.com/esp8266/Arduino",
+		"Dedicated GH page4" : "https://github.com/stanleyhuangyc/ArduinoOBD",
+		"Course1" : "https://www.udemy.com/course/arduino-sbs-17gs/",
+		"Course2" : "https://www.udemy.com/course/arduino-programming-and-hardware-fundamentals-with-hackster/",
+		"Course3" : "https://www.udemy.com/course/arduino-sbs-getting-serious/",
+		"Course4" : "https://www.coursera.org/learn/arduino",
+		"Course5" : "https://www.coursera.org/learn/arduino-platform",
+		"Tips1" : "https://thekurks.net/blog/2017/12/4/5-tips-to-improve-your-code",
+		"Tips2" : "https://www.instructables.com/Learning-to-Program-the-Arduino-Part-1/ ",
+		"Tips3" : "https://www.instructables.com/Smarter-Arduino-Programming-Tips-and-Tricks/",
+		
+        },
+	{
 		"Title" : "Artificial Intelligence",
 		"Tag" : "Development",
 		"Documentation" : "https://docs.microsoft.com/en-us/ai/",
@@ -599,9 +627,9 @@
 		"Tips3" : "https://docs.microsoft.com/en-us/archive/msdn-magazine/2005/january/asp-net-10-tips-for-writing-high-performance-web-applications",
 		"Tips4" : "https://www.c-sharpcorner.com/UploadFile/skumaar_mca/tips-to-improve-the-performance-in-Asp-Net-application/",
 		"Tips5" : "https://visualstudiomagazine.com/blogs/tool-tracker/list/blog-list.aspx",
-		"Tips5" : "https://www.assp.org/education/certification-preparation/asp",
-		"Image1" : "https://mpng.subpng.com/20180625/thc/kisspng-net-framework-software-framework-c-microsoft-asp-ms-logo-5b313fce876081.9578708415299542545545.jpg",
-	}
+		"Tips6" : "https://www.assp.org/education/certification-preparation/asp",
+		"Image1" : "https://mpng.subpng.com/20180625/thc/kisspng-net-framework-software-framework-c-microsoft-asp-ms-logo-5b313fce876081.9578708415299542545545.jpg"
+	},
 	{
 		"Title": "AWK",
 		"Tag": "Programming Language",
@@ -5765,7 +5793,7 @@
 		"Tips3" : "https://medium.com/swlh/cyclomatic-complexity-724056ef5516 ",	
 		"Tips4" : " https://medium.com/@rinu.gour123/python-standard-library-list-of-important-libraries-200eecbcb492",	
 		"Tips5" : " https://towardsdatascience.com/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac"
-	}
+	},
 
 	{
         "Title": "Tableau",
