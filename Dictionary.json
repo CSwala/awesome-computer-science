@@ -599,9 +599,9 @@
 		"Tips3" : "https://docs.microsoft.com/en-us/archive/msdn-magazine/2005/january/asp-net-10-tips-for-writing-high-performance-web-applications",
 		"Tips4" : "https://www.c-sharpcorner.com/UploadFile/skumaar_mca/tips-to-improve-the-performance-in-Asp-Net-application/",
 		"Tips5" : "https://visualstudiomagazine.com/blogs/tool-tracker/list/blog-list.aspx",
-		"Tips5" : "https://www.assp.org/education/certification-preparation/asp",
-		"Image1" : "https://mpng.subpng.com/20180625/thc/kisspng-net-framework-software-framework-c-microsoft-asp-ms-logo-5b313fce876081.9578708415299542545545.jpg",
-	}
+		"Tips6" : "https://www.assp.org/education/certification-preparation/asp",
+		"Image1" : "https://mpng.subpng.com/20180625/thc/kisspng-net-framework-software-framework-c-microsoft-asp-ms-logo-5b313fce876081.9578708415299542545545.jpg"
+	},
 	{
 		"Title": "AWK",
 		"Tag": "Programming Language",
@@ -5754,7 +5754,7 @@
 		"Tips3" : "https://medium.com/swlh/cyclomatic-complexity-724056ef5516 ",	
 		"Tips4" : " https://medium.com/@rinu.gour123/python-standard-library-list-of-important-libraries-200eecbcb492",	
 		"Tips5" : " https://towardsdatascience.com/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac"
-	}
+	},
 
 	{
         "Title": "Tableau",
