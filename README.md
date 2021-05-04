@@ -2629,7 +2629,7 @@ https://readthedocs.org/projects/fabric-www/downloads/pdf/latest/<br>
 https://pypi.org/project/fabric/<br>
 <br>
 </details>
-<details
+<details>
 <summary>F# </summary>
 <br>
 Category/Type - <br>Programming language <br>
