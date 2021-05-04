@@ -639,6 +639,41 @@ https://medium.com/dubizzletechblog/tips-to-enhance-optimize-appium-automation-f
 </details>
 
 <details>
+<summary>ARDUINO</summary>
+<br>Category/Type - <br>Electronics hardware and software<br>
+<br>Official Documentation - <br>
+https://www.arduino.cc/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=EdXQUEMOfgU&list=PLPK2l9Knytg5s2dk8V09thBmNl2g5pRSr<br>
+https://www.youtube.com/watch?v=Pd754nSIr_E<br>
+https://www.youtube.com/watch?v=1R3fqSFCAjM<br>
+https://www.youtube.com/watch?v=PzJayPUPV6A<br>
+https://www.youtube.com/watch?v=09zfRaLEasY&list=PLZfay8jtbyJt6gkkOgeeapCS_UrsgfuJA<br>
+<br>Useful Websites - <br>
+https://www.geeksforgeeks.org/what-is-arduino/<br>
+https://www.tutorialspoint.com/arduino/index.htm<br>
+https://www.javatpoint.com/arduino/<br>
+https://www.electronicshub.org/arduino-tutorial/<br>
+https://hackr.io/tutorials/learn-arduino<br>
+<br>Dedicated Github page - <br>
+https://github.com/arduino/Arduino<br> 
+https://github.com/RobTillaart/Arduino<br>
+https://github.com/esp8266/Arduino<br>
+https://github.com/stanleyhuangyc/ArduinoOBD<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/arduino-sbs-17gs/<br>
+https://www.udemy.com/course/arduino-programming-and-hardware-fundamentals-with-hackster/<br>
+https://www.udemy.com/course/arduino-sbs-getting-serious/<br>
+https://www.coursera.org/learn/arduino<br>
+https://www.coursera.org/learn/arduino-platform<br>
+<br>Other Tips / Hacks - <br>
+https://thekurks.net/blog/2017/12/4/5-tips-to-improve-your-code<br>
+https://www.instructables.com/Learning-to-Program-the-Arduino-Part-1/<br>
+https://www.instructables.com/Smarter-Arduino-Programming-Tips-and-Tricks/<br>
+<br><br><br>
+</details>
+
+<details>
 <summary>Artificial Intelligence</summary>
 <br>Category/Type - <br>Development <br>
 <br>Official Documentation - <br>
@@ -2645,7 +2680,7 @@ https://pypi.org/project/fabric/<br>
 <br>
 </details>
 
-<details
+<details>
 <summary>F# </summary>
 <br>
 Category/Type - <br>Programming language <br>
