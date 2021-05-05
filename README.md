@@ -721,6 +721,60 @@ https://github.com/kailashahirwar/cheatsheets-ai<br>
 </details>
 
 <details>
+<summary>ASP</summary>
+<br>
+Category/Type - <br>Open-Source, Server-Side Web-Application Framework<br>
+<br>
+Official Documentation - <br>
+https://docs.microsoft.com/en-us/aspnet/core/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PL6n9fhu94yhXQS_p1i-HLIftB9Y7Vnxlo<br>
+https://www.youtube.com/watch?v=C5cnZ-gZy2I<br>
+https://www.youtube.com/watch?v=E7Voso411Vs<br>
+https://www.youtube.com/watch?v=t3zj0c244UE<br>
+https://www.youtube.com/watch?v=exokw7WQQ-A<br>
+<br>
+Useful Websites -
+<br>
+https://www.w3schools.com/asp/default.ASP<br>
+https://dotnet.microsoft.com/apps/aspnet<br>
+https://en.wikipedia.org/wiki/Active_Server_Pages<br>
+https://www.guru99.com/what-is-asp-dot-net.html<br>
+https://searchwindowsserver.techtarget.com/definition/Active-Server-Page<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/aspnet<br>
+https://github.com/dotnet/aspnetcore<br>
+https://github.com/dotnet-architecture/eShopOnWeb<br>
+https://github.com/aspnetboilerplate/aspnetboilerplate<br>
+https://github.com/webgentle/aspnet-core-mvc<br>
+https://github.com/aspnet/Mvc<br>
+https://github.com/aspnet/AspNetWebStack<br>
+https://github.com/aspnet/samples<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/topic/aspnet/<br>
+https://dotnet.microsoft.com/learn/aspnet<br>
+https://www.lynda.com/ASP-NET-training-tutorials/157-0.html<br>
+https://medium.com/javarevisited/7-best-online-courses-to-learn-asp-net-core-and-mvc-in-depth-a68c1b728090<br>
+https://javarevisited.blogspot.com/2019/10/top-5-courses-to-learn-asp-net-in-2019.html<br>
+<br>
+Other Tips / Hacks - <br>
+https://www.syncfusion.com/blogs/post/10-performance-improvement-tips-for-asp-net-core-3-0-applications.aspx<br>
+https://stackify.com/asp-net-performance-tuning/<br>
+https://docs.microsoft.com/en-us/archive/msdn-magazine/2005/january/asp-net-10-tips-for-writing-high-performance-web-applications<br>
+https://www.c-sharpcorner.com/UploadFile/skumaar_mca/tips-to-improve-the-performance-in-Asp-Net-application/<br>
+https://visualstudiomagazine.com/blogs/tool-tracker/list/blog-list.aspx<br>
+https://www.assp.org/education/certification-preparation/asp<br>
+<br>
+<a href="https://mpng.subpng.com/20180625/thc/kisspng-net-framework-software-framework-c-microsoft-asp-ms-logo-5b313fce876081.9578708415299542545545.jpg">
+  <img align="center" src="https://mpng.subpng.com/20180625/thc/kisspng-net-framework-software-framework-c-microsoft-asp-ms-logo-5b313fce876081.9578708415299542545545.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>AWK</summary>
 <br>
 Category/Type - <br>
@@ -830,6 +884,52 @@ https://gregorsuttie.com/2020/05/07/azure-tips-n-tricks/ <br> https://dailydotne
 </a>
 <br><br><br>
 </details>
+
+<details>
+<summary>BeautifulSoup Library</summary>
+<br>
+Category/Type - <br>
+Python Library<br>
+<br>
+Documentation - <br>
+https://pypi.org/project/beautifulsoup4/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=mKxFfjNyj3c<br>
+https://www.youtube.com/watch?v=uufDGjTuq34<br>
+https://www.youtube.com/watch?v=aIPqt-OdmS0<br>
+https://www.youtube.com/watch?v=-BxshLa2H0c&list=PL47S5PRS_XOd7p4svEN75YR45eARHXdqQ<br>
+<br>
+Useful Websites - <br>
+https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/<br>
+https://programminghistorian.org/en/lessons/intro-to-beautiful-soup<br>
+https://www.tutorialspoint.com/beautiful_soup/index.htm<br>
+https://www.digitalocean.com/community/tutorials/how-to-scrape-web-pages-with-beautiful-soup-and-python-3<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/waylan/beautifulsoup<br>
+https://github.com/wention/BeautifulSoup4<br>
+https://github.com/akalongman/python-beautifulsoup<br>
+https://github.com/topics/beautiful-soup<br>
+https://github.com/hackersandslackers/beautifulsoup-tutorial<br>
+<br>
+Best Courses - <br>
+https://www.dataquest.io/blog/web-scraping-python-using-beautiful-soup/<br>
+https://www.coursera.org/projects/web-scraping<br>
+https://www.coursera.org/lecture/python-network-data/worked-example-beautifulsoup-chapter-12-S4FIR<br>
+https://www.coursera.org/lecture/basic-data-processing-visualization-python/urllib-and-beautifulsoup-BRJmD<br>
+https://www.coursera.org/learn/python-network-data<br>
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwicurzj7p_wAhXSbioKHSwVBrkYABABGgJ0bQ&ae=2&ohost=www.google.com&cid=CAESQOD2tWbUl8w6lnpqzSAjnDvGMwHVuBYTOgnlLi31fncpn35lUjLnIoPBxvRjIwy-lglsS0YOW_xDOIs3U2F_wRc&sig=AOD64_19JOeck4pAejGh_GEJk1QY85uI7Q&q&adurl&ved=2ahUKEwin67Pj7p_wAhXNxDgGHYeMDHcQ0Qx6BAgEEAE<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/technofunnel/web-scraping-with-python-using-beautifulsoup-76b710e3e92f<br>
+https://medium.com/@feliciaSWE/easy-web-scraping-with-python-beautifulsoup-afc7191d6432<br>
+https://medium.com/analytics-vidhya/web-scraping-with-python-using-beautifulsoup-69b8bc07ff43https://medium.com/@shivangisareen/beautiful-soup-in-python-79697b33e294<br>
+https://medium.com/the-innovation/scraping-medium-with-python-beautiful-soup-3314f898bbf5<br>
+https://medium.com/swlh/web-scraping-using-beautiful-soup-and-requests-in-python-ca44ff11e476<br>
+<br>
+</details>
+
 
 <details>
 <summary>Big Data</summary>
@@ -1566,6 +1666,54 @@ https://lastmomenttuitions.com/course/coa/<br>
 </details>
 
 <details>
+<summary>Computer Vision</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/Computer_vision<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ<br>
+https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r<br>
+https://www.youtube.com/watch?v=h8tk0hmWB44&list=PLRqwX-V7Uu6aG2RJHErXKSWFDXU4qo_ro<br>
+https://www.youtube.com/watch?v=vsCc-A_1V04&list=PLkPmSWtWNIyQTrMpEdX35OusFgRB5G9AO<br>
+<br>
+Useful Websites - <br>
+https://www.geeksforgeeks.org/computer-vision-introduction/<br>
+https://medium.com/edureka/python-opencv-tutorial-5549bd4940e3<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/jbhuang0604/awesome-computer-vision<br>
+https://github.com/topics/computer-vision<br>
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code<br>
+https://github.com/microsoft/computervision-recipes<br>
+https://github.com/anuragreddygv323/computer-vision-projects<br>
+<br>
+Best Courses - <br>
+https://www.udacity.com/course/introduction-to-computer-vision--ud810<br>
+https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow<br>
+https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/<br>
+https://www.udemy.com/course/computer-vision-masterclass/<br>
+https://www.udemy.com/course/computer-vision-face-recognition-quick-starter-in-python/<br>
+https://www.udemy.com/course/computer-vision-in-python-face-detection-image-processing/<br>
+https://www.udemy.com/course/learn-computer-vision-with-opencv-and-python/<br>
+<br>
+Other Tips/Hacks - <br>
+https://towardsdatascience.com/computer-vision-for-beginners-part-1-7cca775f58ef<br>
+https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e<br>
+https://www.tutorialspoint.com/dip/computer_vision_and_graphics.htm<br>
+https://medium.com/@rinu.gour123/ai-python-computer-vision-tutorial-with-opencv-b7f86c3c6a1a<br>
+https://medium.com/@ODSC/4-steps-to-start-machine-learning-with-computer-vision-9658fef424c0<br>
+https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b<br>
+https://towardsdatascience.com/a-beginners-guide-to-computer-vision-dca81b0e94b4<br>
+https://medium.com/@anirbanvalueinvesting/computer-vision-projects-64a59df35493<br>
+https://medium.com/analytics-vidhya/ways-to-boost-your-computer-vision-projects-by-using-5-open-source-facial-recognition-projects-56668f170cb9<br>
+<br>
+</details>
+
+<details>
 
  <summary> CryEngine </summary>
  <br>Category/Type - <br> Game engine <br>
@@ -2010,6 +2158,40 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
   <img align="center" src="https://miro.medium.com/max/2400/1*asSDJQpw1EQPFN-BqQSU0Q.png" width="1000" height="500"/>
 </a>
 <br><br><br>
+</details>
+
+<details>
+<summary>Dtale Library</summary>
+<br>
+Category/Type - <br>
+Python<br>
+<br>
+Documentation - <br>
+https://pypi.org/project/dtale/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=xSXGcuiEzUc<br>
+https://www.youtube.com/watch?v=jYlwwNycVh8<br>
+https://www.youtube.com/watch?v=kHFD7Il0mkg<br>
+https://www.youtube.com/watch?v=JUu5IYVGqCg<br>
+https://www.youtube.com/watch?v=G3e5S4q0Cs8<br>
+<br>
+Useful Websites - <br>
+https://analyticsindiamag.com/dtale-tutorial-guide-to-visualize-pandas-data-structure/<br>
+https://pydigger.com/pypi/dtale<br>
+https://www.analyticsvidhya.com/blog/2020/11/data-exploration-dtale/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/man-group/dtale<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/da-tum/exploratory-data-analysis-1-4-using-d-tale-99a2c267db79<br>
+https://medium.com/analytics-vidhya/introduction-to-d-tale-library-fabb369c5d91<br>
+https://medium.com/da-tum/exploratory-data-analysis-1-4-using-d-tale-99a2c267db79<br>
+https://towardsdatascience.com/introduction-to-d-tale-5eddd81abe3f<br>
+https://www.analyticsvidhya.com/blog/2021/04/top-python-libraries-to-automate-exploratory-data-analysis-in-2021/<br>
+https://www.kdnuggets.com/2020/08/bring-pandas-dataframes-life-d-tale.html<br>
+<br>
 </details>
 
 <details>
@@ -2470,6 +2652,56 @@ https://www.besanttechnologies.com/what-is-expressjs <br>
 </a>
 <br><br><br>
 </details>
+
+<details>
+<summary> ExtJs </summary>
+<br>
+Category/Type - <br>Extended JavaScript Framework <br>
+<br>
+Official Documentation - <br>
+https://docs.sencha.com/extjs/6.2.0/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PL8p2I9GklV47EtM9MtAncMf4XLDJjaLkz <br>
+https://www.youtube.com/watch?v=6RQIG4rmlAg <br>
+https://www.youtube.com/playlist?list=PL6uGR-gYUnnrwEQ6QRGvhITvxBkvnsT8h <br>
+https://www.youtube.com/watch?v=ZNjXYbiU4bs <br>
+https://www.youtube.com/watch?v=TACdyR3IrrI<br>
+<br>
+Useful Websites -
+<br>
+https://www.sencha.com/products/extjs/ <br>
+https://www.tutorialspoint.com/extjs/index.htm <br>
+https://en.wikipedia.org/wiki/Ext_JS <br>
+https://www.cuelogic.com/blog/migrating-sencha-extjs-to-reactjs <br>
+https://stackoverflow.com/questions/tagged/sencha <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/sencha <br>
+https://github.com/sencha-extjs-examples<br>
+https://github.com/extjs<br>
+https://github.com/topics/extjs<br>
+https://github.com/sencha-extjs-examples/Coworkee<br>
+https://github.com/forcedotcom/aura-extjs<br>
+<br>
+Best Courses - <br>
+https://www.zeolearn.com/extjs-training<br>
+https://www.udemy.com/topic/ext-js/<br>
+https://www.iteanz.com/course/mastering-ext-js/<br>
+https://medium.com/@walkingtreetech/learn-sencha-ext-js-online-courses-c9ff588045ee<br>
+<br>
+Other Tips / Hacks - <br>
+https://swarmonline.com/20-tips-for-getting-started-with-ext-js/ <br>
+https://docs.sencha.com/extjs/6.2.0/modern/Ext.tip.ToolTip.html<br>
+https://moduscreate.com/blog/sencha-viewmodel-tips/<br>
+https://stackoverflow.com/questions/52578095/extjs-grid-tool-tip-for-specific-columns<br>
+<br>
+<a href="https://lh3.googleusercontent.com/proxy/jXrRqM7I5QWtVzarR201az-theqc0D4RlVZpPCfgGofJI52NZLZU1OIb4x7-gFHK28yjvvJrNmvisUeql-8lQil--fO9SsGhM00WuyesnxS3WKk8Y-qbCYv2">
+  <img align="center" src="https://lh3.googleusercontent.com/proxy/jXrRqM7I5QWtVzarR201az-theqc0D4RlVZpPCfgGofJI52NZLZU1OIb4x7-gFHK28yjvvJrNmvisUeql-8lQil--fO9SsGhM00WuyesnxS3WKk8Y-qbCYv2" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
 <details>
 <summary>Fabric</summary>
 <br>Category/Type - <br>Python Library<br>
@@ -2513,7 +2745,8 @@ https://readthedocs.org/projects/fabric-www/downloads/pdf/latest/<br>
 https://pypi.org/project/fabric/<br>
 <br>
 </details>
-<details
+
+<details>
 <summary>F# </summary>
 <br>
 Category/Type - <br>Programming language <br>
@@ -2860,6 +3093,62 @@ https://www.udemy.com/course/gimp-photo-editing/ <br> https://www.udemy.com/cour
 https://www.pcgamer.com/10-sweet-gimp-photo-editing-tricks-to-wean-you-off-photoshop/ <br> https://windowsreport.com/how-to-use-gimp-2-10/ <br> <br>
 </details>
 
+
+
+<details>
+<summary>Git</summary>
+<br>Category/Type - <br> Version Control System <br>
+<br>Official Documentation - <br>https://git-scm.com/doc <br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=SWYqp7iY_Tc <br>
+https://www.youtube.com/watch?v=WbwIoQYP6no <br>
+https://www.youtube.com/watch?v=xuB1Id2Wxak <br>
+https://www.youtube.com/watch?v=8JJ101D3knE <br>
+https://www.youtube.com/watch?v=gwWKnnCMQ5c <br>
+https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR <br>
+https://www.youtube.com/watch?v=RGOj5yH7evk <br>
+https://www.youtube.com/watch?v=xAAmje1H9YM&list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW <br>
+https://www.youtube.com/watch?v=uj4fy4kpaOA <br>
+https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx <br>
+
+<br>Useful Websites - <br>
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners <br>
+https://www.vogella.com/tutorials/Git/article.html <br>
+https://www.atlassian.com/git/tutorials/what-is-version-control <br>
+https://www.tutorialspoint.com/git/index.htm <br>
+https://www.javatpoint.com/git <br>
+https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/ <br>
+https://academind.com/tutorials/git-the-basics/ <br>
+https://intellipaat.com/blog/tutorial/devops-tutorial/git-tutorial/ <br>
+
+<br>Dedicated Github page - <br> 
+https://github.com/Gazler/githug <br> 
+https://github.com/git/git <br> 
+https://github.com/github/gitignore <br> 
+https://github.com/tj/git-extra <br> 
+https://github.com/k88hudson/git-flight-rules <br> 
+
+<br>Best Courses - <br>
+https://www.udemy.com/course/git-and-github-bootcamp/ <br>
+ttps://www.udemy.com/course/git-complete/ <br>
+https://www.udemy.com/course/git-going-fast/ <br>
+https://www.udemy.com/course/github-ultimate/ <br>
+https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/ <br>
+https://www.udemy.com/course/learn-git-by-doing-a-step-by-step-guide-to-version-control/ <br>
+
+<br>Other Tips / Hacks - <br> 
+https://medium.com/swlh/git-tips-and-tricks-3c012cacbdcc <br> 
+https://codeburst.io/git-tips-and-tricks-to-improve-your-git-workflow-3f8652fa4a62 <br> 
+https://about.gitlab.com/blog/2020/04/07/15-git-tips-improve-workflow/ <br> 
+https://opensource.com/article/20/10/advanced-git-tips <br> 
+https://dev.to/jacobherrington/10-git-tricks-to-save-your-time-and-sanity-289h <br> 
+https://www.scalefactory.com/blog/2020/05/22/git-tips-and-tricks/ <br> 
+https://wikileaks.org/ciav7p1/cms/page_1179773.html <br> 
+
+<br><br><br>
+</details>
+
+
 <details>
 <summary>Go</summary>
 <br>Category/Type - <br> Programming language <br>
@@ -3195,6 +3484,56 @@ https://hacks.mozilla.org/2016/08/a-few-html-tips/<br>
 https://www.simplehtmlguide.com/cheatsheet.php<br>
 https://www.freelancer.com/articles/web-development/13-cool-tricks-for-html<br>
 https://www.elated.com/10-html-tips-for-beginners/<br>
+</details>
+
+<details>
+<summary>HTTP</summary>
+<br>
+Category/Type - <br>
+Application layer protocol <br>
+<br>
+Official Documentation - <br>
+https://devdocs.io/http/ <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=iYM2zFP3Zn0 <br>
+https://www.youtube.com/watch?v=JFZMyhRTVt0 <br>
+https://www.youtube.com/watch?v=RsQ1tFLwldY <br>
+https://www.youtube.com/watch?v=eesqK59rhGA <br>
+https://www.youtube.com/watch?v=0OrmKCB0UrQ <br>
+https://www.youtube.com/watch?v=FAnuh0_BU4c <br>
+<br>
+Useful Websites- <br>
+https://www.tutorialspoint.com/http/index.htm <br>
+https://www.javatpoint.com/http-tutorial <br>
+https://developer.mozilla.org/en-US/docs/Web/HTTP <br>
+https://www.w3schools.com/whatis/whatis_http.asp <br>
+https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/ <br>
+https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html <br>
+https://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340 <br>
+http://www.steves-internet-guide.com/http-basics/ <br>
+https://cloud.google.com/functions/docs/tutorials/http <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/http-party/http-server <br>
+https://github.com/hyperium/http <br>
+https://github.com/yhirose/cpp-httplib <br>
+https://github.com/kevinsawicki/http-request <br>
+https://github.com/encode/httpx <br>
+<br>
+Best Courses- <br>
+https://www.udacity.com/course/http-web-servers--ud303 <br>
+https://www.pluralsight.com/courses/xhttp-fund <br>
+https://www.linkedin.com/learning/http-essential-training <br>
+https://www.udemy.com/course/new-web-development-secrets/ <br>
+https://www.udemy.com/course/http-hypertext-transfer-protocol/ <br>
+https://www.udemy.com/course/https-secure-website-ssl-certificate/ <br>
+<br>
+Other Tips/Hacks- <br>
+https://link.springer.com/chapter/10.1007/978-3-662-62157-8_7 <br>
+https://www.computerhope.com/tips/tip160.htm <br>
+https://www.techrepublic.com/blog/10-things/10-tips-for-smarter-more-efficient-internet-searching/ <br>
+<br>
 </details>
 
 <details>
@@ -3720,6 +4059,48 @@ https://www.toptal.com/react/tips-and-practices <br>
 <br><br><br>
 </details>
 
+<details>
+<summary>Julia</summary>
+<br>Category/Type - <br> Programming Language<br>
+<br>Official Documentation - <br> https://julialang.org/<br>
+<br>Best YouTube creators - <br> 
+https://www.youtube.com/watch?v=4igzy3bGVkQ&list=PLP8iPy9hna6SCcFv3FvY_qjAmtTsNYHQE <br> 
+https://www.youtube.com/watch?v=8h8rQyEpiZA <br> 
+https://www.youtube.com/watch?v=4igzy3bGVkQ <br> 
+https://www.youtube.com/watch?v=lwj-1mclq0U <br> 
+https://www.youtube.com/watch?v=RDr64bTDEw4&list=PL6_D9USWkG1DslafZLTnltyhxkihWCXiI <br> 
+https://www.youtube.com/watch?v=-txkOkk4nJc <br> 
+
+
+<br>Useful Websites - <br>
+https://www.tutorialspoint.com/julia/index.htm <br>
+https://mindmajix.com/julia-tutorial <br>
+https://syl1.gitbook.io/julia-language-a-concise-tutorial/ <br>
+https://www.mygreatlearning.com/blog/julia-tutorial/ <br>
+https://www.geeksforgeeks.org/julia-language-introduction/ <br>
+
+<br>Dedicated Github page - <br>
+https://github.com/JuliaLang/julia <br>
+https://github.com/JuliaAcademy/JuliaTutorials <br>
+https://github.com/JuliaLang/IJulia.jl <br>
+https://github.com/juanklopper/JuliaCourseNotebooks <br>
+https://github.com/svaksha/Julia.jl <br>
+
+<br>Best Courses - <br> 
+https://www.udemy.com/course/julia-foundations-2020/ <br>
+https://www.udemy.com/course/getting-started-with-julia/ <br>
+https://www.udemy.com/course/basics-of-julia-programming-for-machine-learning/ <br>
+https://www.coursera.org/learn/julia-programming <br>
+https://www.coursera.org/projects/julia-beginners-data-science <br>
+
+<br>Other Tips / Hacks - <br> 
+https://docs.julialang.org/en/v1/manual/performance-tips/ <br> 
+https://www.juliabloggers.com/7-julia-gotchas-and-how-to-handle-them/ <br> 
+https://towardsdatascience.com/9-cool-julia-tricks-in-4-minutes-47a3a4496054 <br> 
+https://www.cs.purdue.edu/homes/hnassar/JPUG/performance.html <br> 
+https://codegolf.stackexchange.com/questions/24407/tips-for-golfing-in-julia <br> 
+ <br><br> 
+</details>
 
 <details>
 <summary>Keras</summary>
@@ -6504,6 +6885,51 @@ https://medium.com/edureka/scikit-learn-machine-learning-7a2d92e4dd07<br>
 https://www.kdnuggets.com/2021/01/ultimate-scikit-learn-machine-learning-cheatsheet.html<br>
 </details>
 <details>
+
+<details>
+<summary>SciLab</summary>
+<br>
+Category/Type - <br>
+Software<br>
+<br>
+Documentation - <br>
+https://www.scilab.org/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/channel/UCFWJxS5_gUSdO4B2Vtl2QvA<br>
+https://www.youtube.com/watch?v=AzElVPaS71U<br>
+https://www.youtube.com/watch?v=UlgN4UHWvmU<br>
+https://www.youtube.com/watch?v=Rf3UjdF6g90&list=PLA1Sn1TGR3wX_yoUCr5hai4TV9jY2F70V<br>
+https://www.youtube.com/watch?v=DZ1sH7aMgyE<br>
+https://www.youtube.com/watch?v=geG671brL78&list=PL6wr_B29b3UR29TFrLCsgTlu6AMU5-X1D<br>
+https://www.youtube.com/watch?v=42tSRabYI3A&list=PLUhYFZgYOn8d1oDcaG2PfGioteMleH9B1<br>
+<br>
+Useful Websites - <br>
+https://www.scilab.org/tutorials/scilab-beginners-%E2%80%93-tutorial<br>
+https://scilab.in/spoken-tutorial<br>
+https://x-engineer.org/graduate-engineering/programming-languages/scilab/introduction-to-scilab/<br>
+https://www.numerical-tours.com/matlab/introduction_1_basics/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/scilab/scilab2c<br>
+https://github.com/scilab/scilab<br>
+https://github.com/scilab/scilab-prerequirements<br>
+<br>
+Best Courses - <br>
+https://onlinecourses.swayam2.ac.in/aic20_sp38/preview<br>
+https://www.udemy.com/course/scilab-the-first-course-beginners-to-intermediate/<br>
+https://www.learncax.com/courses/by-software/introduction-to-programming-using-scilab-detail<br>
+http://www.diginetinfosystems.com/basic-course-in-scilab-bangalore.php<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/@aguigui17/activity-3-scilab-basics-24cac9d79d50<br>
+https://medium.com/silibrain/the-lads-guide-to-matlab-scilab-6146fd46f6<br>
+https://medium.com/shiv-rec-publications/tagged/scilab<br>
+https://www.geeksforgeeks.org/difference-between-matlab-and-scilab/<br>
+<br>
+</details>
+
+
 <summary>Scrapy</summary>
 <br>
 Category/Type - <br>
@@ -6971,6 +7397,50 @@ https://bornfight.com/blog/symfony-tips-tricks-named-routes/ <br>
 https://www.cloudways.com/blog/php/symfony/<br>
 <br>
 </details>
+
+<details>
+<summary>Sympy Library</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://docs.sympy.org/latest/index.html<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=kx2GzBeGPco<br>
+https://www.youtube.com/watch?v=NFJ0ud30mbA<br>
+https://www.youtube.com/watch?v=s0Tj2ausMBI<br>
+https://www.youtube.com/watch?v=IIe83MwQxFE<br>
+<br>
+Useful Websites - <br>
+https://summerofcode.withgoogle.com/archive/2019/organizations/5652307671252992/<br>
+https://www.tutorialspoint.com/sympy/index.htm<br>
+https://www.geeksforgeeks.org/python-getting-started-with-sympy-module/<br>
+https://scipy-lectures.org/packages/sympy.html<br>
+http://www.cfm.brown.edu/people/dobrush/am33/SymPy/index.html<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/sympy/sympy<br>
+https://github.com/sympy/sympy-paper<br>
+https://github.com/symengine/symengine<br>
+https://github.com/cbm755/octsympy<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/python-numpy-sympy/<br>
+https://www.my-courses.net/2020/10/the-sympy-python-library.html<br>
+https://www.classcentral.com/course/udemy-python-numpy-sympy-26123<br>
+https://www.my-courses.net/2020/10/the-sympy-python-library.html<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/analytics-vidhya/1-1-introduction-to-sympy-2dd09afdcda9<br>
+https://medium.com/swlh/basics-of-solving-equations-in-sympy-ad770c14debd<br>
+https://medium.com/swlh/cyclomatic-complexity-724056ef5516<br>
+https://medium.com/@rinu.gour123/python-standard-library-list-of-important-libraries-200eecbcb492<br>
+https://towardsdatascience.com/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac<br>
+<br>
+</details>
+
 
 <details>
 <summary>Tableau</summary>
