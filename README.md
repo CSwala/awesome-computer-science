@@ -4393,6 +4393,26 @@ https://www.codementor.io/lisp-experts<br>
  <br>
  </details>
 
+ <details>
+ <summary>LÖVE</summary>
+ <br>Category/Type - <br> Game Engine <br>
+ <br>Official Documentation - <br> https://love2d.org/wiki/Main_Page <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/watch?v=yrIwFflGeyA
+<br> https://www.youtube.com/watch?v=3k4CMAaNCuk
+<br> https://www.youtube.com/watch?v=wttKHL90Ank
+<br> https://www.youtube.com/watch?v=u6GWjojPQiM
+<br> https://www.youtube.com/playlist?list=PLS9MbmO_ssyBAc9wBC85_WG9aT88KGxH8
+<br> https://www.youtube.com/playlist?list=PLZVNxI_lsRW2kXnJh2BMb6D82HCAoSTUB <br> 
+<br>Useful Websites - <br> https://love2d.org/wiki/Category:Tutorials <br> http://www.osmstudios.com/tutorials/your-first-love2d-game-in-200-lines-part-1-of-3 <br>
+ https://gamedevelopment.tutsplus.com/articles/how-to-learn-love-love2d--gamedev-4331 <br> https://www.gamedesigning.org/engines/love2d/ <br>
+ https://sheepolution.com/learn/book/contents <br> https://tutsplus.com/tutorials/search/love2d <br>
+ <br>Dedicated Github page - <br> https://github.com/love2d/love <br> https://github.com/love2d-community/awesome-love2d <br> https://github.com/kyleschaub/cavern <br> https://github.com/patrixr/love-animation <br>
+ <br>Best Courses - <br> https://www.udemy.com/course/lua-love/ <br> https://www.udemy.com/course/learn-to-code-by-example-with-love-love2d-lua-basics/ <br>
+ <br>Other Tips / Hacks - <br> https://love2d.org/forums/viewtopic.php?t=83177 <br> https://love2d.org/forums/viewtopic.php?t=85994 <br>
+ https://love2d.org/forums/viewtopic.php?t=2829 <br> https://github.com/Alexander-Hjelm/LOVE2D-cheat-sheet/blob/master/main.lua <br>
+ <br>
+ </details>
+
 <details>
 <summary>Lua</summary>
 <br>Category/Type - <br>High-level programming language<br>
