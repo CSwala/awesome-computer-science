@@ -1127,6 +1127,32 @@
 		"Tips4": "https://searchcloudcomputing.techtarget.com/tip/Cloud-computing-tips-and-tricks-by-the-numbers",
 		"Tips5": "https://www.cloudinstitute.io/blog/cloud-computing-tips-and-tricks/"
 	},
+	 
+	{	
+		"Title" : "CNN (Convolutional Neural Network)",
+		"Tag" : "The Keras library in Python",
+		"Documentation" : "https://www.python.org/",
+		"YT1" : "https://www.youtube.com/watch?v=Jy9-aGMB_TE",
+		"YT2" : "https://www.youtube.com/watch?v=zfiSAzpy9NM",
+		"YT3" : "https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF",
+		"YT4" : "https://www.youtube.com/watch?v=umGJ30-15_A",
+		"Website1" : "https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network",
+		"Website2" : "https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/",
+		"Website3" : "https://www.tensorflow.org/tutorials/images/cnnhttps://www.freecodecamp.org/news/convolutional-neural-network-tutorial-for-beginners/",
+		"Website4" : "https://www.kaggle.com/kanncaa1/convolutional-neural-network-cnn-tutorial",
+		"Dedicated GH page1" : "https://github.com/dennybritz/cnn-text-classification-tf",
+		"Dedicated GH page2" : "https://github.com/rbgirshick/fast-rcnn",
+		"Dedicated GH page3" : "https://github.com/asingh33/CNNGestureRecognizer",
+		"Dedicated GH page4" : "https://github.com/ShaoqingRen/faster_rcnn",
+		"Course1" : "https://www.udemy.com/course/cnn-for-computer-vision-with-keras-and-tensorflow-in-python/",
+		"Course2" : "https://www.udemy.com/course/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/",
+		"Course3" : "https://www.udemy.com/course/deep-learning-cnn-convolutional-neural-networks-with-python/",
+		"Course4" : "https://www.coursera.org/programs/srmist-ramapuram-on-coursera-sktfh/browse?collectionId=&currentTab=CATALOG&productId=kWGvJivBEeeW5RJUyz1uFA&productType=course&query=CNN&showMiniModal=true",
+		"Tips1" : "https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53",
+		"Tips2" : "https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks",
+		"Tips3" : "https://www.coursera.org/lecture/intro-to-deep-learning/training-tips-and-tricks-for-deep-cnns-NGUMO",
+		
+	},
 	{
 		"Title" : "Codeigniter",
 		"Tag" : "PHP Framework",
