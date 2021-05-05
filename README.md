@@ -1334,6 +1334,38 @@ https://www.cloudinstitute.io/blog/cloud-computing-tips-and-tricks/ <br>
 </details>
 
 <details>
+<summary>CNN (Convolutional Neural Network)</summary>
+<br>Category/Type - <br>The Keras library in Python<br>
+<br>Official Documentation - <br>
+https://www.python.org/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Jy9-aGMB_TE<br>
+https://www.youtube.com/watch?v=zfiSAzpy9NM<br>
+https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF<br>
+https://www.youtube.com/watch?v=umGJ30-15_A<br>
+<br>Useful Websites - <br>
+https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network<br>
+https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/<br>
+https://www.tensorflow.org/tutorials/images/cnnhttps://www.freecodecamp.org/news/convolutional-neural-network-tutorial-for-beginners/<br>
+https://www.kaggle.com/kanncaa1/convolutional-neural-network-cnn-tutorial<br>
+<br>Dedicated Github page - <br>
+https://github.com/dennybritz/cnn-text-classification-tf<br> 
+https://github.com/rbgirshick/fast-rcnn<br>
+https://github.com/asingh33/CNNGestureRecognizer<br>
+https://github.com/ShaoqingRen/faster_rcnn<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/cnn-for-computer-vision-with-keras-and-tensorflow-in-python/<br>
+https://www.udemy.com/course/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/<br>
+https://www.udemy.com/course/deep-learning-cnn-convolutional-neural-networks-with-python/<br>
+https://www.coursera.org/programs/srmist-ramapuram-on-coursera-sktfh/browse?collectionId=&currentTab=CATALOG&productId=kWGvJivBEeeW5RJUyz1uFA&productType=course&query=CNN&showMiniModal=true<br>
+<br>Other Tips / Hacks - <br>
+https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53<br>
+https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks<br>
+https://www.coursera.org/lecture/intro-to-deep-learning/training-tips-and-tricks-for-deep-cnns-NGUMO<br>
+<br><br><br>
+</details>
+
+<details>
 <summary>Codeigniter</summary>
 <br>
 Category/Type - <br>
