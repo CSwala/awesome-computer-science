@@ -1732,6 +1732,31 @@ https://medium.com/analytics-vidhya/ways-to-boost-your-computer-vision-projects-
  https://www.facebook.com/crytek/posts/get-tips-tricks-and-a-tutorial-about-how-to-make-particle-effects-with-cryengine/10160719114920287/ <br>
  <br>
  </details>
+
+ <details>
+ <summary>Cryptography </summary>
+ <br>Category/Type - <br> Field of study <br>
+ <br>Official Documentation - <br> https://cryptography.io/en/latest/ <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/watch?v=5jpgMXt1Z9Y
+<br>https://www.youtube.com/watch?v=cqgtdkURzTE
+<br>https://www.youtube.com/watch?v=C_e37dfGmNA
+<br>https://www.youtube.com/watch?v=4w8hJ7KAKcQ
+<br>https://www.youtube.com/watch?v=HPM17_aZB3g
+<br>https://www.youtube.com/watch?v=Wu7A8KK9orw
+<br>https://www.youtube.com/watch?v=GxpWCbCB8Wc
+<br>https://www.youtube.com/playlist?list=PLFCG67nCTUMHHJ-LDUnOsLxA2l_Eu5RMY<br>
+ <br>Useful Websites - <br> https://www.tutorialspoint.com/cryptography_with_python/index.htm <br> https://pypi.org/project/cryptography/ <br>
+ https://cryptohack.org/<br> https://www.garykessler.net/library/crypto.html <br> https://medium.com/@vixentael/how-to-start-learning-cryptography-49e7d91b54a8 <br>
+ <br>Dedicated Github page - <br> https://github.com/pyca/cryptography <br> https://github.com/sobolevn/awesome-cryptography <br>
+ https://github.com/rakeshsukla53/Cryptography <br>
+ <br>Best Courses - <br> https://www.coursera.org/learn/crypto <br> https://www.coursera.org/specializations/introduction-applied-cryptography <br>
+ https://www.coursera.org/learn/crypto2 <br> https://www.udacity.com/course/applied-cryptography--cs387  <br> https://www.udemy.com/course/learn-modern-security-and-cryptography-by-coding-in-python/ <br> https://www.udemy.com/course/learn-cryptography-basics-in-python/ <br> http://online.stanford.edu/course/cryptography <br>
+ <br>Other Tips / Hacks - <br> https://www.dummies.com/games/cryptograms/cryptography-101-basic-solving-techniques-for-substitution-ciphers/ <br> https://github.com/jishanshaikh4/Cryptography-Roadmap <br>
+ https://cheatography.com/tag/cryptography/ <br>
+ https://www3.nd.edu/~busiforc/handouts/cryptography/cryptography%20hints.html <br>
+ https://sites.google.com/site/codesforscouts/tips-for-solving-cryptograms <br>
+ <br>
+ </details>
 <details>
 <summary>CSS</summary>
 <br>Category/Type - <br>Stylesheet Language<br>
