@@ -1434,6 +1434,38 @@ https://www.cloudinstitute.io/blog/cloud-computing-tips-and-tricks/ <br>
 </details>
 
 <details>
+<summary>CNN (Convolutional Neural Network)</summary>
+<br>Category/Type - <br>The Keras library in Python<br>
+<br>Official Documentation - <br>
+https://www.python.org/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Jy9-aGMB_TE<br>
+https://www.youtube.com/watch?v=zfiSAzpy9NM<br>
+https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF<br>
+https://www.youtube.com/watch?v=umGJ30-15_A<br>
+<br>Useful Websites - <br>
+https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network<br>
+https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/<br>
+https://www.tensorflow.org/tutorials/images/cnnhttps://www.freecodecamp.org/news/convolutional-neural-network-tutorial-for-beginners/<br>
+https://www.kaggle.com/kanncaa1/convolutional-neural-network-cnn-tutorial<br>
+<br>Dedicated Github page - <br>
+https://github.com/dennybritz/cnn-text-classification-tf<br> 
+https://github.com/rbgirshick/fast-rcnn<br>
+https://github.com/asingh33/CNNGestureRecognizer<br>
+https://github.com/ShaoqingRen/faster_rcnn<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/cnn-for-computer-vision-with-keras-and-tensorflow-in-python/<br>
+https://www.udemy.com/course/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/<br>
+https://www.udemy.com/course/deep-learning-cnn-convolutional-neural-networks-with-python/<br>
+https://www.coursera.org/programs/srmist-ramapuram-on-coursera-sktfh/browse?collectionId=&currentTab=CATALOG&productId=kWGvJivBEeeW5RJUyz1uFA&productType=course&query=CNN&showMiniModal=true<br>
+<br>Other Tips / Hacks - <br>
+https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53<br>
+https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks<br>
+https://www.coursera.org/lecture/intro-to-deep-learning/training-tips-and-tricks-for-deep-cnns-NGUMO<br>
+<br><br><br>
+</details>
+
+<details>
 <summary>Codeigniter</summary>
 <br>
 Category/Type - <br>
@@ -2126,6 +2158,40 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
   <img align="center" src="https://miro.medium.com/max/2400/1*asSDJQpw1EQPFN-BqQSU0Q.png" width="1000" height="500"/>
 </a>
 <br><br><br>
+</details>
+
+<details>
+<summary>Dtale Library</summary>
+<br>
+Category/Type - <br>
+Python<br>
+<br>
+Documentation - <br>
+https://pypi.org/project/dtale/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=xSXGcuiEzUc<br>
+https://www.youtube.com/watch?v=jYlwwNycVh8<br>
+https://www.youtube.com/watch?v=kHFD7Il0mkg<br>
+https://www.youtube.com/watch?v=JUu5IYVGqCg<br>
+https://www.youtube.com/watch?v=G3e5S4q0Cs8<br>
+<br>
+Useful Websites - <br>
+https://analyticsindiamag.com/dtale-tutorial-guide-to-visualize-pandas-data-structure/<br>
+https://pydigger.com/pypi/dtale<br>
+https://www.analyticsvidhya.com/blog/2020/11/data-exploration-dtale/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/man-group/dtale<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/da-tum/exploratory-data-analysis-1-4-using-d-tale-99a2c267db79<br>
+https://medium.com/analytics-vidhya/introduction-to-d-tale-library-fabb369c5d91<br>
+https://medium.com/da-tum/exploratory-data-analysis-1-4-using-d-tale-99a2c267db79<br>
+https://towardsdatascience.com/introduction-to-d-tale-5eddd81abe3f<br>
+https://www.analyticsvidhya.com/blog/2021/04/top-python-libraries-to-automate-exploratory-data-analysis-in-2021/<br>
+https://www.kdnuggets.com/2020/08/bring-pandas-dataframes-life-d-tale.html<br>
+<br>
 </details>
 
 <details>
@@ -4307,6 +4373,26 @@ https://www.codementor.io/lisp-experts<br>
  <br>Other Tips / Hacks - <br> https://www.elastic.co/guide/en/logstash/current/tips.html <br> https://medium.com/ableneo/best-practices-for-logstash-81e1eb6a6262 <br>
  https://logz.io/blog/5-logstash-pitfalls-and-how-to-avoid-them/ <br> https://kreuzwerker.de/en/post/tips-and-tricks-for-better-log-analysis-with-kibana-part-3 <br>
  https://www.tutorialspoint.com/logstash/logstash_quick_guide.htm <br>
+ <br>
+ </details>
+
+ <details>
+ <summary>LÖVE</summary>
+ <br>Category/Type - <br> Game Engine <br>
+ <br>Official Documentation - <br> https://love2d.org/wiki/Main_Page <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/watch?v=yrIwFflGeyA
+<br> https://www.youtube.com/watch?v=3k4CMAaNCuk
+<br> https://www.youtube.com/watch?v=wttKHL90Ank
+<br> https://www.youtube.com/watch?v=u6GWjojPQiM
+<br> https://www.youtube.com/playlist?list=PLS9MbmO_ssyBAc9wBC85_WG9aT88KGxH8
+<br> https://www.youtube.com/playlist?list=PLZVNxI_lsRW2kXnJh2BMb6D82HCAoSTUB <br> 
+<br>Useful Websites - <br> https://love2d.org/wiki/Category:Tutorials <br> http://www.osmstudios.com/tutorials/your-first-love2d-game-in-200-lines-part-1-of-3 <br>
+ https://gamedevelopment.tutsplus.com/articles/how-to-learn-love-love2d--gamedev-4331 <br> https://www.gamedesigning.org/engines/love2d/ <br>
+ https://sheepolution.com/learn/book/contents <br> https://tutsplus.com/tutorials/search/love2d <br>
+ <br>Dedicated Github page - <br> https://github.com/love2d/love <br> https://github.com/love2d-community/awesome-love2d <br> https://github.com/kyleschaub/cavern <br> https://github.com/patrixr/love-animation <br>
+ <br>Best Courses - <br> https://www.udemy.com/course/lua-love/ <br> https://www.udemy.com/course/learn-to-code-by-example-with-love-love2d-lua-basics/ <br>
+ <br>Other Tips / Hacks - <br> https://love2d.org/forums/viewtopic.php?t=83177 <br> https://love2d.org/forums/viewtopic.php?t=85994 <br>
+ https://love2d.org/forums/viewtopic.php?t=2829 <br> https://github.com/Alexander-Hjelm/LOVE2D-cheat-sheet/blob/master/main.lua <br>
  <br>
  </details>
 
