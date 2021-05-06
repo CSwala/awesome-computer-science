@@ -1216,8 +1216,7 @@
 		"Course4" : "https://www.coursera.org/programs/srmist-ramapuram-on-coursera-sktfh/browse?collectionId=&currentTab=CATALOG&productId=kWGvJivBEeeW5RJUyz1uFA&productType=course&query=CNN&showMiniModal=true",
 		"Tips1" : "https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53",
 		"Tips2" : "https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks",
-		"Tips3" : "https://www.coursera.org/lecture/intro-to-deep-learning/training-tips-and-tricks-for-deep-cnns-NGUMO",
-		
+		"Tips3" : "https://www.coursera.org/lecture/intro-to-deep-learning/training-tips-and-tricks-for-deep-cnns-NGUMO"
 	},
 	{
 		"Title" : "Codeigniter",
@@ -4614,6 +4613,31 @@
 		"Tips4" : "https://blogs.oracle.com/linux/the-top-10-tricks-of-perl-one-liners-v2#:~:text=We'll%20start%20with%20a,%2Dn%20and%20%2Dp%20flags.",
 		"Tips5" : "https://www.thegeekstuff.com/2010/01/20-killer-perl-programming-tips-for-beginners-on-unix-linux-os/"
 	},
+	{
+	"Title" : "Phalcon",
+	"Tag" : "PHP Framework",
+	"Documentation" : "https://docs.phalcon.io/4.0/en/introduction",
+	"YT1 " : "https://www.youtube.com/watch?v=75W-emM4wNQ",
+	"YT2 " : "https://www.youtube.com/playlist?list=PLAeSqFDosTSijRgUeiHPHeWE0kOEZ5ES8",
+	"YT3 " : "https://www.youtube.com/playlist?list=PLmrTMUhqzS3jd8MWP6-TvieKkPpiisJum",
+	"YT4 " : "https://www.youtube.com/watch?v=sIDgETgB0Cw",
+	"YT5 " : "https://www.youtube.com/watch?v=v-Bq6FwuemU",
+	"Website1" : "https://www.tutorialspoint.com/phalcon/index.htm",
+	"Website2" : "https://www.javatpoint.com/phalcon-tutorial",
+	"Website3" : "https://www.hostinger.in/tutorials/phalcon-tutorial",
+	"Website4" : "https://phalcon-php-framework-documentation.readthedocs.io/en/1.2.0/reference/tutorial.html",
+	"Website5" : "https://docs.phalcon.io/4.0/en/tutorial-basic",
+	"Dedicated GH page1" : "https://github.com/phalcon/awesome-phalcon",
+	"Dedicated GH page2" : "https://github.com/phalcon",
+	"Dedicated GH page3" : "https://github.com/micheleangioni/phalcon-repositories",
+	"Dedicated GH page4": "https://github.com/phalcon/cphalcon",
+	"Course1" : "https://www.udemy.com/course/phalcon-php-framework-for-beginners/",
+	"Course2" : "https://www.udemy.com/course/phalconphp/",
+	"Course3" : "https://www.udemy.com/course/web-development-with-new-framework/",
+	"Course4" : "https://code.tutsplus.com/categories/phalcon/courses",
+	"Tips1" : "https://github.com/mctekk/phalcon-cheat-sheet",
+	"Tips2" : "https://blog.phalcon.io/"
+},
 	{
 		"Title" : "PHP",
 		"Tag" : "Programming Language",
