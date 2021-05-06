@@ -2654,6 +2654,55 @@ https://www.besanttechnologies.com/what-is-expressjs <br>
 </details>
 
 <details>
+<summary> ExtJs </summary>
+<br>
+Category/Type - <br>Extended JavaScript Framework <br>
+<br>
+Official Documentation - <br>
+https://docs.sencha.com/extjs/6.2.0/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PL8p2I9GklV47EtM9MtAncMf4XLDJjaLkz <br>
+https://www.youtube.com/watch?v=6RQIG4rmlAg <br>
+https://www.youtube.com/playlist?list=PL6uGR-gYUnnrwEQ6QRGvhITvxBkvnsT8h <br>
+https://www.youtube.com/watch?v=ZNjXYbiU4bs <br>
+https://www.youtube.com/watch?v=TACdyR3IrrI<br>
+<br>
+Useful Websites -
+<br>
+https://www.sencha.com/products/extjs/ <br>
+https://www.tutorialspoint.com/extjs/index.htm <br>
+https://en.wikipedia.org/wiki/Ext_JS <br>
+https://www.cuelogic.com/blog/migrating-sencha-extjs-to-reactjs <br>
+https://stackoverflow.com/questions/tagged/sencha <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/sencha <br>
+https://github.com/sencha-extjs-examples<br>
+https://github.com/extjs<br>
+https://github.com/topics/extjs<br>
+https://github.com/sencha-extjs-examples/Coworkee<br>
+https://github.com/forcedotcom/aura-extjs<br>
+<br>
+Best Courses - <br>
+https://www.zeolearn.com/extjs-training<br>
+https://www.udemy.com/topic/ext-js/<br>
+https://www.iteanz.com/course/mastering-ext-js/<br>
+https://medium.com/@walkingtreetech/learn-sencha-ext-js-online-courses-c9ff588045ee<br>
+<br>
+Other Tips / Hacks - <br>
+https://swarmonline.com/20-tips-for-getting-started-with-ext-js/ <br>
+https://docs.sencha.com/extjs/6.2.0/modern/Ext.tip.ToolTip.html<br>
+https://moduscreate.com/blog/sencha-viewmodel-tips/<br>
+https://stackoverflow.com/questions/52578095/extjs-grid-tool-tip-for-specific-columns<br>
+<br>
+<a href="https://lh3.googleusercontent.com/proxy/jXrRqM7I5QWtVzarR201az-theqc0D4RlVZpPCfgGofJI52NZLZU1OIb4x7-gFHK28yjvvJrNmvisUeql-8lQil--fO9SsGhM00WuyesnxS3WKk8Y-qbCYv2">
+  <img align="center" src="https://lh3.googleusercontent.com/proxy/jXrRqM7I5QWtVzarR201az-theqc0D4RlVZpPCfgGofJI52NZLZU1OIb4x7-gFHK28yjvvJrNmvisUeql-8lQil--fO9SsGhM00WuyesnxS3WKk8Y-qbCYv2" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Fabric</summary>
 <br>Category/Type - <br>Python Library<br>
 <br>Official Documentation - <br>http://www.fabfile.org//<br>
