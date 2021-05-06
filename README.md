@@ -6046,6 +6046,54 @@ https://www.reddit.com/r/learnpython/comments/ggmn5s/need_help_with_pyglet/ <br>
 </details>
 
 <details>
+<summary>Pyramid</summary>
+<br>
+Category/Type - <br>
+Python Web Framework <br>
+<br>
+Official Documentation - <br>
+https://docs.pylonsproject.org/projects/pyramid/en/latest/index.html<br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=wgMj6ZsCiBk<br>
+https://www.youtube.com/playlist?list=PL6-GrNvaJuAhcBuzrL6UR-LhDbNkNhFwv<br>
+https://www.youtube.com/watch?v=zNPgtVSROfs<br>
+https://www.youtube.com/watch?v=JWWbhekBuAM<br>
+https://www.youtube.com/watch?v=NtD_1K03AOI<br>
+https://www.youtube.com/watch?v=kRKOWNdT72A<br>
+<br>
+Useful Websites- <br>
+https://docs.pylonsproject.org/projects/pyramid/en/latest/narr/introduction.html<br>
+https://www.tutorialspoint.com/python_web_development_libraries/python_web_development_libraries_pyramid_framework.htm<br>
+https://www.fullstackpython.com/pyramid.html<br>
+https://opensource.com/article/18/5/pyramid-framework<br>
+<br>
+Dedicated Github page- <br>
+https://github.com/Pylons/pyramid/blob/master/docs/index.rst<br>
+https://github.com/Pylons/pyramid<br>
+https://github.com/uralbash/awesome-pyramid<br>
+https://github.com/Pylons/shootout<br>
+https://github.com/Pylons/pyramid_tutorials<br>
+https://github.com/invisibleroads/pyramid-examples<br>
+https://github.com/topics/pyramid-framework<br>
+<br>
+Best Courses- <br>
+https://www.zeolearn.com/pyramid-training<br>
+https://www.udemy.com/course/python-pyramid-web-dev-beginners/<br>
+https://www.ecorptrainings.com/pyramid-online-corporate-training-hyderabad-india-uk-usa.php<br>
+https://www.indiamart.com/proddetail/python-pyramid-training-6220947755.html<br>
+<br>
+Other Tips/Hacks- <br>
+https://www.digitalocean.com/community/tutorials/how-to-use-the-pyramid-framework-to-build-your-python-web-app-on-ubuntu<br>
+https://sunscrapers.com/blog/django-flask-pyramid-choose-right-python-framework-project/<br>
+https://docs.python-guide.org/scenarios/web/<br>
+https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html<br>
+<a href="https://www.pikpng.com/pngl/m/62-626730_png-pyramid-logo-for-light-background-python-pyramid.png">
+  <img align="center" src="https://www.pikpng.com/pngl/m/62-626730_png-pyramid-logo-for-light-background-python-pyramid.png" width="1000" height="250"/>
+</a>
+</details>
+
+<details>
 <summary>Python</summary>
 <br>Category/Type - <br>
 Open Source Programming Language<br>
