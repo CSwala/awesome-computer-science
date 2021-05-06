@@ -554,8 +554,7 @@
 		"Course5" : "https://www.coursera.org/learn/arduino-platform",
 		"Tips1" : "https://thekurks.net/blog/2017/12/4/5-tips-to-improve-your-code",
 		"Tips2" : "https://www.instructables.com/Learning-to-Program-the-Arduino-Part-1/ ",
-		"Tips3" : "https://www.instructables.com/Smarter-Arduino-Programming-Tips-and-Tricks/"
-
+		"Tips3" : "https://www.instructables.com/Smarter-Arduino-Programming-Tips-and-Tricks/",
 		
         },
 	{
@@ -1193,32 +1192,6 @@
 		"Tips4": "https://searchcloudcomputing.techtarget.com/tip/Cloud-computing-tips-and-tricks-by-the-numbers",
 		"Tips5": "https://www.cloudinstitute.io/blog/cloud-computing-tips-and-tricks/"
 	},
-	 
-	{	
-		"Title" : "CNN (Convolutional Neural Network)",
-		"Tag" : "The Keras library in Python",
-		"Documentation" : "https://www.python.org/",
-		"YT1" : "https://www.youtube.com/watch?v=Jy9-aGMB_TE",
-		"YT2" : "https://www.youtube.com/watch?v=zfiSAzpy9NM",
-		"YT3" : "https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF",
-		"YT4" : "https://www.youtube.com/watch?v=umGJ30-15_A",
-		"Website1" : "https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network",
-		"Website2" : "https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/",
-		"Website3" : "https://www.tensorflow.org/tutorials/images/cnnhttps://www.freecodecamp.org/news/convolutional-neural-network-tutorial-for-beginners/",
-		"Website4" : "https://www.kaggle.com/kanncaa1/convolutional-neural-network-cnn-tutorial",
-		"Dedicated GH page1" : "https://github.com/dennybritz/cnn-text-classification-tf",
-		"Dedicated GH page2" : "https://github.com/rbgirshick/fast-rcnn",
-		"Dedicated GH page3" : "https://github.com/asingh33/CNNGestureRecognizer",
-		"Dedicated GH page4" : "https://github.com/ShaoqingRen/faster_rcnn",
-		"Course1" : "https://www.udemy.com/course/cnn-for-computer-vision-with-keras-and-tensorflow-in-python/",
-		"Course2" : "https://www.udemy.com/course/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/",
-		"Course3" : "https://www.udemy.com/course/deep-learning-cnn-convolutional-neural-networks-with-python/",
-		"Course4" : "https://www.coursera.org/programs/srmist-ramapuram-on-coursera-sktfh/browse?collectionId=&currentTab=CATALOG&productId=kWGvJivBEeeW5RJUyz1uFA&productType=course&query=CNN&showMiniModal=true",
-		"Tips1" : "https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53",
-		"Tips2" : "https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks",
-		"Tips3" : "https://www.coursera.org/lecture/intro-to-deep-learning/training-tips-and-tricks-for-deep-cnns-NGUMO",
-		
-	},
 	{
 		"Title" : "Codeigniter",
 		"Tag" : "PHP Framework",
@@ -1726,28 +1699,6 @@
 		"Tips6" : "https://dockerlabs.collabnix.com/docker/cheatsheet/ ",
 		"Image1" : "https://miro.medium.com/max/2400/1*asSDJQpw1EQPFN-BqQSU0Q.png "
 	},
-	
-	{
-		"Title" : "Dtale Library",
-		"Tag" : "Python Library",
-		"Documentation" : "https://pypi.org/project/dtale/",
-		"YT1" : "https://www.youtube.com/watch?v=xSXGcuiEzUc",
-		"YT2" : "https://www.youtube.com/watch?v=jYlwwNycVh8",
-		"YT3" : "https://www.youtube.com/watch?v=kHFD7Il0mkg",
-		"YT4" : "https://www.youtube.com/watch?v=JUu5IYVGqCg",
-		"YT5" : "https://www.youtube.com/watch?v=G3e5S4q0Cs8",
-		"Website1" : " https://analyticsindiamag.com/dtale-tutorial-guide-to-visualize-pandas-data-structure/",
-		"Website2" : "https://pydigger.com/pypi/dtale",
-		"Website3" : "https://www.analyticsvidhya.com/blog/2020/11/data-exploration-dtale/ ",
-		"Dedicated GH page1" : "https://github.com/man-group/dtale",
-		"Tips1" : "https://medium.com/da-tum/exploratory-data-analysis-1-4-using-d-tale-99a2c267db79",
-		"Tips2" : "https://medium.com/analytics-vidhya/introduction-to-d-tale-library-fabb369c5d91",
-		"Tips3" : "https://medium.com/da-tum/exploratory-data-analysis-1-4-using-d-tale-99a2c267db79",
-		"Tips4" : "https://towardsdatascience.com/introduction-to-d-tale-5eddd81abe3f",
-		"Tips5" : "https://www.analyticsvidhya.com/blog/2021/04/top-python-libraries-to-automate-exploratory-data-analysis-in-2021/",
-		"Tip6"  :  "https://www.kdnuggets.com/2020/08/bring-pandas-dataframes-life-d-tale.html"
-	},
-
 	 
 	 {	
 	"Title" : "ECMAScript",
@@ -2114,36 +2065,6 @@
 		"Tips8" : "https://apiko.com/blog/express-js-api-and-rest-api-organization-tips-examples-and-techniques/",
         "Tips9" : "https://www.tutorialspoint.com/expressjs/expressjs_best_practices.htm",
 		"Tips10" : "https://www.besanttechnologies.com/what-is-expressjs"
-	},
-	{	
-		"Title" : "ExtJs",
-		"Tag" : "Extended JavaScript Framework",
-		"Documentation" : "https://docs.sencha.com/extjs/6.2.0/",
-		"YT1 " : "https://www.youtube.com/playlist?list=PL8p2I9GklV47EtM9MtAncMf4XLDJjaLkz ",
-		"YT2 " : "https://www.youtube.com/watch?v=6RQIG4rmlAg",
-		"YT3 " : "https://www.youtube.com/playlist?list=PL6uGR-gYUnnrwEQ6QRGvhITvxBkvnsT8h ",
-		"YT4 " : "https://www.youtube.com/watch?v=ZNjXYbiU4bs ",
-		"YT5 " : "https://www.youtube.com/watch?v=TACdyR3IrrI",
-		"Website1" : "https://www.sencha.com/products/extjs/ ",
-		"Website2" : "https://www.tutorialspoint.com/extjs/index.htm ",
-		"Website3" : "https://en.wikipedia.org/wiki/Ext_JS ",
-		"Website4" : "https://www.cuelogic.com/blog/migrating-sencha-extjs-to-reactjs ",
-		"Website5" : "https://stackoverflow.com/questions/tagged/sencha ",
-		"Dedicated GH page1" : "https://github.com/sencha ",
-		"Dedicated GH page2" : "https://github.com/sencha-extjs-examples",
-		"Dedicated GH page3" : "https://github.com/extjs",
-		"Dedicated GH page4" : "https://github.com/topics/extjs",
-		"Dedicated GH page5" : "https://github.com/sencha-extjs-examples/Coworkee",
-		"Dedicated GH page6" : "https://github.com/forcedotcom/aura-extjs",
-		"Course1" : "https://www.zeolearn.com/extjs-training",
-		"Course2" : "https://www.udemy.com/topic/ext-js/",
-		"Course3" : "https://www.iteanz.com/course/mastering-ext-js/",
-		"Course4" : "https://medium.com/@walkingtreetech/learn-sencha-ext-js-online-courses-c9ff588045ee",
-		"Tips1" : "https://swarmonline.com/20-tips-for-getting-started-with-ext-js/",
-		"Tips2" : "https://docs.sencha.com/extjs/6.2.0/modern/Ext.tip.ToolTip.html",
-		"Tips3" : "https://moduscreate.com/blog/sencha-viewmodel-tips/",
-		"Tips4" : "https://stackoverflow.com/questions/52578095/extjs-grid-tool-tip-for-specific-columns",
-		"Image1" : "https://lh3.googleusercontent.com/proxy/jXrRqM7I5QWtVzarR201az-theqc0D4RlVZpPCfgGofJI52NZLZU1OIb4x7-gFHK28yjvvJrNmvisUeql-8lQil--fO9SsGhM00WuyesnxS3WKk8Y-qbCYv2" 
 	},
 	{	
 		"Title" : "F#",
@@ -3588,33 +3509,6 @@
 		"Tips3" : "https://logz.io/blog/5-logstash-pitfalls-and-how-to-avoid-them/",
 		"Tips4" : "https://kreuzwerker.de/en/post/tips-and-tricks-for-better-log-analysis-with-kibana-part-3",
 		"Tips5" : "https://www.tutorialspoint.com/logstash/logstash_quick_guide.htm"
-	},
-	{
-		"Title" : "LÖVE",
-		"Tag" : "Game Engine",
-		"Documentation" : "https://love2d.org/wiki/Main_Page",
-		"YT1" : "https://www.youtube.com/watch?v=yrIwFflGeyA",
-		"YT2" : "https://www.youtube.com/watch?v=3k4CMAaNCuk",
-		"YT3" : "https://www.youtube.com/watch?v=wttKHL90Ank",
-		"YT4" : "https://www.youtube.com/playlist?list=PLS9MbmO_ssyBAc9wBC85_WG9aT88KGxH8",
-		"YT5" : "https://www.youtube.com/playlist?list=PLZVNxI_lsRW2kXnJh2BMb6D82HCAoSTUB",
-		"YT6" : "https://www.youtube.com/watch?v=u6GWjojPQiM",
-		"Website1" : "https://love2d.org/wiki/Category:Tutorials",
-		"Website2" : "http://www.osmstudios.com/tutorials/your-first-love2d-game-in-200-lines-part-1-of-3",
-		"Website3" : "https://gamedevelopment.tutsplus.com/articles/how-to-learn-love-love2d--gamedev-4331",
-		"Website4" : "https://www.gamedesigning.org/engines/love2d/",
-		"Website5" : "https://sheepolution.com/learn/book/contents",
-		"Website6" : "https://tutsplus.com/tutorials/search/love2d",
-		"Dedicated GH page1" : "https://github.com/love2d/love",
-		"Dedicated GH page2" : "https://github.com/love2d-community/awesome-love2d",
-		"Dedicated GH page3" : "https://github.com/kyleschaub/cavern",
-		"Dedicated GH page4": "https://github.com/patrixr/love-animation",
-		"Course1" : "https://www.udemy.com/course/lua-love/",
-		"Course2" : "https://www.udemy.com/course/learn-to-code-by-example-with-love-love2d-lua-basics/",
-		"Tips1" : "https://love2d.org/forums/viewtopic.php?t=83177",
-		"Tips2" : "https://love2d.org/forums/viewtopic.php?t=85994",
-		"Tips3" : "https://love2d.org/forums/viewtopic.php?t=2829",
-		"Tips4" : "https://github.com/Alexander-Hjelm/LOVE2D-cheat-sheet/blob/master/main.lua"
 	},
 	{
 		"Title" : "Lua",
@@ -6163,7 +6057,6 @@
 		"Image1":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Theano_logo.svg/1200px-Theano_logo.svg.png"
 	
 	},
-
     {
 		"Title" : "TypeScript",
 		"Tag" : "Programming Language",
