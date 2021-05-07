@@ -7884,6 +7884,45 @@ https://folinoid.com/show/theano/<br>
 </a>
 <br><br><br>
 </details>
+
+<summary>TinkerCAD</summary>
+<br>
+Category/Type - <br>
+Software<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/Tinkercad<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=gOs6Mdj7y_4<br>
+https://www.youtube.com/watch?v=2JFxtUIOnEI&list=PL90LC6zq_Lzf9tHyFPzX_9OA35BFTfEBs<br>
+https://www.youtube.com/watch?v=38ur1kyFYxc<br>
+https://www.youtube.com/user/Tinkercad<br>
+<br>
+Useful Websites - <br>
+https://all3dp.com/2/tinkercad-tutorial-easy-beginners/<br>
+https://i.materialise.com/blog/en/tinkercad-3d-printing-tutorial/<br>
+https://www.tinkercad.com/things/ePnUiFqOIjA-medium-length-tinkercad-introduction<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/topics/tinkercad<br>
+https://github.com/jprivet-dev/arduino-robobox-tinkercad<br>
+https://github.com/TechnicalUpdate/tinkercad-ultrasonic_sensor-arduino<br>
+https://github.com/dcpneto/Arduino-Projects<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/learn-and-master-computer-aided-design-cad-with-tinkercad/<br>
+https://www.udemy.com/course/3d-printing-and-tinkercad-crash-course/<br>
+https://www.udemy.com/course/tinkercad-for-complete-beginners/<br>
+https://www.udemy.com/course/learn-circuits-with-tinkercad/<br>
+https://www.udemy.com/course/tinkercad-for-beginners/<br>
+<br>
+Other Tips/Hacks - <br>
+https://ronm333.medium.com/an-introduction-to-tinkercad-codeblocks-b896dff5f5f9<br>
+https://medium.com/re-write/re-learning-tinkercad-6cce5aa76819<br>
+https://all3dp.com/2/tinkercad-arduino-how-to-design-simulate-circuits/#:~:text=Arduino%20is%20an%20open%2Dsource,the%20need%20for%20physical%20hardware.<br>
+</details>
+
 <details>
 <summary>TypeScript</summary>
 <br>Category/Type - <br> Programming Language <br>
