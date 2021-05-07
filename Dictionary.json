@@ -631,6 +631,33 @@
 		"Tips6" : "https://www.assp.org/education/certification-preparation/asp",
 		"Image1" : "https://mpng.subpng.com/20180625/thc/kisspng-net-framework-software-framework-c-microsoft-asp-ms-logo-5b313fce876081.9578708415299542545545.jpg"
 	},
+	 
+	{
+		"Title" : "Augmented Reality",
+		"Tag" : "Development",
+		"Documentation" : "https://en.wikipedia.org/wiki/Augmented_reality",
+		"YT1" : "https://www.youtube.com/watch?v=zpiFZtPxo2w&list=PLb1h4A0yB97_TeFuf9TAEah3b-VyIYzF9",
+		"YT2" : "https://www.youtube.com/watch?v=2Vu_lEYgkyQ&list=PL_Nji0JOuXg0tJ-HQ8g0OgEjIxL5RO1R2",
+		"YT3" : "https://www.youtube.com/watch?v=MtiUx_szKbI&list=RDQMK9OtDZjqIY4&start_radio=1",
+		"YT4" : "https://www.youtube.com/watch?v=i-r4WcH15WQ&list=PL_Nji0JOuXg2AIB5sZSkGAKS4ZaniN-tR",
+		"Website1" : "https://www.investopedia.com/terms/a/augmented-reality.asp#:~:text=Augmented%20reality%20(AR)%20is%20an,and%20business%20applications%20in%20particular.",
+		"Website2" : "https://arvr.google.com/ar/",
+		"Website3" : "https://www.threekit.com/blog/what-is-augmented-reality",
+		"Dedicated GH page1" : "https://github.com/juangallostra/augmented-reality",
+		"Dedicated GH page2" : "https://github.com/dharmeshkakadia/awesome-AR",
+		"Dedicated GH page3" : "https://github.com/njanirudh/Augmented-Reality",
+		"Dedicated GH page4" : "https://github.com/PacktPublishing/Enterprise-Augmented-Reality-Projects",
+		"Course1" : "https://www.coursera.org/learn/ar",
+		"Course2" : "https://www.coursera.org/learn/ar-technologies-video-streaming",
+		"Course3" : "https://www.edx.org/course/work-with-augmented-reality-ar-and-the-web",
+		"Course4" : "https://www.coursera.org/learn/handheld-ar",
+		"Course5" : "https://www.pluralsight.com/courses/augmented-reality-getting-started?aid=7010a000002BWq6AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=IN_Dynamic&utm_content=&gclid=Cj0KCQjwp86EBhD7ARIsAFkgakjphVkK02Rfr3OiaZhCGgRsxf6ssLvwrLVHcqOLR6FrB-cvVygLPa4aAhXfEALw_wcB",
+		"Tips1" : "https://7t.co/blog/tips-for-a-smooth-augmented-reality-ar-mobile-app-development-project/",
+		"Tips2" : "https://mbryonic.com/augmented-reality-guide/",
+		"Tips3" : "https://www.constructdigital.com/insight/how-does-augmented-reality-ar-work"
+	},
+
+	 
 	{
 		"Title": "AWK",
 		"Tag": "Programming Language",
