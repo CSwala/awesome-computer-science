@@ -2945,6 +2945,95 @@ https://medium.com/@diegoveloper<br>
 </details>
 
 <details>
+<summary>Frontend Developer</summary>
+<br>Category/Type - <br>Web development<br>
+<a href="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png">
+<img align="center" src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png"/>
+</a>
+<br>Official Documentation - <br>
+https://devdocs.io/html/<br>
+https://devdocs.io/css/<br>
+https://nextjs.org/docs<br>
+https://api.jquery.com/<br>
+https://angular.io/docs<br>
+https://devdocs.io/javascript/<br>
+https://reactjs.org/docs/getting-started.html<br>
+https://tailwindcss.com/docs <br>
+    
+https://sass-lang.com/documentation <br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA<br>
+https://www.youtube.com/watch?v=s3qZF4jhgDo<br>
+https://www.youtube.com/user/thenewboston"<br>
+https://www.youtube.com/watch?v=21HuwjmuS7A&list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR<br>
+https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw<br>
+https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ<br>
+https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ<br>
+https://www.youtube.com/watch?v=zBPeGR48_vE&list=PLqkLaKB2GJhWXV9rcarwvn06ISlL_9mPQ<br>
+https://www.youtube.com/watch?v=uDwSnnhl1Ng&list=PLsyeobzWxl7qtP8Lo9TReqUMkiOp446cV<br>
+https://www.youtube.com/watch?v=hMxGhHNOkCU<br>
+https://www.youtube.com/watch?v=a59kOE2Ma1Q<br>
+<br>Useful Websites - <br>
+https://scotch.io/tutorials/get-started-with-tailwind-css-in-15-minutes<br>
+https://www.w3schools.com/html/<br>
+https://www.edx.org/learn/html5<br>
+https://css-tricks.com/<br>
+https://javascript.info<br>
+https://jquery.com/download/<br>
+https://www.softwaretutorialvideos.com/tutorial-xd.html<br>
+https://www.creative-tim.com/blog/angularjs/angular-js-75-examples-websites-applications-experiments/<br>
+https://www.domestika.org/en/blog/4741-adobe-xd-tutorial-basic-prototype-interactions<br>
+https://designshack.net/articles/software/adobe-xd-tutorials/<br>
+<br>Dedicated Github page - <br>
+https://github.com/kamranahmedse/developer-roadmap<br>
+    
+https://github.com/troxler/awesome-css-frameworks<br>
+    
+https://github.com/awesome-css-group/awesome-css<br>
+    
+https://lab.github.com/githubtraining/introduction-to-html<br>
+    
+https://github.com/4GeeksAcademy/html-tutorial-exercises-course<br>
+
+https://github.com/FormidableLabs/spectacle<br>
+
+https://github.com/30-seconds/30-seconds-of-code<br>
+
+https://github.com/getify/You-Dont-Know-JS<br>
+
+https://github.com/gothinkster/angularjs-realworld-example-app<br>
+
+https://github.com/petk/awesome-jquery<br>
+
+https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know<br>
+
+<br>Best Courses - <br>
+https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/<br>
+https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/<br>
+https://www.udemy.com/course/learn-angularjs/<br>
+https://www.udemy.com/course/react-tutorial-and-projects-course/<br>
+https://www.udemy.com/course/the-complete-javascript-course/<br>
+https://www.udemy.com/course/advanced-css-and-sass/<br>
+https://www.udemy.com/course/complete-guide-of-tailwind-css-/<br>
+https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/<br>
+https://www.udemy.com/course/jquery-course/<br>
+
+<br>Other Tips / Hacks - <br>
+https://dev.to/simonholdorf/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-4fhn<br>
+https://www.telerik.com/blogs/10-time-saving-css-tips-i-learned-the-hard-way-when-using-sass<br>
+
+https://www.freecodecamp.org/news/what-is-tailwind-css-and-how-can-i-add-it-to-my-website-or-react-app/<br>
+https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-knowledge-in-24-hours/<br>
+https://dev.to/zandershirley/10-practical-javascript-tricks-2b7h<br>
+https://html.com/wp-content/uploads/html-cheat-sheet.pdf<br>
+https://digital.com/tools/html-cheatsheet/<br>
+https://www.sitepoint.com/top-15-jquery-tricks/<br>
+
+<br>
+
+</details>
+
+<details>
 <summary>Gamemaker</summary>
 <br>
 Category/Type - <br>Game Engine <br>
