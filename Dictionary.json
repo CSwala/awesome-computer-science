@@ -5772,6 +5772,31 @@
 		"Tips5" : "https://www.infoworld.com/article/3200766/9-shell-tips-every-developer-should-know.html",
 		"Image1" : "https://cdn3.iconfinder.com/data/icons/blue-ulitto/128/Developer_files_Bash_Shell_Script-512.png"
 	},
+	
+	{
+		"Title" : "SketchUp studio",
+		"Tag" : "Software",
+		"Documentation" : "https://www.sketchup.com/",
+		"YT1" : "https://www.youtube.com/watch?v=qgt2s9RzvKM",
+		"YT2" : "https://www.youtube.com/watch?v=0RLza05bdNc&list=PLCqXLPQNeiphuDyXZPNW_3m1QcA4Dhsqv",
+		"Website1" : "https://architosh.com/2020/08/product-review-trimble-sketchup-studio-2020/",
+		"Website2" : "https://www.sketchup.com/plans-and-pricing/sketchup-studio",
+		"Dedicated GH page1" : "https://github.com/SketchUp/sketchup-extension-vscode-project",
+		"Dedicated GH page2" : "https://github.com/openstudiocoalition/openstudio-sketchup-plugin/releases",
+		"Dedicated GH page3" : "https://github.com/SketchUp/sketchup-live-c-api",
+		"Dedicated GH page4" : "https://github.com/SketchUp/sketchup-yard-template",
+		"Dedicated GH page5" : "https://github.com/openstudiocoalition/OpenStudioApplication/releases",
+		"Course1" : "https://www.udemy.com/course/complete-guide-to-sketchup-vray-beginner-to-advanced/",
+		"Course2" : "https://www.udemy.com/course/learn-sketchup-the-right-way/",
+		"Course3" : "https://coursesity.com/course-detail/sketchup-architect-beginner-fast-track",
+		"Course4" : "https://coursesity.com/course-detail/sketchup-pro-tools-and-techniques",
+		"Course5" : "https://coursesity.com/course-detail/sketchup-for-interior-design",
+		"Tips1" : "https://medium.com/re-write/re-learning-sketchup-935a44b0f97f",
+		"Tips2" : "https://blog.sketchup.com/article/10-tips-for-modeling-large-design-projects",
+		"Tips3" : "https://www.arch2o.com/15-simple-tips-to-easily-improve-your-sketchup-skills/"
+	},
+ 
+	 
 	{
 		"Title" : "Solidity",
 		"Tag" : "Programming language",
