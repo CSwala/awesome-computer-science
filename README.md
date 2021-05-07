@@ -6669,6 +6669,48 @@ https://slashgear.github.io/react-redux-pitfalls-and-best-pratices/ <br>
 <br>
 </details>
 
+
+<details>
+<summary>Reinforcement Learning</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/Reinforcement_learning#:~:text=Reinforcement%20learning%20(RL)%20is%20an,supervised%20learning%20and%20unsupervised%20learning.<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ<br>
+https://www.youtube.com/watch?v=TIlDzLZPyhY&list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9<br>
+https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u<br>
+https://www.youtube.com/watch?v=LzaWrmKL1Z4<br>
+<br>
+Useful Websites - <br>
+http://www.scholarpedia.org/article/Reinforcement_learning<br>
+https://www.geeksforgeeks.org/what-is-reinforcement-learning/<br>
+https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/dennybritz/reinforcement-learning<br>
+https://github.com/aikorea/awesome-rl<br>
+https://github.com/udacity/deep-reinforcement-learning<br>
+https://github.com/keras-rl/keras-rl<br>
+<br>
+Best Courses - <br>
+https://www.udacity.com/course/reinforcement-learning--ud600<br>
+https://www.coursera.org/specializations/reinforcement-learning<br>
+https://www.udemy.com/course/deep-reinforcement-learning/<br>
+https://www.udemy.com/course/actor-critic-methods-from-paper-to-code-with-pytorch/<br>
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj0rtm53bXwAhUPN2AKHQfYAhIYABACGgJ0bQ&ae=2&ohost=www.google.com&cid=CAESQOD2kA0ex455YmNB7TeDntC5LozZOXCc-iG9e4cbEpl-NZV74vH8JJgLaw7W2kcPicB8v36pqMP2OdYyEr64OwI&sig=AOD64_0-2ZamdrQMTCxUchQAaTq6exm8oQ&q&adurl&ved=2ahUKEwi6os-53bXwAhXhQ3wKHXDUAQEQ0Qx6BAgDEAE<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.kdnuggets.com/2018/03/5-things-reinforcement-learning.html<br>
+https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf<br>
+https://jonathan-hui.medium.com/rl-introduction-to-deep-reinforcement-learning-35c25e04c199<br>
+<br>
+</details>
+
+
 <details>
 <summary>REST API</summary>
 <br>Category/Type - <br> Web Service <br>
