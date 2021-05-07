@@ -1732,6 +1732,31 @@ https://medium.com/analytics-vidhya/ways-to-boost-your-computer-vision-projects-
  https://www.facebook.com/crytek/posts/get-tips-tricks-and-a-tutorial-about-how-to-make-particle-effects-with-cryengine/10160719114920287/ <br>
  <br>
  </details>
+
+ <details>
+ <summary>Cryptography </summary>
+ <br>Category/Type - <br> Field of study <br>
+ <br>Official Documentation - <br> https://cryptography.io/en/latest/ <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/watch?v=5jpgMXt1Z9Y
+<br>https://www.youtube.com/watch?v=cqgtdkURzTE
+<br>https://www.youtube.com/watch?v=C_e37dfGmNA
+<br>https://www.youtube.com/watch?v=4w8hJ7KAKcQ
+<br>https://www.youtube.com/watch?v=HPM17_aZB3g
+<br>https://www.youtube.com/watch?v=Wu7A8KK9orw
+<br>https://www.youtube.com/watch?v=GxpWCbCB8Wc
+<br>https://www.youtube.com/playlist?list=PLFCG67nCTUMHHJ-LDUnOsLxA2l_Eu5RMY<br>
+ <br>Useful Websites - <br> https://www.tutorialspoint.com/cryptography_with_python/index.htm <br> https://pypi.org/project/cryptography/ <br>
+ https://cryptohack.org/<br> https://www.garykessler.net/library/crypto.html <br> https://medium.com/@vixentael/how-to-start-learning-cryptography-49e7d91b54a8 <br>
+ <br>Dedicated Github page - <br> https://github.com/pyca/cryptography <br> https://github.com/sobolevn/awesome-cryptography <br>
+ https://github.com/rakeshsukla53/Cryptography <br>
+ <br>Best Courses - <br> https://www.coursera.org/learn/crypto <br> https://www.coursera.org/specializations/introduction-applied-cryptography <br>
+ https://www.coursera.org/learn/crypto2 <br> https://www.udacity.com/course/applied-cryptography--cs387  <br> https://www.udemy.com/course/learn-modern-security-and-cryptography-by-coding-in-python/ <br> https://www.udemy.com/course/learn-cryptography-basics-in-python/ <br> http://online.stanford.edu/course/cryptography <br>
+ <br>Other Tips / Hacks - <br> https://www.dummies.com/games/cryptograms/cryptography-101-basic-solving-techniques-for-substitution-ciphers/ <br> https://github.com/jishanshaikh4/Cryptography-Roadmap <br>
+ https://cheatography.com/tag/cryptography/ <br>
+ https://www3.nd.edu/~busiforc/handouts/cryptography/cryptography%20hints.html <br>
+ https://sites.google.com/site/codesforscouts/tips-for-solving-cryptograms <br>
+ <br>
+ </details>
 <details>
 <summary>CSS</summary>
 <br>Category/Type - <br>Stylesheet Language<br>
@@ -6097,6 +6122,54 @@ https://www.reddit.com/r/learnpython/comments/ggmn5s/need_help_with_pyglet/ <br>
 </details>
 
 <details>
+<summary>Pyramid</summary>
+<br>
+Category/Type - <br>
+Python Web Framework <br>
+<br>
+Official Documentation - <br>
+https://docs.pylonsproject.org/projects/pyramid/en/latest/index.html<br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=wgMj6ZsCiBk<br>
+https://www.youtube.com/playlist?list=PL6-GrNvaJuAhcBuzrL6UR-LhDbNkNhFwv<br>
+https://www.youtube.com/watch?v=zNPgtVSROfs<br>
+https://www.youtube.com/watch?v=JWWbhekBuAM<br>
+https://www.youtube.com/watch?v=NtD_1K03AOI<br>
+https://www.youtube.com/watch?v=kRKOWNdT72A<br>
+<br>
+Useful Websites- <br>
+https://docs.pylonsproject.org/projects/pyramid/en/latest/narr/introduction.html<br>
+https://www.tutorialspoint.com/python_web_development_libraries/python_web_development_libraries_pyramid_framework.htm<br>
+https://www.fullstackpython.com/pyramid.html<br>
+https://opensource.com/article/18/5/pyramid-framework<br>
+<br>
+Dedicated Github page- <br>
+https://github.com/Pylons/pyramid/blob/master/docs/index.rst<br>
+https://github.com/Pylons/pyramid<br>
+https://github.com/uralbash/awesome-pyramid<br>
+https://github.com/Pylons/shootout<br>
+https://github.com/Pylons/pyramid_tutorials<br>
+https://github.com/invisibleroads/pyramid-examples<br>
+https://github.com/topics/pyramid-framework<br>
+<br>
+Best Courses- <br>
+https://www.zeolearn.com/pyramid-training<br>
+https://www.udemy.com/course/python-pyramid-web-dev-beginners/<br>
+https://www.ecorptrainings.com/pyramid-online-corporate-training-hyderabad-india-uk-usa.php<br>
+https://www.indiamart.com/proddetail/python-pyramid-training-6220947755.html<br>
+<br>
+Other Tips/Hacks- <br>
+https://www.digitalocean.com/community/tutorials/how-to-use-the-pyramid-framework-to-build-your-python-web-app-on-ubuntu<br>
+https://sunscrapers.com/blog/django-flask-pyramid-choose-right-python-framework-project/<br>
+https://docs.python-guide.org/scenarios/web/<br>
+https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html<br>
+<a href="https://www.pikpng.com/pngl/m/62-626730_png-pyramid-logo-for-light-background-python-pyramid.png">
+  <img align="center" src="https://www.pikpng.com/pngl/m/62-626730_png-pyramid-logo-for-light-background-python-pyramid.png" width="1000" height="250"/>
+</a>
+</details>
+
+<details>
 <summary>Python</summary>
 <br>Category/Type - <br>
 Open Source Programming Language<br>
@@ -7811,6 +7884,45 @@ https://folinoid.com/show/theano/<br>
 </a>
 <br><br><br>
 </details>
+
+<summary>TinkerCAD</summary>
+<br>
+Category/Type - <br>
+Software<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/Tinkercad<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=gOs6Mdj7y_4<br>
+https://www.youtube.com/watch?v=2JFxtUIOnEI&list=PL90LC6zq_Lzf9tHyFPzX_9OA35BFTfEBs<br>
+https://www.youtube.com/watch?v=38ur1kyFYxc<br>
+https://www.youtube.com/user/Tinkercad<br>
+<br>
+Useful Websites - <br>
+https://all3dp.com/2/tinkercad-tutorial-easy-beginners/<br>
+https://i.materialise.com/blog/en/tinkercad-3d-printing-tutorial/<br>
+https://www.tinkercad.com/things/ePnUiFqOIjA-medium-length-tinkercad-introduction<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/topics/tinkercad<br>
+https://github.com/jprivet-dev/arduino-robobox-tinkercad<br>
+https://github.com/TechnicalUpdate/tinkercad-ultrasonic_sensor-arduino<br>
+https://github.com/dcpneto/Arduino-Projects<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/learn-and-master-computer-aided-design-cad-with-tinkercad/<br>
+https://www.udemy.com/course/3d-printing-and-tinkercad-crash-course/<br>
+https://www.udemy.com/course/tinkercad-for-complete-beginners/<br>
+https://www.udemy.com/course/learn-circuits-with-tinkercad/<br>
+https://www.udemy.com/course/tinkercad-for-beginners/<br>
+<br>
+Other Tips/Hacks - <br>
+https://ronm333.medium.com/an-introduction-to-tinkercad-codeblocks-b896dff5f5f9<br>
+https://medium.com/re-write/re-learning-tinkercad-6cce5aa76819<br>
+https://all3dp.com/2/tinkercad-arduino-how-to-design-simulate-circuits/#:~:text=Arduino%20is%20an%20open%2Dsource,the%20need%20for%20physical%20hardware.<br>
+</details>
+
 <details>
 <summary>TypeScript</summary>
 <br>Category/Type - <br> Programming Language <br>
