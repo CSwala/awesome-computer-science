@@ -1808,6 +1808,57 @@ https://medium.com/@sciencemonk/cuda-programming-tips-and-tricks-12d60310817a <b
 </details>
 
 <details>
+<summary>Cyber Security</summary>
+<br>
+Category/Type - <br>
+Information Security<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/Computer_security<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=PlHnamdwGmw<br>
+https://www.youtube.com/watch?v=nzZkKoREEGo<br>
+https://www.youtube.com/watch?v=BS5v5Rr-oVo&list=PL-JvKqQx2AteIbm-z4X709scVr9OaHpIY<br>
+https://www.youtube.com/watch?v=vI79qT4lcfA&list=RDQMp0uKi6w4jkA&start_radio=1<br>
+https://www.youtube.com/watch?v=oKgnYe_6uh8&list=PLWPirh4EWFpEK7BXbMvKDYuHhA4AiYLDb<br>
+https://www.youtube.com/watch?v=hv1IAiDFxRc&list=PLKJfBg0XdWkevCEJ64RK11LylBNX2-zbk<br>
+<br>
+Useful Websites - <br>
+https://www.kaspersky.co.in/resource-center/definitions/what-is-cyber-security<br>
+https://www.itgovernance.co.uk/what-is-cybersecurity<br>
+https://www.javatpoint.com/cyber-security-tutorial<br>
+https://www.geeksforgeeks.org/cyber-security-and-cyber-crimes/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/fabionoth/awesome-cyber-security<br>
+https://github.com/harisqazi1/Cybersecurity<br>
+https://github.com/cyberguideme/Tools<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst<br>
+https://www.coursera.org/specializations/it-fundamentals-cybersecurity<br>
+https://www.coursera.org/specializations/intro-cyber-security<br>
+https://www.coursera.org/specializations/cyber-security<br>
+https://www.coursera.org/specializations/information-security<br>
+https://www.coursera.org/specializations/computer-network-security<br>
+https://www.udemy.com/course/the-ultimate-dark-web-anonymity-privacy-security-course/<br>
+https://www.udemy.com/course/the-absolute-beginners-guide-to-information-cyber-security/<br>
+https://www.udemy.com/course/security/<br>
+https://www.edx.org/micromasters/ritx-cybersecurity<br>
+https://www.edx.org/course/cybersecurity-fundamentals<br>
+<br>
+Other Tips/Hacks - <br>
+https://intellipaat.com/blog/cyber-security-vs-ethical-hacking-difference/#:~:text=Well%2C%20Ethical%20Hacking%20is%20done,the%20system%20from%20malicious%20activities.<br>
+https://medium.com/@inforobertsmith36/top-10-cyber-security-fundamentals-for-small-to-medium-businesses-5bd7daa24f01<br>
+https://itseccentral.medium.com/top-information-security-blogs-you-should-be-reading-264c9413d9e9<br>
+https://medium.com/tag/cybersecurity<br>
+https://medium.com/threat-intel/the-a-to-z-of-cyber-security-93150c4f336c<br>
+https://www.geeksforgeeks.org/future-of-cybersecurity/<br>
+<br>
+</details>
+
+<details>
 <summary>D </summary>
 <br>
 Category/Type - <br>Programming language <br>
