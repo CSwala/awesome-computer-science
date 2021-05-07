@@ -6445,6 +6445,31 @@
 		"Tips6" : "https://devbynight.com/unreal-engine-tips-tricks/",
 		"Tips7" : "http://www.tharlevfx.com/unreal-tips-and-tricks"
 	},
+	
+	{
+		"Title" : "UX",
+		"Tag" : "Development",
+		"Documentation" : "https://en.wikipedia.org/wiki/User_experience_design",
+		"YT1" : "https://www.youtube.com/watch?v=uL2ZB7XXIgg",
+		"YT2" : "https://www.youtube.com/watch?v=KqnAqVIe-jc",
+		"YT3" : "https://www.youtube.com/watch?v=wpmHZspl4EM&list=PLttcEXjN1UcHZj_6PaZYyh9PzPFgKHdB1",
+		"YT4" : "https://www.youtube.com/watch?v=I0-vBdh4sZ8&list=RDQMRCbSjBKXxFo&start_radio=1",
+		"Website1" : "https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/",
+		"Website2" : "https://www.interaction-design.org/literature/topics/ux-design",
+		"Website3" : "https://www.crazyegg.com/blog/what-is-user-experience/",
+		"Dedicated GH page1" : "https://github.com/netoguimaraes/awesome-ux",
+		"Dedicated GH page2" : "https://github.com/gregjw/ui-ux",
+		"Dedicated GH page3" : "https://gist.github.com/teybannerman/9c234424eb1d940a8505",
+		"Course1" : "https://www.coursera.org/specializations/ui-ux-design",
+		"Course2" : "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiwkZmE2bXwAhWKZIsKHb_UBBoYABAHGgJ0bQ&ohost=www.google.com&cid=CAESQOD2wOG6mcRD3v4YcvJ4G4kLQYvvs2yN0zmXls13WDUS7ElMavzhP4eIVR40B1i3gM_do4tZLl3Yi3GpFH93dFc&sig=AOD64_19gmhcNqgBA37DAekvJhMHBQtf5Q&q&adurl&ved=2ahUKEwjQ7o2E2bXwAhVh63MBHTiDDFkQ0Qx6BAgEEAE",
+		"Course3" : "https://www.coursera.org/learn/ux-design-fundamentals",
+		"Course4" : "https://www.udemy.com/course/user-experience-design-fundamentals/",
+		"Course5" : "https://www.udemy.com/course/ultimate-guide-to-ux/",
+		"Tips1" : "https://medium.com/@thinkwik/do-you-know-the-importance-of-ui-ux-development-773eae38436e#:~:text=User%20Experience%20(UX)%20Development%20is,basic%20skeleton%20of%20any%20application.",
+		"Tips2" : "https://usabilitygeek.com/big-differences-ux-ui-design/",
+		"Tips3" : "https://medium.com/nyc-design/ux-ui-design-process-for-beginner-753952bb2241"
+	},
+
 	{
 		"Title" : "Vagrant",
 		"Tag" : "Virtual Machine management software",
