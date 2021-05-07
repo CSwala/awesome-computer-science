@@ -6658,7 +6658,34 @@
 		"Tips7" : "https://engineering.q42.nl/webassembly/ ",
 		"Tips8" : "https://thenewstack.io/talking-wasm-paul-milham-webassembly-may-reinvent-write-ship-code-web/ ",
 		"Image1" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png"
-	},	
+	},
+	 
+	{
+		"Title" : "Web Scraping",
+		"Tag" : "Web Harvesting",
+		"Documentation" : "https://en.wikipedia.org/wiki/Web_scraping",
+		"YT1" : "https://www.youtube.com/watch?v=XVv6mJpFOb0",
+		"YT2" : "https://www.youtube.com/watch?v=uufDGjTuq34",
+		"YT3" : "https://www.youtube.com/watch?v=NeAhhBRHy4E",
+		"YT4" : "https://www.youtube.com/watch?v=ZzqkrBOxtes",
+		"Website1" : "https://webscraper.io/",
+		"Website2" : "https://www.cloudflare.com/en-in/learning/bots/what-is-data-scraping/",
+		"Website3" : "https://www.tutorialspoint.com/python_web_scraping/index.htm",
+		"Dedicated GH page1" : "https://github.com/scrapy/scrapy",
+		"Dedicated GH page2" : "https://github.com/alirezamika/autoscraper",
+		"Dedicated GH page3" : "https://github.com/REMitchell/python-scraping",
+		"Dedicated GH page4" : "https://github.com/je-suis-tm/web-scraping",
+		"Dedicated GH page5" : "https://github.com/kb22/Web-Scraping-using-Python",
+		"Course1" : "https://www.udemy.com/course/web-scraping-in-python-using-scrapy-and-splash/",
+		"Course2" : "https://www.udemy.com/course/scrapy-tutorial-web-scraping-with-python/",
+		"Course3" : "https://www.udemy.com/course/supercharged-web-scraping-with-asyncio-and-python/",
+		"Course4" : "https://www.udemy.com/course/data-scraping-data-mining-from-beginner-to-pro-with-python/",
+		"Course5" : "https://www.datacamp.com/courses/web-scraping-with-python",
+		"Tips1" : "https://towardsdatascience.com/https-medium-com-hiren787-patel-web-scraping-applications-a6f370d316f4",
+		"Tips2" : "https://www.edureka.co/blog/web-scraping-with-python/",
+		"Tips3" : "https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html"
+	},
+
 	{
 		"Title" : "WebGL",
 		"Tag" : "Programming language",
