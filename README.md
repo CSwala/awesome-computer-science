@@ -8131,6 +8131,50 @@ https://medium.com/hri-tech/unreal-engine-tips-and-tricks-26e351b4b218 <br> http
 https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https://devbynight.com/unreal-engine-tips-tricks/ <br> http://www.tharlevfx.com/unreal-tips-and-tricks <br>
 </details>
 
+
+<details>
+<summary>UXPin/summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://www.uxpin.com/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=IrAzCoU39SQ&list=PLTQ1nMZTXSUUOSMKm_icOjaVosG17wbe4<br>
+https://www.youtube.com/watch?v=3zhZIn3r_t0<br>
+https://www.youtube.com/watch?v=U7ho1H3OXUs<br>
+https://www.youtube.com/watch?v=gRH1cADSeP8<br>
+<br>
+Useful Websites - <br>
+https://www.interaction-design.org/literature/article/a-review-of-uxpin-a-collaborative-ux-design-tool<br>
+https://dribbble.com/uxpin<br>
+https://uxpin8.rssing.com/chan-31621772/latest.php<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/uxpin-merge/material-ui-merge<br>
+https://github.com/uxpin-merge/uxpin-merge-boilerplate<br>
+https://github.com/uxpin-merge/carbon-merge<br>
+https://github.com/SonyaMoisset/BOOK-DESIGN-UXpin<br>
+https://github.com/uxpin-merge/zendesk-garden<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/fundamentals-of-uxpin/<br>
+https://www.classcentral.com/course/linkedin-learning-uxpin-for-ux-design-31536<br>
+https://www.udemy.com/course/unified-design-engineering-workflow/<br>
+https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide?utm_source=google&utm_medium=cpc&utm_campaign=india_ux_design&utm_content=user_experience_beginner_guide&gclid=Cj0KCQjwytOEBhD5ARIsANnRjVhWUdj4iu61IS_Sm4hn2ZV8sUb1JKsKlI7mVls49l2QRcjOhuP04swaAvrKEALw_wcB<br>
+https://www.pinterest.com/pin/500251471085013540/<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/meetshahdesign/designing-a-fully-interactive-prototype-for-crypto-app-in-uxpin-ux-ui-design-case-study-ed951d9d0de5<br>
+https://medium.com/@karenpassmore/why-i-dont-like-uxpin-2063f4f77130<br>
+https://www.uxpin.com/studio/ebooks/getting-started-ux-getting-paid/<br>
+https://www.guru99.com/best-ui-ux-design-courses.html<br>
+<br>
+</details>
+
+
 <details>
 <summary>Vagrant</summary>
 <br>Category/Type - <br>Virtual Machine management software<br>
