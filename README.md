@@ -3030,6 +3030,7 @@ https://digital.com/tools/html-cheatsheet/<br>
 https://www.sitepoint.com/top-15-jquery-tricks/<br>
 
 <br>
+<strong>Keep learning, Don't stop here only!  </strong>
 
 </details>
 
