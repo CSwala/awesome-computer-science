@@ -2660,6 +2660,53 @@ https://www.daytrading.com/ethereum <br>
 <br>
 
 </details>
+<details>
+<summary>Ethical Hacking</summary>
+<br>
+Category/Type - <br>
+Computer Security<br>
+<br>
+Documentation - <br>
+https://en.wikiversity.org/wiki/Computer_Security/Ethical_Hacking<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=7yqCq8P2SRc<br>
+https://www.youtube.com/watch?v=dz7Ntp7KQGA<br>
+https://www.youtube.com/watch?v=tHd8k54kVs8&list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl<br>
+https://www.youtube.com/c/LiveOverflowCTF<br>
+https://www.youtube.com/c/STOKfredrik<br>
+https://www.youtube.com/c/DCcybersec<br>
+https://www.youtube.com/channel/UCq9IyPMXiwD8yBFHkxmN8zg<br>
+<br>
+Useful Websites - <br>
+https://www.tutorialspoint.com/ethical_hacking/index.htm<br>
+https://www.w3schools.in/category/ethical-hacking/<br>
+https://www.fita.in/ethical-hacking-tutorial/<br>
+https://www.geeksforgeeks.org/introduction-to-ethical-hacking/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources<br>
+https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools<br>
+https://github.com/The-Art-of-Hacking/h4cker<br>
+https://github.com/blackhatethicalhacking<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/learn-ethical-hacking-from-scratch/<br>
+https://www.udemy.com/course/ethicalhacker/<br>
+https://www.udemy.com/course/penetration-testing/<br>
+https://www.udemy.com/course/ethical-hacking-professional/<br>
+https://www.udemy.com/course/complete-ethical-hacking-bootcamp-zero-to-mastery/ <br>
+https://alison.com/course/ethical-hacker<br>
+https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking?contextUrn=urn%3Ali%3AlyndaLearningPath%3A58b35a4b498e4bdbb44ff960<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.geeksforgeeks.org/how-to-make-a-career-in-ethical-hacking/<br>
+https://medium.com/edureka/ethical-hacking-tutorial-1081f4aacc53<br>
+https://medium.com/technology-hits/ethical-hacking-bcf212c9648c<br>
+https://medium.com/lotus-fruit/the-benefits-of-learning-ethical-hacking-97be7c30f4fe<br>
+https://intellipaat.com/blog/cyber-security-vs-ethical-hacking-difference/<br>
+<br>
+</details>
 
 <details>
 <summary>Express.js</summary>
