@@ -6366,12 +6366,12 @@
 		"Tips7" : "http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/"
 	},
 	{
-		"Title" : "User Interface",
+		"Title" : "UI",
 		"Tag" : "Development",
 		"Documentation" : "https://en.wikipedia.org/wiki/User_interface",
 		"YT1" : "https://www.youtube.com/watch?v=jLQauZP2e_4&list=PLLy_2iUCG87CEsW4KimdWPXEo80TaJfnP",
 		"YT2" : "https://www.youtube.com/watch?v=I0-vBdh4sZ8&list=RDQMucuK-B3KXfw&start_radio=1",
-		"YT3" : "https://www.youtube.com/watch?v=qDUYIQZVQDE&list=PLVlQHNRLflP_5_vCknMsxLS-mTJgq1QzH”,
+		"YT3" : "https://www.youtube.com/watch?v=qDUYIQZVQDE&list=PLVlQHNRLflP_5_vCknMsxLS-mTJgq1QzH",
 		"YT4" : "https://www.youtube.com/watch?v=3aOU9MbITlM&list=PLjwm_8O3suyPkIphVrJaebR2qE8jylWBQ",
 		"Website1" : "https://www.interaction-design.org/literature/topics/ui-design",
 		"Website2" : "https://www.tutorialspoint.com/software_architecture_design/user_interface.htm",
@@ -6380,7 +6380,7 @@
 		"Dedicated GH page2" : "https://github.com/mui-org/material-ui",
 		"Dedicated GH page3" : "https://github.com/system-ui/theme-ui",
 		"Dedicated GH page4" : "https://github.com/klarna/ui",
-"Dedicated GH page5" : "https://github.com/jquery/jquery-ui”,
+		"Dedicated GH page5" : "https://github.com/jquery/jquery-ui”,
 		"Course1" : "https://www.freecodecamp.org/news/learn-ui-design-in-5-minutes-tutorial/",
 		"Course2" : "https://hackr.io/tutorials/learn-user-interface-design",
 		"Course3" : "https://www.coursera.org/learn/ui-design",
