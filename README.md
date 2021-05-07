@@ -8228,6 +8228,47 @@ https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks <b
 </details>
 
 <details>
+<summary>Virtual Reality</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/Virtual_reality<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=NqswOcwJBFE<br>
+https://www.youtube.com/watch?v=5gxpWvi3vVg<br>
+https://www.youtube.com/watch?v=i4Zt3JZejbg<br>
+<br>
+Useful Websites - <br>
+https://www.investopedia.com/terms/v/virtual-reality.asp#:~:text=Virtual%20reality%20(VR)%20refers%20to,or%20gloves%20fitted%20with%20sensors.<br>
+https://arvr.google.com/vr/<br>
+https://www.britannica.com/technology/virtual-reality<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/ErickSimoes/EscapeMuseumVR<br>
+https://github.com/bjornbytes/lovr<br>
+https://github.com/MTASZTAKI/ApertusVR<br>
+https://github.com/samuelcardillo/WebScreenVR<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/specializations/virtual-reality<br>
+https://www.udemy.com/course/unrealvr/<br>
+https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/<br>
+https://www.udemy.com/course/oculus-quest-development-with-unity/<br>
+https://www.futurelearn.com/courses/introduction-to-virtual-reality<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.theguardian.com/technology/2016/nov/10/virtual-reality-guide-headsets-apps-games-vr<br>
+https://medium.com/predict/the-future-of-virtual-reality-1880dce95f59#:~:text=Virtual%20reality%20(VR)%20is%20the,real%20%E2%80%94%20but%20is%20really%20digitized.<br>
+https://medium.com/studiotmd/virtual-reality-uses-in-architecture-and-design-c5d54b7c1e89<br>
+https://medium.com/studiotmd/virtual-reality-uses-in-architecture-and-design-c5d54b7c1e89<br>
+<br>
+</details>
+
+
+<details>
 <summary>Vue.js</summary>
 <br>
 Category/Type - <br>Model–view–viewmodel front end JavaScript framework <br>
