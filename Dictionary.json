@@ -5343,6 +5343,29 @@
 	    "Tips5": "https://www.slideshare.net/MaksymBruner/rest-api-tips-and-tricks",
 		"Tips6": "https://blog.bitsrc.io/10-tips-for-building-an-api-9ec335601d59?gi=da0e612e7ff0"
 	},
+	 
+	{
+		"Title" : "Robotic Process Automation",
+		"Tag" : "Development",
+		"Documentation" : "https://www.uipath.com/rpa/robotic-process-automation",
+		"YT1" : "https://www.youtube.com/watch?v=MBl-3Yb30FA",
+		"YT2" : "https://www.youtube.com/watch?v=H5VKUajGDdI",
+		"Website1" : "https://enterprisersproject.com/article/2019/5/rpa-robotic-process-automation-how-explain",
+		"Website2" : "https://www.automationanywhere.com/rpa/robotic-process-automation",
+		"Dedicated GH page1" : "https://github.com/automagica/automagica",
+		"Dedicated GH page2" : "https://github.com/robocorp/rpaframework",
+		"Dedicated GH page3" : "https://github.com/PacktPublishing/Robotic-Process-Automation-RPA-for-Developers",
+		"Dedicated GH page4" : "https://github.com/PacktPublishing/Robotic-Process-Automation-Projects",
+		"Course1" : "https://www.udemy.com/course/robotic-process-automation/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-437115340933_._li_9061756_._pd__._&matchtype=b&gclid=Cj0KCQjwp86EBhD7ARIsAFkgakh0geiv6ihFAIvs1rK8SzmXOF1DRu6q7lo5YH3vGWSXXoULAx4F0_MaAlxjEALw_wcB",
+		"Course2" : "https://www.coursera.org/specializations/rpa-cognitive-analytics",
+		"Course3" : "https://www.coursera.org/learn/rpa-introduction",
+		"Course4" : "https://www.coursera.org/lecture/rpa-introduction/introduction-to-the-course-A3VLA",
+		"Course5" : "https://www.coursera.org/learn/rpa-introduction",
+		"Tips1" : "https://medium.com/@ayeshajayasankha/robotic-process-automation-rpa-f112eeeff41c",
+		"Tips2" : "https://cigen-rpa.medium.com/8-ways-in-which-robotic-process-automation-rpa-will-change-it-operations-d2acda97767f",
+		"Tips3" : "https://medium.com/@cigen_rpa/5-steps-to-implementing-robotic-process-automation-rpa-in-small-and-medium-businesses-b63fabf34534"
+	},
+
 	{
 		"Title" : "Ruby",
 		"Tag" : "Programming Language",
