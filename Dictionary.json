@@ -5297,6 +5297,34 @@
 		"Tips3": "https://itnext.io/3-small-tips-for-better-redux-performance-in-a-react-app-9cde549df6af",
 		"Tips4": "https://slashgear.github.io/react-redux-pitfalls-and-best-pratices/"
 	},
+	 
+	{
+		"Title" : "Reinforcement Learning",
+		"Tag" : "Development",
+		"Documentation" : "https://en.wikipedia.org/wiki/Reinforcement_learning#:~:text=Reinforcement%20learning%20(RL)%20is%20an,supervised%20learning%20and%20unsupervised%20learning.",
+		"YT1" : "https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ",
+		"YT2" : "https://www.youtube.com/watch?v=TIlDzLZPyhY&list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9",
+		"YT3" : "https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u",
+		"YT4" : "https://www.youtube.com/watch?v=LzaWrmKL1Z4”,
+		"Website1" : "http://www.scholarpedia.org/article/Reinforcement_learning",
+		"Website2" : "https://www.geeksforgeeks.org/what-is-reinforcement-learning/",
+		"Website3" : "https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292",
+		"Dedicated GH page1" : "https://github.com/dennybritz/reinforcement-learning",
+		"Dedicated GH page2" : "https://github.com/aikorea/awesome-rl",
+		"Dedicated GH page3" : "https://github.com/udacity/deep-reinforcement-learning",
+		"Dedicated GH page4" : "https://github.com/keras-rl/keras-rl",
+		"Course1" : "https://www.udacity.com/course/reinforcement-learning--ud600",
+		"Course2" : "https://www.coursera.org/specializations/reinforcement-learning",
+		"Course3" : "https://www.udemy.com/course/deep-reinforcement-learning/",
+		"Course4" : "https://www.udemy.com/course/actor-critic-methods-from-paper-to-code-with-pytorch/",
+		"Course5" : "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj0rtm53bXwAhUPN2AKHQfYAhIYABACGgJ0bQ&ae=2&ohost=www.google.com&cid=CAESQOD2kA0ex455YmNB7TeDntC5LozZOXCc-iG9e4cbEpl-NZV74vH8JJgLaw7W2kcPicB8v36pqMP2OdYyEr64OwI&sig=AOD64_0-2ZamdrQMTCxUchQAaTq6exm8oQ&q&adurl&ved=2ahUKEwi6os-53bXwAhXhQ3wKHXDUAQEQ0Qx6BAgDEAE",
+		"Tips1" : "https://www.kdnuggets.com/2018/03/5-things-reinforcement-learning.html",
+		"Tips2" : "https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf",
+		"Tips3" : "https://jonathan-hui.medium.com/rl-introduction-to-deep-reinforcement-learning-35c25e04c199"
+	},
+
+	 
+	 
 	{
       
 
