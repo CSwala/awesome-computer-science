@@ -8428,6 +8428,47 @@ https://webglinsights.github.io/tips.html<br>
 </a>
 <br><br><br>
 </details>
+ 
+<details>
+<summary>Web Scraping</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/Web_scraping<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=XVv6mJpFOb0<br>
+https://www.youtube.com/watch?v=uufDGjTuq34<br>
+https://www.youtube.com/watch?v=NeAhhBRHy4E<br> 
+https://www.youtube.com/watch?v=ZzqkrBOxtes<br>
+Useful Websites - <br>
+https://webscraper.io/<br>
+https://www.cloudflare.com/en-in/learning/bots/what-is-data-scraping/<br>
+https://www.tutorialspoint.com/python_web_scraping/index.htm<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/scrapy/scrapy<br>
+https://github.com/alirezamika/autoscraper<br>
+https://github.com/REMitchell/python-scraping<br>
+https://github.com/je-suis-tm/web-scraping<br>
+https://github.com/kb22/Web-Scraping-using-Python<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/web-scraping-in-python-using-scrapy-and-splash/<br>
+https://www.udemy.com/course/scrapy-tutorial-web-scraping-with-python/<br>
+https://www.udemy.com/course/supercharged-web-scraping-with-asyncio-and-python/<br>
+https://www.udemy.com/course/data-scraping-data-mining-from-beginner-to-pro-with-python/<br>
+https://www.datacamp.com/courses/web-scraping-with-python<br>
+<br>
+Other Tips/Hacks - <br>
+https://towardsdatascience.com/https-medium-com-hiren787-patel-web-scraping-applications-a6f370d316f4<br>
+https://www.edureka.co/blog/web-scraping-with-python/<br>
+https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html<br>
+<br>
+</details>
+
   
 <details>  
 <summary>WordPress</summary>
