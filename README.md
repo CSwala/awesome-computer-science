@@ -8025,6 +8025,51 @@ https://www.codeguru.com/csharp/csharp/cs_graphics/20-unity-tips.html <br> https
 http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/ <br>
 </details>
 <details>
+	
+<details>
+<summary>User Interface</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/User_interface<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=jLQauZP2e_4&list=PLLy_2iUCG87CEsW4KimdWPXEo80TaJfnP<br>
+https://www.youtube.com/watch?v=I0-vBdh4sZ8&list=RDQMucuK-B3KXfw&start_radio=1<br>
+https://www.youtube.com/watch?v=qDUYIQZVQDE&list=PLVlQHNRLflP_5_vCknMsxLS-mTJgq1QzH<br>
+https://www.youtube.com/watch?v=3aOU9MbITlM&list=PLjwm_8O3suyPkIphVrJaebR2qE8jylWBQ<br>
+<br>
+Useful Websites - <br>
+https://www.interaction-design.org/literature/topics/ui-design<br>
+https://www.tutorialspoint.com/software_architecture_design/user_interface.htm<br>
+https://www.geeksforgeeks.org/user-interface-ui/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/chakra-ui/chakra-ui<br>
+https://github.com/mui-org/material-ui<br>
+https://github.com/system-ui/theme-ui<br>
+https://github.com/klarna/ui"<br>
+https://github.com/jquery/jquery-ui<br>,
+<br>
+Best Courses - <br>
+https://www.freecodecamp.org/news/learn-ui-design-in-5-minutes-tutorial/<br>
+https://hackr.io/tutorials/learn-user-interface-design<br>
+https://www.coursera.org/learn/ui-design<br>
+https://www.coursera.org/learn/visual-elements-user-interface-design<br>
+https://www.coursera.org/specializations/user-interface-design<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.usertesting.com/blog/ui-vs-ux<br>
+https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda<br>
+https://medium.com/google-design/the-obvious-ui-is-often-the-best-ui-7a25597d79fd<br>
+https://soulless.medium.com/5-simple-steps-to-land-a-job-as-ux-designer-with-no-experience-ac7729ca0c7a<br>
+https://medium.muz.li/how-to-start-ux-ui-designer-career-and-be-successful-297c92e78c4c<br>
+<br>
+</details>
+	
+	
 <summary>Unix</summary>
 <br>Category/Type - <br> Operating System<br>
 <br>Official Documentation - <br>
