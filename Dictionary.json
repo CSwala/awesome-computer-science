@@ -6026,6 +6026,39 @@
 		"Tips5" : "https://www.viralpatel.net/category/spring/ ",
 		"Tips6" : "https://springframework.guru/free-spring-framework-tutorials/ "
 	},
+
+	{
+		"Title" : "Sql",
+		"Tag" : "DBMS",
+		"Documentation" : "https://dev.mysql.com/doc/ ",
+		"YT1 " : "https://www.youtube.com/watch?v=zbMHLJ0dY4w ",
+		"YT2 " : "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+		"YT3 " : "https://www.youtube.com/watch?v=1dWCqjhvF58",
+		"YT4 " : "https://www.youtube.com/watch?v=LGTbdjoEBVM ",
+		"YT5 " : "https://www.youtube.com/watch?v=gq4S-ovWVlM ",
+		"YT6 " : "https://www.youtube.com/watch?v=vtPkZShrvXQ ",
+		"Website1" : "https://www.w3schools.com/sql/ ",
+		"Website2" : "https://www.guru99.com/sql.html",
+		"Website3" : "https://www.tutorialspoint.com/sql/index.htm ",
+		"Website4" : "https://www.javatpoint.com/sql-tutorial",
+		"Website5" : "https://www.tutorialrepublic.com/sql-tutorial/ ",
+		"Dedicated GH page1" : "https://github.com/OpenTechSchool/sql-tutorial ",
+		"Dedicated GH page2" : "https://github.com/tthibo/SQL-Tutorial",
+		"Dedicated GH page3" : "https://github.com/danhuss/awesome-sql",
+		"Dedicated GH page4" : "https://github.com/OpenTechSchool/sql-tutorial ",
+		"Dedicated GH page5" : "https://github.com/agarcialeon/awesome-database",
+		"Dedicated GH page6" :"https://github.com/mgramin/awesome-db-tools",
+		"Course1" : "https://www.coursera.org/specializations/learn-sql-basics-data-science ",
+		"Course2" : "https://www.datacamp.com/courses/introduction-to-sql",
+		"Course3" : "https://www.linkedin.com/learning/sql-essential-training-3?trk=learning-topics_trending-courses_related-content-card&upsellOrderOrigin=sem_src.go-pa_c.LLS-C_APAC_All_IN_Search_Google-NB_DR-PRS_Broad_Course-DSA_All_English_Core_pkw._pmt.b_pcrid.473973938293_pdv.c_plc._trgid.dsa-922781182267_net.g_learning ",
+		"Course4" : "https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/",
+		"Course5" : "https://www.udemy.com/course/the-complete-sql-bootcamp/",
+		"Tips1" : "https://dzone.com/articles/7-simple-tips-to-boost-the-performance-of-your-sql ",
+		"Tips2" : "https://code.tutsplus.com/tutorials/10-essential-sql-tips-for-developers--net-5274",
+		"Tips3" : "https://www.mssqltips.com/"
+	},
+	
+	
 	{
 		"Title" : "Stencyl",
 		"Tag" : "Game Engine",

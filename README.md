@@ -7646,6 +7646,53 @@ https://springframework.guru/free-spring-framework-tutorials/ <br>
 </details>
 
 <details>
+<summary>SQL </summary>
+<br>
+Category/Type - <br>Database Management System <br>
+<br>
+Official Documentation - <br>
+ttps://dev.mysql.com/doc/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=zbMHLJ0dY4w <br>
+https://www.youtube.com/watch?v=HXV3zeQKqGY <br>
+https://www.youtube.com/watch?v=1dWCqjhvF58 <br>
+https://www.youtube.com/watch?v=LGTbdjoEBVM <br>
+https://www.youtube.com/watch?v=gq4S-ovWVlM <br>
+https://www.youtube.com/watch?v=vtPkZShrvXQ <br>
+<br>
+Useful Websites -
+<br>
+https://www.w3schools.com/sql/<br>
+https://www.guru99.com/sql.html <br>
+https://www.tutorialspoint.com/sql/index.htm<br>
+https://www.javatpoint.com/sql-tutorial <br>
+https://www.tutorialrepublic.com/sql-tutorial/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/OpenTechSchool/sql-tutorial <br>
+https://github.com/tthibo/SQL-Tutorial<br>
+https://github.com/danhuss/awesome-sql<br>
+https://github.com/agarcialeon/awesome-database <br>
+https://github.com/OpenTechSchool/sql-tutorial <br>
+https://github.com/mgramin/awesome-db-tools<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/specializations/learn-sql-basics-data-science <br>
+https://www.datacamp.com/courses/introduction-to-sql<br>
+https://www.linkedin.com/learning/sql-essential-training-3?trk=learning-topics_trending-courses_related-content-card&upsellOrderOrigin=sem_src.go-pa_c.LLS-C_APAC_All_IN_Search_Google-NB_DR-PRS_Broad_Course-DSA_All_English_Core_pkw._pmt.b_pcrid.473973938293_pdv.c_plc._trgid.dsa-922781182267_net.g_learning<br>
+https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/ <br>
+https://www.udemy.com/course/the-complete-sql-bootcamp/<br>
+
+<br>
+Other Tips / Hacks - <br>
+https://dzone.com/articles/7-simple-tips-to-boost-the-performance-of-your-sql<br>
+https://code.tutsplus.com/tutorials/10-essential-sql-tips-for-developers--net-5274 <br>
+https://www.mssqltips.com/<br>
+
+</details>
+
+<details>
 <summary>Stencyl </summary>
 <br>
 Category/Type - <br>Game Engine" <br>
