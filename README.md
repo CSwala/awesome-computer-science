@@ -2859,10 +2859,7 @@ https://readthedocs.org/projects/fabric-www/downloads/pdf/latest/<br>
 https://pypi.org/project/fabric/<br>
 <br>
 </details>
-<<<<<<< HEAD
-=======
 
->>>>>>> upstream/develop
 <details>
 <summary>F# </summary>
 <br>
