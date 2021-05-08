@@ -17,6 +17,44 @@
 ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) 
 ![Maintenance](https://img.shields.io/maintenance/yes/2021)
 
+<details>
+<summary>3ds MAX</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/Autodesk_3ds_Max<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=T_KkXZVkQJw&list=PLMtzJAOD3B7YUSUMdi_beDcI0AMVRztqs<br>
+https://www.youtube.com/watch?v=FBsR7z8zuN8&list=PL1ney1pPb_ecdzupm50WetelOwZDTNb3B<br>
+https://www.youtube.com/watch?v=b6u5HFqhALQ<br>
+<br>
+Useful Websites - <br>
+https://www.autodesk.eu/products/3ds-max/overview<br>
+https://area.autodesk.com/all/tutorials/3ds-max/<br>
+https://3dtotal.com/tutorials/3ds-max<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/topics/autodesk-3ds-max<br>
+https://github.com/ADN-DevTech/3dsMax-OSL-Shaders<br>
+https://github.com/BDM-Lab/3DMax<br>
+https://github.com/ADN-DevTech/3dsMax-Learning-Path<br>
+<br>
+Best Courses - <br>
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjn4f60y7fwAhUbDisKHahfDpEYABADGgJzZg&ae=2&ohost=www.google.com&cid=CAESQOD2T31QaDEy5Vu35M8LFso7O8Du2UjuoNw3eLVfG2rDdTq3ketoJtB1JCUgxW9POU865VMN8XBPcay08nQv1b4&sig=AOD64_2Pir0tDc_jmze0YHhRwjex5TuQqA&q&adurl&ved=2ahUKEwjlg_W0y7fwAhUSjuYKHY--CTkQ0Qx6BAgHEAE<br>
+https://www.udemy.com/course/3d-visualization-for-beginners/<br>
+https://www.udemy.com/course/3ds-max-vray-advanced-arch-viz-interiors-tutorial/<br>
+https://www.udemy.com/course/intro-to-architectural-visualization-using-3ds-max-and-v-ray_zillus/<br>
+https://www.udemy.com/course/full-exterior-workshop-using-3ds-max-vray/<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/imeshup/3ds-max-pros-cons-quirks-and-links-a2a48832dbbe<br>
+https://medium.com/autodesk-university/forget-keyframing-take-real-time-control-of-your-animated-assets-with-3ds-max-5a7f3c9469e3<br>
+https://medium.com/@pink_academy/best-way-to-learn-3ds-max-b16c758df0b6<br>
+<br>
+</details>
 
 
 <details>
@@ -1434,6 +1472,38 @@ https://www.cloudinstitute.io/blog/cloud-computing-tips-and-tricks/ <br>
 </details>
 
 <details>
+<summary>CNN (Convolutional Neural Network)</summary>
+<br>Category/Type - <br>The Keras library in Python<br>
+<br>Official Documentation - <br>
+https://www.python.org/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Jy9-aGMB_TE<br>
+https://www.youtube.com/watch?v=zfiSAzpy9NM<br>
+https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF<br>
+https://www.youtube.com/watch?v=umGJ30-15_A<br>
+<br>Useful Websites - <br>
+https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network<br>
+https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/<br>
+https://www.tensorflow.org/tutorials/images/cnnhttps://www.freecodecamp.org/news/convolutional-neural-network-tutorial-for-beginners/<br>
+https://www.kaggle.com/kanncaa1/convolutional-neural-network-cnn-tutorial<br>
+<br>Dedicated Github page - <br>
+https://github.com/dennybritz/cnn-text-classification-tf<br> 
+https://github.com/rbgirshick/fast-rcnn<br>
+https://github.com/asingh33/CNNGestureRecognizer<br>
+https://github.com/ShaoqingRen/faster_rcnn<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/cnn-for-computer-vision-with-keras-and-tensorflow-in-python/<br>
+https://www.udemy.com/course/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/<br>
+https://www.udemy.com/course/deep-learning-cnn-convolutional-neural-networks-with-python/<br>
+https://www.coursera.org/programs/srmist-ramapuram-on-coursera-sktfh/browse?collectionId=&currentTab=CATALOG&productId=kWGvJivBEeeW5RJUyz1uFA&productType=course&query=CNN&showMiniModal=true<br>
+<br>Other Tips / Hacks - <br>
+https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53<br>
+https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks<br>
+https://www.coursera.org/lecture/intro-to-deep-learning/training-tips-and-tricks-for-deep-cnns-NGUMO<br>
+<br><br><br>
+</details>
+
+<details>
 <summary>Codeigniter</summary>
 <br>
 Category/Type - <br>
@@ -1700,6 +1770,31 @@ https://medium.com/analytics-vidhya/ways-to-boost-your-computer-vision-projects-
  https://www.facebook.com/crytek/posts/get-tips-tricks-and-a-tutorial-about-how-to-make-particle-effects-with-cryengine/10160719114920287/ <br>
  <br>
  </details>
+
+ <details>
+ <summary>Cryptography </summary>
+ <br>Category/Type - <br> Field of study <br>
+ <br>Official Documentation - <br> https://cryptography.io/en/latest/ <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/watch?v=5jpgMXt1Z9Y
+<br>https://www.youtube.com/watch?v=cqgtdkURzTE
+<br>https://www.youtube.com/watch?v=C_e37dfGmNA
+<br>https://www.youtube.com/watch?v=4w8hJ7KAKcQ
+<br>https://www.youtube.com/watch?v=HPM17_aZB3g
+<br>https://www.youtube.com/watch?v=Wu7A8KK9orw
+<br>https://www.youtube.com/watch?v=GxpWCbCB8Wc
+<br>https://www.youtube.com/playlist?list=PLFCG67nCTUMHHJ-LDUnOsLxA2l_Eu5RMY<br>
+ <br>Useful Websites - <br> https://www.tutorialspoint.com/cryptography_with_python/index.htm <br> https://pypi.org/project/cryptography/ <br>
+ https://cryptohack.org/<br> https://www.garykessler.net/library/crypto.html <br> https://medium.com/@vixentael/how-to-start-learning-cryptography-49e7d91b54a8 <br>
+ <br>Dedicated Github page - <br> https://github.com/pyca/cryptography <br> https://github.com/sobolevn/awesome-cryptography <br>
+ https://github.com/rakeshsukla53/Cryptography <br>
+ <br>Best Courses - <br> https://www.coursera.org/learn/crypto <br> https://www.coursera.org/specializations/introduction-applied-cryptography <br>
+ https://www.coursera.org/learn/crypto2 <br> https://www.udacity.com/course/applied-cryptography--cs387  <br> https://www.udemy.com/course/learn-modern-security-and-cryptography-by-coding-in-python/ <br> https://www.udemy.com/course/learn-cryptography-basics-in-python/ <br> http://online.stanford.edu/course/cryptography <br>
+ <br>Other Tips / Hacks - <br> https://www.dummies.com/games/cryptograms/cryptography-101-basic-solving-techniques-for-substitution-ciphers/ <br> https://github.com/jishanshaikh4/Cryptography-Roadmap <br>
+ https://cheatography.com/tag/cryptography/ <br>
+ https://www3.nd.edu/~busiforc/handouts/cryptography/cryptography%20hints.html <br>
+ https://sites.google.com/site/codesforscouts/tips-for-solving-cryptograms <br>
+ <br>
+ </details>
 <details>
 <summary>CSS</summary>
 <br>Category/Type - <br>Stylesheet Language<br>
@@ -1748,6 +1843,57 @@ https://cuda-tutorial.readthedocs.io/en/latest/tutorials/tutorial01/ <br>
 https://www.udemy.com/course/introduction-to-gpu-computing-with-cuda/ <br>
 <br>Other Tips / Hacks - <br> https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=dc7112-cuda+optimization+tips%2C+tricks+and+techniques <br>
 https://medium.com/@sciencemonk/cuda-programming-tips-and-tricks-12d60310817a <br> https://www.quora.com/What-are-some-CUDA-tricks-and-optimizations <br> <br>
+</details>
+
+<details>
+<summary>Cyber Security</summary>
+<br>
+Category/Type - <br>
+Information Security<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/Computer_security<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=PlHnamdwGmw<br>
+https://www.youtube.com/watch?v=nzZkKoREEGo<br>
+https://www.youtube.com/watch?v=BS5v5Rr-oVo&list=PL-JvKqQx2AteIbm-z4X709scVr9OaHpIY<br>
+https://www.youtube.com/watch?v=vI79qT4lcfA&list=RDQMp0uKi6w4jkA&start_radio=1<br>
+https://www.youtube.com/watch?v=oKgnYe_6uh8&list=PLWPirh4EWFpEK7BXbMvKDYuHhA4AiYLDb<br>
+https://www.youtube.com/watch?v=hv1IAiDFxRc&list=PLKJfBg0XdWkevCEJ64RK11LylBNX2-zbk<br>
+<br>
+Useful Websites - <br>
+https://www.kaspersky.co.in/resource-center/definitions/what-is-cyber-security<br>
+https://www.itgovernance.co.uk/what-is-cybersecurity<br>
+https://www.javatpoint.com/cyber-security-tutorial<br>
+https://www.geeksforgeeks.org/cyber-security-and-cyber-crimes/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/fabionoth/awesome-cyber-security<br>
+https://github.com/harisqazi1/Cybersecurity<br>
+https://github.com/cyberguideme/Tools<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst<br>
+https://www.coursera.org/specializations/it-fundamentals-cybersecurity<br>
+https://www.coursera.org/specializations/intro-cyber-security<br>
+https://www.coursera.org/specializations/cyber-security<br>
+https://www.coursera.org/specializations/information-security<br>
+https://www.coursera.org/specializations/computer-network-security<br>
+https://www.udemy.com/course/the-ultimate-dark-web-anonymity-privacy-security-course/<br>
+https://www.udemy.com/course/the-absolute-beginners-guide-to-information-cyber-security/<br>
+https://www.udemy.com/course/security/<br>
+https://www.edx.org/micromasters/ritx-cybersecurity<br>
+https://www.edx.org/course/cybersecurity-fundamentals<br>
+<br>
+Other Tips/Hacks - <br>
+https://intellipaat.com/blog/cyber-security-vs-ethical-hacking-difference/#:~:text=Well%2C%20Ethical%20Hacking%20is%20done,the%20system%20from%20malicious%20activities.<br>
+https://medium.com/@inforobertsmith36/top-10-cyber-security-fundamentals-for-small-to-medium-businesses-5bd7daa24f01<br>
+https://itseccentral.medium.com/top-information-security-blogs-you-should-be-reading-264c9413d9e9<br>
+https://medium.com/tag/cybersecurity<br>
+https://medium.com/threat-intel/the-a-to-z-of-cyber-security-93150c4f336c<br>
+https://www.geeksforgeeks.org/future-of-cybersecurity/<br>
+<br>
 </details>
 
 <details>
@@ -2126,6 +2272,40 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/<br>
   <img align="center" src="https://miro.medium.com/max/2400/1*asSDJQpw1EQPFN-BqQSU0Q.png" width="1000" height="500"/>
 </a>
 <br><br><br>
+</details>
+
+<details>
+<summary>Dtale Library</summary>
+<br>
+Category/Type - <br>
+Python<br>
+<br>
+Documentation - <br>
+https://pypi.org/project/dtale/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=xSXGcuiEzUc<br>
+https://www.youtube.com/watch?v=jYlwwNycVh8<br>
+https://www.youtube.com/watch?v=kHFD7Il0mkg<br>
+https://www.youtube.com/watch?v=JUu5IYVGqCg<br>
+https://www.youtube.com/watch?v=G3e5S4q0Cs8<br>
+<br>
+Useful Websites - <br>
+https://analyticsindiamag.com/dtale-tutorial-guide-to-visualize-pandas-data-structure/<br>
+https://pydigger.com/pypi/dtale<br>
+https://www.analyticsvidhya.com/blog/2020/11/data-exploration-dtale/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/man-group/dtale<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/da-tum/exploratory-data-analysis-1-4-using-d-tale-99a2c267db79<br>
+https://medium.com/analytics-vidhya/introduction-to-d-tale-library-fabb369c5d91<br>
+https://medium.com/da-tum/exploratory-data-analysis-1-4-using-d-tale-99a2c267db79<br>
+https://towardsdatascience.com/introduction-to-d-tale-5eddd81abe3f<br>
+https://www.analyticsvidhya.com/blog/2021/04/top-python-libraries-to-automate-exploratory-data-analysis-in-2021/<br>
+https://www.kdnuggets.com/2020/08/bring-pandas-dataframes-life-d-tale.html<br>
+<br>
 </details>
 
 <details>
@@ -2586,6 +2766,56 @@ https://www.besanttechnologies.com/what-is-expressjs <br>
 </a>
 <br><br><br>
 </details>
+
+<details>
+<summary> ExtJs </summary>
+<br>
+Category/Type - <br>Extended JavaScript Framework <br>
+<br>
+Official Documentation - <br>
+https://docs.sencha.com/extjs/6.2.0/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PL8p2I9GklV47EtM9MtAncMf4XLDJjaLkz <br>
+https://www.youtube.com/watch?v=6RQIG4rmlAg <br>
+https://www.youtube.com/playlist?list=PL6uGR-gYUnnrwEQ6QRGvhITvxBkvnsT8h <br>
+https://www.youtube.com/watch?v=ZNjXYbiU4bs <br>
+https://www.youtube.com/watch?v=TACdyR3IrrI<br>
+<br>
+Useful Websites -
+<br>
+https://www.sencha.com/products/extjs/ <br>
+https://www.tutorialspoint.com/extjs/index.htm <br>
+https://en.wikipedia.org/wiki/Ext_JS <br>
+https://www.cuelogic.com/blog/migrating-sencha-extjs-to-reactjs <br>
+https://stackoverflow.com/questions/tagged/sencha <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/sencha <br>
+https://github.com/sencha-extjs-examples<br>
+https://github.com/extjs<br>
+https://github.com/topics/extjs<br>
+https://github.com/sencha-extjs-examples/Coworkee<br>
+https://github.com/forcedotcom/aura-extjs<br>
+<br>
+Best Courses - <br>
+https://www.zeolearn.com/extjs-training<br>
+https://www.udemy.com/topic/ext-js/<br>
+https://www.iteanz.com/course/mastering-ext-js/<br>
+https://medium.com/@walkingtreetech/learn-sencha-ext-js-online-courses-c9ff588045ee<br>
+<br>
+Other Tips / Hacks - <br>
+https://swarmonline.com/20-tips-for-getting-started-with-ext-js/ <br>
+https://docs.sencha.com/extjs/6.2.0/modern/Ext.tip.ToolTip.html<br>
+https://moduscreate.com/blog/sencha-viewmodel-tips/<br>
+https://stackoverflow.com/questions/52578095/extjs-grid-tool-tip-for-specific-columns<br>
+<br>
+<a href="https://lh3.googleusercontent.com/proxy/jXrRqM7I5QWtVzarR201az-theqc0D4RlVZpPCfgGofJI52NZLZU1OIb4x7-gFHK28yjvvJrNmvisUeql-8lQil--fO9SsGhM00WuyesnxS3WKk8Y-qbCYv2">
+  <img align="center" src="https://lh3.googleusercontent.com/proxy/jXrRqM7I5QWtVzarR201az-theqc0D4RlVZpPCfgGofJI52NZLZU1OIb4x7-gFHK28yjvvJrNmvisUeql-8lQil--fO9SsGhM00WuyesnxS3WKk8Y-qbCYv2" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
 <details>
 <summary>Fabric</summary>
 <br>Category/Type - <br>Python Library<br>
@@ -2629,6 +2859,10 @@ https://readthedocs.org/projects/fabric-www/downloads/pdf/latest/<br>
 https://pypi.org/project/fabric/<br>
 <br>
 </details>
+<<<<<<< HEAD
+=======
+
+>>>>>>> upstream/develop
 <details>
 <summary>F# </summary>
 <br>
@@ -4308,6 +4542,26 @@ https://www.codementor.io/lisp-experts<br>
  <br>
  </details>
 
+ <details>
+ <summary>LÖVE</summary>
+ <br>Category/Type - <br> Game Engine <br>
+ <br>Official Documentation - <br> https://love2d.org/wiki/Main_Page <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/watch?v=yrIwFflGeyA
+<br> https://www.youtube.com/watch?v=3k4CMAaNCuk
+<br> https://www.youtube.com/watch?v=wttKHL90Ank
+<br> https://www.youtube.com/watch?v=u6GWjojPQiM
+<br> https://www.youtube.com/playlist?list=PLS9MbmO_ssyBAc9wBC85_WG9aT88KGxH8
+<br> https://www.youtube.com/playlist?list=PLZVNxI_lsRW2kXnJh2BMb6D82HCAoSTUB <br> 
+<br>Useful Websites - <br> https://love2d.org/wiki/Category:Tutorials <br> http://www.osmstudios.com/tutorials/your-first-love2d-game-in-200-lines-part-1-of-3 <br>
+ https://gamedevelopment.tutsplus.com/articles/how-to-learn-love-love2d--gamedev-4331 <br> https://www.gamedesigning.org/engines/love2d/ <br>
+ https://sheepolution.com/learn/book/contents <br> https://tutsplus.com/tutorials/search/love2d <br>
+ <br>Dedicated Github page - <br> https://github.com/love2d/love <br> https://github.com/love2d-community/awesome-love2d <br> https://github.com/kyleschaub/cavern <br> https://github.com/patrixr/love-animation <br>
+ <br>Best Courses - <br> https://www.udemy.com/course/lua-love/ <br> https://www.udemy.com/course/learn-to-code-by-example-with-love-love2d-lua-basics/ <br>
+ <br>Other Tips / Hacks - <br> https://love2d.org/forums/viewtopic.php?t=83177 <br> https://love2d.org/forums/viewtopic.php?t=85994 <br>
+ https://love2d.org/forums/viewtopic.php?t=2829 <br> https://github.com/Alexander-Hjelm/LOVE2D-cheat-sheet/blob/master/main.lua <br>
+ <br>
+ </details>
+
 <details>
 <summary>Lua</summary>
 <br>Category/Type - <br>High-level programming language<br>
@@ -5638,6 +5892,24 @@ https://www.thegeekstuff.com/2010/01/20-killer-perl-programming-tips-for-beginne
 </details>
 
 <details>
+<summary>Phalcon</summary>
+<br>Category/Type - <br>PHP Framework<br>
+<br>Official Documentation - <br> https://docs.phalcon.io/4.0/en/introduction <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/watch?v=75W-emM4wNQ <br> https://www.youtube.com/playlist?list=PLAeSqFDosTSijRgUeiHPHeWE0kOEZ5ES8 <br>
+https://www.youtube.com/playlist?list=PLmrTMUhqzS3jd8MWP6-TvieKkPpiisJum <br> https://www.youtube.com/watch?v=sIDgETgB0Cw <br>
+https://www.youtube.com/watch?v=v-Bq6FwuemU <br>
+<br>Useful Websites - <br> https://www.tutorialspoint.com/phalcon/index.htm <br> https://www.javatpoint.com/phalcon-tutorial <br> 
+https://www.hostinger.in/tutorials/phalcon-tutorial <br> https://phalcon-php-framework-documentation.readthedocs.io/en/1.2.0/reference/tutorial.html <br> https://docs.phalcon.io/4.0/en/tutorial-basic<br>
+<br>Dedicated Github page - <br> https://github.com/phalcon/awesome-phalcon <br> https://github.com/phalcon <br>
+https://github.com/micheleangioni/phalcon-repositories<br>https://github.com/phalcon/cphalcon<br>
+<br>Best Courses - <br> https://www.udemy.com/course/phalcon-php-framework-for-beginners/ <br>
+https://www.udemy.com/course/phalconphp/ <br> https://www.udemy.com/course/web-development-with-new-framework <br>
+https://code.tutsplus.com/categories/phalcon/courses <br>
+<br>Other Tips / Hacks - <br> https://github.com/mctekk/phalcon-cheat-sheet <br> https://blog.phalcon.io/ <br>
+<br><br>
+</details>
+
+<details>
 <summary>PHP</summary>
 <br>Category/Type - <br>Programming Language<br>
 <br>Official Documentation - <br> https://www.php.net/docs.php <br>
@@ -5905,6 +6177,54 @@ https://xivilization.net/~marek/binaries/programming_guide.pdf<br>
 https://www.reddit.com/r/learnpython/comments/ggmn5s/need_help_with_pyglet/ <br>
 <a href="https://pyglet.readthedocs.io/en/latest/_static/logo.png">
   <img align="center" src="https://pyglet.readthedocs.io/en/latest/_static/logo.png" width="500" height="500"/>
+</a>
+</details>
+
+<details>
+<summary>Pyramid</summary>
+<br>
+Category/Type - <br>
+Python Web Framework <br>
+<br>
+Official Documentation - <br>
+https://docs.pylonsproject.org/projects/pyramid/en/latest/index.html<br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=wgMj6ZsCiBk<br>
+https://www.youtube.com/playlist?list=PL6-GrNvaJuAhcBuzrL6UR-LhDbNkNhFwv<br>
+https://www.youtube.com/watch?v=zNPgtVSROfs<br>
+https://www.youtube.com/watch?v=JWWbhekBuAM<br>
+https://www.youtube.com/watch?v=NtD_1K03AOI<br>
+https://www.youtube.com/watch?v=kRKOWNdT72A<br>
+<br>
+Useful Websites- <br>
+https://docs.pylonsproject.org/projects/pyramid/en/latest/narr/introduction.html<br>
+https://www.tutorialspoint.com/python_web_development_libraries/python_web_development_libraries_pyramid_framework.htm<br>
+https://www.fullstackpython.com/pyramid.html<br>
+https://opensource.com/article/18/5/pyramid-framework<br>
+<br>
+Dedicated Github page- <br>
+https://github.com/Pylons/pyramid/blob/master/docs/index.rst<br>
+https://github.com/Pylons/pyramid<br>
+https://github.com/uralbash/awesome-pyramid<br>
+https://github.com/Pylons/shootout<br>
+https://github.com/Pylons/pyramid_tutorials<br>
+https://github.com/invisibleroads/pyramid-examples<br>
+https://github.com/topics/pyramid-framework<br>
+<br>
+Best Courses- <br>
+https://www.zeolearn.com/pyramid-training<br>
+https://www.udemy.com/course/python-pyramid-web-dev-beginners/<br>
+https://www.ecorptrainings.com/pyramid-online-corporate-training-hyderabad-india-uk-usa.php<br>
+https://www.indiamart.com/proddetail/python-pyramid-training-6220947755.html<br>
+<br>
+Other Tips/Hacks- <br>
+https://www.digitalocean.com/community/tutorials/how-to-use-the-pyramid-framework-to-build-your-python-web-app-on-ubuntu<br>
+https://sunscrapers.com/blog/django-flask-pyramid-choose-right-python-framework-project/<br>
+https://docs.python-guide.org/scenarios/web/<br>
+https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html<br>
+<a href="https://www.pikpng.com/pngl/m/62-626730_png-pyramid-logo-for-light-background-python-pyramid.png">
+  <img align="center" src="https://www.pikpng.com/pngl/m/62-626730_png-pyramid-logo-for-light-background-python-pyramid.png" width="1000" height="250"/>
 </a>
 </details>
 
@@ -6408,6 +6728,48 @@ https://slashgear.github.io/react-redux-pitfalls-and-best-pratices/ <br>
 <br>
 </details>
 
+
+<details>
+<summary>Reinforcement Learning</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/Reinforcement_learning#:~:text=Reinforcement%20learning%20(RL)%20is%20an,supervised%20learning%20and%20unsupervised%20learning.<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ<br>
+https://www.youtube.com/watch?v=TIlDzLZPyhY&list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9<br>
+https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u<br>
+https://www.youtube.com/watch?v=LzaWrmKL1Z4<br>
+<br>
+Useful Websites - <br>
+http://www.scholarpedia.org/article/Reinforcement_learning<br>
+https://www.geeksforgeeks.org/what-is-reinforcement-learning/<br>
+https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/dennybritz/reinforcement-learning<br>
+https://github.com/aikorea/awesome-rl<br>
+https://github.com/udacity/deep-reinforcement-learning<br>
+https://github.com/keras-rl/keras-rl<br>
+<br>
+Best Courses - <br>
+https://www.udacity.com/course/reinforcement-learning--ud600<br>
+https://www.coursera.org/specializations/reinforcement-learning<br>
+https://www.udemy.com/course/deep-reinforcement-learning/<br>
+https://www.udemy.com/course/actor-critic-methods-from-paper-to-code-with-pytorch/<br>
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj0rtm53bXwAhUPN2AKHQfYAhIYABACGgJ0bQ&ae=2&ohost=www.google.com&cid=CAESQOD2kA0ex455YmNB7TeDntC5LozZOXCc-iG9e4cbEpl-NZV74vH8JJgLaw7W2kcPicB8v36pqMP2OdYyEr64OwI&sig=AOD64_0-2ZamdrQMTCxUchQAaTq6exm8oQ&q&adurl&ved=2ahUKEwi6os-53bXwAhXhQ3wKHXDUAQEQ0Qx6BAgDEAE<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.kdnuggets.com/2018/03/5-things-reinforcement-learning.html<br>
+https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf<br>
+https://jonathan-hui.medium.com/rl-introduction-to-deep-reinforcement-learning-35c25e04c199<br>
+<br>
+</details>
+
+
 <details>
 <summary>REST API</summary>
 <br>Category/Type - <br> Web Service <br>
@@ -6460,6 +6822,44 @@ https://blog.bitsrc.io/10-tips-for-building-an-api-9ec335601d59?gi=da0e612e7ff0 
 
 <br><br><br>
 </details>
+
+<details>
+<summary>Robotic Process Automation</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://www.uipath.com/rpa/robotic-process-automation<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=MBl-3Yb30FA<br>
+https://www.youtube.com/watch?v=H5VKUajGDdI<br>
+<br>
+Useful Websites - <br>
+https://enterprisersproject.com/article/2019/5/rpa-robotic-process-automation-how-explain<br>
+https://www.automationanywhere.com/rpa/robotic-process-automation<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/automagica/automagica<br>
+https://github.com/robocorp/rpaframework<br>
+https://github.com/PacktPublishing/Robotic-Process-Automation-RPA-for-Developers<br>
+https://github.com/PacktPublishing/Robotic-Process-Automation-Projects<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/robotic-process-automation/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-437115340933_._li_9061756_._pd__._&matchtype=b&gclid=Cj0KCQjwp86EBhD7ARIsAFkgakh0geiv6ihFAIvs1rK8SzmXOF1DRu6q7lo5YH3vGWSXXoULAx4F0_MaAlxjEALw_wcB<br>
+https://www.coursera.org/specializations/rpa-cognitive-analytics<br>
+https://www.coursera.org/learn/rpa-introduction<br>
+https://www.coursera.org/lecture/rpa-introduction/introduction-to-the-course-A3VLA<br>
+https://www.coursera.org/learn/rpa-introduction<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/@ayeshajayasankha/robotic-process-automation-rpa-f112eeeff41c<br>
+https://cigen-rpa.medium.com/8-ways-in-which-robotic-process-automation-rpa-will-change-it-operations-d2acda97767f<br>
+https://medium.com/@cigen_rpa/5-steps-to-implementing-robotic-process-automation-rpa-in-small-and-medium-businesses-b63fabf34534<br>
+<br>
+</details>
+
 
 <details>
 <summary>Ruby</summary>
@@ -7015,6 +7415,45 @@ https://www.infoworld.com/article/3200766/9-shell-tips-every-developer-should-kn
 </a>
 <br><br><br>
 </details>
+
+<details>
+<summary>SketchUp studio</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://www.sketchup.com/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=qgt2s9RzvKM<br>
+https://www.youtube.com/watch?v=0RLza05bdNc&list=PLCqXLPQNeiphuDyXZPNW_3m1QcA4Dhsqv<br>
+<br>
+Useful Websites - <br>
+https://www.sketchup.com/plans-and-pricing/sketchup-studio<br>
+https://architosh.com/2020/08/product-review-trimble-sketchup-studio-2020/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/SketchUp/sketchup-extension-vscode-project<br>
+https://github.com/openstudiocoalition/openstudio-sketchup-plugin/releases<br>
+https://github.com/SketchUp/sketchup-live-c-api<br>
+https://github.com/SketchUp/sketchup-yard-templateBr>
+https://github.com/openstudiocoalition/OpenStudioApplication/releases<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/complete-guide-to-sketchup-vray-beginner-to-advanced/<br>
+https://www.udemy.com/course/learn-sketchup-the-right-way/<br>
+https://coursesity.com/course-detail/sketchup-architect-beginner-fast-track<br>
+https://coursesity.com/course-detail/sketchup-pro-tools-and-techniques<br>
+https://coursesity.com/course-detail/sketchup-for-interior-design<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/re-write/re-learning-sketchup-935a44b0f97f<br>
+https://blog.sketchup.com/article/10-tips-for-modeling-large-design-projects<br>
+https://www.arch2o.com/15-simple-tips-to-easily-improve-your-sketchup-skills/<br>
+<br>
+</details>
+
 
 <details>
 <summary>Solidity </summary>
@@ -7623,6 +8062,45 @@ https://folinoid.com/show/theano/<br>
 </a>
 <br><br><br>
 </details>
+
+<summary>TinkerCAD</summary>
+<br>
+Category/Type - <br>
+Software<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/Tinkercad<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=gOs6Mdj7y_4<br>
+https://www.youtube.com/watch?v=2JFxtUIOnEI&list=PL90LC6zq_Lzf9tHyFPzX_9OA35BFTfEBs<br>
+https://www.youtube.com/watch?v=38ur1kyFYxc<br>
+https://www.youtube.com/user/Tinkercad<br>
+<br>
+Useful Websites - <br>
+https://all3dp.com/2/tinkercad-tutorial-easy-beginners/<br>
+https://i.materialise.com/blog/en/tinkercad-3d-printing-tutorial/<br>
+https://www.tinkercad.com/things/ePnUiFqOIjA-medium-length-tinkercad-introduction<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/topics/tinkercad<br>
+https://github.com/jprivet-dev/arduino-robobox-tinkercad<br>
+https://github.com/TechnicalUpdate/tinkercad-ultrasonic_sensor-arduino<br>
+https://github.com/dcpneto/Arduino-Projects<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/learn-and-master-computer-aided-design-cad-with-tinkercad/<br>
+https://www.udemy.com/course/3d-printing-and-tinkercad-crash-course/<br>
+https://www.udemy.com/course/tinkercad-for-complete-beginners/<br>
+https://www.udemy.com/course/learn-circuits-with-tinkercad/<br>
+https://www.udemy.com/course/tinkercad-for-beginners/<br>
+<br>
+Other Tips/Hacks - <br>
+https://ronm333.medium.com/an-introduction-to-tinkercad-codeblocks-b896dff5f5f9<br>
+https://medium.com/re-write/re-learning-tinkercad-6cce5aa76819<br>
+https://all3dp.com/2/tinkercad-arduino-how-to-design-simulate-circuits/#:~:text=Arduino%20is%20an%20open%2Dsource,the%20need%20for%20physical%20hardware.<br>
+</details>
+
 <details>
 <summary>TypeScript</summary>
 <br>Category/Type - <br> Programming Language <br>
@@ -7725,6 +8203,51 @@ https://www.codeguru.com/csharp/csharp/cs_graphics/20-unity-tips.html <br> https
 http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/ <br>
 </details>
 <details>
+	
+<details>
+<summary>User Interface</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/User_interface<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=jLQauZP2e_4&list=PLLy_2iUCG87CEsW4KimdWPXEo80TaJfnP<br>
+https://www.youtube.com/watch?v=I0-vBdh4sZ8&list=RDQMucuK-B3KXfw&start_radio=1<br>
+https://www.youtube.com/watch?v=qDUYIQZVQDE&list=PLVlQHNRLflP_5_vCknMsxLS-mTJgq1QzH<br>
+https://www.youtube.com/watch?v=3aOU9MbITlM&list=PLjwm_8O3suyPkIphVrJaebR2qE8jylWBQ<br>
+<br>
+Useful Websites - <br>
+https://www.interaction-design.org/literature/topics/ui-design<br>
+https://www.tutorialspoint.com/software_architecture_design/user_interface.htm<br>
+https://www.geeksforgeeks.org/user-interface-ui/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/chakra-ui/chakra-ui<br>
+https://github.com/mui-org/material-ui<br>
+https://github.com/system-ui/theme-ui<br>
+https://github.com/klarna/ui"<br>
+https://github.com/jquery/jquery-ui<br>,
+<br>
+Best Courses - <br>
+https://www.freecodecamp.org/news/learn-ui-design-in-5-minutes-tutorial/<br>
+https://hackr.io/tutorials/learn-user-interface-design<br>
+https://www.coursera.org/learn/ui-design<br>
+https://www.coursera.org/learn/visual-elements-user-interface-design<br>
+https://www.coursera.org/specializations/user-interface-design<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.usertesting.com/blog/ui-vs-ux<br>
+https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda<br>
+https://medium.com/google-design/the-obvious-ui-is-often-the-best-ui-7a25597d79fd<br>
+https://soulless.medium.com/5-simple-steps-to-land-a-job-as-ux-designer-with-no-experience-ac7729ca0c7a<br>
+https://medium.muz.li/how-to-start-ux-ui-designer-career-and-be-successful-297c92e78c4c<br>
+<br>
+</details>
+	
+	
 <summary>Unix</summary>
 <br>Category/Type - <br> Operating System<br>
 <br>Official Documentation - <br>
