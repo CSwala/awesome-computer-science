@@ -2989,6 +2989,31 @@
 		"Tips4" : "https://fireflysemantics.medium.com/inkscape-tips-and-tricks-56bf29e704a8",
 		"Image1" : "https://fedoramagazine.org/wp-content/uploads/2016/10/inkscape-gettingstarted-945x400.png"
 	},
+	 
+	{
+		"Title" : "Invision",
+		"Tag" : "Software",
+		"Documentation" : "https://www.invisionapp.com/",
+		"YT1" : "https://www.youtube.com/channel/UCndfHdRdEiGOyCOgxQ4W9YQ",
+		"YT2" : "https://www.youtube.com/watch?v=qpTNy-hu3pg&list=PLeWHfyz6lrQXHKy01OlALt3xZRZCPi89V",
+		"YT3" : "https://www.youtube.com/watch?v=vTgKtoU--Z8&list=PLeWHfyz6lrQVorE4QwanvSBJA-Y3JVK-v",
+		"YT4" : "https://www.youtube.com/watch?v=QVhGec6O9DA&list=PL87czO-siTdx8DEo7dXYVqqfWFK9raeM3",
+		"Website1" : "https://hackr.io/tutorials/learn-invision",
+		"Website2" : "https://www.toptal.com/designers/ui/invision-studio-tutorial",
+		"Website3" : "https://coursesity.com/free-tutorials-learn/invision",
+		"Dedicated GH page1" : "https://github.com/clarklab/sketch-invision-prototype",
+		"Dedicated GH page2" : "https://github.com/mathieudutour/prototypes-invision-sketch",
+		"Dedicated GH page3" : "https://github.com/topics/invision-community",
+		"Dedicated GH page4" : "https://gist.github.com/ivobenedito/530f16d5307eb54af95a",
+		"Course1" : "https://www.lynda.com/Sketch-tutorials/Sketch-InVision-Designing-Sign-up-Process/748587-2.html",
+		"Course2" : "https://www.coursera.org/lecture/web-design-wireframes-prototypes/invision-introduction-v4O2e",
+		"Course3" : "https://www.udemy.com/course/invision-studio/",
+		"Course4" : "https://www.invisionapp.com/ecourses/fundamental-ui-design",
+		"Tips1" : "https://www.geeksforgeeks.org/how-to-make-your-work-from-home-more-productive/",
+		"Tips2" : "https://medium.com/inside-design/7-examples-of-animations-made-in-invision-studio-52cfab357d0",
+		"Tips3" : "https://medium.com/@InVisionApp/the-future-of-responsive-design-standards-2e4d401e7dc6"
+	},
+ 
 	{
 		"Title" : "Ionic",
 		"Tag" : "Framework",
@@ -6625,6 +6650,33 @@
 		"Tips7" : "http://www.tharlevfx.com/unreal-tips-and-tricks"
 	},
 	{
+		"Title" : "UXPin",
+		"Tag" : "Software",
+		"Documentation" : "https://www.uxpin.com/",
+		"YT1" : "https://www.youtube.com/watch?v=IrAzCoU39SQ&list=PLTQ1nMZTXSUUOSMKm_icOjaVosG17wbe4",
+		"YT2" : "https://www.youtube.com/watch?v=3zhZIn3r_t0",
+		"YT3" : "https://www.youtube.com/watch?v=U7ho1H3OXUs",
+		"YT4" : "https://www.youtube.com/watch?v=gRH1cADSeP8",
+		"Website1" : "https://www.interaction-design.org/literature/article/a-review-of-uxpin-a-collaborative-ux-design-tool",
+		"Website2" : "https://dribbble.com/uxpin",
+		"Website3" : "https://uxpin8.rssing.com/chan-31621772/latest.php",
+		"Dedicated GH page1" : "https://github.com/uxpin-merge/material-ui-merge",
+		"Dedicated GH page2" : "https://github.com/uxpin-merge/uxpin-merge-boilerplate",
+		"Dedicated GH page3" : "https://github.com/uxpin-merge/carbon-merge",
+		"Dedicated GH page4" : "https://github.com/SonyaMoisset/BOOK-DESIGN-UXpin",
+		"Dedicated GH page5" : "https://github.com/uxpin-merge/zendesk-garden",
+		"Course1" : "https://www.udemy.com/course/fundamentals-of-uxpin/",
+		"Course2" : "https://www.classcentral.com/course/linkedin-learning-uxpin-for-ux-design-31536",
+		"Course3" : "https://www.udemy.com/course/unified-design-engineering-workflow/",
+		"Course4" : "https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide?utm_source=google&utm_medium=cpc&utm_campaign=india_ux_design&utm_content=user_experience_beginner_guide&gclid=Cj0KCQjwytOEBhD5ARIsANnRjVhWUdj4iu61IS_Sm4hn2ZV8sUb1JKsKlI7mVls49l2QRcjOhuP04swaAvrKEALw_wcB",
+		"Course5" : "https://www.pinterest.com/pin/500251471085013540/",
+		"Tips1" : "https://medium.com/meetshahdesign/designing-a-fully-interactive-prototype-for-crypto-app-in-uxpin-ux-ui-design-case-study-ed951d9d0de5",
+		"Tips2" : "https://medium.com/@karenpassmore/why-i-dont-like-uxpin-2063f4f77130",
+		"Tips3" : "https://www.uxpin.com/studio/ebooks/getting-started-ux-getting-paid/",
+		"Tips4" : "https://www.guru99.com/best-ui-ux-design-courses.html"
+	},
+
+	{
 		"Title" : "Vagrant",
 		"Tag" : "Virtual Machine management software",
 		"Documentation" : "https://www.vagrantup.com/docs",
@@ -6837,7 +6889,35 @@
 		"Tips7" : "https://engineering.q42.nl/webassembly/ ",
 		"Tips8" : "https://thenewstack.io/talking-wasm-paul-milham-webassembly-may-reinvent-write-ship-code-web/ ",
 		"Image1" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png"
-	},	
+	},
+	 
+	{
+		"Title" : "Web Scraping",
+		"Tag" : "Web Harvesting",
+		"Documentation" : "https://webscraper.io/",
+		"YT1" : "https://www.youtube.com/watch?v=Ful6wfbavK0&list=PLfNXG56H-jTvDt_BrLT65hy-vUrs7vkT9",
+		"YT2" : "https://www.youtube.com/watch?v=hrdDIrT9kJI&list=PL5tcWHG-UPH1fnJw-BvBiiiPUPm1LUKsm",
+		"YT3" : "https://www.youtube.com/watch?v=_AeudsbKYG8&list=PLHnSLOMOPT11ORMDapNppzDKBYnWWP66O",
+		"YT4" : "https://www.youtube.com/watch?v=pLoRrHEsHb0&list=PLmcBskOCOOFUmbUv0CIMuATDVKVrOhBMV",
+		"Website1" : "https://www.cloudflare.com/en-in/learning/bots/what-is-data-scraping/",
+		"Website2" : "https://www.cloudflare.com/en-in/learning/bots/what-is-data-scraping/",
+		"Website3" : "https://www.tutorialspoint.com/python_web_scraping/index.htm",
+		"Dedicated GH page1" : "https://github.com/scrapy/scrapy",
+		"Dedicated GH page2" : "https://github.com/alirezamika/autoscraper",
+		"Dedicated GH page3" : "https://github.com/REMitchell/python-scraping",
+		"Dedicated GH page4" : "https://github.com/je-suis-tm/web-scraping",
+		"Dedicated GH page5" : "https://github.com/kb22/Web-Scraping-using-Python",
+		"Course1" : "https://www.udemy.com/course/web-scraping-in-python-using-scrapy-and-splash/",
+		"Course2" : "https://www.udemy.com/course/scrapy-tutorial-web-scraping-with-python/",
+		"Course3" : "https://www.udemy.com/course/supercharged-web-scraping-with-asyncio-and-python/",
+		"Course4" : "https://www.udemy.com/course/data-scraping-data-mining-from-beginner-to-pro-with-python/",
+		"Course5" : "https://www.datacamp.com/courses/web-scraping-with-python",
+		"Tips1" : "https://towardsdatascience.com/https-medium-com-hiren787-patel-web-scraping-applications-a6f370d316f4",
+		"Tips2" : "https://www.edureka.co/blog/web-scraping-with-python/",
+		"Tips3" : "https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html"
+	},
+
+
 	{
 		"Title" : "WebGL",
 		"Tag" : "Programming language",

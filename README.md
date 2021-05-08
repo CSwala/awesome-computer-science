@@ -24,7 +24,7 @@ Category/Type - <br>
 Development<br>
 <br>
 Documentation - <br>
-https://en.wikipedia.org/wiki/Autodesk_3ds_Max<br>
+https://www.autodesk.com/products/3ds-max/overview?#3ds-max-intro<br>
 <br>
 Best Youtube creators - <br>
 https://www.youtube.com/watch?v=T_KkXZVkQJw&list=PLMtzJAOD3B7YUSUMdi_beDcI0AMVRztqs<br>
@@ -3691,6 +3691,46 @@ https://fireflysemantics.medium.com/inkscape-tips-and-tricks-56bf29e704a8<br>
 <br><br><br>
 </details>
 <details>
+	
+<details>
+<summary>Invision</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://www.invisionapp.com/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/channel/UCndfHdRdEiGOyCOgxQ4W9YQ<br>
+https://www.youtube.com/watch?v=qpTNy-hu3pg&list=PLeWHfyz6lrQXHKy01OlALt3xZRZCPi89V<br>
+https://www.youtube.com/watch?v=vTgKtoU--Z8&list=PLeWHfyz6lrQVorE4QwanvSBJA-Y3JVK-v<br>
+https://www.youtube.com/watch?v=QVhGec6O9DA&list=PL87czO-siTdx8DEo7dXYVqqfWFK9raeM3<br>
+<br>
+Useful Websites - <br>
+https://hackr.io/tutorials/learn-invision<br>
+https://www.toptal.com/designers/ui/invision-studio-tutorial<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/clarklab/sketch-invision-prototype<br>
+https://github.com/mathieudutour/prototypes-invision-sketch<br>
+https://github.com/topics/invision-community<br>
+https://gist.github.com/ivobenedito/530f16d5307eb54af95a<br>
+<br>
+Best Courses - <br>
+https://www.lynda.com/Sketch-tutorials/Sketch-InVision-Designing-Sign-up-Process/748587-2.html<br>
+https://www.coursera.org/lecture/web-design-wireframes-prototypes/invision-introduction-v4O2e<br>
+https://www.udemy.com/course/invision-studio/<br>
+https://www.invisionapp.com/ecourses/fundamental-ui-design<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.geeksforgeeks.org/how-to-make-your-work-from-home-more-productive/<br>
+https://medium.com/inside-design/7-examples-of-animations-made-in-invision-studio-52cfab357d0<br>
+https://medium.com/@InVisionApp/the-future-of-responsive-design-standards-2e4d401e7dc6<br>
+<br>
+</details>
+	
+	
 <summary>Ionic</summary>
 <br>
 Category/Type - <br>Framework <br>
@@ -7413,6 +7453,7 @@ https://www.infoworld.com/article/3200766/9-shell-tips-every-developer-should-kn
 <br><br><br>
 </details>
 
+
 <details>
 <summary>SketchUp studio</summary>
 <br>
@@ -8099,6 +8140,7 @@ https://folinoid.com/show/theano/<br>
 <br><br><br>
 </details>
 
+<details>
 <summary>TinkerCAD</summary>
 <br>
 Category/Type - <br>
@@ -8350,6 +8392,50 @@ https://www.lynda.com/Unreal-Engine-tutorials/Unreal-AR-Visualization-03-Complex
 https://medium.com/hri-tech/unreal-engine-tips-and-tricks-26e351b4b218 <br> https://medium.com/hri-tech/unreal-engine-tips-and-tricks-26e351b4b218 <br>
 https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https://devbynight.com/unreal-engine-tips-tricks/ <br> http://www.tharlevfx.com/unreal-tips-and-tricks <br>
 </details>
+
+
+<details>
+<summary>UXPin</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://www.uxpin.com/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=IrAzCoU39SQ&list=PLTQ1nMZTXSUUOSMKm_icOjaVosG17wbe4<br>
+https://www.youtube.com/watch?v=3zhZIn3r_t0<br>
+https://www.youtube.com/watch?v=U7ho1H3OXUs<br>
+https://www.youtube.com/watch?v=gRH1cADSeP8<br>
+<br>
+Useful Websites - <br>
+https://www.interaction-design.org/literature/article/a-review-of-uxpin-a-collaborative-ux-design-tool<br>
+https://dribbble.com/uxpin<br>
+https://uxpin8.rssing.com/chan-31621772/latest.php<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/uxpin-merge/material-ui-merge<br>
+https://github.com/uxpin-merge/uxpin-merge-boilerplate<br>
+https://github.com/uxpin-merge/carbon-merge<br>
+https://github.com/SonyaMoisset/BOOK-DESIGN-UXpin<br>
+https://github.com/uxpin-merge/zendesk-garden<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/fundamentals-of-uxpin/<br>
+https://www.classcentral.com/course/linkedin-learning-uxpin-for-ux-design-31536<br>
+https://www.udemy.com/course/unified-design-engineering-workflow/<br>
+https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide?utm_source=google&utm_medium=cpc&utm_campaign=india_ux_design&utm_content=user_experience_beginner_guide&gclid=Cj0KCQjwytOEBhD5ARIsANnRjVhWUdj4iu61IS_Sm4hn2ZV8sUb1JKsKlI7mVls49l2QRcjOhuP04swaAvrKEALw_wcB<br>
+https://www.pinterest.com/pin/500251471085013540/<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/meetshahdesign/designing-a-fully-interactive-prototype-for-crypto-app-in-uxpin-ux-ui-design-case-study-ed951d9d0de5<br>
+https://medium.com/@karenpassmore/why-i-dont-like-uxpin-2063f4f77130<br>
+https://www.uxpin.com/studio/ebooks/getting-started-ux-getting-paid/<br>
+https://www.guru99.com/best-ui-ux-design-courses.html<br>
+<br>
+</details>
+
 
 <details>
 <summary>Vagrant</summary>
@@ -8687,6 +8773,50 @@ https://webglinsights.github.io/tips.html<br>
 </a>
 <br><br><br>
 </details>
+ 
+
+<details>
+<summary>Web Scraping</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://webscraper.io/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=Ful6wfbavK0&list=PLfNXG56H-jTvDt_BrLT65hy-vUrs7vkT9<br>
+https://www.youtube.com/watch?v=hrdDIrT9kJI&list=PL5tcWHG-UPH1fnJw-BvBiiiPUPm1LUKsm<br>
+https://www.youtube.com/watch?v=_AeudsbKYG8&list=PLHnSLOMOPT11ORMDapNppzDKBYnWWP66O<br>
+https://www.youtube.com/watch?v=pLoRrHEsHb0&list=PLmcBskOCOOFUmbUv0CIMuATDVKVrOhBMV<br>
+<br>
+Useful Websites - <br>
+https://www.cloudflare.com/en-in/learning/bots/what-is-data-scraping/<br>
+https://www.cloudflare.com/en-in/learning/bots/what-is-data-scraping/<br>
+https://www.tutorialspoint.com/python_web_scraping/index.htm<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/scrapy/scrapy<br>
+https://github.com/alirezamika/autoscraper<br>
+https://github.com/REMitchell/python-scraping<br>
+https://github.com/je-suis-tm/web-scraping<br>
+https://github.com/kb22/Web-Scraping-using-Python<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/web-scraping-in-python-using-scrapy-and-splash/<br>
+https://www.udemy.com/course/scrapy-tutorial-web-scraping-with-python/<br>
+https://www.udemy.com/course/supercharged-web-scraping-with-asyncio-and-python/<br>
+https://www.udemy.com/course/data-scraping-data-mining-from-beginner-to-pro-with-python/<br>
+https://www.datacamp.com/courses/web-scraping-with-python<br>
+<br>
+Other Tips/Hacks - <br>
+https://towardsdatascience.com/https-medium-com-hiren787-patel-web-scraping-applications-a6f370d316f4<br>
+https://www.edureka.co/blog/web-scraping-with-python/<br>
+https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html<br>
+<br>
+</details>
+
+
   
 <details>  
 <summary>WordPress</summary>
