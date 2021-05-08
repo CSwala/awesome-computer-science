@@ -8234,12 +8234,11 @@ Category/Type - <br>
 Development<br>
 <br>
 Documentation - <br>
-https://en.wikipedia.org/wiki/Virtual_reality<br>
+https://arvr.google.com/vr/<br>
 <br>
 Best Youtube creators - <br>
-https://www.youtube.com/watch?v=NqswOcwJBFE<br>
-https://www.youtube.com/watch?v=5gxpWvi3vVg<br>
-https://www.youtube.com/watch?v=i4Zt3JZejbg<br>
+https://www.youtube.com/watch?v=aNC5YMUTcQ4&list=PLbMVogVj5nJSyt80VRXYC-YrAvQuUb6dh<br>
+https://www.youtube.com/watch?v=6uG9vtckp1U&list=PLs-8CSaashXw3OJpdJ_A8GTDQq0np7D57<br>
 <br>
 Useful Websites - <br>
 https://www.investopedia.com/terms/v/virtual-reality.asp#:~:text=Virtual%20reality%20(VR)%20refers%20to,or%20gloves%20fitted%20with%20sensors.<br>
@@ -8266,6 +8265,7 @@ https://medium.com/studiotmd/virtual-reality-uses-in-architecture-and-design-c5d
 https://medium.com/studiotmd/virtual-reality-uses-in-architecture-and-design-c5d54b7c1e89<br>
 <br>
 </details>
+
 
 
 <details>
