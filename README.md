@@ -781,7 +781,7 @@ Category/Type - <br>
 Development<br>
 <br>
 Documentation - <br>
-https://en.wikipedia.org/wiki/Augmented_reality<br>
+https://arvr.google.com/ar/<br>
 <br>
 Best Youtube creators - <br>
 https://www.youtube.com/watch?v=zpiFZtPxo2w&list=PLb1h4A0yB97_TeFuf9TAEah3b-VyIYzF9<br>
@@ -791,7 +791,7 @@ https://www.youtube.com/watch?v=i-r4WcH15WQ&list=PL_Nji0JOuXg2AIB5sZSkGAKS4ZaniN
 <br>
 Useful Websites - <br>
 https://www.investopedia.com/terms/a/augmented-reality.asp#:~:text=Augmented%20reality%20(AR)%20is%20an,and%20business%20applications%20in%20particular.<br>
-https://arvr.google.com/ar/<br>
+https://www.augmentedpro.com/index.php/tutorials<br>
 https://www.threekit.com/blog/what-is-augmented-reality<br>
 <br>
 Dedicated Github page - <br>
