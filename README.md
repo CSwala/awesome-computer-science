@@ -8092,6 +8092,7 @@ https://medium.com/hri-tech/unreal-engine-tips-and-tricks-26e351b4b218 <br> http
 https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https://devbynight.com/unreal-engine-tips-tricks/ <br> http://www.tharlevfx.com/unreal-tips-and-tricks <br>
 </details>
 
+
 <details>
 <summary>User Experience</summary>
 <br>
@@ -8099,13 +8100,13 @@ Category/Type - <br>
 Development<br>
 <br>
 Documentation - <br>
-https://en.wikipedia.org/wiki/User_experience_design<br>
+https://uxplanet.org/<br>
 <br>
 Best Youtube creators - <br>
-https://www.youtube.com/watch?v=uL2ZB7XXIgg<br>
-https://www.youtube.com/watch?v=KqnAqVIe-jc<br>
-https://www.youtube.com/watch?v=wpmHZspl4EM&list=PLttcEXjN1UcHZj_6PaZYyh9PzPFgKHdB1<br>
-https://www.youtube.com/watch?v=I0-vBdh4sZ8&list=RDQMRCbSjBKXxFo&start_radio=1<br>
+https://www.youtube.com/channel/UCxM6G42vmI752f60od3Gypw/videos<br>
+https://www.youtube.com/user/JesseAtomic/<br>
+https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw<br>
+https://www.youtube.com/user/NNgroup/videos<br>
 <br>
 Useful Websites - <br>
 https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/<br>
@@ -8130,6 +8131,7 @@ https://usabilitygeek.com/big-differences-ux-ui-design/<br>
 https://medium.com/nyc-design/ux-ui-design-process-for-beginner-753952bb2241<br>
 <br>
 </details>
+
 
 
 <details>
