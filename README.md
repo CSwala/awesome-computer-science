@@ -7296,6 +7296,45 @@ https://www.infoworld.com/article/3200766/9-shell-tips-every-developer-should-kn
 </details>
 
 <details>
+<summary>SketchUp studio</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://www.sketchup.com/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=qgt2s9RzvKM<br>
+https://www.youtube.com/watch?v=0RLza05bdNc&list=PLCqXLPQNeiphuDyXZPNW_3m1QcA4Dhsqv<br>
+<br>
+Useful Websites - <br>
+https://www.sketchup.com/plans-and-pricing/sketchup-studio<br>
+https://architosh.com/2020/08/product-review-trimble-sketchup-studio-2020/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/SketchUp/sketchup-extension-vscode-project<br>
+https://github.com/openstudiocoalition/openstudio-sketchup-plugin/releases<br>
+https://github.com/SketchUp/sketchup-live-c-api<br>
+https://github.com/SketchUp/sketchup-yard-templateBr>
+https://github.com/openstudiocoalition/OpenStudioApplication/releases<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/complete-guide-to-sketchup-vray-beginner-to-advanced/<br>
+https://www.udemy.com/course/learn-sketchup-the-right-way/<br>
+https://coursesity.com/course-detail/sketchup-architect-beginner-fast-track<br>
+https://coursesity.com/course-detail/sketchup-pro-tools-and-techniques<br>
+https://coursesity.com/course-detail/sketchup-for-interior-design<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/re-write/re-learning-sketchup-935a44b0f97f<br>
+https://blog.sketchup.com/article/10-tips-for-modeling-large-design-projects<br>
+https://www.arch2o.com/15-simple-tips-to-easily-improve-your-sketchup-skills/<br>
+<br>
+</details>
+
+
+<details>
 <summary>Solidity </summary>
 <br>
 Category/Type - <br>Programming language <br>
