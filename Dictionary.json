@@ -36,6 +36,31 @@
 		"Tips3" : "https://www.toptal.com/dot-net/tips-and-practices",
 		"Image1" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png" 
 	},
+	
+	{
+		"Title" : "3ds MAX",
+		"Tag" : "Software",
+		"Documentation" : "https://en.wikipedia.org/wiki/Autodesk_3ds_Max",
+		"YT1" : "https://www.youtube.com/watch?v=T_KkXZVkQJw&list=PLMtzJAOD3B7YUSUMdi_beDcI0AMVRztqs",
+		"YT2" : "https://www.youtube.com/watch?v=FBsR7z8zuN8&list=PL1ney1pPb_ecdzupm50WetelOwZDTNb3B",
+		"YT3" : "https://www.youtube.com/watch?v=b6u5HFqhALQ",
+		"Website1" : "https://www.autodesk.eu/products/3ds-max/overview",
+		"Website2" : "https://area.autodesk.com/all/tutorials/3ds-max/",
+		"Website3" : "https://3dtotal.com/tutorials/3ds-max",
+		"Dedicated GH page1" : "https://github.com/topics/autodesk-3ds-max",
+		"Dedicated GH page2" : "https://github.com/ADN-DevTech/3dsMax-OSL-Shaders",
+		"Dedicated GH page3" : "https://github.com/BDM-Lab/3DMax",
+		"Dedicated GH page4" : "https://github.com/ADN-DevTech/3dsMax-Learning-Path",
+		"Course1" : "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjn4f60y7fwAhUbDisKHahfDpEYABADGgJzZg&ae=2&ohost=www.google.com&cid=CAESQOD2T31QaDEy5Vu35M8LFso7O8Du2UjuoNw3eLVfG2rDdTq3ketoJtB1JCUgxW9POU865VMN8XBPcay08nQv1b4&sig=AOD64_2Pir0tDc_jmze0YHhRwjex5TuQqA&q&adurl&ved=2ahUKEwjlg_W0y7fwAhUSjuYKHY--CTkQ0Qx6BAgHEAE",
+		"Course2" : "https://www.udemy.com/course/3d-visualization-for-beginners/",
+		"Course3" : "https://www.udemy.com/course/3ds-max-vray-advanced-arch-viz-interiors-tutorial/",
+		"Course4" : "https://www.udemy.com/course/intro-to-architectural-visualization-using-3ds-max-and-v-ray_zillus/",
+		"Course5" : "https://www.udemy.com/course/full-exterior-workshop-using-3ds-max-vray/",
+		"Tips1" : "https://medium.com/imeshup/3ds-max-pros-cons-quirks-and-links-a2a48832dbbe",
+		"Tips2" : "https://medium.com/autodesk-university/forget-keyframing-take-real-time-control-of-your-animated-assets-with-3ds-max-5a7f3c9469e3",
+		"Tips3" : "https://medium.com/@pink_academy/best-way-to-learn-3ds-max-b16c758df0b6"
+	},
+ 
 
 	{
 		"Title": "Adobe XD",
