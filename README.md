@@ -6821,6 +6821,44 @@ https://blog.bitsrc.io/10-tips-for-building-an-api-9ec335601d59?gi=da0e612e7ff0 
 </details>
 
 <details>
+<summary>Robotic Process Automation</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://www.uipath.com/rpa/robotic-process-automation<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=MBl-3Yb30FA<br>
+https://www.youtube.com/watch?v=H5VKUajGDdI<br>
+<br>
+Useful Websites - <br>
+https://enterprisersproject.com/article/2019/5/rpa-robotic-process-automation-how-explain<br>
+https://www.automationanywhere.com/rpa/robotic-process-automation<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/automagica/automagica<br>
+https://github.com/robocorp/rpaframework<br>
+https://github.com/PacktPublishing/Robotic-Process-Automation-RPA-for-Developers<br>
+https://github.com/PacktPublishing/Robotic-Process-Automation-Projects<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/robotic-process-automation/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-437115340933_._li_9061756_._pd__._&matchtype=b&gclid=Cj0KCQjwp86EBhD7ARIsAFkgakh0geiv6ihFAIvs1rK8SzmXOF1DRu6q7lo5YH3vGWSXXoULAx4F0_MaAlxjEALw_wcB<br>
+https://www.coursera.org/specializations/rpa-cognitive-analytics<br>
+https://www.coursera.org/learn/rpa-introduction<br>
+https://www.coursera.org/lecture/rpa-introduction/introduction-to-the-course-A3VLA<br>
+https://www.coursera.org/learn/rpa-introduction<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/@ayeshajayasankha/robotic-process-automation-rpa-f112eeeff41c<br>
+https://cigen-rpa.medium.com/8-ways-in-which-robotic-process-automation-rpa-will-change-it-operations-d2acda97767f<br>
+https://medium.com/@cigen_rpa/5-steps-to-implementing-robotic-process-automation-rpa-in-small-and-medium-businesses-b63fabf34534<br>
+<br>
+</details>
+
+
+<details>
 <summary>Ruby</summary>
 <br>
 Category/Type - <br>Programming language <br>
