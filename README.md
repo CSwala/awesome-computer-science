@@ -8140,6 +8140,7 @@ https://folinoid.com/show/theano/<br>
 <br><br><br>
 </details>
 
+<details>
 <summary>TinkerCAD</summary>
 <br>
 Category/Type - <br>
@@ -8394,7 +8395,7 @@ https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https:
 
 
 <details>
-<summary>UXPin/summary>
+<summary>UXPin</summary>
 <br>
 Category/Type - <br>
 Development<br>
