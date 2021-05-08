@@ -36,6 +36,31 @@
 		"Tips3" : "https://www.toptal.com/dot-net/tips-and-practices",
 		"Image1" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png" 
 	},
+	
+	{
+		"Title" : "3ds MAX",
+		"Tag" : "Software",
+		"Documentation" : "https://en.wikipedia.org/wiki/Autodesk_3ds_Max",
+		"YT1" : "https://www.youtube.com/watch?v=T_KkXZVkQJw&list=PLMtzJAOD3B7YUSUMdi_beDcI0AMVRztqs",
+		"YT2" : "https://www.youtube.com/watch?v=FBsR7z8zuN8&list=PL1ney1pPb_ecdzupm50WetelOwZDTNb3B",
+		"YT3" : "https://www.youtube.com/watch?v=b6u5HFqhALQ",
+		"Website1" : "https://www.autodesk.eu/products/3ds-max/overview",
+		"Website2" : "https://area.autodesk.com/all/tutorials/3ds-max/",
+		"Website3" : "https://3dtotal.com/tutorials/3ds-max",
+		"Dedicated GH page1" : "https://github.com/topics/autodesk-3ds-max",
+		"Dedicated GH page2" : "https://github.com/ADN-DevTech/3dsMax-OSL-Shaders",
+		"Dedicated GH page3" : "https://github.com/BDM-Lab/3DMax",
+		"Dedicated GH page4" : "https://github.com/ADN-DevTech/3dsMax-Learning-Path",
+		"Course1" : "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjn4f60y7fwAhUbDisKHahfDpEYABADGgJzZg&ae=2&ohost=www.google.com&cid=CAESQOD2T31QaDEy5Vu35M8LFso7O8Du2UjuoNw3eLVfG2rDdTq3ketoJtB1JCUgxW9POU865VMN8XBPcay08nQv1b4&sig=AOD64_2Pir0tDc_jmze0YHhRwjex5TuQqA&q&adurl&ved=2ahUKEwjlg_W0y7fwAhUSjuYKHY--CTkQ0Qx6BAgHEAE",
+		"Course2" : "https://www.udemy.com/course/3d-visualization-for-beginners/",
+		"Course3" : "https://www.udemy.com/course/3ds-max-vray-advanced-arch-viz-interiors-tutorial/",
+		"Course4" : "https://www.udemy.com/course/intro-to-architectural-visualization-using-3ds-max-and-v-ray_zillus/",
+		"Course5" : "https://www.udemy.com/course/full-exterior-workshop-using-3ds-max-vray/",
+		"Tips1" : "https://medium.com/imeshup/3ds-max-pros-cons-quirks-and-links-a2a48832dbbe",
+		"Tips2" : "https://medium.com/autodesk-university/forget-keyframing-take-real-time-control-of-your-animated-assets-with-3ds-max-5a7f3c9469e3",
+		"Tips3" : "https://medium.com/@pink_academy/best-way-to-learn-3ds-max-b16c758df0b6"
+	},
+ 
 
 	{
 		"Title": "Adobe XD",
@@ -1216,8 +1241,7 @@
 		"Course4" : "https://www.coursera.org/programs/srmist-ramapuram-on-coursera-sktfh/browse?collectionId=&currentTab=CATALOG&productId=kWGvJivBEeeW5RJUyz1uFA&productType=course&query=CNN&showMiniModal=true",
 		"Tips1" : "https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53",
 		"Tips2" : "https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks",
-		"Tips3" : "https://www.coursera.org/lecture/intro-to-deep-learning/training-tips-and-tricks-for-deep-cnns-NGUMO",
-		
+		"Tips3" : "https://www.coursera.org/lecture/intro-to-deep-learning/training-tips-and-tricks-for-deep-cnns-NGUMO"
 	},
 	{
 		"Title" : "Codeigniter",
@@ -2965,6 +2989,31 @@
 		"Tips4" : "https://fireflysemantics.medium.com/inkscape-tips-and-tricks-56bf29e704a8",
 		"Image1" : "https://fedoramagazine.org/wp-content/uploads/2016/10/inkscape-gettingstarted-945x400.png"
 	},
+	 
+	{
+		"Title" : "Invision",
+		"Tag" : "Software",
+		"Documentation" : "https://www.invisionapp.com/",
+		"YT1" : "https://www.youtube.com/channel/UCndfHdRdEiGOyCOgxQ4W9YQ",
+		"YT2" : "https://www.youtube.com/watch?v=qpTNy-hu3pg&list=PLeWHfyz6lrQXHKy01OlALt3xZRZCPi89V",
+		"YT3" : "https://www.youtube.com/watch?v=vTgKtoU--Z8&list=PLeWHfyz6lrQVorE4QwanvSBJA-Y3JVK-v",
+		"YT4" : "https://www.youtube.com/watch?v=QVhGec6O9DA&list=PL87czO-siTdx8DEo7dXYVqqfWFK9raeM3",
+		"Website1" : "https://hackr.io/tutorials/learn-invision",
+		"Website2" : "https://www.toptal.com/designers/ui/invision-studio-tutorial",
+		"Website3" : "https://coursesity.com/free-tutorials-learn/invision",
+		"Dedicated GH page1" : "https://github.com/clarklab/sketch-invision-prototype",
+		"Dedicated GH page2" : "https://github.com/mathieudutour/prototypes-invision-sketch",
+		"Dedicated GH page3" : "https://github.com/topics/invision-community",
+		"Dedicated GH page4" : "https://gist.github.com/ivobenedito/530f16d5307eb54af95a",
+		"Course1" : "https://www.lynda.com/Sketch-tutorials/Sketch-InVision-Designing-Sign-up-Process/748587-2.html",
+		"Course2" : "https://www.coursera.org/lecture/web-design-wireframes-prototypes/invision-introduction-v4O2e",
+		"Course3" : "https://www.udemy.com/course/invision-studio/",
+		"Course4" : "https://www.invisionapp.com/ecourses/fundamental-ui-design",
+		"Tips1" : "https://www.geeksforgeeks.org/how-to-make-your-work-from-home-more-productive/",
+		"Tips2" : "https://medium.com/inside-design/7-examples-of-animations-made-in-invision-studio-52cfab357d0",
+		"Tips3" : "https://medium.com/@InVisionApp/the-future-of-responsive-design-standards-2e4d401e7dc6"
+	},
+ 
 	{
 		"Title" : "Ionic",
 		"Tag" : "Framework",
@@ -4651,6 +4700,31 @@
 		"Tips5" : "https://www.thegeekstuff.com/2010/01/20-killer-perl-programming-tips-for-beginners-on-unix-linux-os/"
 	},
 	{
+	"Title" : "Phalcon",
+	"Tag" : "PHP Framework",
+	"Documentation" : "https://docs.phalcon.io/4.0/en/introduction",
+	"YT1 " : "https://www.youtube.com/watch?v=75W-emM4wNQ",
+	"YT2 " : "https://www.youtube.com/playlist?list=PLAeSqFDosTSijRgUeiHPHeWE0kOEZ5ES8",
+	"YT3 " : "https://www.youtube.com/playlist?list=PLmrTMUhqzS3jd8MWP6-TvieKkPpiisJum",
+	"YT4 " : "https://www.youtube.com/watch?v=sIDgETgB0Cw",
+	"YT5 " : "https://www.youtube.com/watch?v=v-Bq6FwuemU",
+	"Website1" : "https://www.tutorialspoint.com/phalcon/index.htm",
+	"Website2" : "https://www.javatpoint.com/phalcon-tutorial",
+	"Website3" : "https://www.hostinger.in/tutorials/phalcon-tutorial",
+	"Website4" : "https://phalcon-php-framework-documentation.readthedocs.io/en/1.2.0/reference/tutorial.html",
+	"Website5" : "https://docs.phalcon.io/4.0/en/tutorial-basic",
+	"Dedicated GH page1" : "https://github.com/phalcon/awesome-phalcon",
+	"Dedicated GH page2" : "https://github.com/phalcon",
+	"Dedicated GH page3" : "https://github.com/micheleangioni/phalcon-repositories",
+	"Dedicated GH page4": "https://github.com/phalcon/cphalcon",
+	"Course1" : "https://www.udemy.com/course/phalcon-php-framework-for-beginners/",
+	"Course2" : "https://www.udemy.com/course/phalconphp/",
+	"Course3" : "https://www.udemy.com/course/web-development-with-new-framework/",
+	"Course4" : "https://code.tutsplus.com/categories/phalcon/courses",
+	"Tips1" : "https://github.com/mctekk/phalcon-cheat-sheet",
+	"Tips2" : "https://blog.phalcon.io/"
+},
+	{
 		"Title" : "PHP",
 		"Tag" : "Programming Language",
 		"Documentation" : "https://www.php.net/docs.php",
@@ -5297,6 +5371,34 @@
 		"Tips3": "https://itnext.io/3-small-tips-for-better-redux-performance-in-a-react-app-9cde549df6af",
 		"Tips4": "https://slashgear.github.io/react-redux-pitfalls-and-best-pratices/"
 	},
+	 
+	{
+		"Title" : "Reinforcement Learning",
+		"Tag" : "Development",
+		"Documentation" : "https://en.wikipedia.org/wiki/Reinforcement_learning#:~:text=Reinforcement%20learning%20(RL)%20is%20an,supervised%20learning%20and%20unsupervised%20learning.",
+		"YT1" : "https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ",
+		"YT2" : "https://www.youtube.com/watch?v=TIlDzLZPyhY&list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9",
+		"YT3" : "https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u",
+		"YT4" : "https://www.youtube.com/watch?v=LzaWrmKL1Z4",
+		"Website1" : "http://www.scholarpedia.org/article/Reinforcement_learning",
+		"Website2" : "https://www.geeksforgeeks.org/what-is-reinforcement-learning/",
+		"Website3" : "https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292",
+		"Dedicated GH page1" : "https://github.com/dennybritz/reinforcement-learning",
+		"Dedicated GH page2" : "https://github.com/aikorea/awesome-rl",
+		"Dedicated GH page3" : "https://github.com/udacity/deep-reinforcement-learning",
+		"Dedicated GH page4" : "https://github.com/keras-rl/keras-rl",
+		"Course1" : "https://www.udacity.com/course/reinforcement-learning--ud600",
+		"Course2" : "https://www.coursera.org/specializations/reinforcement-learning",
+		"Course3" : "https://www.udemy.com/course/deep-reinforcement-learning/",
+		"Course4" : "https://www.udemy.com/course/actor-critic-methods-from-paper-to-code-with-pytorch/",
+		"Course5" : "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj0rtm53bXwAhUPN2AKHQfYAhIYABACGgJ0bQ&ae=2&ohost=www.google.com&cid=CAESQOD2kA0ex455YmNB7TeDntC5LozZOXCc-iG9e4cbEpl-NZV74vH8JJgLaw7W2kcPicB8v36pqMP2OdYyEr64OwI&sig=AOD64_0-2ZamdrQMTCxUchQAaTq6exm8oQ&q&adurl&ved=2ahUKEwi6os-53bXwAhXhQ3wKHXDUAQEQ0Qx6BAgDEAE",
+		"Tips1" : "https://www.kdnuggets.com/2018/03/5-things-reinforcement-learning.html",
+		"Tips2" : "https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf",
+		"Tips3" : "https://jonathan-hui.medium.com/rl-introduction-to-deep-reinforcement-learning-35c25e04c199"
+	},
+
+	 
+	 
 	{
       
 
@@ -5343,6 +5445,29 @@
 	    "Tips5": "https://www.slideshare.net/MaksymBruner/rest-api-tips-and-tricks",
 		"Tips6": "https://blog.bitsrc.io/10-tips-for-building-an-api-9ec335601d59?gi=da0e612e7ff0"
 	},
+	 
+	{
+		"Title" : "Robotic Process Automation",
+		"Tag" : "Development",
+		"Documentation" : "https://www.uipath.com/rpa/robotic-process-automation",
+		"YT1" : "https://www.youtube.com/watch?v=MBl-3Yb30FA",
+		"YT2" : "https://www.youtube.com/watch?v=H5VKUajGDdI",
+		"Website1" : "https://enterprisersproject.com/article/2019/5/rpa-robotic-process-automation-how-explain",
+		"Website2" : "https://www.automationanywhere.com/rpa/robotic-process-automation",
+		"Dedicated GH page1" : "https://github.com/automagica/automagica",
+		"Dedicated GH page2" : "https://github.com/robocorp/rpaframework",
+		"Dedicated GH page3" : "https://github.com/PacktPublishing/Robotic-Process-Automation-RPA-for-Developers",
+		"Dedicated GH page4" : "https://github.com/PacktPublishing/Robotic-Process-Automation-Projects",
+		"Course1" : "https://www.udemy.com/course/robotic-process-automation/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-437115340933_._li_9061756_._pd__._&matchtype=b&gclid=Cj0KCQjwp86EBhD7ARIsAFkgakh0geiv6ihFAIvs1rK8SzmXOF1DRu6q7lo5YH3vGWSXXoULAx4F0_MaAlxjEALw_wcB",
+		"Course2" : "https://www.coursera.org/specializations/rpa-cognitive-analytics",
+		"Course3" : "https://www.coursera.org/learn/rpa-introduction",
+		"Course4" : "https://www.coursera.org/lecture/rpa-introduction/introduction-to-the-course-A3VLA",
+		"Course5" : "https://www.coursera.org/learn/rpa-introduction",
+		"Tips1" : "https://medium.com/@ayeshajayasankha/robotic-process-automation-rpa-f112eeeff41c",
+		"Tips2" : "https://cigen-rpa.medium.com/8-ways-in-which-robotic-process-automation-rpa-will-change-it-operations-d2acda97767f",
+		"Tips3" : "https://medium.com/@cigen_rpa/5-steps-to-implementing-robotic-process-automation-rpa-in-small-and-medium-businesses-b63fabf34534"
+	},
+
 	{
 		"Title" : "Ruby",
 		"Tag" : "Programming Language",
@@ -5772,6 +5897,57 @@
 		"Tips5" : "https://www.infoworld.com/article/3200766/9-shell-tips-every-developer-should-know.html",
 		"Image1" : "https://cdn3.iconfinder.com/data/icons/blue-ulitto/128/Developer_files_Bash_Shell_Script-512.png"
 	},
+	
+	{
+		"Title" : "SketchUp studio",
+		"Tag" : "Software",
+		"Documentation" : "https://www.sketchup.com/",
+		"YT1" : "https://www.youtube.com/watch?v=qgt2s9RzvKM",
+		"YT2" : "https://www.youtube.com/watch?v=0RLza05bdNc&list=PLCqXLPQNeiphuDyXZPNW_3m1QcA4Dhsqv",
+		"Website1" : "https://architosh.com/2020/08/product-review-trimble-sketchup-studio-2020/",
+		"Website2" : "https://www.sketchup.com/plans-and-pricing/sketchup-studio",
+		"Dedicated GH page1" : "https://github.com/SketchUp/sketchup-extension-vscode-project",
+		"Dedicated GH page2" : "https://github.com/openstudiocoalition/openstudio-sketchup-plugin/releases",
+		"Dedicated GH page3" : "https://github.com/SketchUp/sketchup-live-c-api",
+		"Dedicated GH page4" : "https://github.com/SketchUp/sketchup-yard-template",
+		"Dedicated GH page5" : "https://github.com/openstudiocoalition/OpenStudioApplication/releases",
+		"Course1" : "https://www.udemy.com/course/complete-guide-to-sketchup-vray-beginner-to-advanced/",
+		"Course2" : "https://www.udemy.com/course/learn-sketchup-the-right-way/",
+		"Course3" : "https://coursesity.com/course-detail/sketchup-architect-beginner-fast-track",
+		"Course4" : "https://coursesity.com/course-detail/sketchup-pro-tools-and-techniques",
+		"Course5" : "https://coursesity.com/course-detail/sketchup-for-interior-design",
+		"Tips1" : "https://medium.com/re-write/re-learning-sketchup-935a44b0f97f",
+		"Tips2" : "https://blog.sketchup.com/article/10-tips-for-modeling-large-design-projects",
+		"Tips3" : "https://www.arch2o.com/15-simple-tips-to-easily-improve-your-sketchup-skills/"
+	},
+	 
+	   {
+    "Title": "Socket.io",
+    "Tag": " JavaScript library ",
+    "Documentation": "https://socket.io/docs/v4",
+    "YT1": "https://www.youtube.com/playlist?list=PLrwNNiB6YOA1a0_xXvogmvSHrLcanVKkF",
+    "YT2": "https://www.youtube.com/playlist?list=PLYPFxrXyK0ByCS-KG6BZYEoXOkRugZuLD",
+    "YT3": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9i4V-_ZVwLmOusj8YAUhj_9",
+    "YT4": "https://www.youtube.com/watch?v=tHbCkikFfDE",
+    "YT5": "https://www.youtube.com/playlist?list=PLK0STOMCFms7jQEKo89pHdkO_QdSjDs0t",
+    "Website1": "https://www.tutorialspoint.com/socket.io/index.htm",
+    "Website2": "https://www.npmjs.com/package/socket.io",
+    "Website3": "https://tsh.io/blog/socket-io-tutorial-real-time-communication/",
+    "Website4": "https://stackoverflow.com/questions/9914816/what-is-an-example-of-the-simplest-possible-socket-io-example",
+    "Website5": "https://cdnjs.com/libraries/socket.io",
+    "Website6": "https://hackr.io/tutorials/learn-socket-io",
+    "Dedicated GH page1": "https://github.com/socketio/socket.io",
+    "Dedicated GH page2": "https://github.com/socketio/chat-example",
+    "Dedicated GH page3": "https://github.com/socketio/socket.io-client",
+    "Course1": "https://www.pluralsight.com/courses/socket-io-building-real-time-applications",
+    "Course2": "https://www.udemy.com/course/socketio-with-websockets-the-details/",
+    "Course3": "https://www.udemy.com/course/node-with-socketio-build-a-full-web-chat-app-from-scratch/",
+    "Tips1": "https://dev.to/kauresss/socket-io-guide-for-newbies-5hdm",
+    "Tips2": "https://medium.com/@rloperena/quick-guide-to-socket-io-basics-59b07c39c6ec",
+    "Tips3": "https://dzone.com/articles/socketio-the-good-the-bad-and-the-ugly"
+  },
+ 
+	 
 	{
 		"Title" : "Solidity",
 		"Tag" : "Programming language",
@@ -6366,6 +6542,34 @@
 		"Tips7" : "http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/"
 	},
 	{
+		"Title" : "UI",
+		"Tag" : "Development",
+		"Documentation" : "https://en.wikipedia.org/wiki/User_interface",
+		"YT1" : "https://www.youtube.com/watch?v=jLQauZP2e_4&list=PLLy_2iUCG87CEsW4KimdWPXEo80TaJfnP",
+		"YT2" : "https://www.youtube.com/watch?v=I0-vBdh4sZ8&list=RDQMucuK-B3KXfw&start_radio=1",
+		"YT3" : "https://www.youtube.com/watch?v=qDUYIQZVQDE&list=PLVlQHNRLflP_5_vCknMsxLS-mTJgq1QzH",
+		"YT4" : "https://www.youtube.com/watch?v=3aOU9MbITlM&list=PLjwm_8O3suyPkIphVrJaebR2qE8jylWBQ",
+		"Website1" : "https://www.interaction-design.org/literature/topics/ui-design",
+		"Website2" : "https://www.tutorialspoint.com/software_architecture_design/user_interface.htm",
+		"Website3" : "https://www.geeksforgeeks.org/user-interface-ui/",
+		"Dedicated GH page1" : "https://github.com/chakra-ui/chakra-ui",
+		"Dedicated GH page2" : "https://github.com/mui-org/material-ui",
+		"Dedicated GH page3" : "https://github.com/system-ui/theme-ui",
+		"Dedicated GH page4" : "https://github.com/klarna/ui",
+		"Dedicated GH page5" : "https://github.com/jquery/jquery-ui",
+		"Course1" : "https://www.freecodecamp.org/news/learn-ui-design-in-5-minutes-tutorial/",
+		"Course2" : "https://hackr.io/tutorials/learn-user-interface-design",
+		"Course3" : "https://www.coursera.org/learn/ui-design",
+		"Course4" : "https://www.coursera.org/learn/visual-elements-user-interface-design",
+		"Course5" : "https://www.coursera.org/specializations/user-interface-design",
+		"Tips1" : "https://www.usertesting.com/blog/ui-vs-ux",
+		"Tips2" : "https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda",
+		"Tips3" : "https://medium.com/google-design/the-obvious-ui-is-often-the-best-ui-7a25597d79fd",
+		"Tips4" : "https://soulless.medium.com/5-simple-steps-to-land-a-job-as-ux-designer-with-no-experience-ac7729ca0c7a",
+		"Tips5" : "https://medium.muz.li/how-to-start-ux-ui-designer-career-and-be-successful-297c92e78c4c"
+	},
+
+	{
 		"Title" : "Unix",
 		"Tag" : "Operating System",
 		"Documentation" : "https://www.opengroup.org/membership/forums/platform/unix",
@@ -6470,6 +6674,33 @@
 		"Tips3" : "https://medium.com/nyc-design/ux-ui-design-process-for-beginner-753952bb2241"
 	},
 
+
+	{
+		"Title" : "UXPin",
+		"Tag" : "Software",
+		"Documentation" : "https://www.uxpin.com/",
+		"YT1" : "https://www.youtube.com/watch?v=IrAzCoU39SQ&list=PLTQ1nMZTXSUUOSMKm_icOjaVosG17wbe4",
+		"YT2" : "https://www.youtube.com/watch?v=3zhZIn3r_t0",
+		"YT3" : "https://www.youtube.com/watch?v=U7ho1H3OXUs",
+		"YT4" : "https://www.youtube.com/watch?v=gRH1cADSeP8",
+		"Website1" : "https://www.interaction-design.org/literature/article/a-review-of-uxpin-a-collaborative-ux-design-tool",
+		"Website2" : "https://dribbble.com/uxpin",
+		"Website3" : "https://uxpin8.rssing.com/chan-31621772/latest.php",
+		"Dedicated GH page1" : "https://github.com/uxpin-merge/material-ui-merge",
+		"Dedicated GH page2" : "https://github.com/uxpin-merge/uxpin-merge-boilerplate",
+		"Dedicated GH page3" : "https://github.com/uxpin-merge/carbon-merge",
+		"Dedicated GH page4" : "https://github.com/SonyaMoisset/BOOK-DESIGN-UXpin",
+		"Dedicated GH page5" : "https://github.com/uxpin-merge/zendesk-garden",
+		"Course1" : "https://www.udemy.com/course/fundamentals-of-uxpin/",
+		"Course2" : "https://www.classcentral.com/course/linkedin-learning-uxpin-for-ux-design-31536",
+		"Course3" : "https://www.udemy.com/course/unified-design-engineering-workflow/",
+		"Course4" : "https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide?utm_source=google&utm_medium=cpc&utm_campaign=india_ux_design&utm_content=user_experience_beginner_guide&gclid=Cj0KCQjwytOEBhD5ARIsANnRjVhWUdj4iu61IS_Sm4hn2ZV8sUb1JKsKlI7mVls49l2QRcjOhuP04swaAvrKEALw_wcB",
+		"Course5" : "https://www.pinterest.com/pin/500251471085013540/",
+		"Tips1" : "https://medium.com/meetshahdesign/designing-a-fully-interactive-prototype-for-crypto-app-in-uxpin-ux-ui-design-case-study-ed951d9d0de5",
+		"Tips2" : "https://medium.com/@karenpassmore/why-i-dont-like-uxpin-2063f4f77130",
+		"Tips3" : "https://www.uxpin.com/studio/ebooks/getting-started-ux-getting-paid/",
+		"Tips4" : "https://www.guru99.com/best-ui-ux-design-courses.html"
+	},
 
 	{
 		"Title" : "Vagrant",
@@ -6684,7 +6915,35 @@
 		"Tips7" : "https://engineering.q42.nl/webassembly/ ",
 		"Tips8" : "https://thenewstack.io/talking-wasm-paul-milham-webassembly-may-reinvent-write-ship-code-web/ ",
 		"Image1" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png"
-	},	
+	},
+	 
+	{
+		"Title" : "Web Scraping",
+		"Tag" : "Web Harvesting",
+		"Documentation" : "https://webscraper.io/",
+		"YT1" : "https://www.youtube.com/watch?v=Ful6wfbavK0&list=PLfNXG56H-jTvDt_BrLT65hy-vUrs7vkT9",
+		"YT2" : "https://www.youtube.com/watch?v=hrdDIrT9kJI&list=PL5tcWHG-UPH1fnJw-BvBiiiPUPm1LUKsm",
+		"YT3" : "https://www.youtube.com/watch?v=_AeudsbKYG8&list=PLHnSLOMOPT11ORMDapNppzDKBYnWWP66O",
+		"YT4" : "https://www.youtube.com/watch?v=pLoRrHEsHb0&list=PLmcBskOCOOFUmbUv0CIMuATDVKVrOhBMV",
+		"Website1" : "https://www.cloudflare.com/en-in/learning/bots/what-is-data-scraping/",
+		"Website2" : "https://www.cloudflare.com/en-in/learning/bots/what-is-data-scraping/",
+		"Website3" : "https://www.tutorialspoint.com/python_web_scraping/index.htm",
+		"Dedicated GH page1" : "https://github.com/scrapy/scrapy",
+		"Dedicated GH page2" : "https://github.com/alirezamika/autoscraper",
+		"Dedicated GH page3" : "https://github.com/REMitchell/python-scraping",
+		"Dedicated GH page4" : "https://github.com/je-suis-tm/web-scraping",
+		"Dedicated GH page5" : "https://github.com/kb22/Web-Scraping-using-Python",
+		"Course1" : "https://www.udemy.com/course/web-scraping-in-python-using-scrapy-and-splash/",
+		"Course2" : "https://www.udemy.com/course/scrapy-tutorial-web-scraping-with-python/",
+		"Course3" : "https://www.udemy.com/course/supercharged-web-scraping-with-asyncio-and-python/",
+		"Course4" : "https://www.udemy.com/course/data-scraping-data-mining-from-beginner-to-pro-with-python/",
+		"Course5" : "https://www.datacamp.com/courses/web-scraping-with-python",
+		"Tips1" : "https://towardsdatascience.com/https-medium-com-hiren787-patel-web-scraping-applications-a6f370d316f4",
+		"Tips2" : "https://www.edureka.co/blog/web-scraping-with-python/",
+		"Tips3" : "https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html"
+	},
+
+
 	{
 		"Title" : "WebGL",
 		"Tag" : "Programming language",

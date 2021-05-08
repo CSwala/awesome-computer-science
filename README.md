@@ -17,6 +17,44 @@
 ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) 
 ![Maintenance](https://img.shields.io/maintenance/yes/2021)
 
+<details>
+<summary>3ds MAX</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://www.autodesk.com/products/3ds-max/overview?#3ds-max-intro<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=T_KkXZVkQJw&list=PLMtzJAOD3B7YUSUMdi_beDcI0AMVRztqs<br>
+https://www.youtube.com/watch?v=FBsR7z8zuN8&list=PL1ney1pPb_ecdzupm50WetelOwZDTNb3B<br>
+https://www.youtube.com/watch?v=b6u5HFqhALQ<br>
+<br>
+Useful Websites - <br>
+https://www.autodesk.eu/products/3ds-max/overview<br>
+https://area.autodesk.com/all/tutorials/3ds-max/<br>
+https://3dtotal.com/tutorials/3ds-max<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/topics/autodesk-3ds-max<br>
+https://github.com/ADN-DevTech/3dsMax-OSL-Shaders<br>
+https://github.com/BDM-Lab/3DMax<br>
+https://github.com/ADN-DevTech/3dsMax-Learning-Path<br>
+<br>
+Best Courses - <br>
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjn4f60y7fwAhUbDisKHahfDpEYABADGgJzZg&ae=2&ohost=www.google.com&cid=CAESQOD2T31QaDEy5Vu35M8LFso7O8Du2UjuoNw3eLVfG2rDdTq3ketoJtB1JCUgxW9POU865VMN8XBPcay08nQv1b4&sig=AOD64_2Pir0tDc_jmze0YHhRwjex5TuQqA&q&adurl&ved=2ahUKEwjlg_W0y7fwAhUSjuYKHY--CTkQ0Qx6BAgHEAE<br>
+https://www.udemy.com/course/3d-visualization-for-beginners/<br>
+https://www.udemy.com/course/3ds-max-vray-advanced-arch-viz-interiors-tutorial/<br>
+https://www.udemy.com/course/intro-to-architectural-visualization-using-3ds-max-and-v-ray_zillus/<br>
+https://www.udemy.com/course/full-exterior-workshop-using-3ds-max-vray/<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/imeshup/3ds-max-pros-cons-quirks-and-links-a2a48832dbbe<br>
+https://medium.com/autodesk-university/forget-keyframing-take-real-time-control-of-your-animated-assets-with-3ds-max-5a7f3c9469e3<br>
+https://medium.com/@pink_academy/best-way-to-learn-3ds-max-b16c758df0b6<br>
+<br>
+</details>
 
 
 <details>
@@ -3653,6 +3691,46 @@ https://fireflysemantics.medium.com/inkscape-tips-and-tricks-56bf29e704a8<br>
 <br><br><br>
 </details>
 <details>
+	
+<details>
+<summary>Invision</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://www.invisionapp.com/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/channel/UCndfHdRdEiGOyCOgxQ4W9YQ<br>
+https://www.youtube.com/watch?v=qpTNy-hu3pg&list=PLeWHfyz6lrQXHKy01OlALt3xZRZCPi89V<br>
+https://www.youtube.com/watch?v=vTgKtoU--Z8&list=PLeWHfyz6lrQVorE4QwanvSBJA-Y3JVK-v<br>
+https://www.youtube.com/watch?v=QVhGec6O9DA&list=PL87czO-siTdx8DEo7dXYVqqfWFK9raeM3<br>
+<br>
+Useful Websites - <br>
+https://hackr.io/tutorials/learn-invision<br>
+https://www.toptal.com/designers/ui/invision-studio-tutorial<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/clarklab/sketch-invision-prototype<br>
+https://github.com/mathieudutour/prototypes-invision-sketch<br>
+https://github.com/topics/invision-community<br>
+https://gist.github.com/ivobenedito/530f16d5307eb54af95a<br>
+<br>
+Best Courses - <br>
+https://www.lynda.com/Sketch-tutorials/Sketch-InVision-Designing-Sign-up-Process/748587-2.html<br>
+https://www.coursera.org/lecture/web-design-wireframes-prototypes/invision-introduction-v4O2e<br>
+https://www.udemy.com/course/invision-studio/<br>
+https://www.invisionapp.com/ecourses/fundamental-ui-design<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.geeksforgeeks.org/how-to-make-your-work-from-home-more-productive/<br>
+https://medium.com/inside-design/7-examples-of-animations-made-in-invision-studio-52cfab357d0<br>
+https://medium.com/@InVisionApp/the-future-of-responsive-design-standards-2e4d401e7dc6<br>
+<br>
+</details>
+	
+	
 <summary>Ionic</summary>
 <br>
 Category/Type - <br>Framework <br>
@@ -5851,6 +5929,24 @@ https://www.thegeekstuff.com/2010/01/20-killer-perl-programming-tips-for-beginne
 </details>
 
 <details>
+<summary>Phalcon</summary>
+<br>Category/Type - <br>PHP Framework<br>
+<br>Official Documentation - <br> https://docs.phalcon.io/4.0/en/introduction <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/watch?v=75W-emM4wNQ <br> https://www.youtube.com/playlist?list=PLAeSqFDosTSijRgUeiHPHeWE0kOEZ5ES8 <br>
+https://www.youtube.com/playlist?list=PLmrTMUhqzS3jd8MWP6-TvieKkPpiisJum <br> https://www.youtube.com/watch?v=sIDgETgB0Cw <br>
+https://www.youtube.com/watch?v=v-Bq6FwuemU <br>
+<br>Useful Websites - <br> https://www.tutorialspoint.com/phalcon/index.htm <br> https://www.javatpoint.com/phalcon-tutorial <br> 
+https://www.hostinger.in/tutorials/phalcon-tutorial <br> https://phalcon-php-framework-documentation.readthedocs.io/en/1.2.0/reference/tutorial.html <br> https://docs.phalcon.io/4.0/en/tutorial-basic<br>
+<br>Dedicated Github page - <br> https://github.com/phalcon/awesome-phalcon <br> https://github.com/phalcon <br>
+https://github.com/micheleangioni/phalcon-repositories<br>https://github.com/phalcon/cphalcon<br>
+<br>Best Courses - <br> https://www.udemy.com/course/phalcon-php-framework-for-beginners/ <br>
+https://www.udemy.com/course/phalconphp/ <br> https://www.udemy.com/course/web-development-with-new-framework <br>
+https://code.tutsplus.com/categories/phalcon/courses <br>
+<br>Other Tips / Hacks - <br> https://github.com/mctekk/phalcon-cheat-sheet <br> https://blog.phalcon.io/ <br>
+<br><br>
+</details>
+
+<details>
 <summary>PHP</summary>
 <br>Category/Type - <br>Programming Language<br>
 <br>Official Documentation - <br> https://www.php.net/docs.php <br>
@@ -6669,6 +6765,48 @@ https://slashgear.github.io/react-redux-pitfalls-and-best-pratices/ <br>
 <br>
 </details>
 
+
+<details>
+<summary>Reinforcement Learning</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/Reinforcement_learning#:~:text=Reinforcement%20learning%20(RL)%20is%20an,supervised%20learning%20and%20unsupervised%20learning.<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ<br>
+https://www.youtube.com/watch?v=TIlDzLZPyhY&list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9<br>
+https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u<br>
+https://www.youtube.com/watch?v=LzaWrmKL1Z4<br>
+<br>
+Useful Websites - <br>
+http://www.scholarpedia.org/article/Reinforcement_learning<br>
+https://www.geeksforgeeks.org/what-is-reinforcement-learning/<br>
+https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/dennybritz/reinforcement-learning<br>
+https://github.com/aikorea/awesome-rl<br>
+https://github.com/udacity/deep-reinforcement-learning<br>
+https://github.com/keras-rl/keras-rl<br>
+<br>
+Best Courses - <br>
+https://www.udacity.com/course/reinforcement-learning--ud600<br>
+https://www.coursera.org/specializations/reinforcement-learning<br>
+https://www.udemy.com/course/deep-reinforcement-learning/<br>
+https://www.udemy.com/course/actor-critic-methods-from-paper-to-code-with-pytorch/<br>
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj0rtm53bXwAhUPN2AKHQfYAhIYABACGgJ0bQ&ae=2&ohost=www.google.com&cid=CAESQOD2kA0ex455YmNB7TeDntC5LozZOXCc-iG9e4cbEpl-NZV74vH8JJgLaw7W2kcPicB8v36pqMP2OdYyEr64OwI&sig=AOD64_0-2ZamdrQMTCxUchQAaTq6exm8oQ&q&adurl&ved=2ahUKEwi6os-53bXwAhXhQ3wKHXDUAQEQ0Qx6BAgDEAE<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.kdnuggets.com/2018/03/5-things-reinforcement-learning.html<br>
+https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf<br>
+https://jonathan-hui.medium.com/rl-introduction-to-deep-reinforcement-learning-35c25e04c199<br>
+<br>
+</details>
+
+
 <details>
 <summary>REST API</summary>
 <br>Category/Type - <br> Web Service <br>
@@ -6721,6 +6859,44 @@ https://blog.bitsrc.io/10-tips-for-building-an-api-9ec335601d59?gi=da0e612e7ff0 
 
 <br><br><br>
 </details>
+
+<details>
+<summary>Robotic Process Automation</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://www.uipath.com/rpa/robotic-process-automation<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=MBl-3Yb30FA<br>
+https://www.youtube.com/watch?v=H5VKUajGDdI<br>
+<br>
+Useful Websites - <br>
+https://enterprisersproject.com/article/2019/5/rpa-robotic-process-automation-how-explain<br>
+https://www.automationanywhere.com/rpa/robotic-process-automation<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/automagica/automagica<br>
+https://github.com/robocorp/rpaframework<br>
+https://github.com/PacktPublishing/Robotic-Process-Automation-RPA-for-Developers<br>
+https://github.com/PacktPublishing/Robotic-Process-Automation-Projects<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/robotic-process-automation/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-437115340933_._li_9061756_._pd__._&matchtype=b&gclid=Cj0KCQjwp86EBhD7ARIsAFkgakh0geiv6ihFAIvs1rK8SzmXOF1DRu6q7lo5YH3vGWSXXoULAx4F0_MaAlxjEALw_wcB<br>
+https://www.coursera.org/specializations/rpa-cognitive-analytics<br>
+https://www.coursera.org/learn/rpa-introduction<br>
+https://www.coursera.org/lecture/rpa-introduction/introduction-to-the-course-A3VLA<br>
+https://www.coursera.org/learn/rpa-introduction<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/@ayeshajayasankha/robotic-process-automation-rpa-f112eeeff41c<br>
+https://cigen-rpa.medium.com/8-ways-in-which-robotic-process-automation-rpa-will-change-it-operations-d2acda97767f<br>
+https://medium.com/@cigen_rpa/5-steps-to-implementing-robotic-process-automation-rpa-in-small-and-medium-businesses-b63fabf34534<br>
+<br>
+</details>
+
 
 <details>
 <summary>Ruby</summary>
@@ -7276,6 +7452,85 @@ https://www.infoworld.com/article/3200766/9-shell-tips-every-developer-should-kn
 </a>
 <br><br><br>
 </details>
+
+
+<details>
+<summary>SketchUp studio</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://www.sketchup.com/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=qgt2s9RzvKM<br>
+https://www.youtube.com/watch?v=0RLza05bdNc&list=PLCqXLPQNeiphuDyXZPNW_3m1QcA4Dhsqv<br>
+<br>
+Useful Websites - <br>
+https://www.sketchup.com/plans-and-pricing/sketchup-studio<br>
+https://architosh.com/2020/08/product-review-trimble-sketchup-studio-2020/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/SketchUp/sketchup-extension-vscode-project<br>
+https://github.com/openstudiocoalition/openstudio-sketchup-plugin/releases<br>
+https://github.com/SketchUp/sketchup-live-c-api<br>
+https://github.com/SketchUp/sketchup-yard-templateBr>
+https://github.com/openstudiocoalition/OpenStudioApplication/releases<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/complete-guide-to-sketchup-vray-beginner-to-advanced/<br>
+https://www.udemy.com/course/learn-sketchup-the-right-way/<br>
+https://coursesity.com/course-detail/sketchup-architect-beginner-fast-track<br>
+https://coursesity.com/course-detail/sketchup-pro-tools-and-techniques<br>
+https://coursesity.com/course-detail/sketchup-for-interior-design<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/re-write/re-learning-sketchup-935a44b0f97f<br>
+https://blog.sketchup.com/article/10-tips-for-modeling-large-design-projects<br>
+https://www.arch2o.com/15-simple-tips-to-easily-improve-your-sketchup-skills/<br>
+<br>
+</details>
+
+<details>
+<summary>Socket.io</summary>
+<br>
+Category/Type - Javascript library 
+<br>
+Official Documentation - <br>
+https://socket.io/docs/v4 <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PLrwNNiB6YOA1a0_xXvogmvSHrLcanVKkF <br>
+https://www.youtube.com/playlist?list=PLYPFxrXyK0ByCS-KG6BZYEoXOkRugZuLD <br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9i4V-_ZVwLmOusj8YAUhj_9 <br>
+https://www.youtube.com/watch?v=tHbCkikFfDE <br>
+https://www.youtube.com/playlist?list=PLK0STOMCFms7jQEKo89pHdkO_QdSjDs0t <br>
+<br>
+Useful Websites - <br>
+https://www.tutorialspoint.com/socket.io/index.htm <br>
+https://www.npmjs.com/package/socket.io <br>
+https://tsh.io/blog/socket-io-tutorial-real-time-communication/ <br>
+https://stackoverflow.com/questions/9914816/what-is-an-example-of-the-simplest-possible-socket-io-example <br>
+https://cdnjs.com/libraries/socket.io <br>
+https://hackr.io/tutorials/learn-socket-io <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/socketio/socket.io <br>
+https://github.com/socketio/chat-example <br>
+https://github.com/socketio/socket.io-client<br>
+<br>
+Best Courses - <br>
+https://www.pluralsight.com/courses/socket-io-building-real-time-applications <br>
+https://www.udemy.com/course/socketio-with-websockets-the-details/ <br>
+https://www.udemy.com/course/node-with-socketio-build-a-full-web-chat-app-from-scratch/ <br>
+<br>
+Other Tips/Hacks - <br>
+https://dev.to/kauresss/socket-io-guide-for-newbies-5hdm <br>
+https://medium.com/@rloperena/quick-guide-to-socket-io-basics-59b07c39c6ec <br>
+https://dzone.com/articles/socketio-the-good-the-bad-and-the-ugly <br>
+</details>
+
 
 <details>
 <summary>Solidity </summary>
@@ -7885,6 +8140,7 @@ https://folinoid.com/show/theano/<br>
 <br><br><br>
 </details>
 
+<details>
 <summary>TinkerCAD</summary>
 <br>
 Category/Type - <br>
@@ -8025,6 +8281,51 @@ https://www.codeguru.com/csharp/csharp/cs_graphics/20-unity-tips.html <br> https
 http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/ <br>
 </details>
 <details>
+	
+<details>
+<summary>User Interface</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://en.wikipedia.org/wiki/User_interface<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=jLQauZP2e_4&list=PLLy_2iUCG87CEsW4KimdWPXEo80TaJfnP<br>
+https://www.youtube.com/watch?v=I0-vBdh4sZ8&list=RDQMucuK-B3KXfw&start_radio=1<br>
+https://www.youtube.com/watch?v=qDUYIQZVQDE&list=PLVlQHNRLflP_5_vCknMsxLS-mTJgq1QzH<br>
+https://www.youtube.com/watch?v=3aOU9MbITlM&list=PLjwm_8O3suyPkIphVrJaebR2qE8jylWBQ<br>
+<br>
+Useful Websites - <br>
+https://www.interaction-design.org/literature/topics/ui-design<br>
+https://www.tutorialspoint.com/software_architecture_design/user_interface.htm<br>
+https://www.geeksforgeeks.org/user-interface-ui/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/chakra-ui/chakra-ui<br>
+https://github.com/mui-org/material-ui<br>
+https://github.com/system-ui/theme-ui<br>
+https://github.com/klarna/ui"<br>
+https://github.com/jquery/jquery-ui<br>,
+<br>
+Best Courses - <br>
+https://www.freecodecamp.org/news/learn-ui-design-in-5-minutes-tutorial/<br>
+https://hackr.io/tutorials/learn-user-interface-design<br>
+https://www.coursera.org/learn/ui-design<br>
+https://www.coursera.org/learn/visual-elements-user-interface-design<br>
+https://www.coursera.org/specializations/user-interface-design<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.usertesting.com/blog/ui-vs-ux<br>
+https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda<br>
+https://medium.com/google-design/the-obvious-ui-is-often-the-best-ui-7a25597d79fd<br>
+https://soulless.medium.com/5-simple-steps-to-land-a-job-as-ux-designer-with-no-experience-ac7729ca0c7a<br>
+https://medium.muz.li/how-to-start-ux-ui-designer-career-and-be-successful-297c92e78c4c<br>
+<br>
+</details>
+	
+	
 <summary>Unix</summary>
 <br>Category/Type - <br> Operating System<br>
 <br>Official Documentation - <br>
@@ -8094,41 +8395,13 @@ https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https:
 
 
 <details>
-<summary>User Experience</summary>
+
 <br>
 Category/Type - <br>
 Development<br>
 <br>
 Documentation - <br>
-https://uxplanet.org/<br>
-<br>
-Best Youtube creators - <br>
-https://www.youtube.com/channel/UCxM6G42vmI752f60od3Gypw/videos<br>
-https://www.youtube.com/user/JesseAtomic/<br>
-https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw<br>
-https://www.youtube.com/user/NNgroup/videos<br>
-<br>
-Useful Websites - <br>
-https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/<br>
-https://www.interaction-design.org/literature/topics/ux-design<br>
-https://www.crazyegg.com/blog/what-is-user-experience/<br>
-<br>
-Dedicated Github page - <br>
-https://github.com/netoguimaraes/awesome-ux<br>
-https://github.com/gregjw/ui-ux<br>
-https://gist.github.com/teybannerman/9c234424eb1d940a8505<br>
-<br>
-Best Courses - <br>
-https://www.coursera.org/specializations/ui-ux-design<br>
-https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiwkZmE2bXwAhWKZIsKHb_UBBoYABAHGgJ0bQ&ohost=www.google.com&cid=CAESQOD2wOG6mcRD3v4YcvJ4G4kLQYvvs2yN0zmXls13WDUS7ElMavzhP4eIVR40B1i3gM_do4tZLl3Yi3GpFH93dFc&sig=AOD64_19gmhcNqgBA37DAekvJhMHBQtf5Q&q&adurl&ved=2ahUKEwjQ7o2E2bXwAhVh63MBHTiDDFkQ0Qx6BAgEEAE<br>
-https://www.coursera.org/learn/ux-design-fundamentals<br>
-https://www.udemy.com/course/user-experience-design-fundamentals/<br>
-https://www.udemy.com/course/ultimate-guide-to-ux/<br>
-<br>
-Other Tips/Hacks - <br>
-https://medium.com/@thinkwik/do-you-know-the-importance-of-ui-ux-development-773eae38436e#:~:text=User%20Experience%20(UX)%20Development%20is,basic%20skeleton%20of%20any%20application.<br>
-https://usabilitygeek.com/big-differences-ux-ui-design/<br>
-https://medium.com/nyc-design/ux-ui-design-process-for-beginner-753952bb2241<br>
+
 <br>
 </details>
 
@@ -8470,6 +8743,50 @@ https://webglinsights.github.io/tips.html<br>
 </a>
 <br><br><br>
 </details>
+ 
+
+<details>
+<summary>Web Scraping</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://webscraper.io/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=Ful6wfbavK0&list=PLfNXG56H-jTvDt_BrLT65hy-vUrs7vkT9<br>
+https://www.youtube.com/watch?v=hrdDIrT9kJI&list=PL5tcWHG-UPH1fnJw-BvBiiiPUPm1LUKsm<br>
+https://www.youtube.com/watch?v=_AeudsbKYG8&list=PLHnSLOMOPT11ORMDapNppzDKBYnWWP66O<br>
+https://www.youtube.com/watch?v=pLoRrHEsHb0&list=PLmcBskOCOOFUmbUv0CIMuATDVKVrOhBMV<br>
+<br>
+Useful Websites - <br>
+https://www.cloudflare.com/en-in/learning/bots/what-is-data-scraping/<br>
+https://www.cloudflare.com/en-in/learning/bots/what-is-data-scraping/<br>
+https://www.tutorialspoint.com/python_web_scraping/index.htm<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/scrapy/scrapy<br>
+https://github.com/alirezamika/autoscraper<br>
+https://github.com/REMitchell/python-scraping<br>
+https://github.com/je-suis-tm/web-scraping<br>
+https://github.com/kb22/Web-Scraping-using-Python<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/web-scraping-in-python-using-scrapy-and-splash/<br>
+https://www.udemy.com/course/scrapy-tutorial-web-scraping-with-python/<br>
+https://www.udemy.com/course/supercharged-web-scraping-with-asyncio-and-python/<br>
+https://www.udemy.com/course/data-scraping-data-mining-from-beginner-to-pro-with-python/<br>
+https://www.datacamp.com/courses/web-scraping-with-python<br>
+<br>
+Other Tips/Hacks - <br>
+https://towardsdatascience.com/https-medium-com-hiren787-patel-web-scraping-applications-a6f370d316f4<br>
+https://www.edureka.co/blog/web-scraping-with-python/<br>
+https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html<br>
+<br>
+</details>
+
+
   
 <details>  
 <summary>WordPress</summary>
