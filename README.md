@@ -8242,7 +8242,6 @@ https://www.youtube.com/watch?v=6uG9vtckp1U&list=PLs-8CSaashXw3OJpdJ_A8GTDQq0np7
 <br>
 Useful Websites - <br>
 https://www.investopedia.com/terms/v/virtual-reality.asp#:~:text=Virtual%20reality%20(VR)%20refers%20to,or%20gloves%20fitted%20with%20sensors.<br>
-https://arvr.google.com/vr/<br>
 https://www.britannica.com/technology/virtual-reality<br>
 <br>
 Dedicated Github page - <br>
