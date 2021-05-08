@@ -6889,7 +6889,35 @@
 		"Tips7" : "https://engineering.q42.nl/webassembly/ ",
 		"Tips8" : "https://thenewstack.io/talking-wasm-paul-milham-webassembly-may-reinvent-write-ship-code-web/ ",
 		"Image1" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png"
-	},	
+	},
+	 
+	{
+		"Title" : "Web Scraping",
+		"Tag" : "Web Harvesting",
+		"Documentation" : "https://webscraper.io/",
+		"YT1" : "https://www.youtube.com/watch?v=Ful6wfbavK0&list=PLfNXG56H-jTvDt_BrLT65hy-vUrs7vkT9",
+		"YT2" : "https://www.youtube.com/watch?v=hrdDIrT9kJI&list=PL5tcWHG-UPH1fnJw-BvBiiiPUPm1LUKsm",
+		"YT3" : "https://www.youtube.com/watch?v=_AeudsbKYG8&list=PLHnSLOMOPT11ORMDapNppzDKBYnWWP66O",
+		"YT4" : "https://www.youtube.com/watch?v=pLoRrHEsHb0&list=PLmcBskOCOOFUmbUv0CIMuATDVKVrOhBMV",
+		"Website1" : "https://www.cloudflare.com/en-in/learning/bots/what-is-data-scraping/",
+		"Website2" : "https://www.cloudflare.com/en-in/learning/bots/what-is-data-scraping/",
+		"Website3" : "https://www.tutorialspoint.com/python_web_scraping/index.htm",
+		"Dedicated GH page1" : "https://github.com/scrapy/scrapy",
+		"Dedicated GH page2" : "https://github.com/alirezamika/autoscraper",
+		"Dedicated GH page3" : "https://github.com/REMitchell/python-scraping",
+		"Dedicated GH page4" : "https://github.com/je-suis-tm/web-scraping",
+		"Dedicated GH page5" : "https://github.com/kb22/Web-Scraping-using-Python",
+		"Course1" : "https://www.udemy.com/course/web-scraping-in-python-using-scrapy-and-splash/",
+		"Course2" : "https://www.udemy.com/course/scrapy-tutorial-web-scraping-with-python/",
+		"Course3" : "https://www.udemy.com/course/supercharged-web-scraping-with-asyncio-and-python/",
+		"Course4" : "https://www.udemy.com/course/data-scraping-data-mining-from-beginner-to-pro-with-python/",
+		"Course5" : "https://www.datacamp.com/courses/web-scraping-with-python",
+		"Tips1" : "https://towardsdatascience.com/https-medium-com-hiren787-patel-web-scraping-applications-a6f370d316f4",
+		"Tips2" : "https://www.edureka.co/blog/web-scraping-with-python/",
+		"Tips3" : "https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html"
+	},
+
+
 	{
 		"Title" : "WebGL",
 		"Tag" : "Programming language",
