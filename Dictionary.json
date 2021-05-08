@@ -5920,6 +5920,32 @@
 		"Tips2" : "https://blog.sketchup.com/article/10-tips-for-modeling-large-design-projects",
 		"Tips3" : "https://www.arch2o.com/15-simple-tips-to-easily-improve-your-sketchup-skills/"
 	},
+	 
+	   {
+    "Title": "Socket.io",
+    "Tag": " JavaScript library ",
+    "Documentation": "https://socket.io/docs/v4",
+    "YT1": "https://www.youtube.com/playlist?list=PLrwNNiB6YOA1a0_xXvogmvSHrLcanVKkF",
+    "YT2": "https://www.youtube.com/playlist?list=PLYPFxrXyK0ByCS-KG6BZYEoXOkRugZuLD",
+    "YT3": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9i4V-_ZVwLmOusj8YAUhj_9",
+    "YT4": "https://www.youtube.com/watch?v=tHbCkikFfDE",
+    "YT5": "https://www.youtube.com/playlist?list=PLK0STOMCFms7jQEKo89pHdkO_QdSjDs0t",
+    "Website1": "https://www.tutorialspoint.com/socket.io/index.htm",
+    "Website2": "https://www.npmjs.com/package/socket.io",
+    "Website3": "https://tsh.io/blog/socket-io-tutorial-real-time-communication/",
+    "Website4": "https://stackoverflow.com/questions/9914816/what-is-an-example-of-the-simplest-possible-socket-io-example",
+    "Website5": "https://cdnjs.com/libraries/socket.io",
+    "Website6": "https://hackr.io/tutorials/learn-socket-io",
+    "Dedicated GH page1": "https://github.com/socketio/socket.io",
+    "Dedicated GH page2": "https://github.com/socketio/chat-example",
+    "Dedicated GH page3": "https://github.com/socketio/socket.io-client",
+    "Course1": "https://www.pluralsight.com/courses/socket-io-building-real-time-applications",
+    "Course2": "https://www.udemy.com/course/socketio-with-websockets-the-details/",
+    "Course3": "https://www.udemy.com/course/node-with-socketio-build-a-full-web-chat-app-from-scratch/",
+    "Tips1": "https://dev.to/kauresss/socket-io-guide-for-newbies-5hdm",
+    "Tips2": "https://medium.com/@rloperena/quick-guide-to-socket-io-basics-59b07c39c6ec",
+    "Tips3": "https://dzone.com/articles/socketio-the-good-the-bad-and-the-ugly"
+  },
  
 	 
 	{

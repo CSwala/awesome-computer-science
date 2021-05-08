@@ -7492,6 +7492,45 @@ https://www.arch2o.com/15-simple-tips-to-easily-improve-your-sketchup-skills/<br
 <br>
 </details>
 
+<details>
+<summary>Socket.io</summary>
+<br>
+Category/Type - Javascript library 
+<br>
+Official Documentation - <br>
+https://socket.io/docs/v4 <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PLrwNNiB6YOA1a0_xXvogmvSHrLcanVKkF <br>
+https://www.youtube.com/playlist?list=PLYPFxrXyK0ByCS-KG6BZYEoXOkRugZuLD <br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9i4V-_ZVwLmOusj8YAUhj_9 <br>
+https://www.youtube.com/watch?v=tHbCkikFfDE <br>
+https://www.youtube.com/playlist?list=PLK0STOMCFms7jQEKo89pHdkO_QdSjDs0t <br>
+<br>
+Useful Websites - <br>
+https://www.tutorialspoint.com/socket.io/index.htm <br>
+https://www.npmjs.com/package/socket.io <br>
+https://tsh.io/blog/socket-io-tutorial-real-time-communication/ <br>
+https://stackoverflow.com/questions/9914816/what-is-an-example-of-the-simplest-possible-socket-io-example <br>
+https://cdnjs.com/libraries/socket.io <br>
+https://hackr.io/tutorials/learn-socket-io <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/socketio/socket.io <br>
+https://github.com/socketio/chat-example <br>
+https://github.com/socketio/socket.io-client<br>
+<br>
+Best Courses - <br>
+https://www.pluralsight.com/courses/socket-io-building-real-time-applications <br>
+https://www.udemy.com/course/socketio-with-websockets-the-details/ <br>
+https://www.udemy.com/course/node-with-socketio-build-a-full-web-chat-app-from-scratch/ <br>
+<br>
+Other Tips/Hacks - <br>
+https://dev.to/kauresss/socket-io-guide-for-newbies-5hdm <br>
+https://medium.com/@rloperena/quick-guide-to-socket-io-basics-59b07c39c6ec <br>
+https://dzone.com/articles/socketio-the-good-the-bad-and-the-ugly <br>
+</details>
+
 
 <details>
 <summary>Solidity </summary>
