@@ -6449,11 +6449,11 @@
 	{
 		"Title" : "UX",
 		"Tag" : "Development",
-		"Documentation" : "https://en.wikipedia.org/wiki/User_experience_design",
-		"YT1" : "https://www.youtube.com/watch?v=uL2ZB7XXIgg",
-		"YT2" : "https://www.youtube.com/watch?v=KqnAqVIe-jc",
-		"YT3" : "https://www.youtube.com/watch?v=wpmHZspl4EM&list=PLttcEXjN1UcHZj_6PaZYyh9PzPFgKHdB1",
-		"YT4" : "https://www.youtube.com/watch?v=I0-vBdh4sZ8&list=RDQMRCbSjBKXxFo&start_radio=1",
+		"Documentation" : "https://uxplanet.org/",
+		"YT1" : "https://www.youtube.com/channel/UCxM6G42vmI752f60od3Gypw/videos",
+		"YT2" : "https://www.youtube.com/user/JesseAtomic/",
+		"YT3" : "https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw",
+		"YT4" : "https://www.youtube.com/user/NNgroup/videos",
 		"Website1" : "https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/",
 		"Website2" : "https://www.interaction-design.org/literature/topics/ux-design",
 		"Website3" : "https://www.crazyegg.com/blog/what-is-user-experience/",
@@ -6469,6 +6469,7 @@
 		"Tips2" : "https://usabilitygeek.com/big-differences-ux-ui-design/",
 		"Tips3" : "https://medium.com/nyc-design/ux-ui-design-process-for-beginner-753952bb2241"
 	},
+
 
 	{
 		"Title" : "Vagrant",
