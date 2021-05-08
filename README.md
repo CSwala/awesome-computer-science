@@ -8429,6 +8429,7 @@ https://webglinsights.github.io/tips.html<br>
 <br><br><br>
 </details>
  
+
 <details>
 <summary>Web Scraping</summary>
 <br>
@@ -8436,15 +8437,16 @@ Category/Type - <br>
 Development<br>
 <br>
 Documentation - <br>
-https://en.wikipedia.org/wiki/Web_scraping<br>
+https://webscraper.io/<br>
 <br>
 Best Youtube creators - <br>
-https://www.youtube.com/watch?v=XVv6mJpFOb0<br>
-https://www.youtube.com/watch?v=uufDGjTuq34<br>
-https://www.youtube.com/watch?v=NeAhhBRHy4E<br> 
-https://www.youtube.com/watch?v=ZzqkrBOxtes<br>
+https://www.youtube.com/watch?v=Ful6wfbavK0&list=PLfNXG56H-jTvDt_BrLT65hy-vUrs7vkT9<br>
+https://www.youtube.com/watch?v=hrdDIrT9kJI&list=PL5tcWHG-UPH1fnJw-BvBiiiPUPm1LUKsm<br>
+https://www.youtube.com/watch?v=_AeudsbKYG8&list=PLHnSLOMOPT11ORMDapNppzDKBYnWWP66O<br>
+https://www.youtube.com/watch?v=pLoRrHEsHb0&list=PLmcBskOCOOFUmbUv0CIMuATDVKVrOhBMV<br>
+<br>
 Useful Websites - <br>
-https://webscraper.io/<br>
+https://www.cloudflare.com/en-in/learning/bots/what-is-data-scraping/<br>
 https://www.cloudflare.com/en-in/learning/bots/what-is-data-scraping/<br>
 https://www.tutorialspoint.com/python_web_scraping/index.htm<br>
 <br>
@@ -8468,6 +8470,7 @@ https://www.edureka.co/blog/web-scraping-with-python/<br>
 https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html<br>
 <br>
 </details>
+
 
   
 <details>  
