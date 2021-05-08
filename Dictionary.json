@@ -6624,6 +6624,33 @@
 		"Tips7" : "http://www.tharlevfx.com/unreal-tips-and-tricks"
 	},
 	{
+		"Title" : "UXPin",
+		"Tag" : "Software",
+		"Documentation" : "https://www.uxpin.com/",
+		"YT1" : "https://www.youtube.com/watch?v=IrAzCoU39SQ&list=PLTQ1nMZTXSUUOSMKm_icOjaVosG17wbe4",
+		"YT2" : "https://www.youtube.com/watch?v=3zhZIn3r_t0",
+		"YT3" : "https://www.youtube.com/watch?v=U7ho1H3OXUs",
+		"YT4" : "https://www.youtube.com/watch?v=gRH1cADSeP8",
+		"Website1" : "https://www.interaction-design.org/literature/article/a-review-of-uxpin-a-collaborative-ux-design-tool",
+		"Website2" : "https://dribbble.com/uxpin",
+		"Website3" : "https://uxpin8.rssing.com/chan-31621772/latest.php",
+		"Dedicated GH page1" : "https://github.com/uxpin-merge/material-ui-merge",
+		"Dedicated GH page2" : "https://github.com/uxpin-merge/uxpin-merge-boilerplate",
+		"Dedicated GH page3" : "https://github.com/uxpin-merge/carbon-merge",
+		"Dedicated GH page4" : "https://github.com/SonyaMoisset/BOOK-DESIGN-UXpin",
+		"Dedicated GH page5" : "https://github.com/uxpin-merge/zendesk-garden",
+		"Course1" : "https://www.udemy.com/course/fundamentals-of-uxpin/",
+		"Course2" : "https://www.classcentral.com/course/linkedin-learning-uxpin-for-ux-design-31536",
+		"Course3" : "https://www.udemy.com/course/unified-design-engineering-workflow/",
+		"Course4" : "https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide?utm_source=google&utm_medium=cpc&utm_campaign=india_ux_design&utm_content=user_experience_beginner_guide&gclid=Cj0KCQjwytOEBhD5ARIsANnRjVhWUdj4iu61IS_Sm4hn2ZV8sUb1JKsKlI7mVls49l2QRcjOhuP04swaAvrKEALw_wcB",
+		"Course5" : "https://www.pinterest.com/pin/500251471085013540/",
+		"Tips1" : "https://medium.com/meetshahdesign/designing-a-fully-interactive-prototype-for-crypto-app-in-uxpin-ux-ui-design-case-study-ed951d9d0de5",
+		"Tips2" : "https://medium.com/@karenpassmore/why-i-dont-like-uxpin-2063f4f77130",
+		"Tips3" : "https://www.uxpin.com/studio/ebooks/getting-started-ux-getting-paid/",
+		"Tips4" : "https://www.guru99.com/best-ui-ux-design-courses.html"
+	},
+
+	{
 		"Title" : "Vagrant",
 		"Tag" : "Virtual Machine management software",
 		"Documentation" : "https://www.vagrantup.com/docs",
