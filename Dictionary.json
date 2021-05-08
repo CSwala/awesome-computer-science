@@ -6663,12 +6663,12 @@
 	{
 		"Title" : "Web Scraping",
 		"Tag" : "Web Harvesting",
-		"Documentation" : "https://en.wikipedia.org/wiki/Web_scraping",
-		"YT1" : "https://www.youtube.com/watch?v=XVv6mJpFOb0",
-		"YT2" : "https://www.youtube.com/watch?v=uufDGjTuq34",
-		"YT3" : "https://www.youtube.com/watch?v=NeAhhBRHy4E",
-		"YT4" : "https://www.youtube.com/watch?v=ZzqkrBOxtes",
-		"Website1" : "https://webscraper.io/",
+		"Documentation" : "https://webscraper.io/",
+		"YT1" : "https://www.youtube.com/watch?v=Ful6wfbavK0&list=PLfNXG56H-jTvDt_BrLT65hy-vUrs7vkT9",
+		"YT2" : "https://www.youtube.com/watch?v=hrdDIrT9kJI&list=PL5tcWHG-UPH1fnJw-BvBiiiPUPm1LUKsm",
+		"YT3" : "https://www.youtube.com/watch?v=_AeudsbKYG8&list=PLHnSLOMOPT11ORMDapNppzDKBYnWWP66O",
+		"YT4" : "https://www.youtube.com/watch?v=pLoRrHEsHb0&list=PLmcBskOCOOFUmbUv0CIMuATDVKVrOhBMV",
+		"Website1" : "https://www.cloudflare.com/en-in/learning/bots/what-is-data-scraping/",
 		"Website2" : "https://www.cloudflare.com/en-in/learning/bots/what-is-data-scraping/",
 		"Website3" : "https://www.tutorialspoint.com/python_web_scraping/index.htm",
 		"Dedicated GH page1" : "https://github.com/scrapy/scrapy",
@@ -6685,6 +6685,7 @@
 		"Tips2" : "https://www.edureka.co/blog/web-scraping-with-python/",
 		"Tips3" : "https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html"
 	},
+
 
 	{
 		"Title" : "WebGL",
