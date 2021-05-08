@@ -5851,6 +5851,24 @@ https://www.thegeekstuff.com/2010/01/20-killer-perl-programming-tips-for-beginne
 </details>
 
 <details>
+<summary>Phalcon</summary>
+<br>Category/Type - <br>PHP Framework<br>
+<br>Official Documentation - <br> https://docs.phalcon.io/4.0/en/introduction <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/watch?v=75W-emM4wNQ <br> https://www.youtube.com/playlist?list=PLAeSqFDosTSijRgUeiHPHeWE0kOEZ5ES8 <br>
+https://www.youtube.com/playlist?list=PLmrTMUhqzS3jd8MWP6-TvieKkPpiisJum <br> https://www.youtube.com/watch?v=sIDgETgB0Cw <br>
+https://www.youtube.com/watch?v=v-Bq6FwuemU <br>
+<br>Useful Websites - <br> https://www.tutorialspoint.com/phalcon/index.htm <br> https://www.javatpoint.com/phalcon-tutorial <br> 
+https://www.hostinger.in/tutorials/phalcon-tutorial <br> https://phalcon-php-framework-documentation.readthedocs.io/en/1.2.0/reference/tutorial.html <br> https://docs.phalcon.io/4.0/en/tutorial-basic<br>
+<br>Dedicated Github page - <br> https://github.com/phalcon/awesome-phalcon <br> https://github.com/phalcon <br>
+https://github.com/micheleangioni/phalcon-repositories<br>https://github.com/phalcon/cphalcon<br>
+<br>Best Courses - <br> https://www.udemy.com/course/phalcon-php-framework-for-beginners/ <br>
+https://www.udemy.com/course/phalconphp/ <br> https://www.udemy.com/course/web-development-with-new-framework <br>
+https://code.tutsplus.com/categories/phalcon/courses <br>
+<br>Other Tips / Hacks - <br> https://github.com/mctekk/phalcon-cheat-sheet <br> https://blog.phalcon.io/ <br>
+<br><br>
+</details>
+
+<details>
 <summary>PHP</summary>
 <br>Category/Type - <br>Programming Language<br>
 <br>Official Documentation - <br> https://www.php.net/docs.php <br>
