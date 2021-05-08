@@ -24,7 +24,7 @@ Category/Type - <br>
 Development<br>
 <br>
 Documentation - <br>
-https://en.wikipedia.org/wiki/Autodesk_3ds_Max<br>
+https://www.autodesk.com/products/3ds-max/overview?#3ds-max-intro<br>
 <br>
 Best Youtube creators - <br>
 https://www.youtube.com/watch?v=T_KkXZVkQJw&list=PLMtzJAOD3B7YUSUMdi_beDcI0AMVRztqs<br>
