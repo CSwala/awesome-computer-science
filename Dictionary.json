@@ -5462,6 +5462,34 @@
 		"Tips3" : "https://jonathan-hui.medium.com/rl-introduction-to-deep-reinforcement-learning-35c25e04c199"
 	},
 
+	{
+		"Title" : "Requests",
+		"Tag" : "HTTP Library",
+		"Documentation" : "https://docs.python-requests.org",
+		"YT1" : "https://www.youtube.com/watch?v=tb8gHvYlCFs",
+		"YT2" : "https://www.youtube.com/watch?v=u6_aYV-1LAE",
+		"YT3" : "https://www.youtube.com/watch?v=iv-Uc8d3tDs",
+		"YT4" : "https://www.youtube.com/watch?v=a6fIbtFB46g",
+		"YT5" : "https://www.youtube.com/watch?v=wMf7LJn0k4U",
+		"YT6" : "https://www.youtube.com/watch?v=KnBntO0wayk",
+		"Website1" : "https://pypi.org/project/requests/",
+		"Website2" : "https://realpython.com/python-requests/",
+		"Website3" : "https://www.w3schools.com/python/module_requests.asp",
+		"Website4" : "https://docs.python-requests.org/en/master/",
+		"Website5" : "https://laravel.com/docs/8.x/requests",
+		"Website6": "https://www.geeksforgeeks.org/python-requests-tutorial/",
+		"Dedicated GH page1" : "https://github.com/psf/requests",
+		"Dedicated GH page2" : "https://github.com/js-org/js.org",
+		"Course1" : "https://www.coursera.org/lecture/data-collection-processing-python/the-requests-module-bJfPx",
+		"Course2" : "https://www.udemy.com/course/learn-python-requests/",
+		"Course3" : "https://docs.moodle.org/19/en/Course_request",
+		"Course4" : "https://realpython.com/lessons/requests-introduction-overview/",
+		"Course5" : "https://www.edureka.co/blog/python-requests-tutorial/",
+		"Tips1" : "https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html",
+		"Tips2" : "https://www.geeksforgeeks.org/10-essential-python-tips-tricks-programmers/",
+		"Tips3" : "https://www.codementor.io/blog/python-web-scraping-63l2v9sf2q",
+		"Tips4" : "https://medium.com/@meenakshi052003/top-8-tips-for-web-scraping-in-python-f07cd3229c26"
+	},
 	 
 	 
 	{

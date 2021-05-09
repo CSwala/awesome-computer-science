@@ -6898,6 +6898,51 @@ https://jonathan-hui.medium.com/rl-introduction-to-deep-reinforcement-learning-3
 <br>
 </details>
 
+details>
+<summary>Requests</summary>
+<br>
+Category/Type - <br>
+HTTP Library<br>
+<br>
+Documentation - <br>
+https://docs.python-requests.org<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=tb8gHvYlCFs<br>
+https://www.youtube.com/watch?v=u6_aYV-1LAE<br>
+https://www.youtube.com/watch?v=iv-Uc8d3tDs<br>
+https://www.youtube.com/watch?v=a6fIbtFB46g<br>
+https://www.youtube.com/watch?v=wMf7LJn0k4U<br>
+https://www.youtube.com/watch?v=KnBntO0wayk<br>
+<br>
+Useful Websites - <br>
+https://pypi.org/project/requests/<br>
+https://realpython.com/python-requests/<br>
+https://www.w3schools.com/python/module_requests.asp<br>
+https://docs.python-requests.org/en/master/<br>
+https://laravel.com/docs/8.x/requests<br>
+https://www.geeksforgeeks.org/python-requests-tutorial/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/psf/requests<br>
+https://github.com/js-org/js.org<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/lecture/data-collection-processing-python/the-requests-module-bJfPx<br>
+https://www.udemy.com/course/learn-python-requests/<br>
+https://docs.moodle.org/19/en/Course_request<br>
+https://realpython.com/lessons/requests-introduction-overview/<br>
+https://www.edureka.co/blog/python-requests-tutorial/<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html<br>
+https://www.geeksforgeeks.org/10-essential-python-tips-tricks-programmers/<br>
+https://www.codementor.io/blog/python-web-scraping-63l2v9sf2q<br>
+https://medium.com/@meenakshi052003/top-8-tips-for-web-scraping-in-python-f07cd3229c26<br>
+<br>
+</details>
+
+
 
 <details>
 <summary>REST API</summary>
