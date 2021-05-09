@@ -8221,6 +8221,35 @@ https://all3dp.com/2/tinkercad-arduino-how-to-design-simulate-circuits/#:~:text=
 </details>
 
 <details>
+<summary>Turtle</summary>
+<br>Category/Type - <br> Python Library <br>
+<br>Official Documentation - <br> https://docs.python.org/3/library/turtle.html <br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PLztVVS4n98EcF7LSfdFYBOy2lrxnMuVfi <br>
+https://www.youtube.com/watch?v=ZPSRwUci3CM<br>
+https://www.youtube.com/playlist?list=PLzMcBGfZo4-kfGgYZb9dwW3VhoBRG0h9c<br>
+https://www.youtube.com/playlist?list=PLzgPDYo_3xumT2sfELR4_YV3aojaxkUC9<br>
+<br>Useful Websites -<br>
+https://realpython.com/beginners-guide-python-turtle/<br>
+https://runestone.academy/runestone/books/published/thinkcspy/PythonTurtle/OurFirstTurtleProgram.html<br>
+https://medium.com/analytics-vidhya/helloworld-with-turtle-graphics-in-python-cd34503c8875<br>
+https://medium.com/analytics-vidhya/turtle-in-python-6efc3494b26e<br>
+<br>Dedicated Github Pages - <br>
+https://github.com/PythonTurtle/PythonTurtle<br>
+https://github.com/asweigart/simple-turtle-tutorial-for-python/blob/master/simple_turtle_tutorial.md<br>
+https://github.com/topics/python-turtle<br>
+https://github.com/smahesh29/Games-Python-Turtle<br>
+<br>Best Courses<br>
+https://www.coursera.org/lecture/python-basics/our-first-turtle-program-TOxha<br>
+https://www.udemy.com/course/python-turtle-art/<br>
+https://www.udemy.com/course/python-game-development-build-11-total-games/<br>
+<br>Other Tips/Hacks - <br>
+http://www.openbookproject.net/thinkcs/archive/python/thinkcspy3e_abandoned/ch03.html <br>
+https://trinket.io/python/eb7273e016<br>
+https://workshops.hackclub.com/python_turtle/<br>
+</details>
+
+<details>
 <summary>TypeScript</summary>
 <br>Category/Type - <br> Programming Language <br>
 <br>Official Documentation - <br> https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html <br>
