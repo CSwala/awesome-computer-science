@@ -2737,8 +2737,59 @@ https://www.ig.com/en/ethereum-trading/how-to-trade-ethereum <br>
 https://www.techrepublic.com/article/ethereum-a-cheat-sheet-for-professionals/ <br>	
 https://www.daytrading.com/ethereum <br>
 <br>
-
 </details>
+
+<details>
+<summary>Ethical Hacking</summary>
+<br>
+Category/Type - <br>
+Computer Security<br>
+<br>
+Documentation - <br>
+https://www.eccouncil.org/ethical-hacking/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/c/LiveOverflowCTF<br>
+https://www.youtube.com/c/STOKfredrik<br>
+https://www.youtube.com/c/InsiderPhD<br>
+https://www.youtube.com/c/DCcybersec<br>
+https://www.youtube.com/c/ippsec<br>
+https://www.youtube.com/c/Nahamsec<br>
+https://www.youtube.com/c/JohnHammond010<br>
+<br>
+Useful Websites - <br>
+https://www.tutorialspoint.com/ethical_hacking/index.htm<br>
+https://www.w3schools.in/category/ethical-hacking/<br>
+https://www.fita.in/ethical-hacking-tutorial/<br>
+https://www.geeksforgeeks.org/introduction-to-ethical-hacking/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources<br>
+https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools<br>
+https://github.com/The-Art-of-Hacking/h4cker<br>
+https://github.com/blackhatethicalhacking<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/learn-ethical-hacking-from-scratch/<br>
+https://www.udemy.com/course/ethicalhacker/<br>
+https://www.udemy.com/course/penetration-testing/<br>
+https://www.udemy.com/course/ethical-hacking-professional/<br>
+https://www.udemy.com/course/complete-ethical-hacking-bootcamp-zero-to-mastery/ <br>
+https://alison.com/course/ethical-hacker<br>
+https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking?contextUrn=urn%3Ali%3AlyndaLearningPath%3A58b35a4b498e4bdbb44ff960<br>
+https://www.offensive-security.com/courses-and-certifications/<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.geeksforgeeks.org/how-to-make-a-career-in-ethical-hacking/<br>
+https://medium.com/edureka/ethical-hacking-tutorial-1081f4aacc53<br>
+https://medium.com/technology-hits/ethical-hacking-bcf212c9648c<br>
+https://medium.com/lotus-fruit/the-benefits-of-learning-ethical-hacking-97be7c30f4fe<br>
+https://intellipaat.com/blog/cyber-security-vs-ethical-hacking-difference/<br>
+https://startacybercareer.com/oscp-vs-ceh-which-should-you-choose/#:~:text=The%20OSCP%20is%20the%20Offensive,by%20the%20organization%20Offensive%20Security.&text=The%20CEH%20is%20the%20Certified,by%20the%20organization%20EC%2DCouncil<br>
+<br>
+</details>
+
+
 
 <details>
 <summary>Express.js</summary>

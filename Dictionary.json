@@ -2178,6 +2178,44 @@
 		"Tips7": "https://www.daytrading.com/ethereum"
 
 	},
+	 
+	{
+		"Title" : "Ethical Hacking",
+		"Tag" : "Computer Security",
+		"Documentation" : "https://www.eccouncil.org/ethical-hacking/",
+		"YT1" : "https://www.youtube.com/c/LiveOverflowCTF",
+		"YT2" : "https://www.youtube.com/c/STOKfredrik",
+		"YT3" : "https://www.youtube.com/c/InsiderPhD",
+		"YT4" : "https://www.youtube.com/c/DCcybersec",
+		"YT5" : "https://www.youtube.com/c/ippsec",
+		"YT6" : "https://www.youtube.com/c/Nahamsec",
+		"YT7" : "https://www.youtube.com/c/JohnHammond010",
+		"Website1" : " https://www.tutorialspoint.com/ethical_hacking/index.htm",
+		"Website2" : "https://www.w3schools.in/category/ethical-hacking/",
+		"Website3" : "https://www.fita.in/ethical-hacking-tutorial/",
+		"Website4" : "https://www.geeksforgeeks.org/introduction-to-ethical-hacking/",
+		"Dedicated GH page1" : "https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources",
+		"Dedicated GH page2" : "https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools",
+		"Dedicated GH page3" : "https://github.com/The-Art-of-Hacking/h4cker",
+		"Dedicated GH page4" : "https://github.com/blackhatethicalhacking",
+		"Course1" : "https://www.udemy.com/course/learn-ethical-hacking-from-scratch/",
+		"Course2" : "https://www.udemy.com/course/ethicalhacker/",
+		"Course3" : "https://www.udemy.com/course/penetration-testing/",
+		"Course4" : "https://www.udemy.com/course/ethical-hacking-professional/",
+		"Course5" : "https://www.udemy.com/course/complete-ethical-hacking-bootcamp-zero-to-mastery/ ",
+		"Course6" : "https://alison.com/course/ethical-hacker",
+		"Course7" : "https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking?contextUrn=urn%3Ali%3AlyndaLearningPath%3A58b35a4b498e4bdbb44ff960",
+		"Course8" : "https://www.offensive-security.com/courses-and-certifications/",  
+		"Tips1" : "https://www.geeksforgeeks.org/how-to-make-a-career-in-ethical-hacking/",
+		"Tips2" : "https://medium.com/edureka/ethical-hacking-tutorial-1081f4aacc53",
+		"Tips3" : "https://medium.com/technology-hits/ethical-hacking-bcf212c9648c",
+		"Tips4" : "https://medium.com/lotus-fruit/the-benefits-of-learning-ethical-hacking-97be7c30f4fe",
+		"Tips5" : "https://intellipaat.com/blog/cyber-security-vs-ethical-hacking-difference/",
+		"Tips6" : "https://startacybercareer.com/oscp-vs-ceh-which-should-you-choose/#:~:text=The%20OSCP%20is%20the%20Offensive,by%20the%20organization%20Offensive%20Security.&text=The%20CEH%20is%20the%20Certified,by%20the%20organization%20EC%2DCouncil."
+	},
+
+
+
 	{
 		"Title" : "Express.js",
 		"Tag" : "Web framework for Node.js",
