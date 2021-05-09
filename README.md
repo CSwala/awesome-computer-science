@@ -2658,7 +2658,9 @@ https://www.ig.com/en/ethereum-trading/how-to-trade-ethereum <br>
 https://www.techrepublic.com/article/ethereum-a-cheat-sheet-for-professionals/ <br>	
 https://www.daytrading.com/ethereum <br>
 <br>
+</details>
 
+<details>
 <summary>Ethical Hacking</summary>
 <br>
 Category/Type - <br>
