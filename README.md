@@ -813,6 +813,47 @@ https://www.assp.org/education/certification-preparation/asp<br>
 </details>
 
 <details>
+<summary>Augmented Reality</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://arvr.google.com/ar/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=zpiFZtPxo2w&list=PLb1h4A0yB97_TeFuf9TAEah3b-VyIYzF9<br>
+https://www.youtube.com/watch?v=2Vu_lEYgkyQ&list=PL_Nji0JOuXg0tJ-HQ8g0OgEjIxL5RO1R2<br>
+https://www.youtube.com/watch?v=MtiUx_szKbI&list=RDQMK9OtDZjqIY4&start_radio=1<br>
+https://www.youtube.com/watch?v=i-r4WcH15WQ&list=PL_Nji0JOuXg2AIB5sZSkGAKS4ZaniN-tR<br>
+<br>
+Useful Websites - <br>
+https://www.investopedia.com/terms/a/augmented-reality.asp#:~:text=Augmented%20reality%20(AR)%20is%20an,and%20business%20applications%20in%20particular.<br>
+https://www.augmentedpro.com/index.php/tutorials<br>
+https://www.threekit.com/blog/what-is-augmented-reality<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/juangallostra/augmented-reality<br>
+https://github.com/dharmeshkakadia/awesome-AR<br>
+https://github.com/njanirudh/Augmented-Reality<br>
+https://github.com/PacktPublishing/Enterprise-Augmented-Reality-Projects<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/learn/ar<br>
+https://www.coursera.org/learn/ar-technologies-video-streaming<br>
+https://www.edx.org/course/work-with-augmented-reality-ar-and-the-web<br>
+https://www.coursera.org/learn/handheld-ar<br>
+https://www.pluralsight.com/courses/augmented-reality-getting-started?aid=7010a000002BWq6AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=IN_Dynamic&utm_content=&gclid=Cj0KCQjwp86EBhD7ARIsAFkgakjphVkK02Rfr3OiaZhCGgRsxf6ssLvwrLVHcqOLR6FrB-cvVygLPa4aAhXfEALw_wcB<br>
+<br>
+Other Tips/Hacks - <br>
+https://mbryonic.com/augmented-reality-guide/<br>
+https://7t.co/blog/tips-for-a-smooth-augmented-reality-ar-mobile-app-development-project/<br>
+https://www.constructdigital.com/insight/how-does-augmented-reality-ar-work<br>
+<br>
+</details>
+
+
+<details>
 <summary>AWK</summary>
 <br>
 Category/Type - <br>
