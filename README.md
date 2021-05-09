@@ -8325,7 +8325,7 @@ https://medium.muz.li/how-to-start-ux-ui-designer-career-and-be-successful-297c9
 <br>
 </details>
 	
-	
+<details>
 <summary>Unix</summary>
 <br>Category/Type - <br> Operating System<br>
 <br>Official Documentation - <br>
@@ -8395,7 +8395,7 @@ https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https:
 
 
 <details>
-<summary>User Experience</summary>
+<summary>UX</summary>
 <br>
 Category/Type - <br>
 Development<br>
