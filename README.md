@@ -2440,6 +2440,47 @@ https://levelup.gitconnected.com/ultimate-guide-to-tips-tricks-and-javascript-fe
  </details>
 
 <details>
+<summary>Electron</summary>
+<br>Category/Type - <br>Software framework<br>
+<br>Official Documentation - <br>
+https://www.electronjs.org/docs<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=kN1Czs0m1SU<br>
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW<br>
+https://www.youtube.com/playlist?list=PLtWy6rdN1yBntIyLeNo-fCVR6AaK7vdyl<br>
+https://www.youtube.com/playlist?list=PL8p2I9GklV46sT0RXw6PlMRVxJzEDUWuD<br>
+https://www.youtube.com/playlist?list=PLYxzS__5yYQmocPoLUiEAfD1cJNjhdQar<br>
+https://www.youtube.com/watch?v=2RxHQoiDctI<br>
+<br>Useful Websites - <br>
+https://www.tutorialspoint.com/electron/index.htm<br>
+https://www.electronjs.org/docs/tutorial<br>
+https://codeburst.io/build-a-todo-app-with-electron-d6c61f58b55a?gi=8ff2c88f7391<br>
+https://gitconnected.com/learn/electron<br>
+https://codeburst.io/electron-basics-and-fundamentals-b85b23aa611d<br>
+https://www.twilio.com/blog/an-introduction-to-building-desktop-applications-with-electron<br>
+<br>Dedicated Github page - <br>
+https://github.com/electron/electron<br>
+https://github.com/electron/electron-quick-start<br>
+https://github.com/electron/electronjs.org<br>
+https://github.com/sindresorhus/awesome-electron<br>
+https://github.com/electron/electron-api-demos<br>
+<br>Best Courses -<br>
+https://www.udemy.com/course/electron-from-scratch/<br>
+https://www.udemy.com/course/electron-react-tutorial/<br>
+https://www.udemy.com/course/master-electron/<br>
+https://www.pluralsight.com/courses/electron-fundamentals<br>
+https://www.linkedin.com/learning/electron-building-cross-platform-desktop-apps-3<br>
+https://www.udemy.com/course/master-electron-js-framework-build-5-advanced-desktop-apps/<br>
+<br>Other Tips / Hacks -<br>
+https://www.freecodecamp.org/news/lessons-learned-from-electronjs/<br>
+https://www.infoq.com/presentations/electron-pitfalls/<br>
+https://blog.avocode.com/4-must-know-tips-for-building-cross-platform-electron-apps-f3ae9c2bffff?gi=1c4fe2d412c9<br>
+https://simulatedgreg.github.io/electron-cheatsheet/<br>
+https://openai.gitbook.io/code-cheatsheets/js/electron<br>
+<br><br>
+</details>
+
+<details>
 <summary>Elixir</summary>
 <br>Category/Type - <br>Dyanamic Programming language<br>
 <br>Official Documentation - <br>
