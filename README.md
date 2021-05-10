@@ -1,23 +1,19 @@
-
 # Everything-there-is-in-CS
 
 ## 💻 An awesome list of everything that exists in Computer Science and Related fields📰🔥.
 
-<img src="https://emoji.discord.st/emojis/DiscordLuv.gif" height="30" width="30">  Join the Discord Server [here](https://discord.gg/rAz3Eb8fsN)
+<img src="https://emoji.discord.st/emojis/DiscordLuv.gif" height="30" width="30"> Join the Discord Server [here](https://discord.gg/rAz3Eb8fsN)
 
 💻💻Follow us on [LinkedIn](https://www.linkedin.com/company/cswala)
 
-
-![GitHub forks](https://img.shields.io/github/forks/CSwala/awesome-computer-science) 
+![GitHub forks](https://img.shields.io/github/forks/CSwala/awesome-computer-science)
 ![GitHub Repo stars](https://img.shields.io/github/stars/CSwala/awesome-computer-science)
 <br>
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
-![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)
 ![Maintenance](https://img.shields.io/maintenance/yes/2021)
-
-
 
 <details>
 <summary>Adobe Illustrator</summary>
@@ -86,7 +82,7 @@ https://www.xdguru.com/adobe-xd-tutorials/ <br>
 https://www.domestika.org/en/blog/4741-adobe-xd-tutorial-basic-prototype-interactions <br>
 https://designshack.net/articles/software/adobe-xd-tutorials/ <br>
 
-<br>Dedicated Github page - <br> 
+<br>Dedicated Github page - <br>
 https://github.com/AdobeXD/plugin-samples <br>
 https://github.com/AdobeXD/AdobeXD.github.io-Site <br>
 https://github.com/AdobeXD/xd-to-flutter-plugin <br>
@@ -95,20 +91,19 @@ https://github.com/AdobeXD/xdpm <br>
 https://github.com/AdobeXD/xd-awesome <br>
 
 <br>Best Courses - <br>
-https://www.udemy.com/course/learn-adobe-xd-ux-designing-and-prototyping-from-scratch/ <br> 
-https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/ <br> 
-https://www.udemy.com/course/adobe-xd-course/ <br> 
-https://www.udemy.com/course/adobe-cc-masterclass-graphic-design-photoshop-illustrator-xd-indesign/ <br> 
+https://www.udemy.com/course/learn-adobe-xd-ux-designing-and-prototyping-from-scratch/ <br>
+https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/ <br>
+https://www.udemy.com/course/adobe-xd-course/ <br>
+https://www.udemy.com/course/adobe-cc-masterclass-graphic-design-photoshop-illustrator-xd-indesign/ <br>
 
-<br>Other Tips / Hacks - <br> 
-https://uxplanet.org/15-pro-tips-for-adobe-xd-users-3dbcbc66ffb3?gi=e602f6ea06b6 <br> 
-https://medium.com/@learnux.io/adobe-xd-30-tips-tricks-you-wish-youd-known-earlier-54bd117b2eb7 <br> 
-https://bashooka.com/resources/adobe-xd-tips-tricks-and-tutorials/ <br> 
-https://www.technoarchsoftwares.com/blog/adobe-xd-tricks/ <br> 
-https://webdesign.tutsplus.com/articles/a-to-z-of-adobe-xd-tips-tricks--cms-36820 <br> 
-https://www.bringyourownlaptop.com/courses/ui-ux-web-design-using-adobe-xd/advanced-symbol-tricks-tips-for-adobe-xd <br> 
+<br>Other Tips / Hacks - <br>
+https://uxplanet.org/15-pro-tips-for-adobe-xd-users-3dbcbc66ffb3?gi=e602f6ea06b6 <br>
+https://medium.com/@learnux.io/adobe-xd-30-tips-tricks-you-wish-youd-known-earlier-54bd117b2eb7 <br>
+https://bashooka.com/resources/adobe-xd-tips-tricks-and-tutorials/ <br>
+https://www.technoarchsoftwares.com/blog/adobe-xd-tricks/ <br>
+https://webdesign.tutsplus.com/articles/a-to-z-of-adobe-xd-tips-tricks--cms-36820 <br>
+https://www.bringyourownlaptop.com/courses/ui-ux-web-design-using-adobe-xd/advanced-symbol-tricks-tips-for-adobe-xd <br>
 <br><br>
-
 
 </details>
 
@@ -930,7 +925,6 @@ https://medium.com/swlh/web-scraping-using-beautiful-soup-and-requests-in-python
 <br>
 </details>
 
-
 <details>
 <summary>Big Data</summary>
 <br>Category/Type - <br>Data Analytics<br>
@@ -1741,13 +1735,14 @@ https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-kno
 <br>Best YouTube creators - <br> https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK <br>
 https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU <br> https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_ <br>
 https://cuda-tutorial.readthedocs.io/en/latest/tutorials/tutorial01/ <br>
-<br>Useful Websites - <br> https://www.tutorialspoint.com/cuda/index.htm <br> https://developer.nvidia.com/blog/even-easier-introduction-cuda/ <br> 
+<br>Useful Websites - <br> https://www.tutorialspoint.com/cuda/index.htm <br> https://developer.nvidia.com/blog/even-easier-introduction-cuda/ <br>
 https://cuda-tutorial.readthedocs.io/en/latest/tutorials/tutorial01/ <br>
 <br>Dedicated Github page - <br> https://github.com/NVIDIA/cuda-samples <br> https://github.com/zchee/cuda-sample <br>
-<br>Best Courses - <br> https://www.pluralsight.com/courses/parallel-computing-cuda <br> https://www.udemy.com/course/cuda-programming-masterclass/ <br> 
+<br>Best Courses - <br> https://www.pluralsight.com/courses/parallel-computing-cuda <br> https://www.udemy.com/course/cuda-programming-masterclass/ <br>
 https://www.udemy.com/course/introduction-to-gpu-computing-with-cuda/ <br>
 <br>Other Tips / Hacks - <br> https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=dc7112-cuda+optimization+tips%2C+tricks+and+techniques <br>
 https://medium.com/@sciencemonk/cuda-programming-tips-and-tricks-12d60310817a <br> https://www.quora.com/What-are-some-CUDA-tricks-and-optimizations <br> <br>
+
 </details>
 
 <details>
@@ -1859,7 +1854,7 @@ Official Documentation -<br>
 https://www.oracle.com/database/technologies/advanced-analytics/odm-documentation.html
 <br>
 
-Best YouTube creators - 
+Best YouTube creators -
 <br> https://www.youtube.com/watch?v=z--2rCShvL0
 <br>https://www.youtube.com/watch?v=bz0N-WP2FQE
 <br>https://www.youtube.com/watch?v=BB2O4VCu5j8
@@ -1873,13 +1868,13 @@ Useful Websites -
 <br> https://economictimes.indiatimes.com/definition/data-mining
 <br><br>
 
-Dedicated Github page - 
+Dedicated Github page -
 <br>https://github.com/nirbarazida/Data-mining-project
 <br>https://github.com/elki-project/elki
 <br>https://github.com/eclarson/DataMiningNotebooks
 <br><br>
 
-Best Courses - 
+Best Courses -
 <br>https://www.coursera.org/specializations/data-mining
 <br>https://www.udemy.com/topic/data-mining/
 <br>https://online-learning.harvard.edu/subject/data-mining
@@ -1894,8 +1889,8 @@ Other Tips / Hacks -
 <br>https://www.javatpoint.com/data-mining
 <br>https://snov.io/blog/data-mining-tools-the-what-the-why-and-the-how/
 
-
 <br><br>
+
 </details>
 
 <details>
@@ -2523,7 +2518,7 @@ https://medium.com/@wslyvh/get-started-with-ethereum-solidity-on-windows-1672e99
 https://rubygarage.org/blog/ethereum-smart-contract-tutorial <br>
 https://www.sitepen.com/blog/smart-contracts-a-tutorial <br>
 
-<br>Dedicated Github page - <br> 
+<br>Dedicated Github page - <br>
 https://github.com/ethereum/go-ethereum <br>
 https://github.com/ethereum/EIPs <br>
 https://github.com/ethereum/ethereum-org-website <br>
@@ -2541,13 +2536,13 @@ https://www.udemy.com/course/getting-started-with-ethereum-solidity-development/
 https://www.coursera.org/projects/ethereum-smart-contract-security-exploits <br>
 https://academy.b9lab.com/courses/course-v1:B9lab+ETHEREUM-DEVELOPER-COURSE+ONLINE/about <br>
 
-<br>Other Tips / Hacks - <br> 
+<br>Other Tips / Hacks - <br>
 https://howtobuyethereum.io/ <br>
 https://www.upgrad.com/blog/ethereum-project-ideas-beginners/ <br>
 https://www.bitdegree.org/crypto/tutorials/ethereum-mining <br>
 https://blackwellglobal.com/top-5-tips-trading-ethereum/#:~:text=Tip%20%231%3A%20Risk%20Management%20is,with%20small%20amounts%20of%20capital. <br>
 https://www.ig.com/en/ethereum-trading/how-to-trade-ethereum <br>
-https://www.techrepublic.com/article/ethereum-a-cheat-sheet-for-professionals/ <br>	
+https://www.techrepublic.com/article/ethereum-a-cheat-sheet-for-professionals/ <br>
 https://www.daytrading.com/ethereum <br>
 <br>
 
@@ -2950,6 +2945,85 @@ https://medium.com/@diegoveloper<br>
 </details>
 
 <details>
+<summary>Frontend Developer</summary>
+<br>Category/Type - <br>Web development<br>
+<a href="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png">
+<img align="center" src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png"/>
+</a>
+<br>Official Documentation - <br>
+https://devdocs.io/html/<br>
+https://devdocs.io/css/<br>
+https://nextjs.org/docs<br>
+https://api.jquery.com/<br>
+https://angular.io/docs<br>
+https://devdocs.io/javascript/<br>
+https://reactjs.org/docs/getting-started.html<br>
+https://tailwindcss.com/docs <br>
+    
+https://sass-lang.com/documentation <br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA<br>
+https://www.youtube.com/watch?v=s3qZF4jhgDo<br>
+https://www.youtube.com/user/thenewboston"<br>
+https://www.youtube.com/watch?v=21HuwjmuS7A&list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR<br>
+https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw<br>
+https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ<br>
+https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ<br>
+https://www.youtube.com/watch?v=zBPeGR48_vE&list=PLqkLaKB2GJhWXV9rcarwvn06ISlL_9mPQ<br>
+https://www.youtube.com/watch?v=uDwSnnhl1Ng&list=PLsyeobzWxl7qtP8Lo9TReqUMkiOp446cV<br>
+https://www.youtube.com/watch?v=hMxGhHNOkCU<br>
+https://www.youtube.com/watch?v=a59kOE2Ma1Q<br>
+<br>Useful Websites - <br>
+https://scotch.io/tutorials/get-started-with-tailwind-css-in-15-minutes<br>
+https://www.w3schools.com/html/<br>
+https://www.edx.org/learn/html5<br>
+https://css-tricks.com/<br>
+https://javascript.info<br>
+https://jquery.com/download/<br>
+https://www.softwaretutorialvideos.com/tutorial-xd.html<br>
+https://www.creative-tim.com/blog/angularjs/angular-js-75-examples-websites-applications-experiments/<br>
+https://www.domestika.org/en/blog/4741-adobe-xd-tutorial-basic-prototype-interactions<br>
+https://designshack.net/articles/software/adobe-xd-tutorials/<br>
+<br>Dedicated Github page - <br>
+https://github.com/kamranahmedse/developer-roadmap<br>
+https://github.com/troxler/awesome-css-frameworks<br>    
+https://github.com/awesome-css-group/awesome-css<br>    
+https://lab.github.com/githubtraining/introduction-to-html<br>    
+https://github.com/4GeeksAcademy/html-tutorial-exercises-course<br>
+https://github.com/FormidableLabs/spectacle<br>
+https://github.com/30-seconds/30-seconds-of-code<br>
+https://github.com/getify/You-Dont-Know-JS<br>
+https://github.com/gothinkster/angularjs-realworld-example-app<br>
+https://github.com/petk/awesome-jquery<br>
+https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know<br>
+
+<br>Best Courses - <br>
+https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/<br>
+https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/<br>
+https://www.udemy.com/course/learn-angularjs/<br>
+https://www.udemy.com/course/react-tutorial-and-projects-course/<br>
+https://www.udemy.com/course/the-complete-javascript-course/<br>
+https://www.udemy.com/course/advanced-css-and-sass/<br>
+https://www.udemy.com/course/complete-guide-of-tailwind-css-/<br>
+https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/<br>
+https://www.udemy.com/course/jquery-course/<br>
+
+<br>Other Tips / Hacks - <br>
+https://dev.to/simonholdorf/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-4fhn<br>
+https://www.telerik.com/blogs/10-time-saving-css-tips-i-learned-the-hard-way-when-using-sass<br>
+https://www.freecodecamp.org/news/what-is-tailwind-css-and-how-can-i-add-it-to-my-website-or-react-app/<br>
+https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-knowledge-in-24-hours/<br>
+https://dev.to/zandershirley/10-practical-javascript-tricks-2b7h<br>
+https://html.com/wp-content/uploads/html-cheat-sheet.pdf<br>
+https://digital.com/tools/html-cheatsheet/<br>
+https://www.sitepoint.com/top-15-jquery-tricks/<br>
+
+<br>
+<strong>Keep learning, Don't stop here only!  </strong>
+
+</details>
+
+<details>
 <summary>Gamemaker</summary>
 <br>
 Category/Type - <br>Game Engine <br>
@@ -3061,8 +3135,6 @@ https://www.udemy.com/course/gimp-photo-editing/ <br> https://www.udemy.com/cour
 https://www.pcgamer.com/10-sweet-gimp-photo-editing-tricks-to-wean-you-off-photoshop/ <br> https://windowsreport.com/how-to-use-gimp-2-10/ <br> <br>
 </details>
 
-
-
 <details>
 <summary>Git</summary>
 <br>Category/Type - <br> Version Control System <br>
@@ -3089,12 +3161,12 @@ https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da
 https://academind.com/tutorials/git-the-basics/ <br>
 https://intellipaat.com/blog/tutorial/devops-tutorial/git-tutorial/ <br>
 
-<br>Dedicated Github page - <br> 
-https://github.com/Gazler/githug <br> 
-https://github.com/git/git <br> 
-https://github.com/github/gitignore <br> 
-https://github.com/tj/git-extra <br> 
-https://github.com/k88hudson/git-flight-rules <br> 
+<br>Dedicated Github page - <br>
+https://github.com/Gazler/githug <br>
+https://github.com/git/git <br>
+https://github.com/github/gitignore <br>
+https://github.com/tj/git-extra <br>
+https://github.com/k88hudson/git-flight-rules <br>
 
 <br>Best Courses - <br>
 https://www.udemy.com/course/git-and-github-bootcamp/ <br>
@@ -3104,18 +3176,18 @@ https://www.udemy.com/course/github-ultimate/ <br>
 https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/ <br>
 https://www.udemy.com/course/learn-git-by-doing-a-step-by-step-guide-to-version-control/ <br>
 
-<br>Other Tips / Hacks - <br> 
-https://medium.com/swlh/git-tips-and-tricks-3c012cacbdcc <br> 
-https://codeburst.io/git-tips-and-tricks-to-improve-your-git-workflow-3f8652fa4a62 <br> 
-https://about.gitlab.com/blog/2020/04/07/15-git-tips-improve-workflow/ <br> 
-https://opensource.com/article/20/10/advanced-git-tips <br> 
-https://dev.to/jacobherrington/10-git-tricks-to-save-your-time-and-sanity-289h <br> 
-https://www.scalefactory.com/blog/2020/05/22/git-tips-and-tricks/ <br> 
-https://wikileaks.org/ciav7p1/cms/page_1179773.html <br> 
+<br>Other Tips / Hacks - <br>
+https://medium.com/swlh/git-tips-and-tricks-3c012cacbdcc <br>
+https://codeburst.io/git-tips-and-tricks-to-improve-your-git-workflow-3f8652fa4a62 <br>
+https://about.gitlab.com/blog/2020/04/07/15-git-tips-improve-workflow/ <br>
+https://opensource.com/article/20/10/advanced-git-tips <br>
+https://dev.to/jacobherrington/10-git-tricks-to-save-your-time-and-sanity-289h <br>
+https://www.scalefactory.com/blog/2020/05/22/git-tips-and-tricks/ <br>
+https://wikileaks.org/ciav7p1/cms/page_1179773.html <br>
 
 <br><br><br>
-</details>
 
+</details>
 
 <details>
 <summary>Go</summary>
@@ -3670,7 +3742,6 @@ https://www.raywenderlich.com/19019328-xcode-tips-and-tricks <br>
 <br><br><br>
 </details>
 
-
 <details>
 <summary>IoT</summary>
 <br>Category/Type - <br> Software<br>
@@ -3693,7 +3764,7 @@ https://data-flair.training/blogs/iot-tutorial/ <br>
 http://www.steves-internet-guide.com/internet-of-things/ <br>
 https://mindmajix.com/iot-tutorial <br>
 
-<br>Dedicated Github page - <br> 
+<br>Dedicated Github page - <br>
 https://github.com/ibm-watson-iot/iot-python <br>
 https://github.com/ibm-watson-iot/iot-nodejs <br>
 https://github.com/ibm-watson-iot/functions <br>
@@ -3709,13 +3780,13 @@ https://www.coursera.org/specializations/iot <br>
 https://www.coursera.org/learn/iiot-google-cloud-platform <br>
 https://www.coursera.org/specializations/emerging-technologies <br>
 
-<br>Other Tips / Hacks - <br> 
+<br>Other Tips / Hacks - <br>
 https://blog.knoldus.com/how-to-successfully-develop-iot-applications/ <br>
 https://www.techrepublic.com/article/how-to-become-an-iot-developer-6-tips/ <br>
 https://iotbusinessnews.com/2020/07/13/02098-5-key-tips-to-keep-your-iot-internet-of-things-network-at-home-private-and-secure/ <br>
 https://www.embedded.com/embedded-iot-design-tips-tricks-and-tutorials/ <br>
 https://steadynetworks.com/tips-and-tricks-for-avoiding-iot-threats/ <br>
- 
+
 <br><br>
 
 </details>
@@ -4037,8 +4108,7 @@ https://www.youtube.com/watch?v=8h8rQyEpiZA <br>
 https://www.youtube.com/watch?v=4igzy3bGVkQ <br> 
 https://www.youtube.com/watch?v=lwj-1mclq0U <br> 
 https://www.youtube.com/watch?v=RDr64bTDEw4&list=PL6_D9USWkG1DslafZLTnltyhxkihWCXiI <br> 
-https://www.youtube.com/watch?v=-txkOkk4nJc <br> 
-
+https://www.youtube.com/watch?v=-txkOkk4nJc <br>
 
 <br>Useful Websites - <br>
 https://www.tutorialspoint.com/julia/index.htm <br>
@@ -4054,20 +4124,21 @@ https://github.com/JuliaLang/IJulia.jl <br>
 https://github.com/juanklopper/JuliaCourseNotebooks <br>
 https://github.com/svaksha/Julia.jl <br>
 
-<br>Best Courses - <br> 
+<br>Best Courses - <br>
 https://www.udemy.com/course/julia-foundations-2020/ <br>
 https://www.udemy.com/course/getting-started-with-julia/ <br>
 https://www.udemy.com/course/basics-of-julia-programming-for-machine-learning/ <br>
 https://www.coursera.org/learn/julia-programming <br>
 https://www.coursera.org/projects/julia-beginners-data-science <br>
 
-<br>Other Tips / Hacks - <br> 
-https://docs.julialang.org/en/v1/manual/performance-tips/ <br> 
-https://www.juliabloggers.com/7-julia-gotchas-and-how-to-handle-them/ <br> 
-https://towardsdatascience.com/9-cool-julia-tricks-in-4-minutes-47a3a4496054 <br> 
-https://www.cs.purdue.edu/homes/hnassar/JPUG/performance.html <br> 
-https://codegolf.stackexchange.com/questions/24407/tips-for-golfing-in-julia <br> 
- <br><br> 
+<br>Other Tips / Hacks - <br>
+https://docs.julialang.org/en/v1/manual/performance-tips/ <br>
+https://www.juliabloggers.com/7-julia-gotchas-and-how-to-handle-them/ <br>
+https://towardsdatascience.com/9-cool-julia-tricks-in-4-minutes-47a3a4496054 <br>
+https://www.cs.purdue.edu/homes/hnassar/JPUG/performance.html <br>
+https://codegolf.stackexchange.com/questions/24407/tips-for-golfing-in-julia <br>
+<br><br>
+
 </details>
 
 <details>
@@ -4157,7 +4228,6 @@ https://www.coursera.org/projects/container-orchestration-kubernetes <br>
 https://blog.neuvector.com/article/hack-kubernetes-container <br>
 <br><br>
 </details>
-
 
 <details>
 <summary>Laravel</summary>
@@ -4429,8 +4499,6 @@ https://www.lua.org/gems/sample.pdf<br>
 </a>
 <br><br><br>
 </details>
-
-
 
 <details>
 <summary>Machine Learning</summary>
@@ -4800,7 +4868,6 @@ https://www.mongodb.com/presentations/tips-and-tricks-for-query-performance-let-
 <br><br><br>
 </details>
 
-
 <details>
 <summary>MoonScript</summary>
 <br>
@@ -4946,7 +5013,6 @@ https://www.toptal.com/dot-net/tips-and-practices<br><br>
 </a>
 <br><br><br>
 </details>
-
 
 <details>
 <summary>NetworkX</summary>
@@ -5742,7 +5808,6 @@ https://websitesetup.org/php-cheat-sheet/ <br> https://www.smashingmagazine.com/
 <br><br>
 </details>
 
-
  <details>
  <summary>Play Framework</summary>
  <br>Category/Type - <br>Web Application Framework<br>
@@ -6304,7 +6369,7 @@ https://dev.to/simonholdorf/10-tips-tricks-that-will-make-you-a-better-reactjs-d
 <br>
 https://www.raywenderlich.com/2807578-android-studio-tips-and-tricks<br>
 <br><br>
-</details> 
+</details>
 
 <details>
 
@@ -6508,7 +6573,6 @@ https://www.youtube.com/watch?v=sdDDuQuX2cg <br>
 https://www.youtube.com/watch?v=ALrOcDPimWE <br>
 https://www.youtube.com/watch?v=lsMQRaeKNDk <br>
 
-
 <br>Useful Websites - <br>
 https://www.freecodecamp.org/news/rest-api-tutorial-rest-client-rest-service-and-api-calls-explained-with-code-examples/ <br>
 https://www.edureka.co/blog/what-is-rest-api/ <br>
@@ -6522,7 +6586,7 @@ https://spring.io/guides/tutorials/rest/ <br>
 https://tutorialedge.net/golang/creating-restful-api-with-golang/ <br>
 https://codesnippet.io/github-api-tutorial/ <br>
 
-<br>Dedicated Github page - <br> 
+<br>Dedicated Github page - <br>
 https://github.com/microsoft/api-guidelines <br>
 https://github.com/encode/django-rest-framework <br>
 https://github.com/diegohaz/rest <br>
@@ -6535,7 +6599,7 @@ https://www.udemy.com/course/webservices-testing-with-soap-ui/ <br>
 https://www.udemy.com/course/advanced-rest-apis-flask-python/ <br>
 https://www.pluralsight.com/courses/rest-fundamental?aid=7010a000002BWq6AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=IN_Dynamic&utm_content=&gclid=Cj0KCQjwsqmEBhDiARIsANV8H3bcY5DukQD9Tq_by3B3ppoJsK_23MhbTSjS_0qgFoSHZgFLWyBTECIaApw7EALw_wcB <br>
 
-<br>Other Tips / Hacks - <br> 
+<br>Other Tips / Hacks - <br>
 https://medium.com/@petertboyer/learn-restful-api-design-ideals-c5ec915a430f <br>
 https://www.restapitutorial.com/lessons/restquicktips.html <br>
 https://florimond.dev/en/posts/2018/08/restful-api-design-13-best-practices-to-make-your-users-happy <br>
@@ -6544,6 +6608,7 @@ https://www.slideshare.net/MaksymBruner/rest-api-tips-and-tricks <br>
 https://blog.bitsrc.io/10-tips-for-building-an-api-9ec335601d59?gi=da0e612e7ff0 <br>
 
 <br><br><br>
+
 </details>
 
 <details>
@@ -6896,7 +6961,6 @@ https://medium.com/shiv-rec-publications/tagged/scilab<br>
 https://www.geeksforgeeks.org/difference-between-matlab-and-scilab/<br>
 <br>
 </details>
-
 
 <summary>Scrapy</summary>
 <br>
@@ -7309,8 +7373,7 @@ https://www.freecodecamp.org/news/the-svelte-handbook/
 <br>
 https://syntax.fm/show/173/hasty-treat-wes-and-scott-look-at-svelte-3
 <br>
-</details> 
-
+</details>
 
 <details>
 <summary>Swift</summary>
@@ -7409,7 +7472,6 @@ https://towardsdatascience.com/best-library-to-simplify-math-for-machine-learnin
 <br>
 </details>
 
-
 <details>
 <summary>Tableau</summary>
 <br>Category/Type - <br> Data Visualization Software<br>
@@ -7421,29 +7483,30 @@ https://www.youtube.com/watch?v=Wh4sCCZjOwo<br>
 https://www.youtube.com/watch?v=6mBtTNggkUk <br>
 https://www.youtube.com/watch?v=KA0QHWm0nWo<br>
 
-<br>Useful Websites - <br> 
-https://www.tableau.com/<br> 
+<br>Useful Websites - <br>
+https://www.tableau.com/<br>
 https://www.guru99.com/what-is-tableau.html<br>
 https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/<br>
-https://www.tutorialspoint.com/tableau/index.htm <br> 
+https://www.tutorialspoint.com/tableau/index.htm <br>
 https://www.tutorialgateway.org/tableau/<br>
-<br>Dedicated Github page - <br> 
-https://github.com/tableau<br> 
-https://github.com/tableau/TabPy <br> 
+<br>Dedicated Github page - <br>
+https://github.com/tableau<br>
+https://github.com/tableau/TabPy <br>
 https://github.com/tableau/webdataconnector<br>
 https://github.com/tableau/document-api-python<br>
-<br>Best Courses - <br> 
+<br>Best Courses - <br>
 https://www.tableau.com/learn/training<br>
-https://www.udemy.com/course/tableau-tutorial-for-beginners/<br> 
+https://www.udemy.com/course/tableau-tutorial-for-beginners/<br>
 https://www.udacity.com/course/data-visualization-in-tableau--ud1006<br>
 https://www.simplilearn.com/tableau-training-and-data-visualization-course<br>
 https://www.linkedin.com/learning/topics/tableau<br>
 <br>Other Tips / Hacks - <br>
-https://www.edureka.co/blog/tableau-tips-and-tricks/ <br> 
+https://www.edureka.co/blog/tableau-tips-and-tricks/ <br>
 https://evolytics.com/blog/six-favorite-tableau-tips-tricks-and-hacks-to-enhance-dashboards/ <br>
 https://interworks.com/blog/2021/01/05/five-tableau-ux-hacks-for-2021/ <br>
 https://www.vizwiz.com/p/tips.html<br>
 <br>
+
 </details>
 
 <details>
@@ -7459,7 +7522,6 @@ https://www.youtube.com/watch?v=Awl-CPXgpGs <br>
 https://www.youtube.com/watch?v=mVzY256R9fs <br>
 https://www.youtube.com/watch?v=6zIuAyLZPH0 <br>
 
-
 <br>Useful Websites - <br>
 https://scotch.io/tutorials/get-started-with-tailwind-css-in-15-minutes <br>
 https://tsh.io/blog/tailwind-css-tutorial <br>
@@ -7471,8 +7533,7 @@ https://www.sitepoint.com/tailwind-unique-beautiful-websites/ <br>
 https://buildawesomewebsites.com/tailwind-css-tutorial-for-beginners/ <br>
 https://dev.to/adriantwarog/tailwind-css-tutorial-3kfc <br>
 
-
-<br>Dedicated Github page - <br> 
+<br>Dedicated Github page - <br>
 https://github.com/tailwindlabs/tailwindcss <br>
 https://github.com/mertJF/tailblocks <br>
 https://github.com/aniftyco/awesome-tailwindcss <br>
@@ -7485,7 +7546,7 @@ https://www.udemy.com/course/complete-guide-of-tailwind-css-/ <br>
 https://scrimba.com/learn/tailwind <br>
 https://www.udemy.com/course/tailwindcss-with-examples/ <br>
 https://www.udemy.com/course/tailwind/ <br>
-<br>Other Tips / Hacks - <br> 
+<br>Other Tips / Hacks - <br>
 https://dev.to/joserfelix/6-tips-for-tailwind-css-development-with-resources-33i4 <br>
 https://blog.logrocket.com/10-tailwind-css-tips-to-boost-your-productivity/ <br>
 https://laravel-news.com/tailwind-css-tips-and-tricks <br>
@@ -7495,13 +7556,11 @@ https://www.freecodecamp.org/news/what-is-tailwind-css-and-how-can-i-add-it-to-m
 https://www.ordinarycoders.com/blog/article/tailwindcss-plugins-github <br>
 <br>
 <a href="https://res.cloudinary.com/practicaldev/image/fetch/s--msY7kuBs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/f30hrij5h3j7gt2klbcu.jpg">
-  <img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--msY7kuBs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/f30hrij5h3j7gt2klbcu.jpg" width="900" height="500"/>
+<img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--msY7kuBs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/f30hrij5h3j7gt2klbcu.jpg" width="900" height="500"/>
 </a>
 <br><br><br>
 
-
 </details>
-
 
 <details>
 <summary>Tcl </summary>
@@ -7784,7 +7843,6 @@ https://stackoverflow.com/questions/36111664/how-do-you-publish-a-typescript-web
 </a>
 <br><br><br>
 </details>
-
 
 <details>
 <summary>Unity</summary>
@@ -8575,19 +8633,20 @@ https://www.reddit.com/r/programming/comments/lj7t10/ziglings_learn_the_zig_prog
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-
 ## Contribution Guidelines ⚙️
+
 You can find our Contributing guidelines [here](https://github.com/CSwala/awesome-computer-science/blob/main/CONTRIBUTING.md).
 
 ## Code Of Conduct:
 
 You can find our Code of Conduct [here](https://github.com/CSwala/awesome-computer-science/blob/main/CODE_OF_CONDUCT.md).
 
-## License 📝 
+## License 📝
 
 This project follows the [MIT License](https://choosealicense.com/licenses/mit/).
 
 ## Contributors 🥰:star:
+
 This project is possible due to these amazing people✨
 
 <table>
@@ -8599,7 +8658,6 @@ This project is possible due to these amazing people✨
 		</td>
 	</tr>
 </table>
-
 
 <br>
 <br>
