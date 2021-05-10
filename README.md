@@ -7590,6 +7590,47 @@ https://www.infoworld.com/article/3200766/9-shell-tips-every-developer-should-kn
 <br><br><br>
 </details>
 
+<details>
+<summary>Sinatra</summary>
+<br>
+Category/Type - <br>Web Application Library <br>
+<br>
+Official Documentation - <br>
+http://sinatrarb.com/documentation.html <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=sp8TL37ymGk<br>
+https://www.youtube.com/watch?v=SiWxCznSnuA<br>
+https://www.youtube.com/watch?v=NMsjTtNRnYc<br>
+https://www.youtube.com/watch?v=ghbHNy080b8<br>
+https://www.youtube.com/watch?v=ZwuvNazpoAE<br>
+https://www.youtube.com/watch?v=vRPZl5S8UNc<br>
+<br>
+Useful Websites -
+<br>
+https://learn.co/lessons/what-is-sinatra<br>
+https://medium.com/swlh/breaking-down-a-sinatra-application-18d158ab80ea<br>
+https://dev.to/evybauer/express-vs-sinatra-what-s-the-best-framework-for-a-web-app-4cjd<br>
+https://subscription.packtpub.com/book/application_development/9781787280649/16/16lvl1sec101/sinatra-web-framework-development<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/sinatra/sinatra<br>
+https://github.com/sinatra<br>
+<br>
+Best Courses - <br>
+https://www.udacity.com/course/dynamic-web-applications-with-sinatra--ud268<br>
+https://hackr.io/tutorials/learn-sinatra<br>
+https://www.lynda.com/Sinatra-tutorials/11954-0.html<br>
+https://code.tutsplus.com/categories/sinatra/courses<br>
+https://www.gangboard.com/app-programming-scripting-training/unix-shell-scripting-training<br>
+<br>
+Other Tips / Hacks - <br>
+https://x-team.com/blog/how-to-create-a-ruby-api-with-sinatra/<br>
+https://www.toptal.com/ruby/api-with-sinatra-and-sequel-ruby-tutorial<br>
+https://www.tutorialandexample.com/sinatra-tutorial/<br>
+https://letsfindcourse.com/ruby-sinatra-tutorials<br>
+<br>
+</details>
 
 <details>
 <summary>SketchUp studio</summary>
