@@ -8988,7 +8988,7 @@ https://www.reddit.com/r/vulkan/comments/5jzg58/tips_on_abstracting_vulkan/<br>
 https://developer.android.com/ndk/guides/graphics/design-notes<br>
 https://gpuopen.com/wp-content/uploads/2016/05/Most-common-mistakes-in-Vulkan-apps.pdf<br>
 <a href="https://en.wikipedia.org/wiki/File:Vulkan_RGB_Dec16.svg">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Vulkan_logo.svg/768px-Vulkan_logo.svg.png" width="800" height="400"/>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Vulkan_logo.svg/768px-Vulkan_logo.svg.png" width="700">
 </a>
 <br><br><br>
 </details>
