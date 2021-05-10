@@ -5990,7 +5990,31 @@
 		"Tips5" : "https://www.infoworld.com/article/3200766/9-shell-tips-every-developer-should-know.html",
 		"Image1" : "https://cdn3.iconfinder.com/data/icons/blue-ulitto/128/Developer_files_Bash_Shell_Script-512.png"
 	},
-	
+	{
+		"Title" : "Sinatra",
+		"Tag" : "Web Application Library",
+		"Documentation" : "http://sinatrarb.com/documentation.html",
+		"YT1 " : "https://www.youtube.com/watch?v=sp8TL37ymGk",
+		"YT2 " : "https://www.youtube.com/watch?v=SiWxCznSnuA",
+		"YT3 " : "https://www.youtube.com/watch?v=NMsjTtNRnYc",
+		"YT4 " : "https://www.youtube.com/watch?v=ghbHNy080b8",
+		"YT5 " : "https://www.youtube.com/watch?v=ZwuvNazpoAE",
+		"YT6"  : "https://www.youtube.com/watch?v=vRPZl5S8UNc",
+		"Website1" : "https://learn.co/lessons/what-is-sinatra",
+		"Website2" : "https://medium.com/swlh/breaking-down-a-sinatra-application-18d158ab80ea",
+		"Website3" : "https://dev.to/evybauer/express-vs-sinatra-what-s-the-best-framework-for-a-web-app-4cjd",
+		"Website4" : "https://subscription.packtpub.com/book/application_development/9781787280649/16/16lvl1sec101/sinatra-web-framework-development",
+		"Dedicated GH page1" : "https://github.com/sinatra/sinatra",
+		"Dedicated GH page2" : "https://github.com/sinatra",
+		"Course1" : "https://www.udacity.com/course/dynamic-web-applications-with-sinatra--ud268",
+		"Course2" : "https://hackr.io/tutorials/learn-sinatra",
+		"Course3" : "https://www.lynda.com/Sinatra-tutorials/11954-0.html",
+		"Course4" : "https://code.tutsplus.com/categories/sinatra/courses",
+		"Tips1" : "https://x-team.com/blog/how-to-create-a-ruby-api-with-sinatra/",
+		"Tips2" : "https://www.toptal.com/ruby/api-with-sinatra-and-sequel-ruby-tutorial",
+		"Tips3" : "https://www.tutorialandexample.com/sinatra-tutorial/",
+		"Tips4" : "https://letsfindcourse.com/ruby-sinatra-tutorials"
+	},
 	{
 		"Title" : "SketchUp studio",
 		"Tag" : "Software",
