@@ -6898,7 +6898,7 @@ https://jonathan-hui.medium.com/rl-introduction-to-deep-reinforcement-learning-3
 <br>
 </details>
 
-details>
+<details>
 <summary>Requests</summary>
 <br>
 Category/Type - <br>
