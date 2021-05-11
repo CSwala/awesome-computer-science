@@ -1397,6 +1397,24 @@ https://www.cakephpexpert.com/blog/10-essential-tips-for-cakephp-development<br>
 </details>
 
 <details>
+ <summary>Chart.js</summary>
+ <br>Category/Type - <br> Javascript Library <br> 
+ <br>Official Documentation - <br> https://www.chartjs.org/docs/latest/ <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/watch?v=sE08f4iuOhA <br> https://www.youtube.com/playlist?list=PLBG4BJt8bo9rrPibhKLbpe-z1Dkk2VJjO <br>
+https://www.youtube.com/playlist?list=PLG6ePePp5vvZLVjT5mgyxBpkbNBpuAwq9 <br>
+https://www.youtube.com/playlist?list=PLylMDDjFIp1B6IE1Dib_bucx7JJ_zsvZP<br>
+https://www.youtube.com/watch?v=xaZUb4Z4O0M<br>
+ <br>Useful Websites - <br> https://www.tutorialspoint.com/javascript-chart-js <br> https://www.w3schools.com/ai/ai_chartjs.asp <br> https://www.stanleyulili.com/javascript/beginner-guide-to-chartjs/ <br>
+ https://tobiasahlin.com/blog/introduction-to-chartjs/ <br> https://www.geeksforgeeks.org/javascript-chart-js/ <br> https://code.tutsplus.com/tutorials/getting-started-with-chartjs-introduction--cms-28278 <br>
+<br>Dedicated Github page - <br> https://github.com/chartjs/Chart.js <br> https://github.com/chartjs/awesome <br> https://github.com/sgratzl/chartjs-chart-graph <br>
+ <br>Best Courses - <br>https://www.udemy.com/course/chart-js/ <br> https://www.udemy.com/course/chart-js-with-mysql-database-data/ <br>
+ https://www.udemy.com/course/polar-area-chart-js/ <br> https://www.pluralsight.com/courses/build-data-visualization-chart-js <br>
+ <br>Other Tips / Hacks - <br> https://www.chartjs.org/docs/3.0.2/configuration/tooltip.html <br> https://css-tricks.com/the-many-ways-of-getting-data-into-charts/ <br>
+ https://gist.github.com/jimdoan4/fd0baa14689db66750b2fa72ea9c364a <br> https://tobiasahlin.com/blog/chartjs-charts-to-get-you-started/ <br>
+ <br><br>
+ </details>
+
+<details>
  <summary>Chef</summary>
  <br>Category/Type - <br> Configuration management tool <br> 
  <br>Official Documentation - <br> https://docs.chef.io <br>
