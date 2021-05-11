@@ -8451,6 +8451,44 @@ https://all3dp.com/2/tinkercad-arduino-how-to-design-simulate-circuits/#:~:text=
 </details>
 
 <details>
+<summary>TurboGears</summary>
+<br>
+Category/Type - <br>
+Web Application Framework<br>
+<br>
+Documentation - <br>
+https://turbogears.org/2.0/docs/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=-QqQVBzU4lM<br>
+https://www.youtube.com/watch?v=RYDxtY5yR0k<br>
+https://www.youtube.com/watch?v=B798jvDNlLY<br>
+https://www.youtube.com/watch?v=BzwjyFRPv2Q<br>
+<br>
+Useful Websites - <br>
+https://www.tutorialspoint.com/turbogears/index.htm<br>
+https://www.fullstackpython.com/turbogears.html<br>
+https://quintagroup.com/cms/python/turbogears<br>
+https://www.g2.com/products/turbogears/reviews<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/TurboGears<br>
+https://github.com/TurboGears/tg2<br>
+https://nasa.github.io/data-nasa-gov-frontpage/<br>
+<br>
+Best Courses - <br>
+https://www.zeolearn.com/master-turbogears-training<br>
+https://www.fullstackpython.com/turbogears.html<br>
+https://www.wisdomjobs.com/e-university/turbogears-tutorial-1291.html<br>
+https://onlinecoursebay.com/turbogears-2-a-web-framework-to-rule-them-all-udemy-free-download/<br>
+<br>
+Other Tips/Hacks - <br>
+https://turbogears.org/2.1/docs/recipesandfaq.html<br>
+https://cppsecrets.com/users/1025797106971211079711012197108494964103109971051084699111109/Python-Full-Stack-Mode-in-TurboGears.php<br>
+https://wingware.com/doc/howtos/turbogears<br>
+</details>
+
+<details>
 <summary>Turtle</summary>
 <br>Category/Type - <br> Python Library <br>
 <br>Official Documentation - <br> https://docs.python.org/3/library/turtle.html <br>
