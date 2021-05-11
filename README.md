@@ -2949,23 +2949,11 @@ https://medium.com/@diegoveloper<br>
 <br>
 </details>
 <details>
-<summary>Frontend Developer</summary>
+<summary>Frontend Development</summary>
 <br>Category/Type - <br>Web development<br>
-<a href="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png">
-<img align="center" src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png"/>
-</a>
 
 <br>Official Documentation - <br>
 https://devdocs.io/html/<br>
-https://devdocs.io/css/<br>
-https://nextjs.org/docs<br>
-https://api.jquery.com/<br>
-https://angular.io/docs<br>
-https://devdocs.io/javascript/<br>
-https://reactjs.org/docs/getting-started.html<br>
-https://tailwindcss.com/docs <br>
-https://sass-lang.com/documentation <br>
-
 <br>Best YouTube creators - <br>
 https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA<br>
 https://www.youtube.com/watch?v=s3qZF4jhgDo<br>
@@ -2982,6 +2970,14 @@ https://www.youtube.com/watch?v=a59kOE2Ma1Q<br>
 <br>Useful Websites - <br>
 https://scotch.io/tutorials/get-started-with-tailwind-css-in-15-minutes<br>
 https://www.w3schools.com/html/<br>
+https://devdocs.io/css/<br>
+https://nextjs.org/docs<br>
+https://api.jquery.com/<br>
+https://angular.io/docs<br>
+https://devdocs.io/javascript/<br>
+https://reactjs.org/docs/getting-started.html<br>
+https://tailwindcss.com/docs <br>
+https://sass-lang.com/documentation <br>
 https://www.edx.org/learn/html5<br>
 https://css-tricks.com/<br>
 https://javascript.info<br>
@@ -3018,20 +3014,16 @@ https://www.udemy.com/course/jquery-course/<br>
 <br>Other Tips / Hacks - <br>
 https://dev.to/simonholdorf/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-4fhn<br>
 https://www.telerik.com/blogs/10-time-saving-css-tips-i-learned-the-hard-way-when-using-sass<br>
-
 https://www.freecodecamp.org/news/what-is-tailwind-css-and-how-can-i-add-it-to-my-website-or-react-app/<br>
 https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-knowledge-in-24-hours/<br>
 https://dev.to/zandershirley/10-practical-javascript-tricks-2b7h<br>
 https://html.com/wp-content/uploads/html-cheat-sheet.pdf<br>
 https://digital.com/tools/html-cheatsheet/<br>
 https://www.sitepoint.com/top-15-jquery-tricks/<br>
-
-<br>
-<strong>Keep learning, Don't stop here only!  </strong>
-
+<a href="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png">
+<img align="center" src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png"/>
+</a>
 </details>
-
-
 <details>
 <summary>Gamemaker</summary>
 <br>
