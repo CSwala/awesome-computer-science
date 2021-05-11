@@ -8995,6 +8995,42 @@ https://gpuopen.com/wp-content/uploads/2016/05/Most-common-mistakes-in-Vulkan-ap
 </details>
 
 <details>
+<summary>Web2Py</summary>
+<br>Category/Type - <br>Web Application Framework<br>
+<br>Official Documentation - <br>
+http://www.web2py.com/init/default/documentation<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=BXzqmHx6edY<br>
+https://www.youtube.com/watch?v=dHu8O1gZOl0<br>
+https://www.youtube.com/watch?v=4XAQF9Qgtes<br>
+https://www.youtube.com/watch?v=i6RnwpNI9jk&list=PLM0vXBfO5CiIfMefaght0OWJJ2rAzx-Nu<br>
+https://www.youtube.com/watch?v=qtoGek6h_Lw<br>
+https://www.youtube.com/watch?v=XA1KWQPXJz0<br>
+<br>Useful Websites - <br>
+http://www.web2py.com<br>
+https://www.tutorialspoint.com/web2py/index.htm<br>
+https://www.packtpub.com/product/web2py-application-development-cookbook/9781849515467<br>
+https://medium.com/@mindfiresolutions.usa/web2py-framework-a-brief-overview-5bac4c6333de<br>
+<br>Dedicated Github page - <br>
+https://github.com/web2py/web2py<br>
+https://github.com/web2py/web2py-book<br>
+https://github.com/web2py/web2py/blob/master/CHANGELOG<br>
+https://github.com/web2py<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/web-engineering-with-python-and-web2py/<br>
+https://www.pluralsight.com/courses/full-stack-web-development-python-web2py<br>
+https://www.classcentral.com/course/udemy-web-engineering-with-python-and-web2py-27014<br>
+https://www.codingguru.com/python-courses/training-details/270276<br>
+https://www.schoolofit.co.za/web2py-courses/<br>
+<br>Other Tips / Hacks - <br>
+https://subscription.packtpub.com/book/web_development/9781849515467/11<br>
+https://www.oreilly.com/library/view/web2py-application-development/9781849515467/ch11.html<br>
+https://travelingfrontiers.wordpress.com/2013/05/23/tips-tricks-on-setting-up-a-web2py-turnkey-appliance/<br>
+https://www.developerdrive.com/python-and-web-building-dynamic-web-forms-in-web2py-from-ground-–-part-iii/<br>
+<br>
+</details>
+
+<details>
 <summary>WebAssembly </summary>
 <br>
 Category/Type - <br>Programming language <br>
