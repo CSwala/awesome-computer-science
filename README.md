@@ -56,6 +56,40 @@ https://medium.com/@pink_academy/best-way-to-learn-3ds-max-b16c758df0b6<br>
 <br>
 </details>
 
+<details>
+<summary>ActionScript</summary>
+<br>Category/Type - <br>Programming language<br>
+<br>Official Documentation - <br>
+https://help.adobe.com/en_US/as3/dev/as3_devguide.pdf<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PLIZ2O3hFxLqc2P7vV7qUf4p65QuNNfzAr<br>
+https://www.youtube.com/watch?v=zpW3eZjJLcE<br>
+https://www.youtube.com/playlist?list=PL533FDD79A546D638<br>
+https://www.youtube.com/playlist?list=PL6LJCvj3JyM2cbr7ZotOo0fDNYPuXWwcK<br>
+https://www.youtube.com/playlist?list=PL1AF3425D871127B5<br>
+https://www.youtube.com/playlist?list=PLWcGYBruE7VoVqEW159H7ejiCN5TP-DT1<br>
+<br>Useful Websites - <br>
+http://www.trainingtutorials101.com/2010/11/flash-actionscript-3-tutorial-index.html<br>
+https://help.adobe.com/en_US/as3/learn/as3_learning.pdf<br>
+https://www.tutorialboneyard.com/flash-actionscript-tutorial/<br>
+https://riptutorial.com/actionscript-3<br>
+https://code.tutsplus.com/series/as3-101--active-7395<br>
+<br>Dedicated Github page - <br>
+https://github.com/robinrodricks/awesome-actionscript3<br> 
+https://github.com/simongregory/actionscript3-tmbundle<br>
+https://github.com/mikechambers/as3corelib<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/mobile-game-development-with-flash-cs6-and-actionscript-30-vtc/<br>
+https://www.udemy.com/course/as3sidescroller/<br>
+https://www.udemy.com/course/mobileas3/<br>
+https://www.udemy.com/course/flash-actionscript-30-beginner-to-advanced/<br>
+https://www.udemy.com/course/action-script-30-with-adobe-flash/<br>
+<br>Other Tips / Hacks - <br>
+https://krasimirtsonev.com/blog/article/5-useful-ActionScript-as3-tips<br>
+https://www.appservgrid.com/refcards/refcards/actionscript/AS3_Syntax.pdf<br>
+http://as3cheatsheet.agivera.pl/<br>
+<br><br>
+</details>
 
 <details>
 <summary>Adobe Illustrator</summary>
@@ -811,6 +845,47 @@ https://www.assp.org/education/certification-preparation/asp<br>
 </a>
 <br><br><br>
 </details>
+
+<details>
+<summary>Augmented Reality</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://arvr.google.com/ar/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=zpiFZtPxo2w&list=PLb1h4A0yB97_TeFuf9TAEah3b-VyIYzF9<br>
+https://www.youtube.com/watch?v=2Vu_lEYgkyQ&list=PL_Nji0JOuXg0tJ-HQ8g0OgEjIxL5RO1R2<br>
+https://www.youtube.com/watch?v=MtiUx_szKbI&list=RDQMK9OtDZjqIY4&start_radio=1<br>
+https://www.youtube.com/watch?v=i-r4WcH15WQ&list=PL_Nji0JOuXg2AIB5sZSkGAKS4ZaniN-tR<br>
+<br>
+Useful Websites - <br>
+https://www.investopedia.com/terms/a/augmented-reality.asp#:~:text=Augmented%20reality%20(AR)%20is%20an,and%20business%20applications%20in%20particular.<br>
+https://www.augmentedpro.com/index.php/tutorials<br>
+https://www.threekit.com/blog/what-is-augmented-reality<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/juangallostra/augmented-reality<br>
+https://github.com/dharmeshkakadia/awesome-AR<br>
+https://github.com/njanirudh/Augmented-Reality<br>
+https://github.com/PacktPublishing/Enterprise-Augmented-Reality-Projects<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/learn/ar<br>
+https://www.coursera.org/learn/ar-technologies-video-streaming<br>
+https://www.edx.org/course/work-with-augmented-reality-ar-and-the-web<br>
+https://www.coursera.org/learn/handheld-ar<br>
+https://www.pluralsight.com/courses/augmented-reality-getting-started?aid=7010a000002BWq6AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=IN_Dynamic&utm_content=&gclid=Cj0KCQjwp86EBhD7ARIsAFkgakjphVkK02Rfr3OiaZhCGgRsxf6ssLvwrLVHcqOLR6FrB-cvVygLPa4aAhXfEALw_wcB<br>
+<br>
+Other Tips/Hacks - <br>
+https://mbryonic.com/augmented-reality-guide/<br>
+https://7t.co/blog/tips-for-a-smooth-augmented-reality-ar-mobile-app-development-project/<br>
+https://www.constructdigital.com/insight/how-does-augmented-reality-ar-work<br>
+<br>
+</details>
+
 
 <details>
 <summary>AWK</summary>
@@ -2399,6 +2474,47 @@ https://levelup.gitconnected.com/ultimate-guide-to-tips-tricks-and-javascript-fe
  </details>
 
 <details>
+<summary>Electron</summary>
+<br>Category/Type - <br>Software framework<br>
+<br>Official Documentation - <br>
+https://www.electronjs.org/docs<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=kN1Czs0m1SU<br>
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW<br>
+https://www.youtube.com/playlist?list=PLtWy6rdN1yBntIyLeNo-fCVR6AaK7vdyl<br>
+https://www.youtube.com/playlist?list=PL8p2I9GklV46sT0RXw6PlMRVxJzEDUWuD<br>
+https://www.youtube.com/playlist?list=PLYxzS__5yYQmocPoLUiEAfD1cJNjhdQar<br>
+https://www.youtube.com/watch?v=2RxHQoiDctI<br>
+<br>Useful Websites - <br>
+https://www.tutorialspoint.com/electron/index.htm<br>
+https://www.electronjs.org/docs/tutorial<br>
+https://codeburst.io/build-a-todo-app-with-electron-d6c61f58b55a?gi=8ff2c88f7391<br>
+https://gitconnected.com/learn/electron<br>
+https://codeburst.io/electron-basics-and-fundamentals-b85b23aa611d<br>
+https://www.twilio.com/blog/an-introduction-to-building-desktop-applications-with-electron<br>
+<br>Dedicated Github page - <br>
+https://github.com/electron/electron<br>
+https://github.com/electron/electron-quick-start<br>
+https://github.com/electron/electronjs.org<br>
+https://github.com/sindresorhus/awesome-electron<br>
+https://github.com/electron/electron-api-demos<br>
+<br>Best Courses -<br>
+https://www.udemy.com/course/electron-from-scratch/<br>
+https://www.udemy.com/course/electron-react-tutorial/<br>
+https://www.udemy.com/course/master-electron/<br>
+https://www.pluralsight.com/courses/electron-fundamentals<br>
+https://www.linkedin.com/learning/electron-building-cross-platform-desktop-apps-3<br>
+https://www.udemy.com/course/master-electron-js-framework-build-5-advanced-desktop-apps/<br>
+<br>Other Tips / Hacks -<br>
+https://www.freecodecamp.org/news/lessons-learned-from-electronjs/<br>
+https://www.infoq.com/presentations/electron-pitfalls/<br>
+https://blog.avocode.com/4-must-know-tips-for-building-cross-platform-electron-apps-f3ae9c2bffff?gi=1c4fe2d412c9<br>
+https://simulatedgreg.github.io/electron-cheatsheet/<br>
+https://openai.gitbook.io/code-cheatsheets/js/electron<br>
+<br><br>
+</details>
+
+<details>
 <summary>Elixir</summary>
 <br>Category/Type - <br>Dyanamic Programming language<br>
 <br>Official Documentation - <br>
@@ -2696,8 +2812,59 @@ https://www.ig.com/en/ethereum-trading/how-to-trade-ethereum <br>
 https://www.techrepublic.com/article/ethereum-a-cheat-sheet-for-professionals/ <br>	
 https://www.daytrading.com/ethereum <br>
 <br>
-
 </details>
+
+<details>
+<summary>Ethical Hacking</summary>
+<br>
+Category/Type - <br>
+Computer Security<br>
+<br>
+Documentation - <br>
+https://www.eccouncil.org/ethical-hacking/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/c/LiveOverflowCTF<br>
+https://www.youtube.com/c/STOKfredrik<br>
+https://www.youtube.com/c/InsiderPhD<br>
+https://www.youtube.com/c/DCcybersec<br>
+https://www.youtube.com/c/ippsec<br>
+https://www.youtube.com/c/Nahamsec<br>
+https://www.youtube.com/c/JohnHammond010<br>
+<br>
+Useful Websites - <br>
+https://www.tutorialspoint.com/ethical_hacking/index.htm<br>
+https://www.w3schools.in/category/ethical-hacking/<br>
+https://www.fita.in/ethical-hacking-tutorial/<br>
+https://www.geeksforgeeks.org/introduction-to-ethical-hacking/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources<br>
+https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools<br>
+https://github.com/The-Art-of-Hacking/h4cker<br>
+https://github.com/blackhatethicalhacking<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/learn-ethical-hacking-from-scratch/<br>
+https://www.udemy.com/course/ethicalhacker/<br>
+https://www.udemy.com/course/penetration-testing/<br>
+https://www.udemy.com/course/ethical-hacking-professional/<br>
+https://www.udemy.com/course/complete-ethical-hacking-bootcamp-zero-to-mastery/ <br>
+https://alison.com/course/ethical-hacker<br>
+https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking?contextUrn=urn%3Ali%3AlyndaLearningPath%3A58b35a4b498e4bdbb44ff960<br>
+https://www.offensive-security.com/courses-and-certifications/<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.geeksforgeeks.org/how-to-make-a-career-in-ethical-hacking/<br>
+https://medium.com/edureka/ethical-hacking-tutorial-1081f4aacc53<br>
+https://medium.com/technology-hits/ethical-hacking-bcf212c9648c<br>
+https://medium.com/lotus-fruit/the-benefits-of-learning-ethical-hacking-97be7c30f4fe<br>
+https://intellipaat.com/blog/cyber-security-vs-ethical-hacking-difference/<br>
+https://startacybercareer.com/oscp-vs-ceh-which-should-you-choose/#:~:text=The%20OSCP%20is%20the%20Offensive,by%20the%20organization%20Offensive%20Security.&text=The%20CEH%20is%20the%20Certified,by%20the%20organization%20EC%2DCouncil<br>
+<br>
+</details>
+
+
 
 <details>
 <summary>Express.js</summary>
@@ -6806,6 +6973,51 @@ https://jonathan-hui.medium.com/rl-introduction-to-deep-reinforcement-learning-3
 <br>
 </details>
 
+<details>
+<summary>Requests</summary>
+<br>
+Category/Type - <br>
+HTTP Library<br>
+<br>
+Documentation - <br>
+https://docs.python-requests.org<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=tb8gHvYlCFs<br>
+https://www.youtube.com/watch?v=u6_aYV-1LAE<br>
+https://www.youtube.com/watch?v=iv-Uc8d3tDs<br>
+https://www.youtube.com/watch?v=a6fIbtFB46g<br>
+https://www.youtube.com/watch?v=wMf7LJn0k4U<br>
+https://www.youtube.com/watch?v=KnBntO0wayk<br>
+<br>
+Useful Websites - <br>
+https://pypi.org/project/requests/<br>
+https://realpython.com/python-requests/<br>
+https://www.w3schools.com/python/module_requests.asp<br>
+https://docs.python-requests.org/en/master/<br>
+https://laravel.com/docs/8.x/requests<br>
+https://www.geeksforgeeks.org/python-requests-tutorial/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/psf/requests<br>
+https://github.com/js-org/js.org<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/lecture/data-collection-processing-python/the-requests-module-bJfPx<br>
+https://www.udemy.com/course/learn-python-requests/<br>
+https://docs.moodle.org/19/en/Course_request<br>
+https://realpython.com/lessons/requests-introduction-overview/<br>
+https://www.edureka.co/blog/python-requests-tutorial/<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html<br>
+https://www.geeksforgeeks.org/10-essential-python-tips-tricks-programmers/<br>
+https://www.codementor.io/blog/python-web-scraping-63l2v9sf2q<br>
+https://medium.com/@meenakshi052003/top-8-tips-for-web-scraping-in-python-f07cd3229c26<br>
+<br>
+</details>
+
+
 
 <details>
 <summary>REST API</summary>
@@ -7453,6 +7665,47 @@ https://www.infoworld.com/article/3200766/9-shell-tips-every-developer-should-kn
 <br><br><br>
 </details>
 
+<details>
+<summary>Sinatra</summary>
+<br>
+Category/Type - <br>Web Application Library <br>
+<br>
+Official Documentation - <br>
+http://sinatrarb.com/documentation.html <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=sp8TL37ymGk<br>
+https://www.youtube.com/watch?v=SiWxCznSnuA<br>
+https://www.youtube.com/watch?v=NMsjTtNRnYc<br>
+https://www.youtube.com/watch?v=ghbHNy080b8<br>
+https://www.youtube.com/watch?v=ZwuvNazpoAE<br>
+https://www.youtube.com/watch?v=vRPZl5S8UNc<br>
+<br>
+Useful Websites -
+<br>
+https://learn.co/lessons/what-is-sinatra<br>
+https://medium.com/swlh/breaking-down-a-sinatra-application-18d158ab80ea<br>
+https://dev.to/evybauer/express-vs-sinatra-what-s-the-best-framework-for-a-web-app-4cjd<br>
+https://subscription.packtpub.com/book/application_development/9781787280649/16/16lvl1sec101/sinatra-web-framework-development<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/sinatra/sinatra<br>
+https://github.com/sinatra<br>
+<br>
+Best Courses - <br>
+https://www.udacity.com/course/dynamic-web-applications-with-sinatra--ud268<br>
+https://hackr.io/tutorials/learn-sinatra<br>
+https://www.lynda.com/Sinatra-tutorials/11954-0.html<br>
+https://code.tutsplus.com/categories/sinatra/courses<br>
+https://www.gangboard.com/app-programming-scripting-training/unix-shell-scripting-training<br>
+<br>
+Other Tips / Hacks - <br>
+https://x-team.com/blog/how-to-create-a-ruby-api-with-sinatra/<br>
+https://www.toptal.com/ruby/api-with-sinatra-and-sequel-ruby-tutorial<br>
+https://www.tutorialandexample.com/sinatra-tutorial/<br>
+https://letsfindcourse.com/ruby-sinatra-tutorials<br>
+<br>
+</details>
 
 <details>
 <summary>SketchUp studio</summary>
@@ -8602,6 +8855,46 @@ https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks <b
 </details>
 
 <details>
+<summary>Virtual Reality</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://arvr.google.com/vr/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=aNC5YMUTcQ4&list=PLbMVogVj5nJSyt80VRXYC-YrAvQuUb6dh<br>
+https://www.youtube.com/watch?v=6uG9vtckp1U&list=PLs-8CSaashXw3OJpdJ_A8GTDQq0np7D57<br>
+<br>
+Useful Websites - <br>
+https://www.investopedia.com/terms/v/virtual-reality.asp#:~:text=Virtual%20reality%20(VR)%20refers%20to,or%20gloves%20fitted%20with%20sensors.<br>
+https://www.britannica.com/technology/virtual-reality<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/ErickSimoes/EscapeMuseumVR<br>
+https://github.com/bjornbytes/lovr<br>
+https://github.com/MTASZTAKI/ApertusVR<br>
+https://github.com/samuelcardillo/WebScreenVR<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/specializations/virtual-reality<br>
+https://www.udemy.com/course/unrealvr/<br>
+https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/<br>
+https://www.udemy.com/course/oculus-quest-development-with-unity/<br>
+https://www.futurelearn.com/courses/introduction-to-virtual-reality<br>
+<br>
+Other Tips/Hacks - <br>
+https://www.theguardian.com/technology/2016/nov/10/virtual-reality-guide-headsets-apps-games-vr<br>
+https://medium.com/predict/the-future-of-virtual-reality-1880dce95f59#:~:text=Virtual%20reality%20(VR)%20is%20the,real%20%E2%80%94%20but%20is%20really%20digitized.<br>
+https://medium.com/studiotmd/virtual-reality-uses-in-architecture-and-design-c5d54b7c1e89<br>
+https://medium.com/studiotmd/virtual-reality-uses-in-architecture-and-design-c5d54b7c1e89<br>
+<br>
+</details>
+
+
+
+<details>
 <summary>Vue.js</summary>
 <br>
 Category/Type - <br>Model–view–viewmodel front end JavaScript framework <br>
@@ -8693,9 +8986,10 @@ https://dl.acm.org/doi/abs/10.1145/3388769.3407508<br>
 https://developer.nvidia.com/blog/vulkan-dos-donts/<br>
 https://www.reddit.com/r/vulkan/comments/5jzg58/tips_on_abstracting_vulkan/<br>
 https://developer.android.com/ndk/guides/graphics/design-notes<br>
-https://gpuopen.com/wp-content/uploads/2016/05/Most-common-mistakes-in-Vulkan-apps.pdf<br>
+https://gpuopen.com/wp-content/uploads/2016/05/Most-common-mistakes-in-Vulkan-apps.pdf
+<br><br>
 <a href="https://en.wikipedia.org/wiki/File:Vulkan_RGB_Dec16.svg">
-  <img align="center" src="https://en.wikipedia.org/wiki/File:Vulkan_RGB_Dec16.svg" width="800" height="400"/>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Vulkan_logo.svg/768px-Vulkan_logo.svg.png" width="700">
 </a>
 <br><br><br>
 </details>
