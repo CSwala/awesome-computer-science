@@ -1231,6 +1231,56 @@ https://hackerthemes.com/bootstrap-cheatsheet/<br>
 </details>
 
 <details>
+<summary>Bugzilla</summary>
+<br>
+Category/Type - <br>
+System Software <br>
+<br>
+Official Documentation - <br>
+https://www.bugzilla.org/docs/ <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/playlist?list=PLd43cTxFZWlflQiIdhCNcxJ0XFEouK-Bi <br>
+https://www.youtube.com/watch?v=7B7EzyVdTe4 <br>
+https://www.youtube.com/watch?v=QVfCCuPwigY <br>
+https://www.youtube.com/watch?v=gDU0B1U_JgQ <br>
+https://www.youtube.com/watch?v=v-IEnJHxEDk <br>
+<br>
+Useful Websites- <br>
+https://www.guru99.com/bugzilla-tutorial-for-beginners.html <br>
+https://www.tutorialspoint.com/bugzilla/index.htm <br>
+https://www.javatpoint.com/bugzilla <br>
+https://www.vskills.in/certification/tutorial/bugzilla/ <br>
+https://www.tutorialandexample.com/bugzilla-tutorial/ <br>
+https://www.softwaretestinghelp.com/bugzilla-new-version-bugzilla-30-released/ <br>
+http://saintangelos.com/studentdesk/Download/Bugzilla_Final_Version_Updated_Version2.pdf <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/bugzilla/bugzilla <br>
+https://github.com/mozilla-bteam/bmo <br>
+https://github.com/python-bugzilla/python-bugzilla <br>
+https://github.com/xmunoz/bugzilla2gitlab <br>
+https://github.com/freebsd/bugzilla <br>
+https://github.com/bugzilla/bugzilla.github.io <br>
+<br>
+Best Courses- <br>
+https://www.udemy.com/course/software-testing-reporting-bugs-like-a-pro-using-bugzilla/ <br>
+https://www.udemy.com/course/complete-bugzilla-course-for-beginners/ <br>
+https://www.ecorptrainings.com/bugzilla-online-corporate-training-hyderabad-india-uk-usa.php <br>
+https://www.vskills.in/certification/bugzilla-testing-certification <br>
+https://www.udemy.com/course/manual-software-testing-course-best-for-beginners/ <br>
+http://www.thinkittraining.in/bugzilla <br>
+<br>
+Other Tips/Hacks- <br>
+https://bugzillatips.wordpress.com/ <br>
+https://bugzillatips.wordpress.com/page/2/ <br>
+https://www.bugzilla.org/docs/4.4/en/html/hintsandtips.html <br>
+https://bugs.cse.iitb.ac.in/bugs/docs/en/html/using/tips.html <br>
+https://blogs.gnome.org/aklapper/2013/07/19/bugzillatips-report-tables/ <br>
+<br>
+</details>
+
+<details>
 <summary>Buildbox</summary>
 <br>Category/Type - <br> Video Game Software <br>
 <br>Official Documentation - <br> 
