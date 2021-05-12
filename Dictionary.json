@@ -1,4 +1,4 @@
-﻿[
+[
 	{	
 		"Title" : ".NET",
 		"Tag" : "Programming Language",
@@ -6671,6 +6671,30 @@
 		"Image1":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Theano_logo.svg/1200px-Theano_logo.svg.png"
 	
 	},
+	{
+		"Title" : "TurboGears",
+		"Tag" : "Web Application Framework",
+		"Documentation" : "https://turbogears.org/2.0/docs/",
+		"YT1" : "https://www.youtube.com/watch?v=-QqQVBzU4lM",
+		"YT2" : "https://www.youtube.com/watch?v=RYDxtY5yR0k ",
+		"YT3" : "https://www.youtube.com/watch?v=B798jvDNlLY",
+		"YT4" : "https://www.youtube.com/watch?v=BzwjyFRPv2Q",
+		"Website1" : "https://www.tutorialspoint.com/turbogears/index.htm",
+		"Website2" : "https://www.fullstackpython.com/turbogears.html",
+		"Website3" : "https://quintagroup.com/cms/python/turbogears",
+		"Website4" : "https://www.g2.com/products/turbogears/reviews",
+		"Dedicated GH page1" : "https://github.com/TurboGears",
+		"Dedicated GH page2" : "https://github.com/TurboGears/tg2",
+		"Dedicated GH page3" : "https://nasa.github.io/data-nasa-gov-frontpage/",
+		"Course1" : "https://www.zeolearn.com/master-turbogears-training",
+		"Course2" : "https://www.fullstackpython.com/turbogears.html",
+		"Course3" : "https://www.wisdomjobs.com/e-university/turbogears-tutorial-1291.html",
+		"Course4" : "https://onlinecoursebay.com/turbogears-2-a-web-framework-to-rule-them-all-udemy-free-download/",
+		"Tips1" : "https://turbogears.org/2.1/docs/recipesandfaq.html",
+		"Tips2" : "https://cppsecrets.com/users/1025797106971211079711012197108494964103109971051084699111109/Python-Full-Stack-Mode-in-TurboGears.php",
+		"Tips3" : "https://wingware.com/doc/howtos/turbogears"
+	},
+
 	 {
     "Title": "Turtle",
     "Tag": "Python Library",
