@@ -1,4 +1,4 @@
-[
+﻿[
 	{	
 		"Title" : ".NET",
 		"Tag" : "Programming Language",
@@ -824,6 +824,37 @@
 		"Tips8" : "https://channel9.msdn.com/Shows/Azure-Friday/Improve-your-productivity-with-Azure-Tips-and-Tricks",
 		"Tips9" : "https://stackify.com/azure-portal-tips/",
 		"Image1" : "https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png"
+	},
+	{
+		"Title" : "Backbone.js",
+		"Tag" : "JavaScript library",
+		"Documentation" : "https://backbonejs.org/docs/backbone.html",
+		"YT1 " : "https://www.youtube.com/playlist?list=PLT9miexWCpPUfPUGeQUMXQ9WS9rrbxI2D",
+		"YT2 " : "https://www.youtube.com/playlist?list=PL4CUYg-6qxdF1bQC60TpId5bkCcoekf0j",
+		"YT3 " : "https://www.youtube.com/playlist?list=PLX2HoWE32I8OCnumQmc9lcjnHIjAamIy6",
+		"YT4 " : "https://www.youtube.com/watch?v=PcTVQyrWSSs",
+		"YT5 " : "https://www.youtube.com/playlist?list=PLEk6DN9YLL6dlB9vsDsbPxF6_wA5tHKgt",
+		"Website1" : "https://www.tutorialspoint.com/backbonejs/index.htm",
+		"Website2" : "https://www.javatpoint.com/backbonejs-tutorial",
+		"Website3" : "https://adrianmejia.com/backbone-dot-js-for-absolute-beginners-getting-started/",
+		"Website4" : "https://auth0.com/blog/backbonejs-getting-started/",
+		"Website5" : "https://www.startuprocket.com/articles/a-quick-introduction-to-backbone-js",
+		"Website6" : "https://hackr.io/tutorials/learn-backbone-js",
+		"Dedicated GH page1" : "https://github.com/jashkenas/backbone",
+		"Dedicated GH page2" : "https://github.com/sadcitizen/awesome-backbone",
+		"Dedicated GH page3" : "https://github.com/pubnub/backbone",
+		"Dedicated GH page4" : "https://github.com/dperrymorrow/example-backbone-app",
+		"Course1" : "https://www.udemy.com/course/backbonejs-tutorial/",
+		"Course2" : "https://www.udemy.com/course/learn-to-program-in-backbonejs-code-like-a-pro/",
+		"Course3" : "https://www.udemy.com/course/master-backbonejs/",
+		"Course4" : "https://www.udemy.com/course/backbonejs-essential-training/",
+		"Course5" : "https://www.udemy.com/course/learning-backbonejs-testing/",
+		"Course6" : "https://www.pluralsight.com/courses/backbone-fundamentals",
+		"Tips1" : "https://blog.devartis.com/backbone-js-tips-and-good-practices-2229f2940bfc",
+		"Tips2" : "https://www.smashingmagazine.com/2013/08/backbone-js-tips-patterns/",
+		"Tips3" : "https://www.toptal.com/backbone-js/top-8-common-backbone-js-developer-mistakes",
+		"Tips4" : "https://devhints.io/backbone",
+		"Tips5" : "http://javascriptissexy.com/learn-backbone-js-completely/"	
 	},
 	{
 "Title" : "Beautifulsoup Library",

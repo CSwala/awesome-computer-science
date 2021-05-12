@@ -999,6 +999,25 @@ https://gregorsuttie.com/2020/05/07/azure-tips-n-tricks/ <br> https://dailydotne
 </details>
 
 <details>
+<summary>Backbone.js</summary>
+<br>Category/Type - <br>JavaScript library<br>
+<br>Official Documentation - <br>
+https://backbonejs.org/docs/backbone.html<br>
+<br>Best YouTube creators - <br> https://www.youtube.com/playlist?list=PLT9miexWCpPUfPUGeQUMXQ9WS9rrbxI2D <br>
+https://www.youtube.com/playlist?list=PL4CUYg-6qxdF1bQC60TpId5bkCcoekf0j <br>
+https://www.youtube.com/playlist?list=PLX2HoWE32I8OCnumQmc9lcjnHIjAamIy6 <br>
+https://www.youtube.com/playlist?list=PLEk6DN9YLL6dlB9vsDsbPxF6_wA5tHKgt <br>
+https://www.youtube.com/watch?v=PcTVQyrWSSs <br>
+<br>Useful Websites - <br> https://www.tutorialspoint.com/backbonejs/index.htm <br> 
+https://www.javatpoint.com/backbonejs-tutorial <br> https://adrianmejia.com/backbone-dot-js-for-absolute-beginners-getting-started/ <br> https://auth0.com/blog/backbonejs-getting-started/ <br> https://www.startuprocket.com/articles/a-quick-introduction-to-backbone-js <br> https://hackr.io/tutorials/learn-backbone-js <br>
+<br>Dedicated Github page - <br> https://github.com/jashkenas/backbone <br> https://github.com/sadcitizen/awesome-backbone <br> https://github.com/pubnub/backbone <br> https://github.com/dperrymorrow/example-backbone-app <br>
+<br>Best Courses - <br> https://www.udemy.com/course/backbonejs-tutorial/ <br> https://www.udemy.com/course/learn-to-program-in-backbonejs-code-like-a-pro/ <br>
+https://www.udemy.com/course/master-backbonejs/ <br> https://www.udemy.com/course/backbonejs-essential-training/ <br> https://www.udemy.com/course/learning-backbonejs-testing/ <br> https://www.pluralsight.com/courses/backbone-fundamentals <br>
+<br>Other Tips / Hacks - <br> https://blog.devartis.com/backbone-js-tips-and-good-practices-2229f2940bfc <br> https://www.smashingmagazine.com/2013/08/backbone-js-tips-patterns/ <br>https://www.toptal.com/backbone-js/top-8-common-backbone-js-developer-mistakes <br> https://devhints.io/backbone <br> http://javascriptissexy.com/learn-backbone-js-completely <br>
+<br><br><br>
+</details>
+
+<details>
 <summary>BeautifulSoup Library</summary>
 <br>
 Category/Type - <br>
