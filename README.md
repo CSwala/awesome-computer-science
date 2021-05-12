@@ -9258,6 +9258,43 @@ https://webglinsights.github.io/tips.html<br>
 </a>
 <br><br><br>
 </details>
+
+<details>
+<summary>WebRTC</summary>
+<br>Category/Type - <br>
+Development<br>
+<br>Documentation - <br>
+https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=FExZvpVvYxA&t=708s<br>
+https://www.youtube.com/playlist?list=PLK0STOMCFms4nXm1bRUdjhPg0coxI2U6h<br>
+https://www.youtube.com/watch?v=6_gLU_OStK0<br>
+https://www.youtube.com/watch?v=oxFr7we3LC8&t=1s<br>
+https://www.youtube.com/watch?v=WmR9IMUD_CY<br>
+https://www.youtube.com/watch?v=DvlyzDZDEq4<br>
+<br>Useful Websites - <br>
+https://bloggeek.me/massive-applications-using-webrtc/<br>
+https://webrtc.org/<br>
+https://codelabs.developers.google.com/codelabs/webrtc-web#0<br>
+https://www.simplewebrtc.com/<br>
+https://www.npmjs.com/package/webrtc-adapter<br>
+<br>Dedicated Github page - <br>
+https://github.com/googlecodelabs/webrtc-web<br>
+https://github.com/webrtc/samples<br>
+https://webrtc.github.io/samples/<br>
+https://github.com/webrtc<br>
+<br>Best Courses - <br>
+https://www.pluralsight.com/courses/webrtc-fundamentals<br>
+https://webrtccourse.com/<br>
+https://www.udemy.com/course/course-webrtc/<br>
+https://www.lynda.com/WebRTC-tutorials/11735-0.html<br>
+<br>Other Tips/Hacks - <br>
+https://medium.com/@jeremy.noring/webrtc-pro-tips-98f90acad007<br>
+https://intersog.com/blog/webrtc-tips-and-tricks/<br>
+https://bloggeek.me/webrtc-single-page-application/<br>
+https://github.com/muaz-khan/WebRTC-Experiment/blob/master/RTCMultiConnection/docs/tips-tricks.md<br>
+https://www.tutorialspoint.com/webrtc/webrtc_quick_guide.htm<br>
+</details>
  
 
 <details>
