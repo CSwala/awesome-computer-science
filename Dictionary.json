@@ -7262,6 +7262,36 @@
 		"Image1" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png"
 	},
 	 
+	 {
+    "Title": "WebRTC",
+    "Tag": "Development",
+    "Documentation": "https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API",
+    "YT1": "https://www.youtube.com/watch?v=FExZvpVvYxA&t=708s",
+    "YT2": "https://www.youtube.com/playlist?list=PLK0STOMCFms4nXm1bRUdjhPg0coxI2U6h",
+    "YT3": "https://www.youtube.com/watch?v=6_gLU_OStK0",
+    "YT4": "https://www.youtube.com/watch?v=oxFr7we3LC8&t=1s",
+    "YT5": "https://www.youtube.com/watch?v=WmR9IMUD_CY",
+    "YT6": "https://www.youtube.com/watch?v=DvlyzDZDEq4",
+    "Website1": "https://bloggeek.me/massive-applications-using-webrtc/",
+    "Website2": "https://webrtc.org/",
+    "Website3": "https://codelabs.developers.google.com/codelabs/webrtc-web#0",
+    "Website4": "https://www.simplewebrtc.com/",
+    "Website5": "https://www.npmjs.com/package/webrtc-adapter",
+    "Dedicated GH page1": "https://github.com/googlecodelabs/webrtc-web",
+    "Dedicated GH page2": "https://github.com/webrtc/samples",
+    "Dedicated GH page3": "https://webrtc.github.io/samples/",
+    "Dedicated Gh page4": "https://github.com/webrtc",
+    "Course1": "https://www.pluralsight.com/courses/webrtc-fundamentals",
+    "Course2": "https://webrtccourse.com/",
+    "Course3": "https://www.udemy.com/course/course-webrtc/",
+    "Course4": "https://www.lynda.com/WebRTC-tutorials/11735-0.html",
+    "Tips1": "https://medium.com/@jeremy.noring/webrtc-pro-tips-98f90acad007",
+    "Tips2": "https://intersog.com/blog/webrtc-tips-and-tricks/",
+    "Tips3": "https://bloggeek.me/webrtc-single-page-application/",
+    "Tips4": "https://github.com/muaz-khan/WebRTC-Experiment/blob/master/RTCMultiConnection/docs/tips-tricks.md",
+    "Tips5": "https://www.tutorialspoint.com/webrtc/webrtc_quick_guide.htm"
+  },
+	 
 	{
 		"Title" : "Web Scraping",
 		"Tag" : "Web Harvesting",
