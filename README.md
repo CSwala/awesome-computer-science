@@ -1750,6 +1750,7 @@ https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/
 https://www.hackerearth.com/practice/<br>
 https://interviewing.io<br>
 https://www.bigocheatsheet.com/<br>
+https://clist.by/<br>
 <br>
 Dedicated Github page - <br>
 https://github.com/kth-competitive-programming/kactl<br>
