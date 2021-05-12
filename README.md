@@ -999,6 +999,25 @@ https://gregorsuttie.com/2020/05/07/azure-tips-n-tricks/ <br> https://dailydotne
 </details>
 
 <details>
+<summary>Backbone.js</summary>
+<br>Category/Type - <br>JavaScript library<br>
+<br>Official Documentation - <br>
+https://backbonejs.org/docs/backbone.html<br>
+<br>Best YouTube creators - <br> https://www.youtube.com/playlist?list=PLT9miexWCpPUfPUGeQUMXQ9WS9rrbxI2D <br>
+https://www.youtube.com/playlist?list=PL4CUYg-6qxdF1bQC60TpId5bkCcoekf0j <br>
+https://www.youtube.com/playlist?list=PLX2HoWE32I8OCnumQmc9lcjnHIjAamIy6 <br>
+https://www.youtube.com/playlist?list=PLEk6DN9YLL6dlB9vsDsbPxF6_wA5tHKgt <br>
+https://www.youtube.com/watch?v=PcTVQyrWSSs <br>
+<br>Useful Websites - <br> https://www.tutorialspoint.com/backbonejs/index.htm <br> 
+https://www.javatpoint.com/backbonejs-tutorial <br> https://adrianmejia.com/backbone-dot-js-for-absolute-beginners-getting-started/ <br> https://auth0.com/blog/backbonejs-getting-started/ <br> https://www.startuprocket.com/articles/a-quick-introduction-to-backbone-js <br> https://hackr.io/tutorials/learn-backbone-js <br>
+<br>Dedicated Github page - <br> https://github.com/jashkenas/backbone <br> https://github.com/sadcitizen/awesome-backbone <br> https://github.com/pubnub/backbone <br> https://github.com/dperrymorrow/example-backbone-app <br>
+<br>Best Courses - <br> https://www.udemy.com/course/backbonejs-tutorial/ <br> https://www.udemy.com/course/learn-to-program-in-backbonejs-code-like-a-pro/ <br>
+https://www.udemy.com/course/master-backbonejs/ <br> https://www.udemy.com/course/backbonejs-essential-training/ <br> https://www.udemy.com/course/learning-backbonejs-testing/ <br> https://www.pluralsight.com/courses/backbone-fundamentals <br>
+<br>Other Tips / Hacks - <br> https://blog.devartis.com/backbone-js-tips-and-good-practices-2229f2940bfc <br> https://www.smashingmagazine.com/2013/08/backbone-js-tips-patterns/ <br>https://www.toptal.com/backbone-js/top-8-common-backbone-js-developer-mistakes <br> https://devhints.io/backbone <br> http://javascriptissexy.com/learn-backbone-js-completely <br>
+<br><br><br>
+</details>
+
+<details>
 <summary>BeautifulSoup Library</summary>
 <br>
 Category/Type - <br>
@@ -1231,6 +1250,56 @@ https://hackerthemes.com/bootstrap-cheatsheet/<br>
 </details>
 
 <details>
+<summary>Bugzilla</summary>
+<br>
+Category/Type - <br>
+System Software <br>
+<br>
+Official Documentation - <br>
+https://www.bugzilla.org/docs/ <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/playlist?list=PLd43cTxFZWlflQiIdhCNcxJ0XFEouK-Bi <br>
+https://www.youtube.com/watch?v=7B7EzyVdTe4 <br>
+https://www.youtube.com/watch?v=QVfCCuPwigY <br>
+https://www.youtube.com/watch?v=gDU0B1U_JgQ <br>
+https://www.youtube.com/watch?v=v-IEnJHxEDk <br>
+<br>
+Useful Websites- <br>
+https://www.guru99.com/bugzilla-tutorial-for-beginners.html <br>
+https://www.tutorialspoint.com/bugzilla/index.htm <br>
+https://www.javatpoint.com/bugzilla <br>
+https://www.vskills.in/certification/tutorial/bugzilla/ <br>
+https://www.tutorialandexample.com/bugzilla-tutorial/ <br>
+https://www.softwaretestinghelp.com/bugzilla-new-version-bugzilla-30-released/ <br>
+http://saintangelos.com/studentdesk/Download/Bugzilla_Final_Version_Updated_Version2.pdf <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/bugzilla/bugzilla <br>
+https://github.com/mozilla-bteam/bmo <br>
+https://github.com/python-bugzilla/python-bugzilla <br>
+https://github.com/xmunoz/bugzilla2gitlab <br>
+https://github.com/freebsd/bugzilla <br>
+https://github.com/bugzilla/bugzilla.github.io <br>
+<br>
+Best Courses- <br>
+https://www.udemy.com/course/software-testing-reporting-bugs-like-a-pro-using-bugzilla/ <br>
+https://www.udemy.com/course/complete-bugzilla-course-for-beginners/ <br>
+https://www.ecorptrainings.com/bugzilla-online-corporate-training-hyderabad-india-uk-usa.php <br>
+https://www.vskills.in/certification/bugzilla-testing-certification <br>
+https://www.udemy.com/course/manual-software-testing-course-best-for-beginners/ <br>
+http://www.thinkittraining.in/bugzilla <br>
+<br>
+Other Tips/Hacks- <br>
+https://bugzillatips.wordpress.com/ <br>
+https://bugzillatips.wordpress.com/page/2/ <br>
+https://www.bugzilla.org/docs/4.4/en/html/hintsandtips.html <br>
+https://bugs.cse.iitb.ac.in/bugs/docs/en/html/using/tips.html <br>
+https://blogs.gnome.org/aklapper/2013/07/19/bugzillatips-report-tables/ <br>
+<br>
+</details>
+
+<details>
 <summary>Buildbox</summary>
 <br>Category/Type - <br> Video Game Software <br>
 <br>Official Documentation - <br> 
@@ -1395,6 +1464,24 @@ https://skytechgeek.com/2017/05/tips-tricks-php-cake-developers/<br>
 https://www.cakephpexpert.com/blog/10-essential-tips-for-cakephp-development<br>
 <br>
 </details>
+
+<details>
+ <summary>Chart.js</summary>
+ <br>Category/Type - <br> Javascript Library <br> 
+ <br>Official Documentation - <br> https://www.chartjs.org/docs/latest/ <br>
+ <br>Best YouTube creators - <br> https://www.youtube.com/watch?v=sE08f4iuOhA <br> https://www.youtube.com/playlist?list=PLBG4BJt8bo9rrPibhKLbpe-z1Dkk2VJjO <br>
+https://www.youtube.com/playlist?list=PLG6ePePp5vvZLVjT5mgyxBpkbNBpuAwq9 <br>
+https://www.youtube.com/playlist?list=PLylMDDjFIp1B6IE1Dib_bucx7JJ_zsvZP<br>
+https://www.youtube.com/watch?v=xaZUb4Z4O0M<br>
+ <br>Useful Websites - <br> https://www.tutorialspoint.com/javascript-chart-js <br> https://www.w3schools.com/ai/ai_chartjs.asp <br> https://www.stanleyulili.com/javascript/beginner-guide-to-chartjs/ <br>
+ https://tobiasahlin.com/blog/introduction-to-chartjs/ <br> https://www.geeksforgeeks.org/javascript-chart-js/ <br> https://code.tutsplus.com/tutorials/getting-started-with-chartjs-introduction--cms-28278 <br>
+<br>Dedicated Github page - <br> https://github.com/chartjs/Chart.js <br> https://github.com/chartjs/awesome <br> https://github.com/sgratzl/chartjs-chart-graph <br>
+ <br>Best Courses - <br>https://www.udemy.com/course/chart-js/ <br> https://www.udemy.com/course/chart-js-with-mysql-database-data/ <br>
+ https://www.udemy.com/course/polar-area-chart-js/ <br> https://www.pluralsight.com/courses/build-data-visualization-chart-js <br>
+ <br>Other Tips / Hacks - <br> https://www.chartjs.org/docs/3.0.2/configuration/tooltip.html <br> https://css-tricks.com/the-many-ways-of-getting-data-into-charts/ <br>
+ https://gist.github.com/jimdoan4/fd0baa14689db66750b2fa72ea9c364a <br> https://tobiasahlin.com/blog/chartjs-charts-to-get-you-started/ <br>
+ <br><br>
+ </details>
 
 <details>
  <summary>Chef</summary>
@@ -1663,6 +1750,7 @@ https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/
 https://www.hackerearth.com/practice/<br>
 https://interviewing.io<br>
 https://www.bigocheatsheet.com/<br>
+https://clist.by/<br>
 <br>
 Dedicated Github page - <br>
 https://github.com/kth-competitive-programming/kactl<br>
@@ -8433,6 +8521,44 @@ https://all3dp.com/2/tinkercad-arduino-how-to-design-simulate-circuits/#:~:text=
 </details>
 
 <details>
+<summary>TurboGears</summary>
+<br>
+Category/Type - <br>
+Web Application Framework<br>
+<br>
+Documentation - <br>
+https://turbogears.org/2.0/docs/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=-QqQVBzU4lM<br>
+https://www.youtube.com/watch?v=RYDxtY5yR0k<br>
+https://www.youtube.com/watch?v=B798jvDNlLY<br>
+https://www.youtube.com/watch?v=BzwjyFRPv2Q<br>
+<br>
+Useful Websites - <br>
+https://www.tutorialspoint.com/turbogears/index.htm<br>
+https://www.fullstackpython.com/turbogears.html<br>
+https://quintagroup.com/cms/python/turbogears<br>
+https://www.g2.com/products/turbogears/reviews<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/TurboGears<br>
+https://github.com/TurboGears/tg2<br>
+https://nasa.github.io/data-nasa-gov-frontpage/<br>
+<br>
+Best Courses - <br>
+https://www.zeolearn.com/master-turbogears-training<br>
+https://www.fullstackpython.com/turbogears.html<br>
+https://www.wisdomjobs.com/e-university/turbogears-tutorial-1291.html<br>
+https://onlinecoursebay.com/turbogears-2-a-web-framework-to-rule-them-all-udemy-free-download/<br>
+<br>
+Other Tips/Hacks - <br>
+https://turbogears.org/2.1/docs/recipesandfaq.html<br>
+https://cppsecrets.com/users/1025797106971211079711012197108494964103109971051084699111109/Python-Full-Stack-Mode-in-TurboGears.php<br>
+https://wingware.com/doc/howtos/turbogears<br>
+</details>
+
+<details>
 <summary>Turtle</summary>
 <br>Category/Type - <br> Python Library <br>
 <br>Official Documentation - <br> https://docs.python.org/3/library/turtle.html <br>
@@ -8992,6 +9118,42 @@ https://gpuopen.com/wp-content/uploads/2016/05/Most-common-mistakes-in-Vulkan-ap
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Vulkan_logo.svg/768px-Vulkan_logo.svg.png" width="700">
 </a>
 <br><br><br>
+</details>
+
+<details>
+<summary>Web2Py</summary>
+<br>Category/Type - <br>Web Application Framework<br>
+<br>Official Documentation - <br>
+http://www.web2py.com/init/default/documentation<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=BXzqmHx6edY<br>
+https://www.youtube.com/watch?v=dHu8O1gZOl0<br>
+https://www.youtube.com/watch?v=4XAQF9Qgtes<br>
+https://www.youtube.com/watch?v=i6RnwpNI9jk&list=PLM0vXBfO5CiIfMefaght0OWJJ2rAzx-Nu<br>
+https://www.youtube.com/watch?v=qtoGek6h_Lw<br>
+https://www.youtube.com/watch?v=XA1KWQPXJz0<br>
+<br>Useful Websites - <br>
+http://www.web2py.com<br>
+https://www.tutorialspoint.com/web2py/index.htm<br>
+https://www.packtpub.com/product/web2py-application-development-cookbook/9781849515467<br>
+https://medium.com/@mindfiresolutions.usa/web2py-framework-a-brief-overview-5bac4c6333de<br>
+<br>Dedicated Github page - <br>
+https://github.com/web2py/web2py<br>
+https://github.com/web2py/web2py-book<br>
+https://github.com/web2py/web2py/blob/master/CHANGELOG<br>
+https://github.com/web2py<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/web-engineering-with-python-and-web2py/<br>
+https://www.pluralsight.com/courses/full-stack-web-development-python-web2py<br>
+https://www.classcentral.com/course/udemy-web-engineering-with-python-and-web2py-27014<br>
+https://www.codingguru.com/python-courses/training-details/270276<br>
+https://www.schoolofit.co.za/web2py-courses/<br>
+<br>Other Tips / Hacks - <br>
+https://subscription.packtpub.com/book/web_development/9781849515467/11<br>
+https://www.oreilly.com/library/view/web2py-application-development/9781849515467/ch11.html<br>
+https://travelingfrontiers.wordpress.com/2013/05/23/tips-tricks-on-setting-up-a-web2py-turnkey-appliance/<br>
+https://www.developerdrive.com/python-and-web-building-dynamic-web-forms-in-web2py-from-ground-–-part-iii/<br>
+<br>
 </details>
 
 <details>
