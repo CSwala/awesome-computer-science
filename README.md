@@ -6880,6 +6880,47 @@ https://rapidminer.com/blog/using-execute-script-operator/<br>
 </details>
 
 <details>
+<summary>Rasa</summary>
+<br>
+Category/Type - <br>
+Framework
+<br>
+<br>
+Documentation - <br>
+https://rasa.com/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/channel/UCJ0V6493mLvqdiVwOKWBODQ<br>
+https://www.youtube.com/watch?v=Z-G1PlWr5Bo&list=PLZoTAELRMXVN2V3kc2W-8rNu5UekkIhwF<br>
+https://www.youtube.com/watch?v=OkWcHr2XDxE&list=PLtFHvora00y8NBwCMoNnPqii-y2-gyl5p<br>
+https://www.youtube.com/watch?v=80GDt7HW_-g&list=PLtFHvora00y80hvsNJ-6YkmfTMrxk5rOe<br>
+<br>
+Useful Websites - <br>
+https://www.journaldev.com/45620/rasa-intent-classification-chatbot<br>
+https://www.geeksforgeeks.org/chatbots-using-python-and-rasa/<br>
+https://www.analyticsvidhya.com/blog/2019/04/learn-build-chatbot-rasa-nlp-ipl/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/cedextech/rasa-chatbot-templates<br>
+https://github.com/TatianaParshina/rasa_chatbot<br>
+https://github.com/santteegt/rasa-chatbot-example<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/projects/chatbot-rasa-python<br>
+https://www.udemy.com/course/the-complete-chatbot-course-using-rasa-python-nlp/<br>
+https://www.udemy.com/course/create-artificial-intelligent-chatbot-with-rasa-in-one-hour/<br>
+https://www.udemy.com/course/rasa-for-beginners/<br>
+https://www.datacamp.com/courses/building-chatbots-in-python<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/voice-tech-podcast/how-to-create-chatbot-using-rasa-82954e141ae7<br>
+https://medium.com/daitan-tech/how-to-build-your-own-intelligent-assistant-using-rasa-17c324276798<br>
+https://www.velotio.com/engineering-blog/stateless-bot-using-rasa-stack<br>
+<br>
+</details>
+
+
+<details>
 <summary>ReactJS</summary>
 <br>Category/Type - <br>JavaScript Framework<br>
 <br>Official Documentation - <br>
