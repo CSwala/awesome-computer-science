@@ -1678,6 +1678,50 @@ https://www.cloudinstitute.io/blog/cloud-computing-tips-and-tricks/ <br>
 </details>
 
 <details>
+<summary>CloudForms</summary>
+<br>
+Category/Type - <br>
+Cloud management platform <br>
+<br>
+Official Documentation - <br>
+https://access.redhat.com/documentation/en-us/red_hat_cloudforms/4.7 <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=CzZePcEYKGo<br>
+https://www.youtube.com/watch?v=2CCuJ-2gBGE <br>
+https://www.youtube.com/watch?v=SMhQ6rb5gaM <br>
+https://www.youtube.com/watch?v=y1tmDyNnKok <br>
+https://www.youtube.com/watch?v=-TKBQwIJMVE <br>
+https://www.youtube.com/watch?v=SMhQ6rb5gaM&list=PLo3hQ71BAQvWq0C_QUBFF5gE8Or_TVisn <br>
+<br>
+Useful Websites- <br>
+https://www.oreilly.com/library/view/mastering-cloudforms-automation/9781491957219/ch01.html<br>
+https://www.ibm.com/docs/SSFC4F_1.3.0/install/cloudforms.html <br>
+https://www.techopedia.com/definition/31198/red-hat-cloudforms <br>
+http://v1.uncontained.io/playbooks/operationalizing/cloudforms.html <br>
+https://medium.com/ibm-cloud/cloudforms-in-the-ibm-cloud-pak-for-multicloud-management-the-complete-hybrid-management-solution-3f244adc3221 <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/RedHatOfficial <br>
+https://github.com/RedHatCloudForms <br>
+https://github.com/redhatdemocentral/rhcs-cloudforms-demo <br>
+https://github.com/RedHatOfficial/RedHatOfficial.github.io<br>
+<br>
+Best Courses- <br>
+https://www.koenig-solutions.com/red-hat-cloudforms-hybrid-cloud-management-training-certification-course<br>
+https://cloudacademy.com/course/virtualization-and-infrastructure-migration-technical-overview/cloud-management-platform-setup-cloudforms/ <br>
+https://www.udemy.com/course/red-hat-openstack-technical-overview/<br>
+https://freetutorialshub.com/how-to-install-manageiq-cloudforms-on-openstack-kvm/<br>
+https://freetutorialshub.com/how-to-install-manageiq-cloudforms-on-openstack-kvm/ <br>
+<br>
+Other Tips/Hacks- <br>
+https://pemcg.gitbooks.io/introduction-to-cloudforms-automation/content/chapter17/tips_and_tricks.html <br>
+https://www.zoho.com/forms/tips-and-tricks.html<br>
+https://www.lifehack.org/articles/technology/15-cloud-storage-tips-and-tricks-you-probably-dont-know.html <br>
+<br>
+</details>
+
+<details>
 <summary>CNN (Convolutional Neural Network)</summary>
 <br>Category/Type - <br>The Keras library in Python<br>
 <br>Official Documentation - <br>
