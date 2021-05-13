@@ -709,6 +709,36 @@
 		"Tips3" : "https://www.constructdigital.com/insight/how-does-augmented-reality-ar-work"
 	},
 
+	{
+		"Title" : "Aurelia",
+		"Tag" : "JavaScript Framework",
+		"Documentation" : "https://aurelia.io/docs/",
+		"YT1" : "https://www.youtube.com/watch?v=yaX34x3OgQI",
+		"YT2" : "https://www.youtube.com/playlist?list=PLxo86ctKorEiEItOZpbjZi9LSboZ0qFt9",
+		"YT3" : "https://www.youtube.com/playlist?list=PLDmvslp_VR0zVcTt2B3n4JUXC6_AG9Zp4",
+		"YT4" : "https://www.youtube.com/watch?v=GBOV5zyFVVM",
+		"YT5" : "https://www.youtube.com/playlist?list=PL-lxoPS_1OXXTxReFyVlahBbmssvhWX-o",
+		"YT6" : "https://www.youtube.com/playlist?list=PLkpAqauvJhF9vAAkWYftnY91zSjuBOwDO",
+		"Website1" : "https://www.tutorialspoint.com/aurelia/index.htm",
+		"Website2" : "https://aurelia.io/docs/tutorials/",
+		"Website3" : "https://scotch.io/tutorials/build-a-mini-instagram-app-with-aurelia",
+		"Website4" : "https://www.programwitherik.com/what-you-should-know-about-aurelia-javascript-client-framework/",
+		"Website5" : "https://riptutorial.com/aurelia",
+		"Dedicated GH page1" : "https://github.com/aurelia",
+		"Dedicated GH page2" : "https://github.com/aurelia-contrib/awesome-aurelia",
+		"Dedicated GH page3" : "https://github.com/jadhavajay/aurelia-realworld-example-app",
+		"Dedicated GH page4" : "https://github.com/aurelia/aurelia",
+		"Course1" : "https://www.udemy.com/course/learning-path-aurelia-web-development-for-ui-developers/",
+		"Course2" : "https://www.udemy.com/course/aurelia-for-beginners-the-new-age-js-framework/",
+		"Course3" : "https://www.udemy.com/course/aurelia-js-create-mobile-apps-using-aurelia-js/",
+		"Course4" : "https://www.pluralsight.com/courses/aurelia-fundamentals",
+		"Course5" : "https://coursesfree.org/course/learn-aurelia-js/",
+		"Tips1" : "https://blog.cloudboost.io/5-techniques-used-by-aurelia-to-promote-great-code-quality-d3328bde2a58?gi=be20acddbfa3",
+		"Tips2" : "https://ilikekillnerds.com/2018/07/aurelia-tips-tricks/",
+		"Tips3" : "https://aurelia.io/docs/fundamentals/cheat-sheet/",
+		"Tips4" : "https://cheatography.com/erikch/cheat-sheets/aurelia-getting-started/"
+	},
+
 	 
 	{
 		"Title": "AWK",

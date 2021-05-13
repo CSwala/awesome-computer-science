@@ -886,6 +886,50 @@ https://www.constructdigital.com/insight/how-does-augmented-reality-ar-work<br>
 <br>
 </details>
 
+<details>
+<summary>Aurelia</summary>
+<br>
+Category/Type - <br>
+JavaScript Framework<br>
+<br>
+Documentation - <br>
+https://aurelia.io/docs/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=yaX34x3OgQI<br>
+https://www.youtube.com/playlist?list=PLxo86ctKorEiEItOZpbjZi9LSboZ0qFt9<br>
+https://www.youtube.com/playlist?list=PLDmvslp_VR0zVcTt2B3n4JUXC6_AG9Zp4<br>
+https://www.youtube.com/playlist?list=PL-lxoPS_1OXXTxReFyVlahBbmssvhWX-o<br>
+https://www.youtube.com/playlist?list=PLkpAqauvJhF9vAAkWYftnY91zSjuBOwDO<br>
+https://www.youtube.com/watch?v=GBOV5zyFVVM<br>
+<br>
+Useful Websites - <br>
+https://www.tutorialspoint.com/aurelia/index.htm<br>
+https://aurelia.io/docs/tutorials/<br>
+https://scotch.io/tutorials/build-a-mini-instagram-app-with-aurelia<br>
+https://www.programwitherik.com/what-you-should-know-about-aurelia-javascript-client-framework/<br>
+https://riptutorial.com/aurelia<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/aurelia<br>
+https://github.com/aurelia-contrib/awesome-aurelia<br>
+https://github.com/jadhavajay/aurelia-realworld-example-app<br>
+https://github.com/aurelia/aurelia<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/learning-path-aurelia-web-development-for-ui-developers/<br>
+https://www.udemy.com/course/aurelia-for-beginners-the-new-age-js-framework/<br>
+https://www.udemy.com/course/aurelia-js-create-mobile-apps-using-aurelia-js/<br>
+https://www.pluralsight.com/courses/aurelia-fundamentals<br>
+https://coursesfree.org/course/learn-aurelia-js/<br>
+<br>
+Other Tips/Hacks - <br>
+https://blog.cloudboost.io/5-techniques-used-by-aurelia-to-promote-great-code-quality-d3328bde2a58?gi=be20acddbfa3<br>
+https://ilikekillnerds.com/2018/07/aurelia-tips-tricks/<br>
+https://aurelia.io/docs/fundamentals/cheat-sheet/<br>
+https://cheatography.com/erikch/cheat-sheets/aurelia-getting-started/<br>
+<br>
+</details>
 
 <details>
 <summary>AWK</summary>
