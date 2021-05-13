@@ -6050,6 +6050,46 @@ https://www.reddit.com/r/openshift/comments/8fu2ib/openshift_container_platform_
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/200px-OpenShift-LogoType.svg.png" width="500" height="500"/>
 </a>
 </details>
+
+
+
+<details>
+<summary>OpenVINO™ </summary>
+<br>
+Category/Type - <br>
+Toolkit<br>
+<br>
+Documentation - <br>
+https://docs.openvinotoolkit.org/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=kY9nZbX1DWM&list=PLg-UKERBljNxdIQir1wrirZJ50yTp4eHv<br>
+https://www.youtube.com/watch?v=bNZtJ8d6Ro0&list=PLg-UKERBljNzXUIDjeb8oF-KRwp2fTU4i<br>
+https://www.youtube.com/watch?v=kY9nZbX1DWM&list=PLUqN3BdAMBvGTFPCziNWCPTNK6jGO_VbM<br>
+https://www.youtube.com/watch?v=aqBuoXhRHL4&list=PL5Bl5h896bRL7k7QxlQX4f8u2bSE920wT<br>
+<br>
+Useful Websites - <br>
+https://towardsdatascience.com/introduction-to-openvino-897e705a1f0a<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/openvinotoolkit/openvino<br>
+https://github.com/intel/ros_openvino_toolkit<br>
+https://github.com/intel/ros2_openvino_toolkit<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/learn/intel-openvino<br>
+https://www.udacity.com/course/intel-edge-AI-fundamentals-with-openvino--ud132<br>
+https://www.coursera.org/learn/int-openvino<br>
+https://www.mooc-list.com/tags/intel-openvino<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/techwasti/introduction-of-intel-openvino-toolkit-bc235a9c5b6d<br>
+https://medium.com/openvino-toolkit/whats-new-in-the-openvino-model-server-3a060a029435<br>
+https://medium.com/intel-software-innovators/object-recognition-with-intel-distribution-of-openvino-toolkit-475647574fb7<br>
+<br>
+</details>
+
+
 <details>
 <summary>Operating System</summary>
 <br>
