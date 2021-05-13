@@ -2209,6 +2209,32 @@ https://exercism.io/tracks/d <br>
 <br><br><br>
 </details>
 
+{
+		"Title" : "Data Engineering",
+		"Tag" : "Development",
+		"Documentation" : "https://docs.oracle.com/en/database/oracle/oracle-database/",
+		"YT1" : "https://www.youtube.com/watch?v=pERD1Ln_Qh8&list=PLjQy-obJQIiNzLO8RFcsBLo6PALbv3F-1",
+		"YT2" : "https://www.youtube.com/watch?v=pEi-Ak5l00A&list=PL3N9eeOlCrP5PfpYrP6YxMNtt5Hw27ZlO",
+		"YT3" : "https://www.youtube.com/watch?v=73QC3qw5b2Y&list=PLNkCniHtd0PNM4NZ5etgYMw4ojid0Aa6i",
+		"YT4" : "https://www.youtube.com/watch?v=3imSHVySLRc&list=PLfP3JxW-T70GR0w3zVzG7tgIFI14FZxaj",
+		"Website1" : "https://www.tutorialspoint.com/dwh/index.htm",
+		"Website2" : "https://www.geeksforgeeks.org/what-is-data/",
+		"Website3" : "https://towardsdatascience.com/tagged/data-engineering",
+		"Dedicated GH page1" : "https://github.com/igorbarinov/awesome-data-engineering",
+		"Dedicated GH page2" : "https://github.com/san089/Udacity-Data-Engineering-Projects",
+		"Dedicated GH page3" : "https://github.com/natbusa/data-engineering",
+		"Course1" : "https://www.coursera.org/specializations/data-engineering-foundations",
+		"Course2" : "https://www.coursera.org/professional-certificates/gcp-data-engineering",
+		"Course3" : "https://www.coursera.org/learn/introduction-to-data-engineering",
+		"Course4" : "https://www.datacamp.com/courses/data-engineering-for-everyone?tap_a=5644-dce66f&tap_s=1018688-629c5c&utm_medium=affiliate&utm_source=solutionsreview",
+		"Course5" : "https://digitaldefynd.com/best-data-engineering-courses/#1_Data_Engineering_Nanodegree_Certification_Udacity",
+		"Tips1" : "https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7",
+		"Tips2" : "https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/",
+		"Tips3" : "https://www.tutorialspoint.com/difference-between-data-scientist-data-engineer-data-analyst"
+	},
+
+
+
 <details>
 <summary>Dart</summary>
 <br>Category/Type - <br>Programming language<br>
