@@ -3020,6 +3020,7 @@ https://dev.to/zandershirley/10-practical-javascript-tricks-2b7h<br>
 https://html.com/wp-content/uploads/html-cheat-sheet.pdf<br>
 https://digital.com/tools/html-cheatsheet/<br>
 https://www.sitepoint.com/top-15-jquery-tricks/<br>
+<br>
 <a href="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png">
 <img align="center" src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png"/>
 </a>
