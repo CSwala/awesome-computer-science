@@ -8889,6 +8889,46 @@ https://medium.com/hri-tech/unreal-engine-tips-and-tricks-26e351b4b218 <br> http
 https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https://devbynight.com/unreal-engine-tips-tricks/ <br> http://www.tharlevfx.com/unreal-tips-and-tricks <br>
 </details>
 
+<details>
+<summary>User Experience</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://uxplanet.org/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/channel/UCxM6G42vmI752f60od3Gypw/videos<br>
+https://www.youtube.com/user/JesseAtomic/<br>
+https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw<br>
+https://www.youtube.com/user/NNgroup/videos<br>
+<br>
+Useful Websites - <br>
+https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/<br>
+https://www.interaction-design.org/literature/topics/ux-design<br>
+https://www.crazyegg.com/blog/what-is-user-experience/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/netoguimaraes/awesome-ux<br>
+https://github.com/gregjw/ui-ux<br>
+https://gist.github.com/teybannerman/9c234424eb1d940a8505<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/specializations/ui-ux-design<br>
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiwkZmE2bXwAhWKZIsKHb_UBBoYABAHGgJ0bQ&ohost=www.google.com&cid=CAESQOD2wOG6mcRD3v4YcvJ4G4kLQYvvs2yN0zmXls13WDUS7ElMavzhP4eIVR40B1i3gM_do4tZLl3Yi3GpFH93dFc&sig=AOD64_19gmhcNqgBA37DAekvJhMHBQtf5Q&q&adurl&ved=2ahUKEwjQ7o2E2bXwAhVh63MBHTiDDFkQ0Qx6BAgEEAE<br>
+https://www.coursera.org/learn/ux-design-fundamentals<br>
+https://www.udemy.com/course/user-experience-design-fundamentals/<br>
+https://www.udemy.com/course/ultimate-guide-to-ux/<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/@thinkwik/do-you-know-the-importance-of-ui-ux-development-773eae38436e#:~:text=User%20Experience%20(UX)%20Development%20is,basic%20skeleton%20of%20any%20application.<br>
+https://usabilitygeek.com/big-differences-ux-ui-design/<br>
+https://medium.com/nyc-design/ux-ui-design-process-for-beginner-753952bb2241<br>
+<br>
+</details>
+
+
 
 <details>
 <summary>UXPin</summary>
