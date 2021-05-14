@@ -5479,6 +5479,32 @@
 		"Tips3" : "https://rapidminer.com/blog/tips-tricks-using-rapidminer-server/",
 		"Tips4" : "https://rapidminer.com/blog/using-execute-script-operator/"
 	},
+	
+	{
+		"Title" : "Rasa",
+		"Tag" : "Framework",
+		"Documentation" : "https://rasa.com/",
+		"YT1" : "https://www.youtube.com/channel/UCJ0V6493mLvqdiVwOKWBODQ",
+		"YT2" : "https://www.youtube.com/watch?v=Z-G1PlWr5Bo&list=PLZoTAELRMXVN2V3kc2W-8rNu5UekkIhwF",
+		"YT3" : "https://www.youtube.com/watch?v=OkWcHr2XDxE&list=PLtFHvora00y8NBwCMoNnPqii-y2-gyl5p",
+		"YT4" : "https://www.youtube.com/watch?v=80GDt7HW_-g&list=PLtFHvora00y80hvsNJ-6YkmfTMrxk5rOe",
+		"Website1" : "https://www.journaldev.com/45620/rasa-intent-classification-chatbot",
+		"Website2" : "https://www.geeksforgeeks.org/chatbots-using-python-and-rasa/",
+		"Website3" : "https://www.analyticsvidhya.com/blog/2019/04/learn-build-chatbot-rasa-nlp-ipl/",
+		"Dedicated GH page1" : "https://github.com/cedextech/rasa-chatbot-templates",
+		"Dedicated GH page2" : "https://github.com/TatianaParshina/rasa_chatbot",
+		"Dedicated GH page3" : "https://github.com/santteegt/rasa-chatbot-example",
+		"Course1" : "https://www.coursera.org/projects/chatbot-rasa-python",
+		"Course2" : "https://www.udemy.com/course/the-complete-chatbot-course-using-rasa-python-nlp/",
+		"Course3" : "https://www.udemy.com/course/create-artificial-intelligent-chatbot-with-rasa-in-one-hour/",
+		"Course4" : "https://www.udemy.com/course/rasa-for-beginners/",
+		"Course5" : "https://www.datacamp.com/courses/building-chatbots-in-python",
+		"Tips1" : "https://medium.com/voice-tech-podcast/how-to-create-chatbot-using-rasa-82954e141ae7",
+		"Tips2" : "https://medium.com/daitan-tech/how-to-build-your-own-intelligent-assistant-using-rasa-17c324276798",
+		"Tips3" : "https://www.velotio.com/engineering-blog/stateless-bot-using-rasa-stack"
+	},
+ 
+	 
 	{
 		"Title" : "ReactJS",
 		"Tag" : "JavaScript Framework",
