@@ -2950,7 +2950,7 @@ https://medium.com/@diegoveloper<br>
 </details>
 <details>
 <summary>Frontend Development</summary>
-<br>Category/Type - <br>Web development<br>
+<br>Category/Type - <br>Development<br>
 
 <br>Official Documentation - <br>
 https://devdocs.io/html/<br>
