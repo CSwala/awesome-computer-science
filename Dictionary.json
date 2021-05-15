@@ -2733,7 +2733,76 @@
 		"Tips5" : "https://github.com/ibhavikmakwana/FlutterDartTips",
 		"Tips6" : "https://github.com/leisim/awesome-flutter-packages",
 		"Tips7" : "https://medium.com/@diegoveloper"
-	},	
+	},
+{
+    "Title": "Frontend Development",
+    "Tag": "Development",
+    "Documentation": "https://devdocs.io/html/",
+
+    "YT2": "https://www.youtube.com/watch?v=s3qZF4jhgDo",
+    "YT1": "https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA",
+    "YT3": "https://www.youtube.com/user/thenewboston",
+    "YT4": "https://www.youtube.com/watch?v=21HuwjmuS7A&list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR",
+    "YT5": "https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw",
+    "YT6": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+    "YT7": "https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ",
+    "YT8": "https://www.youtube.com/watch?v=zBPeGR48_vE&list=PLqkLaKB2GJhWXV9rcarwvn06ISlL_9mPQ",
+    "YT9": "https://www.youtube.com/watch?v=uDwSnnhl1Ng&list=PLsyeobzWxl7qtP8Lo9TReqUMkiOp446cV",
+    "YT10": "https://www.youtube.com/watch?v=hMxGhHNOkCU",
+    "YT11": "https://www.youtube.com/watch?v=a59kOE2Ma1Q",
+
+    "Website1": "https://www.w3schools.com/html/",
+    "Website2": "https://www.edx.org/learn/html5",
+    "Website3": "https://devdocs.io/css/",
+    "Website4": "https://devdocs.io/javascript/",
+    "Website5": "https://reactjs.org/docs/getting-started.html",
+    "Website6": "https://nextjs.org/docs",
+    "Website7": "https://api.jquery.com/",
+    "Website8": "https://angular.io/docs",
+    "Website9": "https://tailwindcss.com/docs",
+    "Website10": "https://sass-lang.com/documentation",
+    "Website11": "https://scotch.io/tutorials/get-started-with-tailwind-css-in-15-minutes",
+    "Website12": "https://css-tricks.com/",
+    "Website13": "https://javascript.info",
+    "Website14": "https://jquery.com/download/",
+    "Website15": "https://www.smashingmagazine.com/useful-javascript-libraries-jquery-plugins-part-2/",
+    "Website16": "https://www.softwaretutorialvideos.com/tutorial-xd.html",
+    "Website17": "https://www.creative-tim.com/blog/angularjs/angular-js-75-examples-websites-applications-experiments/",
+    "Website18": "https://www.domestika.org/en/blog/4741-adobe-xd-tutorial-basic-prototype-interactions",
+    "Website19": "https://designshack.net/articles/software/adobe-xd-tutorials/",
+
+    "Dedicated GH page1": "https://github.com/kamranahmedse/developer-roadmap",
+    "Dedicated GH page2": "https://github.com/troxler/awesome-css-frameworks",
+    "Dedicated GH page3": "https://github.com/awesome-css-group/awesome-css",
+    "Dedicated GH page4": "https://lab.github.com/githubtraining/introduction-to-html",
+    "Dedicated GH page5": "https://github.com/4GeeksAcademy/html-tutorial-exercises-course",
+    "Dedicated GH page6": "https://github.com/FormidableLabs/spectacle",
+    "Dedicated GH page7": "https://github.com/30-seconds/30-seconds-of-code",
+    "Dedicated GH page8": "https://github.com/getify/You-Dont-Know-JS",
+    "Dedicated GH page9": "https://github.com/gothinkster/angularjs-realworld-example-app",
+    "Dedicated GH page10": "https://github.com/petk/awesome-jquery",
+    "Dedicated GH page11": "https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know",
+
+    "Course1": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/",
+    "Course2": "https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/",
+    "Course3": "https://www.udemy.com/course/learn-angularjs/",
+    "Course4": "https://www.udemy.com/course/react-tutorial-and-projects-course/",
+    "Course5":  "https://www.udemy.com/course/the-complete-javascript-course/",
+    "Course6":  "https://www.udemy.com/course/advanced-css-and-sass/ ",
+    "Course7":  "https://www.udemy.com/course/complete-guide-of-tailwind-css-/ ",
+    "Course8":  "https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/",
+    "Course9":  "https://www.udemy.com/course/jquery-course/",
+  
+    "Tips1": "https://dev.to/simonholdorf/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-4fhn",
+    "Tips2": "https://www.telerik.com/blogs/10-time-saving-css-tips-i-learned-the-hard-way-when-using-sass",
+    "Tips3": "https://www.freecodecamp.org/news/what-is-tailwind-css-and-how-can-i-add-it-to-my-website-or-react-app/",
+    "Tips4": "https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-knowledge-in-24-hours/",
+    "Tips5": "https://dev.to/zandershirley/10-practical-javascript-tricks-2b7h",
+    "Tips6": "https://html.com/wp-content/uploads/html-cheat-sheet.pdf",
+    "Tips7": "https://digital.com/tools/html-cheatsheet/",
+    "Tips7": "https://www.sitepoint.com/top-15-jquery-tricks/"
+},
+	
 	{
 		"Title" : "Gamemaker",
 		"Tag" : "Game Engine",
@@ -5524,6 +5593,32 @@
 		"Tips3" : "https://rapidminer.com/blog/tips-tricks-using-rapidminer-server/",
 		"Tips4" : "https://rapidminer.com/blog/using-execute-script-operator/"
 	},
+	
+	{
+		"Title" : "Rasa",
+		"Tag" : "Framework",
+		"Documentation" : "https://rasa.com/",
+		"YT1" : "https://www.youtube.com/channel/UCJ0V6493mLvqdiVwOKWBODQ",
+		"YT2" : "https://www.youtube.com/watch?v=Z-G1PlWr5Bo&list=PLZoTAELRMXVN2V3kc2W-8rNu5UekkIhwF",
+		"YT3" : "https://www.youtube.com/watch?v=OkWcHr2XDxE&list=PLtFHvora00y8NBwCMoNnPqii-y2-gyl5p",
+		"YT4" : "https://www.youtube.com/watch?v=80GDt7HW_-g&list=PLtFHvora00y80hvsNJ-6YkmfTMrxk5rOe",
+		"Website1" : "https://www.journaldev.com/45620/rasa-intent-classification-chatbot",
+		"Website2" : "https://www.geeksforgeeks.org/chatbots-using-python-and-rasa/",
+		"Website3" : "https://www.analyticsvidhya.com/blog/2019/04/learn-build-chatbot-rasa-nlp-ipl/",
+		"Dedicated GH page1" : "https://github.com/cedextech/rasa-chatbot-templates",
+		"Dedicated GH page2" : "https://github.com/TatianaParshina/rasa_chatbot",
+		"Dedicated GH page3" : "https://github.com/santteegt/rasa-chatbot-example",
+		"Course1" : "https://www.coursera.org/projects/chatbot-rasa-python",
+		"Course2" : "https://www.udemy.com/course/the-complete-chatbot-course-using-rasa-python-nlp/",
+		"Course3" : "https://www.udemy.com/course/create-artificial-intelligent-chatbot-with-rasa-in-one-hour/",
+		"Course4" : "https://www.udemy.com/course/rasa-for-beginners/",
+		"Course5" : "https://www.datacamp.com/courses/building-chatbots-in-python",
+		"Tips1" : "https://medium.com/voice-tech-podcast/how-to-create-chatbot-using-rasa-82954e141ae7",
+		"Tips2" : "https://medium.com/daitan-tech/how-to-build-your-own-intelligent-assistant-using-rasa-17c324276798",
+		"Tips3" : "https://www.velotio.com/engineering-blog/stateless-bot-using-rasa-stack"
+	},
+ 
+	 
 	{
 		"Title" : "ReactJS",
 		"Tag" : "JavaScript Framework",
@@ -6214,6 +6309,37 @@
 		"Tips9" : "https://www.javacodegeeks.com/2019/09/selenium-scripting-tips-tricks.html ",
 		"Image1" : "https://www.selenium.dev/images/selenium_logo_square_green.png"
 	},
+	 
+	{
+		"Title" : "Semi-Supervised Learning",
+		"Tag" : "Development",
+		"Documentation" : "https://scikit-learn.org/stable/modules/semi_supervised.html",
+		"YT1" : "https://www.youtube.com/watch?v=z_mS8yik8Zs&list=RDCMUC2XO4HDxzfMOZIV1l795g1Q&start_radio=1",
+		"YT2" : "https://www.youtube.com/watch?v=PXOhi6m09bA",
+		"Website1" : "https://medium.com/inside-machine-learning/placeholder-3557ebb3d470",
+		"Website2" : "https://www.geeksforgeeks.org/ml-semi-supervised-learning/",
+		"Website3" : "https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_semi_supervised_learning.htm",
+		"Dedicated GH page1" : "https://github.com/yassouali/awesome-semi-supervised-learning",
+		"Dedicated GH page2" : "https://github.com/vuptran/sesemi",
+		"Dedicated GH page3" : "https://github.com/zidik/Self-labeled-techniques-for-semi-supervised-learning",
+		"Dedicated GH page4" : "https://github.com/iosifidisvasileios/Semi-Supervised-Learning",
+		"Dedicated GH page5" : "https://github.com/google-research/ssl_detection",
+		"Course1" : "https://www.morganclaypool.com/doi/abs/10.2200/S00196ED1V01Y200906AIM006",
+		"Course2" : "https://www.coursera.org/lecture/estimating-ml-models-financial-impact/reject-inference-and-semi-supervised-learning-Xemsy",
+		"Course3" : "https://www.udemy.com/course/ai-bootcamp-by-spotle-2020-21-edition/",
+		"Tips1" : "https://jrodthoughts.medium.com/understanding-semi-supervised-learning-a6437c070c87",
+		"Tips2" : "https://franky07724-57962.medium.com/semi-supervised-learning-and-image-classification-3c3d3f57cb52",
+		"Tips3" : "https://blog.francium.tech/semi-supervised-learning-with-pseudo-labeling-de65988bb3b3",
+		"Tips4" : "https://cse.iitk.ac.in/users/piyush/courses/ml_autumn16/771A_lec22_slides.pdf",
+		"Tips5" : "https://towardsdatascience.com/supervised-learning-but-a-lot-better-semi-supervised-learning-a42dff534781",
+		"Tips6" : "https://blog.francium.tech/semi-supervised-learning-with-pseudo-labeling-de65988bb3b3",
+		"Tips7" : " https://medium.com/analytics-vidhya/fixmatch-semi-supervised-learning-method-that-can-be-learned-even-if-there-is-only-one-labeled-e7e1b37e8935",
+		"Tips8" : "https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/#:~:text=In%20a%20supervised%20learning%20model,its%20accuracy%20on%20training%20data.&text=Semi%2Dsupervised%20learning%20takes%20a,larger%20set%20of%20unlabeled%20data.",
+		"Tips9" : "https://jrodthoughts.medium.com/understanding-semi-supervised-learning-a6437c070c87"
+	},
+
+
+	 
 	{
 		"Title" : "Shell Scripting",
 		"Tag" : "Program",
@@ -7068,6 +7194,32 @@
 		"Tips6" : "https://devbynight.com/unreal-engine-tips-tricks/",
 		"Tips7" : "http://www.tharlevfx.com/unreal-tips-and-tricks"
 	},
+	 
+	{
+		"Title" : "UX",
+		"Tag" : "Development",
+		"Documentation" : "https://uxplanet.org/",
+		"YT1" : "https://www.youtube.com/channel/UCxM6G42vmI752f60od3Gypw/videos",
+		"YT2" : "https://www.youtube.com/user/JesseAtomic/",
+		"YT3" : "https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw",
+		"YT4" : "https://www.youtube.com/user/NNgroup/videos",
+		"Website1" : "https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/",
+		"Website2" : "https://www.interaction-design.org/literature/topics/ux-design",
+		"Website3" : "https://www.crazyegg.com/blog/what-is-user-experience/",
+		"Dedicated GH page1" : "https://github.com/netoguimaraes/awesome-ux",
+		"Dedicated GH page2" : "https://github.com/gregjw/ui-ux",
+		"Dedicated GH page3" : "https://gist.github.com/teybannerman/9c234424eb1d940a8505",
+		"Course1" : "https://www.coursera.org/specializations/ui-ux-design",
+		"Course2" : "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiwkZmE2bXwAhWKZIsKHb_UBBoYABAHGgJ0bQ&ohost=www.google.com&cid=CAESQOD2wOG6mcRD3v4YcvJ4G4kLQYvvs2yN0zmXls13WDUS7ElMavzhP4eIVR40B1i3gM_do4tZLl3Yi3GpFH93dFc&sig=AOD64_19gmhcNqgBA37DAekvJhMHBQtf5Q&q&adurl&ved=2ahUKEwjQ7o2E2bXwAhVh63MBHTiDDFkQ0Qx6BAgEEAE",
+		"Course3" : "https://www.coursera.org/learn/ux-design-fundamentals",
+		"Course4" : "https://www.udemy.com/course/user-experience-design-fundamentals/",
+		"Course5" : "https://www.udemy.com/course/ultimate-guide-to-ux/",
+		"Tips1" : "https://medium.com/@thinkwik/do-you-know-the-importance-of-ui-ux-development-773eae38436e#:~:text=User%20Experience%20(UX)%20Development%20is,basic%20skeleton%20of%20any%20application.",
+		"Tips2" : "https://usabilitygeek.com/big-differences-ux-ui-design/",
+		"Tips3" : "https://medium.com/nyc-design/ux-ui-design-process-for-beginner-753952bb2241"
+	},
+
+	 
 	{
 		"Title" : "UXPin",
 		"Tag" : "Software",

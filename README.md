@@ -3437,7 +3437,83 @@ https://github.com/leisim/awesome-flutter-packages<br>
 https://medium.com/@diegoveloper<br>
 <br>
 </details>
+<details>
+<summary>Frontend Development</summary>
+<br>Category/Type - <br>Development<br>
 
+<br>Official Documentation - <br>
+https://devdocs.io/html/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA<br>
+https://www.youtube.com/watch?v=s3qZF4jhgDo<br>
+https://www.youtube.com/user/thenewboston"<br>
+https://www.youtube.com/watch?v=21HuwjmuS7A&list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR<br>
+https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw<br>
+https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ<br>
+https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ<br>
+https://www.youtube.com/watch?v=zBPeGR48_vE&list=PLqkLaKB2GJhWXV9rcarwvn06ISlL_9mPQ<br>
+https://www.youtube.com/watch?v=uDwSnnhl1Ng&list=PLsyeobzWxl7qtP8Lo9TReqUMkiOp446cV<br>
+https://www.youtube.com/watch?v=hMxGhHNOkCU<br>
+https://www.youtube.com/watch?v=a59kOE2Ma1Q<br>
+
+<br>Useful Websites - <br>
+https://scotch.io/tutorials/get-started-with-tailwind-css-in-15-minutes<br>
+https://www.w3schools.com/html/<br>
+https://devdocs.io/css/<br>
+https://nextjs.org/docs<br>
+https://api.jquery.com/<br>
+https://angular.io/docs<br>
+https://devdocs.io/javascript/<br>
+https://reactjs.org/docs/getting-started.html<br>
+https://tailwindcss.com/docs <br>
+https://sass-lang.com/documentation <br>
+https://www.edx.org/learn/html5<br>
+https://css-tricks.com/<br>
+https://javascript.info<br>
+https://jquery.com/download/<br>
+https://www.softwaretutorialvideos.com/tutorial-xd.html<br>
+https://www.creative-tim.com/blog/angularjs/angular-js-75-examples-websites-applications-experiments/<br>
+https://www.domestika.org/en/blog/4741-adobe-xd-tutorial-basic-prototype-interactions<br>
+https://designshack.net/articles/software/adobe-xd-tutorials/<br>
+
+<br>Dedicated Github page - <br>
+https://github.com/kamranahmedse/developer-roadmap<br>
+https://github.com/troxler/awesome-css-frameworks<br>
+https://github.com/awesome-css-group/awesome-css<br>
+https://lab.github.com/githubtraining/introduction-to-html<br>
+https://github.com/4GeeksAcademy/html-tutorial-exercises-course<br>
+https://github.com/FormidableLabs/spectacle<br>
+https://github.com/30-seconds/30-seconds-of-code<br>
+https://github.com/getify/You-Dont-Know-JS<br>
+https://github.com/gothinkster/angularjs-realworld-example-app<br>
+https://github.com/petk/awesome-jquery<br>
+https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know<br>
+
+<br>Best Courses - <br>
+https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/<br>
+https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/<br>
+https://www.udemy.com/course/learn-angularjs/<br>
+https://www.udemy.com/course/react-tutorial-and-projects-course/<br>
+https://www.udemy.com/course/the-complete-javascript-course/<br>
+https://www.udemy.com/course/advanced-css-and-sass/<br>
+https://www.udemy.com/course/complete-guide-of-tailwind-css-/<br>
+https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/<br>
+https://www.udemy.com/course/jquery-course/<br>
+
+<br>Other Tips / Hacks - <br>
+https://dev.to/simonholdorf/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-4fhn<br>
+https://www.telerik.com/blogs/10-time-saving-css-tips-i-learned-the-hard-way-when-using-sass<br>
+https://www.freecodecamp.org/news/what-is-tailwind-css-and-how-can-i-add-it-to-my-website-or-react-app/<br>
+https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-knowledge-in-24-hours/<br>
+https://dev.to/zandershirley/10-practical-javascript-tricks-2b7h<br>
+https://html.com/wp-content/uploads/html-cheat-sheet.pdf<br>
+https://digital.com/tools/html-cheatsheet/<br>
+https://www.sitepoint.com/top-15-jquery-tricks/<br>
+<br>
+<a href="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png">
+<img align="center" src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png"/>
+</a>
+</details>
 <details>
 <summary>Gamemaker</summary>
 <br>
@@ -6941,6 +7017,47 @@ https://rapidminer.com/blog/using-execute-script-operator/<br>
 </details>
 
 <details>
+<summary>Rasa</summary>
+<br>
+Category/Type - <br>
+Framework
+<br>
+<br>
+Documentation - <br>
+https://rasa.com/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/channel/UCJ0V6493mLvqdiVwOKWBODQ<br>
+https://www.youtube.com/watch?v=Z-G1PlWr5Bo&list=PLZoTAELRMXVN2V3kc2W-8rNu5UekkIhwF<br>
+https://www.youtube.com/watch?v=OkWcHr2XDxE&list=PLtFHvora00y8NBwCMoNnPqii-y2-gyl5p<br>
+https://www.youtube.com/watch?v=80GDt7HW_-g&list=PLtFHvora00y80hvsNJ-6YkmfTMrxk5rOe<br>
+<br>
+Useful Websites - <br>
+https://www.journaldev.com/45620/rasa-intent-classification-chatbot<br>
+https://www.geeksforgeeks.org/chatbots-using-python-and-rasa/<br>
+https://www.analyticsvidhya.com/blog/2019/04/learn-build-chatbot-rasa-nlp-ipl/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/cedextech/rasa-chatbot-templates<br>
+https://github.com/TatianaParshina/rasa_chatbot<br>
+https://github.com/santteegt/rasa-chatbot-example<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/projects/chatbot-rasa-python<br>
+https://www.udemy.com/course/the-complete-chatbot-course-using-rasa-python-nlp/<br>
+https://www.udemy.com/course/create-artificial-intelligent-chatbot-with-rasa-in-one-hour/<br>
+https://www.udemy.com/course/rasa-for-beginners/<br>
+https://www.datacamp.com/courses/building-chatbots-in-python<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/voice-tech-podcast/how-to-create-chatbot-using-rasa-82954e141ae7<br>
+https://medium.com/daitan-tech/how-to-build-your-own-intelligent-assistant-using-rasa-17c324276798<br>
+https://www.velotio.com/engineering-blog/stateless-bot-using-rasa-stack<br>
+<br>
+</details>
+
+
+<details>
 <summary>ReactJS</summary>
 <br>Category/Type - <br>JavaScript Framework<br>
 <br>Official Documentation - <br>
@@ -7851,6 +7968,50 @@ https://www.javacodegeeks.com/2019/09/selenium-scripting-tips-tricks.html <br>
 </a>
 <br><br><br>
 </details>
+
+<details>
+<summary>Semi-Supervised Learning</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://scikit-learn.org/stable/modules/semi_supervised.html<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=z_mS8yik8Zs&list=RDCMUC2XO4HDxzfMOZIV1l795g1Q&start_radio=1<br>
+https://www.youtube.com/watch?v=PXOhi6m09bA<br>
+<br>
+Useful Websites - <br>
+https://medium.com/inside-machine-learning/placeholder-3557ebb3d470<br>
+https://www.geeksforgeeks.org/ml-semi-supervised-learning/<br>
+https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_semi_supervised_learning.htm<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/zidik/Self-labeled-techniques-for-semi-supervised-learning<br>
+https://github.com/yassouali/awesome-semi-supervised-learning<br>
+https://github.com/vuptran/sesemi<br>
+https://github.com/iosifidisvasileios/Semi-Supervised-Learning<br>
+https://github.com/google-research/ssl_detection<br>
+<br>
+Best Courses - <br>
+https://www.morganclaypool.com/doi/abs/10.2200/S00196ED1V01Y200906AIM006<br>
+https://www.coursera.org/lecture/estimating-ml-models-financial-impact/reject-inference-and-semi-supervised-learning-Xemsy<br>
+https://www.udemy.com/course/ai-bootcamp-by-spotle-2020-21-edition/<br>
+<br>
+Other Tips/Hacks - <br>
+https://jrodthoughts.medium.com/understanding-semi-supervised-learning-a6437c070c87<br>
+https://franky07724-57962.medium.com/semi-supervised-learning-and-image-classification-3c3d3f57cb52<br>
+https://blog.francium.tech/semi-supervised-learning-with-pseudo-labeling-de65988bb3b3<br>
+https://cse.iitk.ac.in/users/piyush/courses/ml_autumn16/771A_lec22_slides.pdf<br>
+https://towardsdatascience.com/supervised-learning-but-a-lot-better-semi-supervised-learning-a42dff534781<br>
+https://blog.francium.tech/semi-supervised-learning-with-pseudo-labeling-de65988bb3b3<br>
+https://medium.com/analytics-vidhya/fixmatch-semi-supervised-learning-method-that-can-be-learned-even-if-there-is-only-one-labeled-e7e1b37e8935<br>
+https://jrodthoughts.medium.com/understanding-semi-supervised-learning-a6437c070c87<br>
+<br>
+</details>
+
+
 
 <details>
 <summary>Shell Scrpting </summary>
@@ -8949,6 +9110,46 @@ https://www.lynda.com/Unreal-Engine-tutorials/Unreal-AR-Visualization-03-Complex
 https://medium.com/hri-tech/unreal-engine-tips-and-tricks-26e351b4b218 <br> https://medium.com/hri-tech/unreal-engine-tips-and-tricks-26e351b4b218 <br>
 https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https://devbynight.com/unreal-engine-tips-tricks/ <br> http://www.tharlevfx.com/unreal-tips-and-tricks <br>
 </details>
+
+<details>
+<summary>User Experience</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://uxplanet.org/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/channel/UCxM6G42vmI752f60od3Gypw/videos<br>
+https://www.youtube.com/user/JesseAtomic/<br>
+https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw<br>
+https://www.youtube.com/user/NNgroup/videos<br>
+<br>
+Useful Websites - <br>
+https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/<br>
+https://www.interaction-design.org/literature/topics/ux-design<br>
+https://www.crazyegg.com/blog/what-is-user-experience/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/netoguimaraes/awesome-ux<br>
+https://github.com/gregjw/ui-ux<br>
+https://gist.github.com/teybannerman/9c234424eb1d940a8505<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/specializations/ui-ux-design<br>
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiwkZmE2bXwAhWKZIsKHb_UBBoYABAHGgJ0bQ&ohost=www.google.com&cid=CAESQOD2wOG6mcRD3v4YcvJ4G4kLQYvvs2yN0zmXls13WDUS7ElMavzhP4eIVR40B1i3gM_do4tZLl3Yi3GpFH93dFc&sig=AOD64_19gmhcNqgBA37DAekvJhMHBQtf5Q&q&adurl&ved=2ahUKEwjQ7o2E2bXwAhVh63MBHTiDDFkQ0Qx6BAgEEAE<br>
+https://www.coursera.org/learn/ux-design-fundamentals<br>
+https://www.udemy.com/course/user-experience-design-fundamentals/<br>
+https://www.udemy.com/course/ultimate-guide-to-ux/<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/@thinkwik/do-you-know-the-importance-of-ui-ux-development-773eae38436e#:~:text=User%20Experience%20(UX)%20Development%20is,basic%20skeleton%20of%20any%20application.<br>
+https://usabilitygeek.com/big-differences-ux-ui-design/<br>
+https://medium.com/nyc-design/ux-ui-design-process-for-beginner-753952bb2241<br>
+<br>
+</details>
+
 
 
 <details>
