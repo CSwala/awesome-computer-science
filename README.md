@@ -5536,6 +5536,67 @@ https://www.navicat.com/en/company/aboutus/blog/1051-a-few-mysql-tips-and-tricks
 
 <details>
 
+<details>
+<summary>Neo4j </summary>
+<br>
+Category/Type - <br>System software <br>
+<br>
+Official Documentation - <br>
+https://neo4j.com/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=fiQzHVY-kRQ <br>
+https://www.youtube.com/watch?v=_D19h5s73Co <br>
+https://www.youtube.com/watch?v=PV8zssOES34 <br>
+https://www.youtube.com/watch?v=6nQh4HVLqUY <br>
+https://www.youtube.com/watch?v=hIvNexwVYNw <br>
+https://www.youtube.com/watch?v=CCZ8gewILYk <br>
+<br>
+Useful Websites -
+<br>
+https://neo4j.com/download/ <br>
+https://www.reddit.com/r/Neo4j/ <br>
+https://neo4j.com/developer/example-project/ <br>
+https://neo4j.com/graphgists/ <br>
+https://medium.com/neo4j/meet-the-graph-gallery-3666a127efee <br>
+https://gist.github.com/DaniSancas/1d5265fc159a95ff457b940fc5046887 <br>
+https://neo4j.com/docs/java-reference/current/extending-neo4j/procedures-and-functions/functions/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/neo4j <br>
+https://github.com/neo4j-contrib <br>
+https://github.com/neo4jrb/neo4j-core <br>
+https://github.com/neo4j-examples/movies-java-spring-data-neo4j <br>
+https://github.com/neo4j-graphql/neo4j-graphql-js <br>
+https://github.com/neo4j-contrib/neo4j-streams <br>
+https://github.com/neueda/awesome-neo4j <br>
+<br>
+Best Courses - <br>
+https://neo4j.com/graphacademy/online-training/ <br>
+https://neo4j.com/blog/announcing-new-neo4j-online-training-courses/ <br>
+https://www.udemy.com/course/neo4j_beginners1/ <br>
+https://www.udemy.com/course/neo4j_intermediate/ <br>
+https://www.udemy.com/course/learn-to-build-apps-using-neo4j/ <br>
+https://www.coursera.org/lecture/big-data-graph-analytics/hands-on-getting-started-with-neo4j-JFZJf <br>
+https://www.edureka.co/neo4j <br>
+https://www.zeolearn.com/master-neo4j-graph-database-training <br>
+https://www.excelr.com/neo4j-training <br>
+<br>
+Other Tips / Hacks - <br>
+https://neo4j.com/developer/modeling-tips/ <br>
+https://go.neo4j.com/tips-and-tricks-for-graph-data-modeling-lp.html?utm_source=webinars&utm_content=AaJS-DGBQX4 <br>
+https://medium.com/neo4j/tips-and-tricks-in-neo4j-bloom-41e4b3b1cc8f <br>
+https://www.slideshare.net/neo4j/tips-and-tricks-for-graph-data-modeling <br>
+https://www.slideshare.net/maxdemarzi/data-modeling-tricks-for-neo4j <br>
+https://gist.github.com/jexp/caeb53acfe8a649fecade4417fb8876a <br>
+https://www.youtube.com/watch?v=LSKa3as_S7I <br>
+<br>
+<a href="https://dist.neo4j.com/wp-content/uploads/20140926224303/neo4j_logo-facebook.png">
+  <img align="center" src="https://dist.neo4j.com/wp-content/uploads/20140926224303/neo4j_logo-facebook.png" width="900" height="500"/>
+</a>
+<br><br><br>
+</details>
+
 <summary>.NET</summary>
 <br>Category/Type - <br>Programming Language<br>
 <br>Official Documentation - <br>
