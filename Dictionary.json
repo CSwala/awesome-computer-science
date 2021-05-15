@@ -6309,6 +6309,37 @@
 		"Tips9" : "https://www.javacodegeeks.com/2019/09/selenium-scripting-tips-tricks.html ",
 		"Image1" : "https://www.selenium.dev/images/selenium_logo_square_green.png"
 	},
+	 
+	{
+		"Title" : "Semi-Supervised Learning",
+		"Tag" : "Development",
+		"Documentation" : "https://scikit-learn.org/stable/modules/semi_supervised.html",
+		"YT1" : "https://www.youtube.com/watch?v=z_mS8yik8Zs&list=RDCMUC2XO4HDxzfMOZIV1l795g1Q&start_radio=1",
+		"YT2" : "https://www.youtube.com/watch?v=PXOhi6m09bA",
+		"Website1" : "https://medium.com/inside-machine-learning/placeholder-3557ebb3d470",
+		"Website2" : "https://www.geeksforgeeks.org/ml-semi-supervised-learning/",
+		"Website3" : "https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_semi_supervised_learning.htm",
+		"Dedicated GH page1" : "https://github.com/yassouali/awesome-semi-supervised-learning",
+		"Dedicated GH page2" : "https://github.com/vuptran/sesemi",
+		"Dedicated GH page3" : "https://github.com/zidik/Self-labeled-techniques-for-semi-supervised-learning",
+		"Dedicated GH page4" : "https://github.com/iosifidisvasileios/Semi-Supervised-Learning",
+		"Dedicated GH page5" : "https://github.com/google-research/ssl_detection",
+		"Course1" : "https://www.morganclaypool.com/doi/abs/10.2200/S00196ED1V01Y200906AIM006",
+		"Course2" : "https://www.coursera.org/lecture/estimating-ml-models-financial-impact/reject-inference-and-semi-supervised-learning-Xemsy",
+		"Course3" : "https://www.udemy.com/course/ai-bootcamp-by-spotle-2020-21-edition/",
+		"Tips1" : "https://jrodthoughts.medium.com/understanding-semi-supervised-learning-a6437c070c87",
+		"Tips2" : "https://franky07724-57962.medium.com/semi-supervised-learning-and-image-classification-3c3d3f57cb52",
+		"Tips3" : "https://blog.francium.tech/semi-supervised-learning-with-pseudo-labeling-de65988bb3b3",
+		"Tips4" : "https://cse.iitk.ac.in/users/piyush/courses/ml_autumn16/771A_lec22_slides.pdf",
+		"Tips5" : "https://towardsdatascience.com/supervised-learning-but-a-lot-better-semi-supervised-learning-a42dff534781",
+		"Tips6" : "https://blog.francium.tech/semi-supervised-learning-with-pseudo-labeling-de65988bb3b3",
+		"Tips7" : " https://medium.com/analytics-vidhya/fixmatch-semi-supervised-learning-method-that-can-be-learned-even-if-there-is-only-one-labeled-e7e1b37e8935",
+		"Tips8" : "https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/#:~:text=In%20a%20supervised%20learning%20model,its%20accuracy%20on%20training%20data.&text=Semi%2Dsupervised%20learning%20takes%20a,larger%20set%20of%20unlabeled%20data.",
+		"Tips9" : "https://jrodthoughts.medium.com/understanding-semi-supervised-learning-a6437c070c87"
+	},
+
+
+	 
 	{
 		"Title" : "Shell Scripting",
 		"Tag" : "Program",

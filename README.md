@@ -7970,6 +7970,50 @@ https://www.javacodegeeks.com/2019/09/selenium-scripting-tips-tricks.html <br>
 </details>
 
 <details>
+<summary>Semi-Supervised Learning</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://scikit-learn.org/stable/modules/semi_supervised.html<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=z_mS8yik8Zs&list=RDCMUC2XO4HDxzfMOZIV1l795g1Q&start_radio=1<br>
+https://www.youtube.com/watch?v=PXOhi6m09bA<br>
+<br>
+Useful Websites - <br>
+https://medium.com/inside-machine-learning/placeholder-3557ebb3d470<br>
+https://www.geeksforgeeks.org/ml-semi-supervised-learning/<br>
+https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_semi_supervised_learning.htm<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/zidik/Self-labeled-techniques-for-semi-supervised-learning<br>
+https://github.com/yassouali/awesome-semi-supervised-learning<br>
+https://github.com/vuptran/sesemi<br>
+https://github.com/iosifidisvasileios/Semi-Supervised-Learning<br>
+https://github.com/google-research/ssl_detection<br>
+<br>
+Best Courses - <br>
+https://www.morganclaypool.com/doi/abs/10.2200/S00196ED1V01Y200906AIM006<br>
+https://www.coursera.org/lecture/estimating-ml-models-financial-impact/reject-inference-and-semi-supervised-learning-Xemsy<br>
+https://www.udemy.com/course/ai-bootcamp-by-spotle-2020-21-edition/<br>
+<br>
+Other Tips/Hacks - <br>
+https://jrodthoughts.medium.com/understanding-semi-supervised-learning-a6437c070c87<br>
+https://franky07724-57962.medium.com/semi-supervised-learning-and-image-classification-3c3d3f57cb52<br>
+https://blog.francium.tech/semi-supervised-learning-with-pseudo-labeling-de65988bb3b3<br>
+https://cse.iitk.ac.in/users/piyush/courses/ml_autumn16/771A_lec22_slides.pdf<br>
+https://towardsdatascience.com/supervised-learning-but-a-lot-better-semi-supervised-learning-a42dff534781<br>
+https://blog.francium.tech/semi-supervised-learning-with-pseudo-labeling-de65988bb3b3<br>
+https://medium.com/analytics-vidhya/fixmatch-semi-supervised-learning-method-that-can-be-learned-even-if-there-is-only-one-labeled-e7e1b37e8935<br>
+https://jrodthoughts.medium.com/understanding-semi-supervised-learning-a6437c070c87<br>
+<br>
+</details>
+
+
+
+<details>
 <summary>Shell Scrpting </summary>
 <br>
 Category/Type - <br>Program <br>
