@@ -886,6 +886,78 @@ https://gregorsuttie.com/2020/05/07/azure-tips-n-tricks/ <br> https://dailydotne
 </details>
 
 <details>
+<summary>Backend Development</summary>
+<br>Category/Type - <br>Development<br>
+<br>Official Documentation - <br>
+https://nodejs.org/en/docs/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/user/javaboynavin<br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp<br>
+https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau<br>
+https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9<br>
+https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw<br>
+https://www.youtube.com/playlist?list=PLS1QulWo1RIY4auvfxAHS9m_fZJ2wxSse<br>
+https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH<br>
+https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR<br>
+https://www.youtube.com/watch?v=r1yeXZ5_i9c&list=PLWPirh4EWFpGNfj9K0dwb0nJAOXwD9BMg<br>
+https://www.youtube.com/watch?v=Oe421EPjeBE<br>
+<br>Useful Websites - <br>
+https://docs.djangoproject.com/en/3.1/<br>
+https://dev.mysql.com/doc/<br>
+https://www.w3resource.com/mysql/mysql-tutorials.php<br>
+https://docs.mongodb.com<br>
+https://www.tutorialspoint.com/mongodb/index.htm<br>
+https://www.javatpoint.com/nodejs-tutorial<br>
+https://www.w3schools.com/nodejs/<br>
+https://flask.palletsprojects.com/en/1.1.x/<br>
+https://www.javatpoint.com/flask-tutorial <br>
+https://firebase.google.com/docs<br>
+https://www.educative.io/edpresso/what-is-firebase<br>
+https://www.php.net/docs.php<br>
+https://www.phptpoint.com/php-tutorial/<br>
+https://expressjs.com/en/starter/installing.html<br>
+https://www.edureka.co/blog/expressjs-tutorial/<br>
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction<br>
+<br>Dedicated Github page - <br>
+https://github.com/sqreen/awesome-nodejs-projects<br>
+https://github.com/sindresorhus/awesome-nodejs<br>
+https://github.com/wsvincent/awesome-django<br>
+https://github.com/go-sql-driver/mysql<br>
+https://github.com/mongodb/mongo<br>
+https://github.com/FormidableLabs/spectacle<br>
+https://github.com/humiaozuzu/awesome-flask<br>
+https://github.com/FilledStacks/firebase-backend<br>
+https://github.com/PHPMailer/PHPMailer<br>
+https://github.com/ExpressGateway/express-gateway.io<br>
+https://github.com/expressjs/generator<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/nodejs-the-complete-guide/<br>
+https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/<br>
+https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/<br>
+https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/<br>
+https://www.coursera.org/learn/introduction-mongodb<br>
+https://www.udemy.com/course/the-ultimate-flask-course/<br>
+https://www.udemy.com/course/build-an-app-with-react-redux-and-firestore-from-scratch/<br>
+https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3<br>
+https://www.udemy.com/course/expressjs-from-beginner-to-advanced/<br>
+<br>Other Tips / Hacks - <br>
+https://www.sitepoint.com/10-tips-make-node-js-web-app-faster/<br>
+https://medium.com/swlh/node-js-magical-tips-every-developer-should-remember-4c27b4dc6e2b<br>
+https://letslearnabout.net/blog/16-tips-for-python-and-django-beginners/<br>
+https://letslearnabout.net/blog/16-tips-for-python-and-django-beginners/<br>
+https://www.linkedin.com/pulse/15-tricks-any-serious-mysql-database-developer-should-matt-zand/<br>
+https://medium.com/@vineetsu/flask-web-application-roadmap-86ad1f551c5f<br>
+https://www.slideshare.net/GameCamp/tips-tricks-for-firebase-storage-and-firebase-functions<br>
+https://dev.to/mychi_darko/php-tips-and-tricks-4kpn<br>
+https://www.fullstacktutorials.com/interviews/top-10-express-js-interview-questions-answers-30.html<br>
+https://www.tutorialandexample.com/expressjs-interview-questions/<br>
+<br>
+<a href="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png">
+<img align="center" src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png"/>
+</a>
+</details>
+
+<details>
 <summary>BeautifulSoup Library</summary>
 <br>
 Category/Type - <br>
