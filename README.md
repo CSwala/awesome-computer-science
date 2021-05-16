@@ -901,7 +901,7 @@ https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH<br>
 https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR<br>
 https://www.youtube.com/watch?v=r1yeXZ5_i9c&list=PLWPirh4EWFpGNfj9K0dwb0nJAOXwD9BMg<br>
 https://www.youtube.com/watch?v=Oe421EPjeBE<br>
-<br>Useful Websites - <br>
+Useful Websites - <br>
 https://docs.djangoproject.com/en/3.1/<br>
 https://dev.mysql.com/doc/<br>
 https://www.w3resource.com/mysql/mysql-tutorials.php<br>
@@ -918,7 +918,7 @@ https://www.phptpoint.com/php-tutorial/<br>
 https://expressjs.com/en/starter/installing.html<br>
 https://www.edureka.co/blog/expressjs-tutorial/<br>
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction<br>
-<br>Dedicated Github page - <br>
+Dedicated Github page - <br>
 https://github.com/sqreen/awesome-nodejs-projects<br>
 https://github.com/sindresorhus/awesome-nodejs<br>
 https://github.com/wsvincent/awesome-django<br>
@@ -930,7 +930,7 @@ https://github.com/FilledStacks/firebase-backend<br>
 https://github.com/PHPMailer/PHPMailer<br>
 https://github.com/ExpressGateway/express-gateway.io<br>
 https://github.com/expressjs/generator<br>
-<br>Best Courses - <br>
+Best Courses - <br>
 https://www.udemy.com/course/nodejs-the-complete-guide/<br>
 https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/<br>
 https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/<br>
@@ -940,7 +940,7 @@ https://www.udemy.com/course/the-ultimate-flask-course/<br>
 https://www.udemy.com/course/build-an-app-with-react-redux-and-firestore-from-scratch/<br>
 https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3<br>
 https://www.udemy.com/course/expressjs-from-beginner-to-advanced/<br>
-<br>Other Tips / Hacks - <br>
+Other Tips / Hacks - <br>
 https://www.sitepoint.com/10-tips-make-node-js-web-app-faster/<br>
 https://medium.com/swlh/node-js-magical-tips-every-developer-should-remember-4c27b4dc6e2b<br>
 https://letslearnabout.net/blog/16-tips-for-python-and-django-beginners/<br>
