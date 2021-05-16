@@ -745,12 +745,12 @@
 		"Tips9" : "https://stackify.com/azure-portal-tips/",
 		"Image1" : "https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png"
 	},
-{
-    "Title": Backend Development",
-    "Tag": "Development",
-    "Documentation": "https://nodejs.org/en/docs/",
-    "YT2": "https://www.youtube.com/user/javaboynavin",
-    "YT1": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp",
+		{
+		"Title": Backend Development",
+    		"Tag": "Development",
+    		"Documentation": "https://nodejs.org/en/docs/",
+  		 "YT2": "https://www.youtube.com/user/javaboynavin",
+	    "YT1": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp",
     "YT3": "https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau",
     "YT4": "https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9",
     "YT5": "https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw",
@@ -759,6 +759,7 @@
     "YT8": "https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR",
     "YT9": "https://www.youtube.com/watch?v=r1yeXZ5_i9c&list=PLWPirh4EWFpGNfj9K0dwb0nJAOXwD9BMg",
     "YT10": "https://www.youtube.com/watch?v=Oe421EPjeBE",
+
     "Website1": "https://docs.djangoproject.com/en/3.1/",
     "Website2": "https://dev.mysql.com/doc/",
     "Website3": "https://www.w3resource.com/mysql/mysql-tutorials.php",
@@ -775,6 +776,7 @@
     "Website14": "https://expressjs.com/en/starter/installing.html",
     "Website15": "https://www.edureka.co/blog/expressjs-tutorial/",
     "Website16": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction",
+
     "Dedicated GH page1": "https://github.com/sqreen/awesome-nodejs-projects",
     "Dedicated GH page2": "https://github.com/sindresorhus/awesome-nodejs",
     "Dedicated GH page3": "https://github.com/wsvincent/awesome-django",
@@ -786,6 +788,7 @@
     "Dedicated GH page9": "https://github.com/PHPMailer/PHPMailer",
     "Dedicated GH page10": "https://github.com/ExpressGateway/express-gateway.io",
     "Dedicated GH page11": "https://github.com/expressjs/generator",
+
     "Course1": "https://www.udemy.com/course/nodejs-the-complete-guide/",
     "Course2": "https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/",
     "Course3": "https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/",
@@ -794,7 +797,8 @@
     "Course6":  "https://www.udemy.com/course/the-ultimate-flask-course/ ",
     "Course7":  "https://www.udemy.com/course/build-an-app-with-react-redux-and-firestore-from-scratch/ ",
     "Course8":  "https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3",
-    "Course9":  "https://www.udemy.com/course/expressjs-from-beginner-to-advanced/",  
+    "Course9":  "https://www.udemy.com/course/expressjs-from-beginner-to-advanced/",
+  
     "Tips1": "https://www.sitepoint.com/10-tips-make-node-js-web-app-faster/",
     "Tips2": "https://medium.com/swlh/node-js-magical-tips-every-developer-should-remember-4c27b4dc6e2b",
     "Tips3": "https://letslearnabout.net/blog/16-tips-for-python-and-django-beginners/",
@@ -805,7 +809,7 @@
     "Tips7": "https://dev.to/mychi_darko/php-tips-and-tricks-4kpn",
     "Tips7": "https://www.fullstacktutorials.com/interviews/top-10-express-js-interview-questions-answers-30.html",
     "Tips7": "https://www.tutorialandexample.com/expressjs-interview-questions/"
-},
+	},
 	{
 "Title" : "Beautifulsoup Library",
 		"Tag" : "Python Library",
