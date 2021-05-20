@@ -7762,6 +7762,42 @@ https://www.webtips.dev/7-tips-that-will-help-you-get-the-best-out-of-sass
  </details>
 
 <details>
+<summary>Scapy</summary>
+<br>Category/Type - <br>Python Library<br>
+<br>Official Documentation - <br>
+https://scapy.net/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/watch?v=EuTAmtMGdNU<br>
+https://www.youtube.com/watch?v=EnuF9ZR6MVc<br>
+https://www.youtube.com/watch?v=LvaII2PEwcQ&list=PLBf0hzazHTGPYo1Bc7v34Haistd_qQRmJ&index=5<br>
+https://www.youtube.com/watch?v=dyP_CEeIQ-A&list=PLZOToVAK85MpiuxbK7Sg6CtQtlW9QygC-&index=6<br>
+https://www.youtube.com/watch?v=yD8qrP8sCDs<br>
+Useful Websites - <br>
+https://santanderglobaltech.com/en/guide-using-scapy-with-python/#:~:text=Scapy%20is%20a%20library%20made,OS%20X%20and%20Windows%20systems.<br>
+https://www.studytonight.com/network-programming-in-python/introduction-to-scapy<br>
+https://scapy.readthedocs.io/en/latest/<br>
+https://resources.infosecinstitute.com/topic/scapy-all-in-one-networking-tool/<br>
+https://towardsdatascience.com/web-scraping-of-10-online-shops-in-30-minutes-with-python-and-scrapy-a7f66e42446d?gi=12ef3e5e22a9<br>
+Dedicated Github page - <br>
+https://github.com/secdev/scapy<br>
+https://github.com/invernizzi/scapy-http<br>
+https://github.com/zlorb/scapy<br>
+Best Courses - <br>
+https://www.udemy.com/course/network-scanning-with-scapy-security-scanner/<br>
+https://www.udemy.com/course/complete-network-hacking-course-using-python/<br>
+https://www.bitdegree.org/course/scapy-tutorial<br>
+https://www.lynda.com/Metasploit-tutorials/Using-Scapy-work-packets/628702/669803-4.html<br>
+https://www.coursera.org/lecture/pythonforcybersecurity-introduction/introduction-to-scapy-9UfHq<br>
+Other Tips / Hacks - <br>
+https://wiki.sans.blue/Tools/pdfs/ScapyCheatSheet_v0.2.pdf<br>
+https://scapy.net/conf/scapy_csw05.pdf<br>
+https://theitgeekchronicles.files.wordpress.com/2012/05/scapyguide1.pdf<br>
+https://isc.sans.edu/forums/diary/Scanning+tricks+with+scapy/20381/<br>
+https://0xbharath.github.io/art-of-packet-crafting-with-scapy/exercises/misc_exercises/index.html<br>
+https://www.geeksforgeeks.org/network-scanning-using-scapy-module-python/<br>
+</details>
+
+<details>
 <summary>SciPy</summary>
 <br>
 Category/Type - <br>
