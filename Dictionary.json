@@ -6189,6 +6189,40 @@
 		"Tips4" : "https://www.infoq.com/presentations/scala-tips-tricks/",
 		"Tips5" : "https://medium.com/analytics-vidhya/going-to-scala-from-python-some-tips-a6fcbd86be3"
 	},
+{
+    "Title": "Scapy",
+    "Tag": "Python Library",
+    "Documentation": "https://scapy.net/",
+
+    "YT2": "https://www.youtube.com/watch?v=EuTAmtMGdNU",
+    "YT1": "https://www.youtube.com/watch?v=EnuF9ZR6MVc",
+    "YT3": "https://www.youtube.com/watch?v=LvaII2PEwcQ&list=PLBf0hzazHTGPYo1Bc7v34Haistd_qQRmJ&index=5",
+    "YT4": "https://www.youtube.com/watch?v=dyP_CEeIQ-A&list=PLZOToVAK85MpiuxbK7Sg6CtQtlW9QygC-&index=6",
+    "YT5": "https://www.youtube.com/watch?v=yD8qrP8sCDs",
+
+    "Website1": "https://santanderglobaltech.com/en/guide-using-scapy-with-python/#:~:text=Scapy%20is%20a%20library%20made,OS%20X%20and%20Windows%20systems.",
+    "Website2": "https://www.studytonight.com/network-programming-in-python/introduction-to-scapy",
+    "Website3": "https://scapy.readthedocs.io/en/latest/",
+    "Website4": "https://resources.infosecinstitute.com/topic/scapy-all-in-one-networking-tool/",
+    "Website5": "https://towardsdatascience.com/web-scraping-of-10-online-shops-in-30-minutes-with-python-and-scrapy-a7f66e42446d?gi=12ef3e5e22a9",
+
+    "Dedicated GH page1": "https://github.com/secdev/scapy",
+    "Dedicated GH page2": "https://github.com/invernizzi/scapy-http",
+    "Dedicated GH page3": "https://github.com/zlorb/scapy",
+
+    "Course1": "https://www.udemy.com/course/network-scanning-with-scapy-security-scanner/",
+    "Course2": "https://www.udemy.com/course/complete-network-hacking-course-using-python/",
+    "Course3": "https://www.bitdegree.org/course/scapy-tutorial",
+    "Course4": "https://www.lynda.com/Metasploit-tutorials/Using-Scapy-work-packets/628702/669803-4.html",
+    "Course5":  "https://www.coursera.org/lecture/pythonforcybersecurity-introduction/introduction-to-scapy-9UfHq",
+  
+    "Tips1": "https://wiki.sans.blue/Tools/pdfs/ScapyCheatSheet_v0.2.pdf",
+    "Tips2": "https://scapy.net/conf/scapy_csw05.pdf",
+    "Tips3": "https://theitgeekchronicles.files.wordpress.com/2012/05/scapyguide1.pdf",
+    "Tips4": "https://isc.sans.edu/forums/diary/Scanning+tricks+with+scapy/20381/",
+    "Tips5": "https://0xbharath.github.io/art-of-packet-crafting-with-scapy/exercises/misc_exercises/index.html",
+    "Tips6": "https://www.geeksforgeeks.org/network-scanning-using-scapy-module-python/"
+},
 	{
 		"Title" : "SciPy",
 		"Tag" : "Python Library",
