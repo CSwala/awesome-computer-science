@@ -886,6 +886,50 @@ https://www.constructdigital.com/insight/how-does-augmented-reality-ar-work<br>
 <br>
 </details>
 
+<details>
+<summary>Aurelia</summary>
+<br>
+Category/Type - <br>
+JavaScript Framework<br>
+<br>
+Documentation - <br>
+https://aurelia.io/docs/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=yaX34x3OgQI<br>
+https://www.youtube.com/playlist?list=PLxo86ctKorEiEItOZpbjZi9LSboZ0qFt9<br>
+https://www.youtube.com/playlist?list=PLDmvslp_VR0zVcTt2B3n4JUXC6_AG9Zp4<br>
+https://www.youtube.com/playlist?list=PL-lxoPS_1OXXTxReFyVlahBbmssvhWX-o<br>
+https://www.youtube.com/playlist?list=PLkpAqauvJhF9vAAkWYftnY91zSjuBOwDO<br>
+https://www.youtube.com/watch?v=GBOV5zyFVVM<br>
+<br>
+Useful Websites - <br>
+https://www.tutorialspoint.com/aurelia/index.htm<br>
+https://aurelia.io/docs/tutorials/<br>
+https://scotch.io/tutorials/build-a-mini-instagram-app-with-aurelia<br>
+https://www.programwitherik.com/what-you-should-know-about-aurelia-javascript-client-framework/<br>
+https://riptutorial.com/aurelia<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/aurelia<br>
+https://github.com/aurelia-contrib/awesome-aurelia<br>
+https://github.com/jadhavajay/aurelia-realworld-example-app<br>
+https://github.com/aurelia/aurelia<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/learning-path-aurelia-web-development-for-ui-developers/<br>
+https://www.udemy.com/course/aurelia-for-beginners-the-new-age-js-framework/<br>
+https://www.udemy.com/course/aurelia-js-create-mobile-apps-using-aurelia-js/<br>
+https://www.pluralsight.com/courses/aurelia-fundamentals<br>
+https://coursesfree.org/course/learn-aurelia-js/<br>
+<br>
+Other Tips/Hacks - <br>
+https://blog.cloudboost.io/5-techniques-used-by-aurelia-to-promote-great-code-quality-d3328bde2a58?gi=be20acddbfa3<br>
+https://ilikekillnerds.com/2018/07/aurelia-tips-tricks/<br>
+https://aurelia.io/docs/fundamentals/cheat-sheet/<br>
+https://cheatography.com/erikch/cheat-sheets/aurelia-getting-started/<br>
+<br>
+</details>
 
 <details>
 <summary>AWK</summary>
@@ -1015,6 +1059,78 @@ https://www.javatpoint.com/backbonejs-tutorial <br> https://adrianmejia.com/back
 https://www.udemy.com/course/master-backbonejs/ <br> https://www.udemy.com/course/backbonejs-essential-training/ <br> https://www.udemy.com/course/learning-backbonejs-testing/ <br> https://www.pluralsight.com/courses/backbone-fundamentals <br>
 <br>Other Tips / Hacks - <br> https://blog.devartis.com/backbone-js-tips-and-good-practices-2229f2940bfc <br> https://www.smashingmagazine.com/2013/08/backbone-js-tips-patterns/ <br>https://www.toptal.com/backbone-js/top-8-common-backbone-js-developer-mistakes <br> https://devhints.io/backbone <br> http://javascriptissexy.com/learn-backbone-js-completely <br>
 <br><br><br>
+</details>
+
+<details>
+<summary>Backend Development</summary>
+<br>Category/Type - <br>Development<br>
+<br>Official Documentation - <br>
+https://nodejs.org/en/docs/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/user/javaboynavin<br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp<br>
+https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau<br>
+https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9<br>
+https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw<br>
+https://www.youtube.com/playlist?list=PLS1QulWo1RIY4auvfxAHS9m_fZJ2wxSse<br>
+https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH<br>
+https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR<br>
+https://www.youtube.com/watch?v=r1yeXZ5_i9c&list=PLWPirh4EWFpGNfj9K0dwb0nJAOXwD9BMg<br>
+https://www.youtube.com/watch?v=Oe421EPjeBE<br>
+Useful Websites - <br>
+https://docs.djangoproject.com/en/3.1/<br>
+https://dev.mysql.com/doc/<br>
+https://www.w3resource.com/mysql/mysql-tutorials.php<br>
+https://docs.mongodb.com<br>
+https://www.tutorialspoint.com/mongodb/index.htm<br>
+https://www.javatpoint.com/nodejs-tutorial<br>
+https://www.w3schools.com/nodejs/<br>
+https://flask.palletsprojects.com/en/1.1.x/<br>
+https://www.javatpoint.com/flask-tutorial <br>
+https://firebase.google.com/docs<br>
+https://www.educative.io/edpresso/what-is-firebase<br>
+https://www.php.net/docs.php<br>
+https://www.phptpoint.com/php-tutorial/<br>
+https://expressjs.com/en/starter/installing.html<br>
+https://www.edureka.co/blog/expressjs-tutorial/<br>
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction<br>
+Dedicated Github page - <br>
+https://github.com/sqreen/awesome-nodejs-projects<br>
+https://github.com/sindresorhus/awesome-nodejs<br>
+https://github.com/wsvincent/awesome-django<br>
+https://github.com/go-sql-driver/mysql<br>
+https://github.com/mongodb/mongo<br>
+https://github.com/FormidableLabs/spectacle<br>
+https://github.com/humiaozuzu/awesome-flask<br>
+https://github.com/FilledStacks/firebase-backend<br>
+https://github.com/PHPMailer/PHPMailer<br>
+https://github.com/ExpressGateway/express-gateway.io<br>
+https://github.com/expressjs/generator<br>
+Best Courses - <br>
+https://www.udemy.com/course/nodejs-the-complete-guide/<br>
+https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/<br>
+https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/<br>
+https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/<br>
+https://www.coursera.org/learn/introduction-mongodb<br>
+https://www.udemy.com/course/the-ultimate-flask-course/<br>
+https://www.udemy.com/course/build-an-app-with-react-redux-and-firestore-from-scratch/<br>
+https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3<br>
+https://www.udemy.com/course/expressjs-from-beginner-to-advanced/<br>
+Other Tips / Hacks - <br>
+https://www.sitepoint.com/10-tips-make-node-js-web-app-faster/<br>
+https://medium.com/swlh/node-js-magical-tips-every-developer-should-remember-4c27b4dc6e2b<br>
+https://letslearnabout.net/blog/16-tips-for-python-and-django-beginners/<br>
+https://letslearnabout.net/blog/16-tips-for-python-and-django-beginners/<br>
+https://www.linkedin.com/pulse/15-tricks-any-serious-mysql-database-developer-should-matt-zand/<br>
+https://medium.com/@vineetsu/flask-web-application-roadmap-86ad1f551c5f<br>
+https://www.slideshare.net/GameCamp/tips-tricks-for-firebase-storage-and-firebase-functions<br>
+https://dev.to/mychi_darko/php-tips-and-tricks-4kpn<br>
+https://www.fullstacktutorials.com/interviews/top-10-express-js-interview-questions-answers-30.html<br>
+https://www.tutorialandexample.com/expressjs-interview-questions/<br>
+<br>
+<a href="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png">
+<img align="center" src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png"/>
+</a>
 </details>
 
 <details>
@@ -1630,6 +1746,50 @@ https://www.techspertservices.com/blog/11-cloud-computing-tips-for-businesses <b
 https://www.ntiva.com/blog/6-tips-for-improving-cloud-computing-security <br>
 https://searchcloudcomputing.techtarget.com/tip/Cloud-computing-tips-and-tricks-by-the-numbers <br>
 https://www.cloudinstitute.io/blog/cloud-computing-tips-and-tricks/ <br>
+<br>
+</details>
+
+<details>
+<summary>CloudForms</summary>
+<br>
+Category/Type - <br>
+Cloud management platform <br>
+<br>
+Official Documentation - <br>
+https://access.redhat.com/documentation/en-us/red_hat_cloudforms/4.7 <br>
+<br>
+Best Youtube Creators- <br>
+https://www.youtube.com/watch?v=CzZePcEYKGo<br>
+https://www.youtube.com/watch?v=2CCuJ-2gBGE <br>
+https://www.youtube.com/watch?v=SMhQ6rb5gaM <br>
+https://www.youtube.com/watch?v=y1tmDyNnKok <br>
+https://www.youtube.com/watch?v=-TKBQwIJMVE <br>
+https://www.youtube.com/watch?v=SMhQ6rb5gaM&list=PLo3hQ71BAQvWq0C_QUBFF5gE8Or_TVisn <br>
+<br>
+Useful Websites- <br>
+https://www.oreilly.com/library/view/mastering-cloudforms-automation/9781491957219/ch01.html<br>
+https://www.ibm.com/docs/SSFC4F_1.3.0/install/cloudforms.html <br>
+https://www.techopedia.com/definition/31198/red-hat-cloudforms <br>
+http://v1.uncontained.io/playbooks/operationalizing/cloudforms.html <br>
+https://medium.com/ibm-cloud/cloudforms-in-the-ibm-cloud-pak-for-multicloud-management-the-complete-hybrid-management-solution-3f244adc3221 <br>
+<br>
+Dedicated Github page- <br>
+https://github.com/RedHatOfficial <br>
+https://github.com/RedHatCloudForms <br>
+https://github.com/redhatdemocentral/rhcs-cloudforms-demo <br>
+https://github.com/RedHatOfficial/RedHatOfficial.github.io<br>
+<br>
+Best Courses- <br>
+https://www.koenig-solutions.com/red-hat-cloudforms-hybrid-cloud-management-training-certification-course<br>
+https://cloudacademy.com/course/virtualization-and-infrastructure-migration-technical-overview/cloud-management-platform-setup-cloudforms/ <br>
+https://www.udemy.com/course/red-hat-openstack-technical-overview/<br>
+https://freetutorialshub.com/how-to-install-manageiq-cloudforms-on-openstack-kvm/<br>
+https://freetutorialshub.com/how-to-install-manageiq-cloudforms-on-openstack-kvm/ <br>
+<br>
+Other Tips/Hacks- <br>
+https://pemcg.gitbooks.io/introduction-to-cloudforms-automation/content/chapter17/tips_and_tricks.html <br>
+https://www.zoho.com/forms/tips-and-tricks.html<br>
+https://www.lifehack.org/articles/technology/15-cloud-storage-tips-and-tricks-you-probably-dont-know.html <br>
 <br>
 </details>
 
@@ -3349,7 +3509,83 @@ https://github.com/leisim/awesome-flutter-packages<br>
 https://medium.com/@diegoveloper<br>
 <br>
 </details>
+<details>
+<summary>Frontend Development</summary>
+<br>Category/Type - <br>Development<br>
 
+<br>Official Documentation - <br>
+https://devdocs.io/html/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA<br>
+https://www.youtube.com/watch?v=s3qZF4jhgDo<br>
+https://www.youtube.com/user/thenewboston"<br>
+https://www.youtube.com/watch?v=21HuwjmuS7A&list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR<br>
+https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw<br>
+https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ<br>
+https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ<br>
+https://www.youtube.com/watch?v=zBPeGR48_vE&list=PLqkLaKB2GJhWXV9rcarwvn06ISlL_9mPQ<br>
+https://www.youtube.com/watch?v=uDwSnnhl1Ng&list=PLsyeobzWxl7qtP8Lo9TReqUMkiOp446cV<br>
+https://www.youtube.com/watch?v=hMxGhHNOkCU<br>
+https://www.youtube.com/watch?v=a59kOE2Ma1Q<br>
+
+<br>Useful Websites - <br>
+https://scotch.io/tutorials/get-started-with-tailwind-css-in-15-minutes<br>
+https://www.w3schools.com/html/<br>
+https://devdocs.io/css/<br>
+https://nextjs.org/docs<br>
+https://api.jquery.com/<br>
+https://angular.io/docs<br>
+https://devdocs.io/javascript/<br>
+https://reactjs.org/docs/getting-started.html<br>
+https://tailwindcss.com/docs <br>
+https://sass-lang.com/documentation <br>
+https://www.edx.org/learn/html5<br>
+https://css-tricks.com/<br>
+https://javascript.info<br>
+https://jquery.com/download/<br>
+https://www.softwaretutorialvideos.com/tutorial-xd.html<br>
+https://www.creative-tim.com/blog/angularjs/angular-js-75-examples-websites-applications-experiments/<br>
+https://www.domestika.org/en/blog/4741-adobe-xd-tutorial-basic-prototype-interactions<br>
+https://designshack.net/articles/software/adobe-xd-tutorials/<br>
+
+<br>Dedicated Github page - <br>
+https://github.com/kamranahmedse/developer-roadmap<br>
+https://github.com/troxler/awesome-css-frameworks<br>
+https://github.com/awesome-css-group/awesome-css<br>
+https://lab.github.com/githubtraining/introduction-to-html<br>
+https://github.com/4GeeksAcademy/html-tutorial-exercises-course<br>
+https://github.com/FormidableLabs/spectacle<br>
+https://github.com/30-seconds/30-seconds-of-code<br>
+https://github.com/getify/You-Dont-Know-JS<br>
+https://github.com/gothinkster/angularjs-realworld-example-app<br>
+https://github.com/petk/awesome-jquery<br>
+https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know<br>
+
+<br>Best Courses - <br>
+https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/<br>
+https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/<br>
+https://www.udemy.com/course/learn-angularjs/<br>
+https://www.udemy.com/course/react-tutorial-and-projects-course/<br>
+https://www.udemy.com/course/the-complete-javascript-course/<br>
+https://www.udemy.com/course/advanced-css-and-sass/<br>
+https://www.udemy.com/course/complete-guide-of-tailwind-css-/<br>
+https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/<br>
+https://www.udemy.com/course/jquery-course/<br>
+
+<br>Other Tips / Hacks - <br>
+https://dev.to/simonholdorf/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-4fhn<br>
+https://www.telerik.com/blogs/10-time-saving-css-tips-i-learned-the-hard-way-when-using-sass<br>
+https://www.freecodecamp.org/news/what-is-tailwind-css-and-how-can-i-add-it-to-my-website-or-react-app/<br>
+https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-knowledge-in-24-hours/<br>
+https://dev.to/zandershirley/10-practical-javascript-tricks-2b7h<br>
+https://html.com/wp-content/uploads/html-cheat-sheet.pdf<br>
+https://digital.com/tools/html-cheatsheet/<br>
+https://www.sitepoint.com/top-15-jquery-tricks/<br>
+<br>
+<a href="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png">
+<img align="center" src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png"/>
+</a>
+</details>
 <details>
 <summary>Gamemaker</summary>
 <br>
@@ -5372,6 +5608,67 @@ https://www.navicat.com/en/company/aboutus/blog/1051-a-few-mysql-tips-and-tricks
 
 <details>
 
+<details>
+<summary>Neo4j </summary>
+<br>
+Category/Type - <br>System software <br>
+<br>
+Official Documentation - <br>
+https://neo4j.com/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=fiQzHVY-kRQ <br>
+https://www.youtube.com/watch?v=_D19h5s73Co <br>
+https://www.youtube.com/watch?v=PV8zssOES34 <br>
+https://www.youtube.com/watch?v=6nQh4HVLqUY <br>
+https://www.youtube.com/watch?v=hIvNexwVYNw <br>
+https://www.youtube.com/watch?v=CCZ8gewILYk <br>
+<br>
+Useful Websites -
+<br>
+https://neo4j.com/download/ <br>
+https://www.reddit.com/r/Neo4j/ <br>
+https://neo4j.com/developer/example-project/ <br>
+https://neo4j.com/graphgists/ <br>
+https://medium.com/neo4j/meet-the-graph-gallery-3666a127efee <br>
+https://gist.github.com/DaniSancas/1d5265fc159a95ff457b940fc5046887 <br>
+https://neo4j.com/docs/java-reference/current/extending-neo4j/procedures-and-functions/functions/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/neo4j <br>
+https://github.com/neo4j-contrib <br>
+https://github.com/neo4jrb/neo4j-core <br>
+https://github.com/neo4j-examples/movies-java-spring-data-neo4j <br>
+https://github.com/neo4j-graphql/neo4j-graphql-js <br>
+https://github.com/neo4j-contrib/neo4j-streams <br>
+https://github.com/neueda/awesome-neo4j <br>
+<br>
+Best Courses - <br>
+https://neo4j.com/graphacademy/online-training/ <br>
+https://neo4j.com/blog/announcing-new-neo4j-online-training-courses/ <br>
+https://www.udemy.com/course/neo4j_beginners1/ <br>
+https://www.udemy.com/course/neo4j_intermediate/ <br>
+https://www.udemy.com/course/learn-to-build-apps-using-neo4j/ <br>
+https://www.coursera.org/lecture/big-data-graph-analytics/hands-on-getting-started-with-neo4j-JFZJf <br>
+https://www.edureka.co/neo4j <br>
+https://www.zeolearn.com/master-neo4j-graph-database-training <br>
+https://www.excelr.com/neo4j-training <br>
+<br>
+Other Tips / Hacks - <br>
+https://neo4j.com/developer/modeling-tips/ <br>
+https://go.neo4j.com/tips-and-tricks-for-graph-data-modeling-lp.html?utm_source=webinars&utm_content=AaJS-DGBQX4 <br>
+https://medium.com/neo4j/tips-and-tricks-in-neo4j-bloom-41e4b3b1cc8f <br>
+https://www.slideshare.net/neo4j/tips-and-tricks-for-graph-data-modeling <br>
+https://www.slideshare.net/maxdemarzi/data-modeling-tricks-for-neo4j <br>
+https://gist.github.com/jexp/caeb53acfe8a649fecade4417fb8876a <br>
+https://www.youtube.com/watch?v=LSKa3as_S7I <br>
+<br>
+<a href="https://dist.neo4j.com/wp-content/uploads/20140926224303/neo4j_logo-facebook.png">
+  <img align="center" src="https://dist.neo4j.com/wp-content/uploads/20140926224303/neo4j_logo-facebook.png" width="900" height="500"/>
+</a>
+<br><br><br>
+</details>
+
 <summary>.NET</summary>
 <br>Category/Type - <br>Programming Language<br>
 <br>Official Documentation - <br>
@@ -6792,6 +7089,47 @@ https://rapidminer.com/blog/using-execute-script-operator/<br>
 </details>
 
 <details>
+<summary>Rasa</summary>
+<br>
+Category/Type - <br>
+Framework
+<br>
+<br>
+Documentation - <br>
+https://rasa.com/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/channel/UCJ0V6493mLvqdiVwOKWBODQ<br>
+https://www.youtube.com/watch?v=Z-G1PlWr5Bo&list=PLZoTAELRMXVN2V3kc2W-8rNu5UekkIhwF<br>
+https://www.youtube.com/watch?v=OkWcHr2XDxE&list=PLtFHvora00y8NBwCMoNnPqii-y2-gyl5p<br>
+https://www.youtube.com/watch?v=80GDt7HW_-g&list=PLtFHvora00y80hvsNJ-6YkmfTMrxk5rOe<br>
+<br>
+Useful Websites - <br>
+https://www.journaldev.com/45620/rasa-intent-classification-chatbot<br>
+https://www.geeksforgeeks.org/chatbots-using-python-and-rasa/<br>
+https://www.analyticsvidhya.com/blog/2019/04/learn-build-chatbot-rasa-nlp-ipl/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/cedextech/rasa-chatbot-templates<br>
+https://github.com/TatianaParshina/rasa_chatbot<br>
+https://github.com/santteegt/rasa-chatbot-example<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/projects/chatbot-rasa-python<br>
+https://www.udemy.com/course/the-complete-chatbot-course-using-rasa-python-nlp/<br>
+https://www.udemy.com/course/create-artificial-intelligent-chatbot-with-rasa-in-one-hour/<br>
+https://www.udemy.com/course/rasa-for-beginners/<br>
+https://www.datacamp.com/courses/building-chatbots-in-python<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/voice-tech-podcast/how-to-create-chatbot-using-rasa-82954e141ae7<br>
+https://medium.com/daitan-tech/how-to-build-your-own-intelligent-assistant-using-rasa-17c324276798<br>
+https://www.velotio.com/engineering-blog/stateless-bot-using-rasa-stack<br>
+<br>
+</details>
+
+
+<details>
 <summary>ReactJS</summary>
 <br>Category/Type - <br>JavaScript Framework<br>
 <br>Official Documentation - <br>
@@ -7702,6 +8040,50 @@ https://www.javacodegeeks.com/2019/09/selenium-scripting-tips-tricks.html <br>
 </a>
 <br><br><br>
 </details>
+
+<details>
+<summary>Semi-Supervised Learning</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://scikit-learn.org/stable/modules/semi_supervised.html<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=z_mS8yik8Zs&list=RDCMUC2XO4HDxzfMOZIV1l795g1Q&start_radio=1<br>
+https://www.youtube.com/watch?v=PXOhi6m09bA<br>
+<br>
+Useful Websites - <br>
+https://medium.com/inside-machine-learning/placeholder-3557ebb3d470<br>
+https://www.geeksforgeeks.org/ml-semi-supervised-learning/<br>
+https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_semi_supervised_learning.htm<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/zidik/Self-labeled-techniques-for-semi-supervised-learning<br>
+https://github.com/yassouali/awesome-semi-supervised-learning<br>
+https://github.com/vuptran/sesemi<br>
+https://github.com/iosifidisvasileios/Semi-Supervised-Learning<br>
+https://github.com/google-research/ssl_detection<br>
+<br>
+Best Courses - <br>
+https://www.morganclaypool.com/doi/abs/10.2200/S00196ED1V01Y200906AIM006<br>
+https://www.coursera.org/lecture/estimating-ml-models-financial-impact/reject-inference-and-semi-supervised-learning-Xemsy<br>
+https://www.udemy.com/course/ai-bootcamp-by-spotle-2020-21-edition/<br>
+<br>
+Other Tips/Hacks - <br>
+https://jrodthoughts.medium.com/understanding-semi-supervised-learning-a6437c070c87<br>
+https://franky07724-57962.medium.com/semi-supervised-learning-and-image-classification-3c3d3f57cb52<br>
+https://blog.francium.tech/semi-supervised-learning-with-pseudo-labeling-de65988bb3b3<br>
+https://cse.iitk.ac.in/users/piyush/courses/ml_autumn16/771A_lec22_slides.pdf<br>
+https://towardsdatascience.com/supervised-learning-but-a-lot-better-semi-supervised-learning-a42dff534781<br>
+https://blog.francium.tech/semi-supervised-learning-with-pseudo-labeling-de65988bb3b3<br>
+https://medium.com/analytics-vidhya/fixmatch-semi-supervised-learning-method-that-can-be-learned-even-if-there-is-only-one-labeled-e7e1b37e8935<br>
+https://jrodthoughts.medium.com/understanding-semi-supervised-learning-a6437c070c87<br>
+<br>
+</details>
+
+
 
 <details>
 <summary>Shell Scrpting </summary>
@@ -8800,6 +9182,46 @@ https://www.lynda.com/Unreal-Engine-tutorials/Unreal-AR-Visualization-03-Complex
 https://medium.com/hri-tech/unreal-engine-tips-and-tricks-26e351b4b218 <br> https://medium.com/hri-tech/unreal-engine-tips-and-tricks-26e351b4b218 <br>
 https://www.unrealengine.com/en-US/blog/blueprint-editor-tips-tricks <br> https://devbynight.com/unreal-engine-tips-tricks/ <br> http://www.tharlevfx.com/unreal-tips-and-tricks <br>
 </details>
+
+<details>
+<summary>User Experience</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://uxplanet.org/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/channel/UCxM6G42vmI752f60od3Gypw/videos<br>
+https://www.youtube.com/user/JesseAtomic/<br>
+https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw<br>
+https://www.youtube.com/user/NNgroup/videos<br>
+<br>
+Useful Websites - <br>
+https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/<br>
+https://www.interaction-design.org/literature/topics/ux-design<br>
+https://www.crazyegg.com/blog/what-is-user-experience/<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/netoguimaraes/awesome-ux<br>
+https://github.com/gregjw/ui-ux<br>
+https://gist.github.com/teybannerman/9c234424eb1d940a8505<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/specializations/ui-ux-design<br>
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiwkZmE2bXwAhWKZIsKHb_UBBoYABAHGgJ0bQ&ohost=www.google.com&cid=CAESQOD2wOG6mcRD3v4YcvJ4G4kLQYvvs2yN0zmXls13WDUS7ElMavzhP4eIVR40B1i3gM_do4tZLl3Yi3GpFH93dFc&sig=AOD64_19gmhcNqgBA37DAekvJhMHBQtf5Q&q&adurl&ved=2ahUKEwjQ7o2E2bXwAhVh63MBHTiDDFkQ0Qx6BAgEEAE<br>
+https://www.coursera.org/learn/ux-design-fundamentals<br>
+https://www.udemy.com/course/user-experience-design-fundamentals/<br>
+https://www.udemy.com/course/ultimate-guide-to-ux/<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/@thinkwik/do-you-know-the-importance-of-ui-ux-development-773eae38436e#:~:text=User%20Experience%20(UX)%20Development%20is,basic%20skeleton%20of%20any%20application.<br>
+https://usabilitygeek.com/big-differences-ux-ui-design/<br>
+https://medium.com/nyc-design/ux-ui-design-process-for-beginner-753952bb2241<br>
+<br>
+</details>
+
 
 
 <details>
