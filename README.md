@@ -120,7 +120,7 @@ https://www.udemy.com/course/adobe-photoshop-cc-advanced-training-course-tutoria
 https://www.udemy.com/course/adobe-photoshop-cc-essentials-training-course/<br>
 https://www.shawacademy.com/courses/photography/online-photoshop-course/<br>
 https://www.linkedin.com/learning/photoshop-cc-2019-essential-training-the-basics<br>
-<br>Other Tips/Tricks - <br>
+<br>Other Tips/Hacks - <br>
 https://www.wix.com/blog/2016/10/10-photoshop-tips-and-tricks-for-beginners/<br>
 https://www.creativebloq.com/photo-editing/photoshop-tips-and-fixes-612316<br>
 https://design.tutsplus.com/articles/30-tips-tricks-all-photoshop-users-should-know--cms-34437<br>
