@@ -156,6 +156,42 @@
 		"Tips4" : "https://www.creativebloq.com/illustrator/beginners-tips-6133280",
 		"Image1" : "https://www.adobe.com/content/dam/cc/icons/illustrator.svg "
 	},
+	 
+	 	{
+		"Title": "Adobe Photoshop",
+		"Tag": "Graphics editor",
+		"Documentation": "https://helpx.adobe.com/in/photoshop/user-guide.html",
+		"YT1": "https://www.youtube.com/playlist?list=PLW-zSkCnZ-gA5Jn6gZtUa6-aG0OoRZyb6",
+		"YT2": "https://www.youtube.com/watch?v=IyR_uYsRdPs",
+		"YT3": "https://www.youtube.com/playlist?list=PL7JpMMpENaD3KL_lvmw4eS5U5AD746yKB",
+		"YT4": "https://www.youtube.com/watch?v=BxX1xUrG_z8",
+		"YT5": "https://www.youtube.com/playlist?list=PLYfCBK8IplO6v0QjCj-TSrFUXnRV0WxfE",
+		"Website1": "https://helpx.adobe.com/in/photoshop/tutorials.html",
+		"Website2": "https://encyclopedia2.thefreedictionary.com/Adobe+Photoshop",
+		"Website3": "http://journalcra.com/article/review-paper-basic-workspace-adobe-photoshop",
+		"Website4": "https://www.photoshopessentials.com/",
+		"Website5": "https://phlearn.com/photoshop-tutorials/",
+		"Website6": "https://www.photoshoptutorials.ws/",
+		"Dedicated GH page1": "https://github.com/adobe-photoshop",
+		"Dedicated GH page2": "https://github.com/AdobeDocs/photoshop-api-docs",
+		"Dedicated GH page3": "https://github.com/topics/photoshop-cc",
+		"Dedicated GH page4": "https://github.com/topics/adobe-photoshop",
+		"Dedicated GH page5": "https://github.com/webmproject/WebPShop",
+		"Course1": "https://www.udemy.com/course/ultimate-photoshop-training-from-beginner-to-pro/",
+		"Course2": "https://www.udemy.com/course/adobe-photoshop-cc-advanced-training-course-tutorial/",
+		"Course3": "https://www.udemy.com/course/adobe-photoshop-cc-essentials-training-course/",
+		"Course4": "https://www.shawacademy.com/courses/photography/online-photoshop-course/",
+		"Course5": "https://www.linkedin.com/learning/photoshop-cc-2019-essential-training-the-basics",
+		"Tips1": "https://www.wix.com/blog/2016/10/10-photoshop-tips-and-tricks-for-beginners/",
+		"Tips2": "https://www.creativebloq.com/photo-editing/photoshop-tips-and-fixes-612316",
+		"Tips3": "https://design.tutsplus.com/articles/30-tips-tricks-all-photoshop-users-should-know--cms-34437",
+		"Tips4": "hongkiat.com/blog/clever-photoshop-tricks/",
+		"Tips5": "https://www.webfx.com/blog/web-design/21-advanced-photoshop-tips-tricks-and-tutorials-roundup/",
+		"Tips6": "https://www.digitalcameraworld.com/features/photoshop-tips",
+		"Tips7": "https://photoshoptrainingchannel.com/5-photoshop-tricks/"
+	},
+
+	 
 	{
 		"Title" : "Android",
 		"Tag" : "OS",
