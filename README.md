@@ -5239,6 +5239,43 @@ https://ml-cheatsheet.readthedocs.io/en/latest/<br>
 </details>
 
 <details>
+<summary>Material UI</summary>
+<br>Category/Type - <br> Framework </br>
+<br>Official Documentation - <br>https://material-ui.com/getting-started/installation/<br>
+<br>Best YouTube Creators - <br>
+https://www.youtube.com/watch?v=Xoz31I1FuiY<br>
+https://www.youtube.com/watch?v=vyJU9efvUtQ<br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gjxLvV4VEkZ6H6H4yWuS58<br>
+https://www.youtube.com/playlist?list=PL8p2I9GklV4722H3_nosmpdjNXIPuBUXm<br>
+https://www.youtube.com/watch?v=m-2_gb_3L7Q<br>
+https://www.youtube.com/playlist?list=PLcCp4mjO-z98WAu4sd0eVha1g-NMfzHZk<br>
+<br>Useful Websites - <br>
+https://react.school/material-ui/<br>
+https://reactgo.com/material-ui-react-tutorial/<br>
+https://bezkoder.com/react-material-ui-examples-crud/<br>
+https://www.freecodecamp.org/news/meet-your-material-ui-your-new-favorite-user-interface-library-6349a1c88a8c/<br>
+https://medium.com/codingthesmartway-com-blog/getting-started-with-material-ui-for-react-material-design-for-react-364b2688b555<br>
+https://rossbulat.medium.com/theming-with-material-ui-in-react-49cc767dfc86<br>
+https://arichards4814.medium.com/5-material-ui-components-you-should-use-in-your-next-react-project-5712026e03cf<br>
+https://codesandbox.io/examples/package/@material-ui/core<br>
+<br>Dedicated Github Page - <br>
+https://github.com/mui-org/material-ui<br>
+https://github.com/mui-org/material-ui-x<br>
+https://github.com/alexanmtz/material-sense<br>
+https://github.com/devias-io/material-kit-react<br>
+https://github.com/mui-org/material-ui/tree/master/examples<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs/<br>
+https://www.lynda.com/React-js-tutorials/Implementing-Material-UI/558648/597667-4.html<br>
+<br>Other Tips/Hacks - <br>
+https://blog.bitsrc.io/a-better-way-to-style-material-ui-80c7707ad525?gi=87ab1782b4ef<br>
+https://dev.to/amberjones/5-delightful-things-about-material-ui-5402<br>
+https://betterprogramming.pub/the-true-beauty-of-material-ui-d76fa3dc0dd4<br>
+</details>
+
+
+
+<details>
 <summary>MATLAB</summary>
 <br>Category/Type - <br>Matrix-based language<br>
 <br>Official Documentation - <br>
