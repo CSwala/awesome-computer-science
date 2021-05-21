@@ -6547,6 +6547,39 @@ http://www.martinsweb.com/books.html<br>
 </details>
 
 <details>
+<summary>PassportJS</summary>
+<br>Category/Type - <br>Javascript Library<br>
+<br>Official Documentation - <br>http://www.passportjs.org/docs/downloads/html/<br>
+<br>Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x<br>
+https://www.youtube.com/watch?v=-RCnNyD0L-s&t=128s<br>
+https://www.youtube.com/playlist?list=PLYQSCk-qyTW2ewJ05f_GKHtTIzjynDgjK<br>
+https://www.youtube.com/watch?v=6FOq4cUdH8k&t=1721s<br>
+https://www.youtube.com/watch?v=F-sFp_AvHc8<br>
+<br>Useful Websites - <br>
+https://www.sitepoint.com/local-authentication-using-passport-node-js/<br>
+https://dev.to/zachgoll/the-ultimate-guide-to-passport-js-k2l<br>
+https://levelup.gitconnected.com/everything-you-need-to-know-about-the-passport-local-passport-js-strategy-633bbab6195<br>
+https://www.twilio.com/blog/facebook-oauth-login-node-js-app-passport-js<br>
+https://medium.com/@basics.aki/step-wise-tutorial-for-node-js-authentication-using-passport-js-and-jwt-using-apis-cfbf274ae522<br>
+https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/<br>
+https://auth0.com/blog/create-a-simple-and-secure-node-express-app/<br>
+<br>Dedicated Github page - <br>
+https://github.com/jaredhanson/passport<br>
+https://github.com/passport<br>
+https://github.com/jaredhanson/passport-github<br>
+<br>Best Courses - <br>
+https://www.coursera.org/lecture/server-side-nodejs/passport-Zr1Wq<br>
+https://www.lynda.com/Node-js-tutorials/Introduction-Passport/798496/5028754-4.html<br>
+https://www.classcentral.com/course/edx-authentication-and-authorization-using-node-js-11706<br>
+<br>Other Tips/Hacks - <br>
+https://dev.to/nileshsanyal/a-complete-guide-to-passport-js-part-1-443<br>
+https://www.dotnettricks.com/learn/nodejs/authentication-authorization-using-passport-js<br>
+https://stackoverflow.com/questions/54613793/passport-js-how-to-protect-all-routes<br>
+https://stackoverflow.com/search?q=passportjs<br>
+</details>
+
+<details>
 <summary>Perl</summary>
 <br>
 Category/Type - <br>
