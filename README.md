@@ -5607,6 +5607,39 @@ https://www.mongodb.com/presentations/tips-and-tricks-for-query-performance-let-
 <br><br><br>
 </details>
 
+<details>
+<summary>MongooseJS</summary>
+<br>Category/Type - <br>Javascript Library<br>
+<br>Official Documentation - <br>https://mongoosejs.com/docs/<br>
+<br>Best YouTube Creators - <br>
+https://www.youtube.com/watch?v=WDrU305J1yw<br>
+https://www.youtube.com/playlist?list=PLGquJ_T_JBMQ1C0Pp41sykceli8G1UGtg<br>
+https://www.youtube.com/playlist?list=PLNHw_0qv1zy_UEXiWaqSXiLSwwE8mjuj7<br>
+https://www.youtube.com/watch?v=5QEwqX5U_2M<br>
+https://www.youtube.com/watch?v=4yqu8YF29cU&t=3881s<br>
+<br>Useful Websites - <br>
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose<br>
+https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/<br>
+https://www.npmjs.com/package/mongoose<br>
+http://tutorialtous.com/mongoose/<br>
+https://masteringjs.io/mongoose<br>
+<br>Dedicated Github Page - <br>
+https://github.com/Automattic/mongoose<br>
+https://github.com/mongoosejs<br>
+https://github.com/cesanta/mongoose<br>
+https://github.com/madhums/node-express-mongoose-demo<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/mongoosejs-essentials/<br>
+https://www.udemy.com/course/mongoose/<br>
+https://www.freecodecamp.org/news/mongodb-full-course-nodejs-express-mongoose/<br>
+https://www.skillshare.com/classes/MongooseJS-Essentials-Learn-MongoDB-for-Node-js/1128600998<br>
+<br>Other Tips/Hacks - <br>
+https://dzone.com/articles/mongodb-driver-tips-tricks-0<br>
+https://www.tothenew.com/blog/mongoose-tips-and-tricks-for-uncommon-cases/<br>
+https://javascript.plainenglish.io/7-simple-mongodb-tips-make-your-code-faster-and-optimize-f696211f1431?gi=4cc5fb605236<br>
+https://www.jaygould.co.uk/2018-03-28-concice-collection-mongodb-mongoose-database/<br>
+</details>
+
 
 <details>
 <summary>MoonScript</summary>
