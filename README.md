@@ -4471,6 +4471,75 @@ https://steadynetworks.com/tips-and-tricks-for-avoiding-iot-threats/ <br>
 </details>
 
 <details>
+<summary>Jakarta Server Pages </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://docs.oracle.com/javaee/5/tutorial/doc/bnajo.html <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=OuBUUkQfBYM <br>
+https://www.youtube.com/watch?v=40KM8IdneLg <br>
+https://www.youtube.com/watch?v=TrfqKn6vzAI <br>
+https://www.youtube.com/watch?v=_8_kQz1m-0U <br>
+https://www.youtube.com/watch?v=5Sz8z1Yreow <br>
+https://www.youtube.com/watch?v=OvPNSKjftXs <br>
+https://www.youtube.com/watch?v=ndQ6NWPp8-U <br>
+https://www.youtube.com/watch?v=Vvnliarkw48 <br>
+https://www.youtube.com/watch?v=D5WtCJla-hM <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/jsp/ <br>
+https://www.guru99.com/jsp-example.html <br>
+https://www.journaldev.com/2021/jsp-example-tutorial-for-beginners <br>
+https://projectsgeek.com/jsp-projects-with-source-code <br>
+https://www.freeprojectz.com/jsp-projects <br>
+https://www.oracle.com/technical-resources/articles/javase/servlets-jsp.html <br>
+https://medium.com/javarevisited/6-free-courses-to-learn-servlet-jsp-and-java-fx-in-2020-best-of-lot-720201c84f63 <br>
+https://beginnersbook.com/2013/11/jsp-implicit-objects/ <br>
+https://docs.oracle.com/cd/E17802_01/j2ee/j2ee/1.4/docs/tutorial-update2/doc/JSPIntro7.html <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/jgpreetham/basic-jsp-example <br>
+https://github.com/RameshMF/JSP-Tutorial <br>
+https://github.com/in28minutes/JavaWebApplicationStepByStep <br>
+https://github.com/1212050/Shopping-web-Jsp-Servlet <br>
+https://github.com/electronrecord/jsp-servlet-example <br>
+https://github.com/ggeorgovassilis/fauxjsp <br>
+https://github.com/tirmizee/Simple-JSP-MVC <br>
+https://github.com/SuneetPatil/Java-Servlets <br>
+https://github.com/MADANA-IO/madana-communityhub <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/jsp-tutorial/ <br>
+https://www.udemy.com/course/full-stack-java-developer-java/ <br>
+https://www.udemy.com/course/jsp-java-server-pages-training/ <br>
+https://www.udemy.com/course/complete-course-of-java-server-pages-jsp-programming/ <br>
+https://www.udemy.com/course/javawebtut/ <br>
+https://www.udemy.com/course/jsp-servlet-free/ <br>
+https://www.mooc-list.com/tags/jsp <br>
+https://www.udemy.com/course/jsp-and-servlets-the-complete-course/ <br>
+https://www.springpeople.com/jsp-servlets-training <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.infoworld.com/article/2075857/jsp-best-practices.html <br>
+https://josescalia.wordpress.com/2009/01/22/few-tips-and-trick-on-jsp-and-servlet/ <br>
+https://www.tutorialspoint.com/jsp/jsp_quick_guide.htm <br>
+https://www.baeldung.com/jsp <br>
+https://medium.com/@dev_padawan/servlets-and-jsp-a-beginners-guide-54c539f93614 <br>
+https://amdelamar.com/blog/top-5-java-ee-tips-and-tricks/ <br>
+https://stackoverflow.com/questions/1296235/jsp-tricks-to-make-templating-easier <br>
+https://www.mulesoft.com/tcat/tomcat-jsp <br>
+https://www.netspi.com/blog/technical/network-penetration-testing/hacking-with-jsp-shells/ <br>
+<br>
+<a href="https://www.microcosm.com/images/smartsign/jsp-border.png">
+  <img align="center" src="https://www.microcosm.com/images/smartsign/jsp-border.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+<details>
 <summary>Java</summary>
 <br>Category/Type - <br>
 Programming Language<br>
