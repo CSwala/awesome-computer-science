@@ -4469,7 +4469,70 @@ https://steadynetworks.com/tips-and-tricks-for-avoiding-iot-threats/ <br>
 <br><br>
 
 </details>
-
+<details>
+<summary>JSON </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://www.json.org/json-en.html <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=iiADhChRriM <br>
+https://www.youtube.com/watch?v=GpOO5iKzOmY <br>
+https://www.youtube.com/watch?v=uw_rP5bV9r0 <br>
+https://www.youtube.com/watch?v=wI1CWzNtE-M <br>
+https://www.youtube.com/watch?v=IqI5yiMvJ6A <br>
+https://www.youtube.com/watch?v=yy-RPsffuKk <br>
+https://www.youtube.com/watch?v=W1n_v57Eb7A <br>
+https://www.youtube.com/watch?v=wbB3lVyUvAM <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/json/ <br>
+https://www.sitepoint.com/10-example-json-files/ <br>
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON <br>
+https://json.org/example.html <br>
+https://fmhelp.filemaker.com/help/17/fmp/en/index.html#page/FMP_Help/json-functions.html <br>
+https://docs.python.org/3/library/json.html <br>
+https://docs.oracle.com/cd/E49465_01/doc.23/e49333/oxh_ref007.htm <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/nlohmann/json <br>
+https://github.com/json-c/json-c <br>
+https://github.com/Tencent/rapidjson <br>
+https://github.com/stleary/JSON-java <br>
+https://github.com/LearnWebCode/json-example <br>
+https://github.com/open-source-parsers/jsoncpp <br>
+https://github.com/bblanchon/ArduinoJson <br>
+https://github.com/douglascrockford/JSON-js <br>
+https://github.com/typicode/json-server <br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/learn/javascript-jquery-json <br>
+https://www.coursera.org/learn/json-natural-language-processing-postgresql <br>
+https://www.udemy.com/course/json-in-action/ <br>
+https://www.udemy.com/course/json-training-a-javascript-object-notation-course/ <br>
+https://www.udemy.com/course/learn-to-use-json/ <br>
+https://www.udemy.com/course/json-crash-course-for-beginners-learn-json-in-one-hour/ <br>
+https://www.udemy.com/course/projects-with-json-and-apis/ <br>
+https://www.udemy.com/course/master-in-json/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://stackify.com/top-11-json-performance-usage-tips/ <br>
+https://developers.perfectomobile.com/display/TT/JSON%3A+Working+with+JSON+-+detailed+Serialization <br>
+https://www.sitepoint.com/basics-json-syntax-tips/ <br>
+https://www.kdnuggets.com/2020/09/4-tricks-effectively-use-json-python.html <br>
+https://www.quora.com/What-are-some-tips-tricks-and-gotchas-when-using-JSON-from-Java <br>
+https://www.tutorialspoint.com/json/json_quick_guide.htm <br>
+https://towardsdatascience.com/how-to-best-work-with-json-in-python-2c8989ff0390 <br>
+https://json-tricks.readthedocs.io/en/latest/ <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1024px-JSON_vector_logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1024px-JSON_vector_logo.svg.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>
 <summary>Jakarta Server Pages </summary>
 <br>
