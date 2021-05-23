@@ -2146,7 +2146,68 @@ https://medium.com/@anirbanvalueinvesting/computer-vision-projects-64a59df35493<
 https://medium.com/analytics-vidhya/ways-to-boost-your-computer-vision-projects-by-using-5-open-source-facial-recognition-projects-56668f170cb9<br>
 <br>
 </details>
-
+<details>
+<summary>Consul </summary>
+<br>
+Category/Type - <br>Software <br>
+<br>
+Official Documentation - <br>
+https://www.consul.io/docs <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=5iAVi2hctSI <br>
+https://www.youtube.com/watch?v=mxeMdl0KvBI <br>
+https://www.youtube.com/watch?v=Q4IAV-AC2kU <br>
+https://www.youtube.com/watch?v=xyU8v5RO_kQ <br>
+https://www.youtube.com/watch?v=5oKzRtJeZZM <br>
+https://www.youtube.com/watch?v=iVKveB-2bGQ <br>
+https://www.youtube.com/watch?v=uQIw7PUElV4 <br>
+<br>
+Useful Websites -
+<br>
+https://www.consul.io/ <br>
+https://www.hashicorp.com/products/consul <br>
+https://spring.io/projects/spring-cloud-consul <br>
+https://www.reddit.com/r/consul/ <br>
+https://www.consul.io/api-docs <br>
+https://www.hashicorp.com/blog/introducing-consul-template <br>
+https://www.datadoghq.com/blog/consul-monitoring-tools/ <br>
+ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/hashicorp/consul <br>
+https://github.com/hashicorp/consul-template <br>
+https://github.com/consul/consul <br>
+https://github.com/hashicorp/consul-helm <br>
+https://github.com/Ecwid/consul-api <br>
+https://github.com/rickfast/consul-client <br>
+https://github.com/josegonzalez/awesome-consul <br>
+<br>
+Best Courses - <br>
+https://www.katacoda.com/courses/consul <br>
+https://www.pluralsight.com/courses/consul-getting-started <br>
+https://www.udemy.com/course/hashicorp-certified-consul-associate/ <br>
+https://www.udemy.com/course/hashicorp-consul/ <br>
+https://acloudguru.com/course/learning-hashicorp-consul <br>
+https://devopsschool.com/courses/hashicorp/index.html <br>
+https://www.devopsschool.com/courses/hashicorp/hashicorp-consul-training.html <br>
+https://learn.hashicorp.com/consul <br>
+https://www.zekelabs.com/courses/Hashicorp-Consul-training-in-bangalore/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.linkedin.com/pulse/traefik-consul-tips-tricks-issac-goldstand/ <br>
+https://www.velotio.com/engineering-blog/hashicorp-consul-guide-2 <br>
+https://www.velotio.com/engineering-blog/hashicorp-consul-guide-1 <br>
+https://www.consul.io/docs/guides <br>
+https://www.wisdomjobs.com/e-university/consul-interview-questions.html <br>
+https://www.jhipster.tech/consul/ <br>
+https://www.packer.io/guides/workflow-tips-and-tricks <br>
+<br>
+<a href="https://www.pikpng.com/pngl/m/430-4308572_consul-logo-hashicorp-consul-logo-clipart.png">
+  <img align="center" src="https://www.pikpng.com/pngl/m/430-4308572_consul-logo-hashicorp-consul-logo-clipart.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>
 
  <summary> CryEngine </summary>
