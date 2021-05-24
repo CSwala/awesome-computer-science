@@ -4953,6 +4953,72 @@ https://codegolf.stackexchange.com/questions/24407/tips-for-golfing-in-julia <br
 </details>
 
 <details>
+<summary>JWT </summary>
+<br>
+Category/Type - <br>Internet open standard <br>
+<br>
+Official Documentation - <br>
+https://jwt.io/introduction <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=soGRyl9ztjI <br>
+https://www.youtube.com/watch?v=7Q17ubqLfaM&t=4s <br>
+https://www.youtube.com/watch?v=ODVEqmNz4sg <br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9iqqESP8335DA5cRFp8loyp <br>
+https://www.youtube.com/watch?v=926mknSW9Lo&t=2s <br>
+https://www.youtube.com/watch?v=NMIEJZfNG-8 <br>
+https://www.youtube.com/watch?v=mbsmsi7l3r4&t=4s <br>
+https://www.youtube.com/watch?v=_XbXkVdoG_0 <br>
+https://www.youtube.com/watch?v=OV8nPN4ym24&t=4s<br>
+<br>
+Useful Websites -
+<br>
+https://jwt.io/ <br>
+https://en.wikipedia.org/wiki/JSON_Web_Token <br>
+https://auth0.com/docs/tokens/json-web-tokens <br>
+https://dzone.com/articles/what-is-jwt-token <br>
+https://openid.net/specs/draft-jones-json-web-token-07.html <br>
+https://marketplace.zoom.us/docs/guides/auth/jwt <br>
+https://blog.angular-university.io/angular-jwt/ <br>
+https://cloud.google.com/iot/docs/how-tos/credentials/jwts <br>
+https://flaviocopes.com/jwt/ <br>
+<br>
+Dedicated Github page - <br>
+ https://github.com/auth0/node-jsonwebtoken <br>
+ https://github.com/jwtk/jjwt <br>
+ https://github.com/auth0/java-jwt <br>
+ https://github.com/tymondesigns/jwt-auth <br>
+ https://github.com/dwyl/learn-json-web-tokens <br>
+ https://github.com/jwt-dotnet/jwt <br>
+ https://github.com/web-token/jwt-app <br>
+ https://jwt.io/ <br>
+<br>
+Best Courses - <br>
+ https://www.udemy.com/tutorial/nestjs-zero-to-hero/introduction-to-json-web-tokens-jwt/ <br>
+ https://www.udemy.com/course/hacking-and-securing-jwt/ <br>
+ https://www.coursera.org/lecture/exploiting-securing-vulnerabilities-java-applications/introduction-to-json-web-tokens-jwt-and-authentication-bypass-dcRcu <br>
+ https://www.lynda.com/WordPress-tutorials/JWT-JSON-Web-Token-authentication/2822348/2967571-4.html <br>
+ https://www.mooc-list.com/tags/jwt <br>
+ https://blog.angular-university.io/angular-jwt/ <br>
+ https://www.educative.io/courses/web-security-access-management-jwt-oauth2-openid-connect <br>
+ https://www.simplilearn.com/tutorials/nodejs-tutorial/jwt-authentication <br>
+<br>
+Other Tips / Hacks - <br>
+https://curity.io/resources/learn/jwt-best-practices/ <br>
+https://blog.angular-university.io/angular-jwt/ <br>
+https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/ <br>
+https://jwt.io/introduction <br>
+https://cheatsheetseries.owasp.org/cheatsheets/JSON_Web_Token_for_Java_Cheat_Sheet.html <br>
+https://auth0.com/blog/a-look-at-the-latest-draft-for-jwt-bcp/<br>
+https://medium.com/swlh/all-you-need-to-know-about-json-web-token-jwt-8a5d6131157f <br>
+<br>
+<a href="https://cdn-images-1.medium.com/fit/t/1600/480/1*XkmnsJ6Joa6EDFVGUw0tfA.png">
+  <img align="center" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*XkmnsJ6Joa6EDFVGUw0tfA.png" width="800" height="300"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Keras</summary>
 <br>Category/Type - <br> API <br>
 <br>Official Documentation - <br> https://keras.io/api/ <br>
