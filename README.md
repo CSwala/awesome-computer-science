@@ -10554,7 +10554,72 @@ https://www.reddit.com/r/iOSProgramming/comments/f6pss/what_are_some_xcode_tips_
 </a>
 <br><br><br>
 </details>
-
+<details>
+<summary>XML </summary>
+<br>
+Category/Type - <br>Application programming interface <br>
+<br>
+Official Documentation - <br>
+https://www.xml.com/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=n-y-YHVZSwk <br>
+https://www.youtube.com/watch?v=KeLiQXqVgMI <br>
+https://www.youtube.com/watch?v=1JblVElt5K0 <br>
+https://www.youtube.com/watch?v=O87VaZAN7As <br>
+https://www.youtube.com/watch?v=pIQ0B3BU7nY <br>
+https://www.youtube.com/watch?v=yUw-aTOwAw8 <br>
+https://www.youtube.com/watch?v=7rJ3LDT_DrI <br>
+https://www.youtube.com/watch?v=UqwGSo82cwU <br>
+https://www.youtube.com/watch?v=qgZVAznwX38 <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/xml/ <br>
+https://www.dita-ot.org/dev/topics/project-files-xml.html <br>
+https://docs.oracle.com/cd/E15523_01/web.1111/b32441/oxcreatproj.htm#JITDG92720 <br>
+https://docs.python.org/3/library/xml.html <br>
+https://www.xmlobjective.com/xml-modules/ <br>
+https://www.knowledgehut.com/tutorials/python-tutorial/python-xml <br>
+https://www.w3schools.com/xml/xml_parser.asp <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/zeux/pugixml <br>
+https://github.com/leethomason/tinyxml2 <br>
+https://github.com/cran/XML <br>
+https://github.com/NaturalIntelligence/fast-xml-parser <br>
+https://github.com/sabre-io/xml <br>
+https://github.com/michaelrsweet/mxml <br>
+https://github.com/segmentio/xml-parser <br>
+https://github.com/yahoojapan/SwiftyXMLParser <br>
+https://github.com/SonarSource/sonar-xml <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/xml-and-xml-schema-definition-in-easy-steps/ <br>
+https://www.udemy.com/course/learn-xml-crash-course/ <br>
+https://www.udemy.com/course/xml-for-absolute-beginners-learn-to-create-your-own-tags/ <br>
+https://www.udemy.com/course/xml-from-beginner-to-expert/ <br>
+https://www.udemy.com/course/learn-xml-from-scratch-absolute-beginner-course/ <br>
+https://www.udemy.com/course/xml-xslt-crash-course-for-beginners/ <br>
+https://www.udemy.com/course/xml-crash-course-for-beginners-learn-xml-with-in-one-hour/ <br>
+https://www.linkedin.com/learning/xml-essential-training-2 <br>
+https://www.agitraining.com/xml/training/online <br>
+<br>
+Other Tips / Hacks - <br>
+https://saffroninteractive.com/tips-for-writing-xml-for-beginners/ <br>
+https://www.maruf.ca/files/caadoc/CAAXmlTechArticles/CAAXmlTipsAndTricks.htm <br>
+https://softwareengineering.stackexchange.com/questions/349217/tips-and-tricks-in-implementing-xml-or-xml-schema <br>
+https://www.itprotoday.com/sql-server/xml-tips-tricks <br>
+https://medium.com/android-news/android-strings-xml-tips-tricks-52b0c820cf7a <br>
+https://blog.oxygenxml.com/topics/general_tips_and_tricks.html <br>
+https://www.thedroidsonroids.com/blog/android-strings-xml-tips-tricks <br>
+https://community.snowflake.com/s/article/More-Tips-and-Tricks-for-Working-with-XML-in-Snowflake <br>
+<br>
+<a href="https://lh3.googleusercontent.com/proxy/upxXZ02Uyt7rE6mxNzq8dwv2mlZUMOxlt9a2hXLrlbGzQ7jTV8IWiIAzLtC9oa9__rabeqN5T96ZB2HBaMnPxUTvYk3L8pr0xJhSCSRBHWWNt8cY">
+  <img align="center" src="https://lh3.googleusercontent.com/proxy/upxXZ02Uyt7rE6mxNzq8dwv2mlZUMOxlt9a2hXLrlbGzQ7jTV8IWiIAzLtC9oa9__rabeqN5T96ZB2HBaMnPxUTvYk3L8pr0xJhSCSRBHWWNt8cY" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>  
 <summary>YII Framework</summary>
 <br>
