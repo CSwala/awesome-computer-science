@@ -8932,7 +8932,64 @@ https://medium.com/@davekaj/solidity-tips-and-tricks-for-beginners-building-thei
 </a>
 <br><br><br>
 </details>
-
+<details>
+<summary>Spinnaker </summary>
+<br>
+Category/Type - <br>Software <br>
+<br>
+Official Documentation - <br>
+https://spinnaker.io/guides/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=nTXrKiQEeO8 <br>
+https://www.youtube.com/watch?v=R0cloa6yi5E <br>
+https://www.youtube.com/watch?v=h6m22hVe47U <br>
+https://www.youtube.com/watch?v=DQIu373gSKU <br>
+https://www.youtube.com/watch?v=9EUyMjR6jSc <br>
+https://www.youtube.com/watch?v=z4riSXd3Y5w <br>
+https://www.youtube.com/watch?v=54QgIjAzPW0 <br>
+<br>
+Useful Websites -
+<br>
+https://spinnaker.io/ <br>
+https://www.reddit.com/r/kubernetes/comments/8n3rw4/using_spinnaker_with_kubernetes_reliably/ <br>
+https://spinnaker.io/guides/tutorials/codelabs/hello-deployment/ <br>
+https://www.baeldung.com/ops/spinnaker <br>
+https://spinnaker.io/guides/spin/projects/ <br>
+http://apt.cs.manchester.ac.uk/projects/SpiNNaker/ <br>
+https://spinnaker.io/reference/api/swagger-ui/ <br>
+https://www.magalix.com/blog/a-guide-on-the-installation-of-spinnaker-in-your-production-kubernetes-cluster <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/spinnaker/spinnaker <br>
+https://github.com/spinnaker/clouddriver <br>
+https://github.com/spinnaker/halyard <br>
+https://github.com/spinnaker/orca <br>
+https://github.com/spinnaker/spinnaker.github.io <br>
+https://github.com/robzienert/awesome-spinnaker <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/continuous-deployments-using-spinnaker-on-aws-and-kubernetes/ <br>
+https://cloudacademy.com/course/introduction-to-spinnaker-1124/introduction/ <br>
+https://www.lynda.com/Spinnaker-tutorials/772023-0.html <br>
+https://www.opsmx.com/spinnaker-course.html <br>
+https://www.armory.io/spinnaker-training/ <br>
+https://www.developintelligence.com/catalog/cloud-computing/spinnaker/ <br>
+https://www.classcentral.com/course/linkedin-learning-kubernetes-continuous-delivery-with-spinnaker-30358 <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.armory.io/learn/what-is-spinnaker/ <br>
+https://www.opsmx.com/blog/spinnaker-basics-in-5-minutes/ <br>
+https://www.velotio.com/engineering-blog/know-everything-about-spinnaker-amp-how-to-deploy-using-kubernetes-engine <br>
+https://www.spinnakersupport.com/ <br>
+https://cloud.google.com/architecture/continuous-delivery-spinnaker-kubernetes-engine <br>
+https://opensource.com/article/19/8/why-spinnaker-matters-cicd <br>
+<br>
+<a href="https://spinnaker.io/assets/images/spinnaker-logo-inline.svg">
+  <img align="center" src="https://spinnaker.io/assets/images/spinnaker-logo-inline.svg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>
 <summary>Spring Framework </summary>
 <br>
