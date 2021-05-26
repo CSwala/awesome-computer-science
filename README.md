@@ -2146,7 +2146,68 @@ https://medium.com/@anirbanvalueinvesting/computer-vision-projects-64a59df35493<
 https://medium.com/analytics-vidhya/ways-to-boost-your-computer-vision-projects-by-using-5-open-source-facial-recognition-projects-56668f170cb9<br>
 <br>
 </details>
-
+<details>
+<summary>Consul </summary>
+<br>
+Category/Type - <br>Software <br>
+<br>
+Official Documentation - <br>
+https://www.consul.io/docs <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=5iAVi2hctSI <br>
+https://www.youtube.com/watch?v=mxeMdl0KvBI <br>
+https://www.youtube.com/watch?v=Q4IAV-AC2kU <br>
+https://www.youtube.com/watch?v=xyU8v5RO_kQ <br>
+https://www.youtube.com/watch?v=5oKzRtJeZZM <br>
+https://www.youtube.com/watch?v=iVKveB-2bGQ <br>
+https://www.youtube.com/watch?v=uQIw7PUElV4 <br>
+<br>
+Useful Websites -
+<br>
+https://www.consul.io/ <br>
+https://www.hashicorp.com/products/consul <br>
+https://spring.io/projects/spring-cloud-consul <br>
+https://www.reddit.com/r/consul/ <br>
+https://www.consul.io/api-docs <br>
+https://www.hashicorp.com/blog/introducing-consul-template <br>
+https://www.datadoghq.com/blog/consul-monitoring-tools/ <br>
+ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/hashicorp/consul <br>
+https://github.com/hashicorp/consul-template <br>
+https://github.com/consul/consul <br>
+https://github.com/hashicorp/consul-helm <br>
+https://github.com/Ecwid/consul-api <br>
+https://github.com/rickfast/consul-client <br>
+https://github.com/josegonzalez/awesome-consul <br>
+<br>
+Best Courses - <br>
+https://www.katacoda.com/courses/consul <br>
+https://www.pluralsight.com/courses/consul-getting-started <br>
+https://www.udemy.com/course/hashicorp-certified-consul-associate/ <br>
+https://www.udemy.com/course/hashicorp-consul/ <br>
+https://acloudguru.com/course/learning-hashicorp-consul <br>
+https://devopsschool.com/courses/hashicorp/index.html <br>
+https://www.devopsschool.com/courses/hashicorp/hashicorp-consul-training.html <br>
+https://learn.hashicorp.com/consul <br>
+https://www.zekelabs.com/courses/Hashicorp-Consul-training-in-bangalore/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.linkedin.com/pulse/traefik-consul-tips-tricks-issac-goldstand/ <br>
+https://www.velotio.com/engineering-blog/hashicorp-consul-guide-2 <br>
+https://www.velotio.com/engineering-blog/hashicorp-consul-guide-1 <br>
+https://www.consul.io/docs/guides <br>
+https://www.wisdomjobs.com/e-university/consul-interview-questions.html <br>
+https://www.jhipster.tech/consul/ <br>
+https://www.packer.io/guides/workflow-tips-and-tricks <br>
+<br>
+<a href="https://www.pikpng.com/pngl/m/430-4308572_consul-logo-hashicorp-consul-logo-clipart.png">
+  <img align="center" src="https://www.pikpng.com/pngl/m/430-4308572_consul-logo-hashicorp-consul-logo-clipart.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>
 
  <summary> CryEngine </summary>
@@ -6012,7 +6073,63 @@ https://www.toptal.com/dot-net/tips-and-practices<br><br>
 </a>
 <br><br><br>
 </details>
-
+<details>
+<summary>Netwide Assembler </summary>
+<br>
+Category/Type - <br>Software <br>
+<br>
+Official Documentation - <br>
+https://www.nasm.us/docs.php <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=W8UTCqWb2eQ <br>
+https://www.youtube.com/watch?v=_JG4b7E_6-E <br>
+https://www.youtube.com/watch?v=Ep0hCP2GiLw <br>
+https://www.youtube.com/watch?v=FItR0gdk8js <br>
+https://www.youtube.com/watch?v=aJNw0msN5rI <br>
+https://www.youtube.com/watch?v=l-JhC3w3QYM <br>
+https://www.youtube.com/watch?v=Pxlw3g3Ei5w <br>
+https://www.youtube.com/watch?v=uca_zY8ZNpA <br>
+<br>
+Useful Websites -
+<br>
+https://www.nasm.us/ <br>
+https://ccm.net/download/download-1025-nasm <br>
+https://www.reddit.com/r/nasm/ <br>
+http://libra.cs.virginia.edu/~aaron/08-nasm/nasmexamples.html <br>
+https://www.csee.umbc.edu/portal/help/nasm/sample.shtml <br>
+https://awesomeopensource.com/projects/assembly <br>
+https://stackoverflow.com/questions/13668403/writing-x86-64-linux-kernel-module-in-assembler <br>
+https://metacpan.org/pod/Nasm::X86 <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/netwide-assembler/nasm <br>
+https://github.com/rtaylor777/nasm <br>
+https://github.com/aaryapatil/Assembly <br>
+https://github.com/gitGNU/nasm <br>
+https://github.com/letolabs/nasm <br>
+https://github.com/L4TTiCe/nasm-assembly <br>
+https://github.com/funnydman/nasm-assembly-examples <br>
+<br>
+Best Courses - <br>
+https://cs.lmu.edu/~ray/notes/nasmtutorial/ <br>
+https://asmtutor.com/ <br>
+https://www.coursef.com/nasm-x86-assembly-language-course <br>
+https://www.nasm.org/ <br>
+https://www.csee.umbc.edu/courses/undergraduate/CMSC313/spring04/burt_katz/lectures/Lect02/nasm_overview.html <br>
+<br>
+Other Tips / Hacks - <br>
+https://stackoverflow.com/questions/5951281/assembly-language-programming-hints-and-tips <br>
+https://www.quora.com/What-are-the-best-resources-to-learn-NASM-Netwide-Assembler <br>
+https://www.csee.umbc.edu/portal/help/nasm/nasm.shtml <br>
+https://www.quora.com/What-is-the-best-way-to-learn-to-program-with-the-NASM-Netwide-Assembler-Are-there-any-specific-good-resources-online <br>
+https://www.oreilly.com/library/view/mastering-metasploit-/9781788990615/7c203caa-729e-4e77-8251-bca290769979.xhtml <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/1200px-Netwide_Assembler.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/1200px-Netwide_Assembler.svg.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 
 <details>
 <summary>NetworkX</summary>
