@@ -2653,6 +2653,55 @@ https://pdfslide.net/documents/shaderx-shader-programming-tips-tricks-with-direc
 </details>
 
 <details>
+<summary>Discord.js</summary>
+<br>
+Category/Type - <br>
+Node.js module<br>
+<br>
+Official Documentation - <br>
+https://discord.js.org/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PLaxxQQak6D_fxb9_-YsmRwxfw5PH9xALe<br>
+https://www.youtube.com/playlist?list=PLdnyVeMcpY7_IiC977keSLBXXJG_I3vUo<br>
+https://www.youtube.com/watch?v=7rU_KyudGBY<br>
+https://www.youtube.com/playlist?list=PL_cUvD4qzbkxKEHA-_CFmEG0Y2qQCqYFT<br>
+<br>
+Useful Websites -
+<br>
+https://awesomeopensource.com/projects/discord-js<br>
+https://www.smashingmagazine.com/2021/02/building-discord-bot-discordjs/<br>
+https://bestofjs.org/projects/discordjs<br>
+https://discord.com/developers/docs<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/discordjs/discord.js/<br>
+https://github.com/topics/discord-js<br>
+https://github.com/ravener/miyako<br>
+https://github.com/sabattle/CalypsoBot<br>
+https://github.com/KSJaay/Alita<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/discord-bots-development-in-nodejs-for-beginners/<br>
+https://www.sololearn.com/Discuss/2028469/discord-js<br>
+https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-with-node-js<br>
+https://coursemarks.com/course/create-the-best-discord-bot-with-node-js/<br>
+https://www.reddit.com/r/learnprogramming/comments/5k3eh0/want_to_learn_javascript_join_the_speakjs_discord/<br>
+https://www.freecodecamp.org/news/create-a-discord-bot-with-javascript-nodejs/<br>
+<br>
+Other Tips / Hacks - <br>
+https://discordjs.guide/<br>
+https://anidiots.guide/<br>
+https://dev.to/austinoso/discord-js-creating-a-bot-for-discord-4ij4<br>
+https://github.com/discordjs/guide<br><br>
+<a href="https://www.pngkey.com/png/full/233-2333311_discord-image-png-discord-js.png">
+  <img align="center" src="https://www.pngkey.com/png/full/233-2333311_discord-image-png-discord-js.png" width="600" height="100"/>
+</a>
+<br><br><br>
+</details>
+
+
+<details>
 <summary>Django</summary>
 <br>Category/Type - <br> Python Framework <br>
 <br>Official Documentation -<br>
