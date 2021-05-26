@@ -10554,7 +10554,66 @@ https://www.reddit.com/r/iOSProgramming/comments/f6pss/what_are_some_xcode_tips_
 </a>
 <br><br><br>
 </details>
-
+<details>
+<summary>XSLT </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://www.w3.org/TR/xslt/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=W--Yhp0m35A <br>
+https://www.youtube.com/watch?v=BujLy71JY1k <br>
+https://www.youtube.com/watch?v=CkWQZxrwaqU <br>
+https://www.youtube.com/watch?v=0It-kBg-7NE <br>
+https://www.youtube.com/watch?v=JTHP_PH21k0 <br>
+https://www.youtube.com/watch?v=Kej4qz5tMBw <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/xslt/ <br>
+https://developer.mozilla.org/en-US/docs/Web/API/XSLTProcessor/Basic_Example <br>
+https://www.quackit.com/xml/tutorial/xslt_example.cfm <br>
+https://www.twago.com/s/projects/xslt/ <br>
+https://docs.microsoft.com/en-us/office-project/xml-data-interchange/how-to-use-xslt-transformations-with-project-xml-data-interchange-files?view=project-client-2016 <br>
+https://www.easycodeforall.com/XSLTCode.jsp <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/ropensci/xslt <br>
+https://github.com/LOLBAS-Project/LOLBAS <br>
+https://github.com/kinkofer/FightClub5eXML <br>
+https://github.com/OpenSCAP/openscap <br>
+https://github.com/mapnik/mapnik <br>
+https://github.com/Armatiek/xslweb <br>
+https://github.com/aixm/xslt <br>
+https://github.com/XSLTdoc/XSLTdoc <br>
+https://github.com/hananils/xslt-kit <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/practical-transformation-using-xslt-and-xpath/ <br>
+https://www.udemy.com/course/xslt-basics-for-beginners/ <br>
+https://www.udemy.com/course/xslt-for-dummies-learn-the-basics/ <br>
+https://www.fireboxtraining.com/xslt-training <br>
+https://www.lynda.com/XML-tutorials/Using-XSLT-XML/661763/703471-4.html <br>
+https://www.accelebrate.com/training/xslt <br>
+https://www.codingguru.com/xslt-courses <br>
+https://www.ecorptrainings.com/xslt-online-corporate-training-hyderabad-india-uk-usa.php <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.onenaught.com/posts/23/xslt-tips-for-cleaner-code-and-better-performance <br>
+https://fizentech.com/xslt-tips-and-tricks/ <br>
+https://bytes.com/topic/xml/insights/768835-xslt-tips-you-dont-learn-w3schools <br>
+https://www.toolbox.com/collaboration/question/xpath-and-xslt-tips-and-tricks-062609/ <br>
+http://edutechwiki.unige.ch/en/XSLT_Tutorial_-_Basics <br>
+https://www.ibm.com/docs/es/integration-bus/9.0.0?topic=performance-xpath-xslt-code-tips <br>
+https://incrementaldevelopment.com/xsltrick/ <br>
+<br>
+<a href="https://i.pinimg.com/originals/0e/4d/ad/0e4dadb871f049aaae5294b2b7a4aac7.png">
+  <img align="center" src="https://i.pinimg.com/originals/0e/4d/ad/0e4dadb871f049aaae5294b2b7a4aac7.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>  
 <summary>YII Framework</summary>
 <br>
