@@ -6803,6 +6803,68 @@ https://www.reddit.com/r/openshift/comments/8fu2ib/openshift_container_platform_
 </a>
 </details>
 <details>
+<summary>OpenStack </summary>
+<br>
+Category/Type - <br>Computer software <br>
+<br>
+Official Documentation - <br>
+https://docs.openstack.org/wallaby/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Kfj5XiNdJN0 <br>
+https://www.youtube.com/watch?v=eSRKnNgWrM0 <br>
+https://www.youtube.com/watch?v=IYv9todvxrI <br>
+https://www.youtube.com/watch?v=WgJAMQyFCzA <br>
+https://www.youtube.com/watch?v=ji0S2ocU8og <br>
+https://www.youtube.com/watch?v=YIfEwsFuep4 <br>>
+<br>
+Useful Websites -
+<br>
+https://www.openstack.org/ <br>
+https://superuser.openstack.org/articles/run-your-kubernetes-cluster-on-openstack-in-production/ <br>
+https://www.openstack.org/software/sample-configs/#compute-starter-kit <br>
+https://docs.openstack.org/murano/rocky/admin/appdev-guide/examples.html <br>
+https://www.oreilly.com/library/view/identity-authentication-and/9781491941249/ch01.html <br>
+https://www.reddit.com/r/openstack/ <br>
+https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs <br>
+https://docs.ansible.com/ansible/latest/dev_guide/platforms/openstack_guidelines.html <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/openstack/nova <br>
+https://github.com/openstack/keystone <br>
+https://github.com/openstack/horizon <br>
+https://github.com/openstack/neutron <br>
+https://github.com/openstack/ironic <br>
+https://github.com/openstack/swift <br>
+https://github.com/ramitsurana/awesome-openstack <br>
+https://github.com/ntk148v/awesome-openstack <br>
+<br>
+Best Courses - <br>
+https://www.openstack.org/marketplace/training/ <br>
+https://www.udemy.com/course/openstack/ <br>
+https://www.udemy.com/course/deep-dive-the-openstack-cloud/ <br>
+https://www.udemy.com/course/openstack-installation-and-deployment/ <br>
+https://www.udemy.com/course/openstack-design-and-implement-cloud-infrastructure/ <br>
+https://www.redhat.com/en/services/training/openstack <br>
+https://www.gangboard.com/cloud-computing-training/openstack-training <br>
+https://www.edx.org/course/introduction-to-openstack <br>
+https://www.edureka.co/open-stack <br>
+<br>
+Other Tips / Hacks - <br>
+https://docs.openstack.org/project-deploy-guide/tripleo-docs/latest/deployment/tips_tricks.html <br>
+https://opensource.com/business/16/3/openstack-tips-tricks <br>
+https://opensource.com/business/15/11/practical-tips-working-openstack <br>
+https://www.loomsystems.com/blog/single-post/2017/04/25/4-challenges-of-openstack-monitoring <br>
+https://www.redhat.com/en/blog/9-tips-properly-configure-your-openstack-instance <br>
+https://www.itproportal.com/features/tips-tricks-monitoring-openstack/ <br>
+https://docs.oracle.com/cd/E65465_01/html/E57770/gqsec.html <br>
+<br>
+<a href="https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-images-prod/openstack-logo/OpenStack-Logo-Vertical.png">
+  <img align="center" src="https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-images-prod/openstack-logo/OpenStack-Logo-Vertical.png" width="900" height="500"/>
+</a>
+<br><br><br>
+</details>
+<details>
 <summary>Operating System</summary>
 <br>
 Category/Type - <br>
