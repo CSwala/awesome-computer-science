@@ -4646,7 +4646,58 @@ https://www.embedded.com/embedded-iot-design-tips-tricks-and-tutorials/ <br>
 https://steadynetworks.com/tips-and-tricks-for-avoiding-iot-threats/ <br>
  
 <br><br>
-
+<details>
+<summary>J </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://www.jsoftware.com/#/README <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=gPS6qEkZ-nw <br>
+https://www.youtube.com/watch?v=RWYkx6-L04Q <br>
+https://www.youtube.com/watch?v=gLULrFY2-fI <br>
+https://www.youtube.com/watch?v=O3_gFosXjtk <br>
+https://www.youtube.com/watch?v=fDS-SPtwLS4 <br>
+<br>
+Useful Websites -
+<br>
+https://www.jsoftware.com/#/ <br>
+https://www.infoq.com/presentations/j-language/ <br>
+https://rosettacode.org/wiki/Category:J <br>
+http://www.cs.trinity.edu/~jhowland/math-talk/functional1/ <br>
+https://stackoverflow.com/questions/28956536/j-language-web-programming <br>
+https://kukuruku.co/post/introduction-to-j-programming-language-2004/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/jdan/j <br>
+https://github.com/jsoftware/base9 <br>
+https://github.com/jsoftware/ide_jhs <br>
+https://github.com/jsoftware/labs_labs <br>
+https://github.com/PlanetAPL/j-language <br>
+https://github.com/jdan/j-by-example <br>
+https://github.com/mattjquinn/jcompiler <br>
+https://github.com/tavmem/j <br>
+https://github.com/codereport/jsource <br>
+<br>
+Best Courses - <br>
+https://news.ycombinator.com/item?id=9636785 <br>
+https://spin.atomicobject.com/2012/11/02/a-case-for-learning-j/ <br>
+http://progopedia.com/language/j/ <br>
+https://crypto.stanford.edu/~blynn/haskell/jfh.html <br>
+<br>
+Other Tips / Hacks - <br>
+https://codegolf.stackexchange.com/questions/6596/tips-for-golfing-in-j <br>
+https://code.jsoftware.com/wiki/Guides/Getting_Started <br>
+https://code.jsoftware.com/wiki/Guides <br>
+https://news.ycombinator.com/item?id=14881318 <br>
+<br>
+<a href="https://cdn.imgbin.com/1/6/7/imgbin-j-programming-language-apl-fl-functional-programming-numeric-bR359tbxyeB4CFcuvNaxT4FzX.jpg">
+  <img align="center" src="https://cdn.imgbin.com/1/6/7/imgbin-j-programming-language-apl-fl-functional-programming-numeric-bR359tbxyeB4CFcuvNaxT4FzX.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 </details>
 <details>
 <summary>JSON </summary>
