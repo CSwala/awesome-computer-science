@@ -10183,7 +10183,66 @@ https://vanillawebprojects.com <br>
 https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks <br>
 <br>
 </details>
-
+<details>
+<summary>VBScript </summary>
+<br>
+Category/Type - <br> <br>
+<br>
+Official Documentation - <br>
+https://docs.microsoft.com/en-us/windows/win32/lwef/using-vbscript <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=03BfHDJsFpk <br>
+https://www.youtube.com/watch?v=tnXR3Gwr8w8 <br>
+https://www.youtube.com/watch?v=MDdYWDdpeYE <br>
+https://www.youtube.com/watch?v=oRM5osg7gGs <br>
+https://www.youtube.com/watch?v=1jykOSfcb5k <br>
+https://www.youtube.com/watch?v=rJb3S327hO0 <br>
+https://www.youtube.com/watch?v=v6aI9UcX07I <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/vbscript/ <br>
+https://www.quackit.com/vbscript/tutorial/vbscript_functions.cfm <br>
+https://www.voiceguide.com/vghelp/source/html/modvbs.htm <br>
+https://www.vbsedit.com/scripts/ <br>
+https://www.codeproject.com/script/Content/Tag.aspx?tags=VBScript <br>
+https://flylib.com/books/en/2.441.1/ <br>
+https://googleprojectzero.blogspot.com/2018/12/on-vbscript.html <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/heinsega/OX163 <br>
+https://github.com/Keyboard-Slayer/e013 <br>
+https://github.com/simply-coded/vbscript-tutorials <br>
+https://github.com/pramnora/vbscript <br>
+https://github.com/wizz13150/PDQ_Repo <br>
+https://github.com/Mapaler/VBScript <br>
+https://github.com/koswald/VBScript <br>
+https://github.com/Matthew-Lancaster/Matthew-Lancaster <br>
+https://github.com/angstream/miscellaneous <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/vb-scripting-fundamentals/ <br>
+https://www.udemy.com/course/vbscript-in-depth/ <br>
+https://www.zeolearn.com/vbscript-training <br>
+https://www.guru99.com/vbscript-tutorials-for-beginners.html <br>
+https://www.educba.com/software-development/courses/vbscript-training/ <br>
+http://www.qatraininghub.com/vbscript-online-training.php <br>
+https://www.softwaretestinghelp.com/vbscript-tutorial-1/ <br>
+https://www.ecorptrainings.com/vb-script-online-corporate-training-hyderabad-india-uk-usa.php <br>
+<br>
+Other Tips / Hacks - <br>
+http://hack3.e-monsite.com/videos/easy-notepad-hacks-you-can-use-at-school-bat-and-vbs.html <br>
+https://mikehacks.wordpress.com/category/vbs-tricks/ <br>
+http://hackthedark.blogspot.com/2011/10/some-kewl-vbscript-tricks.html <br>
+https://www.instructables.com/The-Ultimate-VBS-Tutorial/ <br>
+https://www.youtube.com/watch?v=ygrGns5uugU <br>
+<br>
+<a href="https://banner2.cleanpng.com/20180409/cxe/kisspng-vbscript-scripting-language-visual-basic-microsoft-analyst-5acc162b6da676.9666584115233244594491.jpg">
+  <img align="center" src="https://banner2.cleanpng.com/20180409/cxe/kisspng-vbscript-scripting-language-visual-basic-microsoft-analyst-5acc162b6da676.9666584115233244594491.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>
 <summary>Virtual Reality</summary>
 <br>
