@@ -4873,6 +4873,33 @@
 		"Image1" : "https://miro.medium.com/max/3202/1*JfwNbmBbsYKBT7_QFhd13Q.jpeg"
 
 	},
+	 {
+    "Title": "MongooseJS",
+    "Tag": "Javascript Library",
+    "Documentation": "https://mongoosejs.com/docs/",
+    "YT1": "https://www.youtube.com/watch?v=WDrU305J1yw",
+    "YT2": "https://www.youtube.com/playlist?list=PLGquJ_T_JBMQ1C0Pp41sykceli8G1UGtg",
+    "YT3": "https://www.youtube.com/playlist?list=PLNHw_0qv1zy_UEXiWaqSXiLSwwE8mjuj7",
+    "YT4": "https://www.youtube.com/watch?v=5QEwqX5U_2M",
+    "YT5": "https://www.youtube.com/watch?v=4yqu8YF29cU&t=3881s",
+    "Website1": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose",
+    "Website2": "https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/",
+    "Website3": "https://www.npmjs.com/package/mongoose",
+    "Website4": "http://tutorialtous.com/mongoose/",
+    "Website5": "https://masteringjs.io/mongoose",
+    "Dedicated GH page1": "https://github.com/Automattic/mongoose",
+    "Dedicated GH page2": "https://github.com/mongoosejs",
+    "Dedicated GH page3": "https://github.com/cesanta/mongoose",
+    "Dedicated GH page4": "https://github.com/madhums/node-express-mongoose-demo",
+    "Course1": "https://www.udemy.com/course/mongoosejs-essentials/",
+    "Course2": "https://www.udemy.com/course/mongoose/",
+    "Course3": "https://www.freecodecamp.org/news/mongodb-full-course-nodejs-express-mongoose/",
+    "Course4": "https://www.skillshare.com/classes/MongooseJS-Essentials-Learn-MongoDB-for-Node-js/1128600998",
+    "Tips1": "https://dzone.com/articles/mongodb-driver-tips-tricks-0",
+    "Tips2": "https://www.tothenew.com/blog/mongoose-tips-and-tricks-for-uncommon-cases/",
+    "Tips3": "https://javascript.plainenglish.io/7-simple-mongodb-tips-make-your-code-faster-and-optimize-f696211f1431?gi=4cc5fb605236",
+    "Tips4": "https://www.jaygould.co.uk/2018-03-28-concice-collection-mongodb-mongoose-database/"
+  },
 	{	
 		"Title" : "MoonScript",
 		"Tag" : "Dynamic scripting language",
