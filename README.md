@@ -2485,6 +2485,46 @@ https://exercism.io/tracks/d <br>
 </details>
 
 <details>
+<summary>Data Engineering</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://docs.oracle.com/en/database/oracle/oracle-database/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=pERD1Ln_Qh8&list=PLjQy-obJQIiNzLO8RFcsBLo6PALbv3F-1<br>
+https://www.youtube.com/watch?v=pEi-Ak5l00A&list=PL3N9eeOlCrP5PfpYrP6YxMNtt5Hw27ZlO<br>
+https://www.youtube.com/watch?v=73QC3qw5b2Y&list=PLNkCniHtd0PNM4NZ5etgYMw4ojid0Aa6i<br>
+https://www.youtube.com/watch?v=3imSHVySLRc&list=PLfP3JxW-T70GR0w3zVzG7tgIFI14FZxaj<br>
+<br>
+Useful Websites - <br>
+https://www.tutorialspoint.com/dwh/index.htm<br>
+https://www.geeksforgeeks.org/what-is-data/<br>
+https://towardsdatascience.com/tagged/data-engineering<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/igorbarinov/awesome-data-engineering<br>
+https://github.com/san089/Udacity-Data-Engineering-Projects<br>
+https://github.com/natbusa/data-engineering<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/specializations/data-engineering-foundations<br>
+https://www.coursera.org/professional-certificates/gcp-data-engineering<br>
+https://www.coursera.org/learn/introduction-to-data-engineering<br>
+https://www.datacamp.com/courses/data-engineering-for-everyone?tap_a=5644-dce66f&tap_s=1018688-629c5c&utm_medium=affiliate&utm_source=solutionsreview<br>
+https://digitaldefynd.com/best-data-engineering-courses/#1_Data_Engineering_Nanodegree_Certification_Udacity<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7<br>
+https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/<br>
+https://www.tutorialspoint.com/difference-between-data-scientist-data-engineer-data-analyst<br>
+<br>
+</details>
+
+
+<details>
 <summary>Dart</summary>
 <br>Category/Type - <br>Programming language<br>
 <br>Official Documentation - <br>
@@ -6035,6 +6075,39 @@ https://www.mongodb.com/presentations/tips-and-tricks-for-query-performance-let-
 <br><br><br>
 </details>
 
+<details>
+<summary>MongooseJS</summary>
+<br>Category/Type - <br>Javascript Library<br>
+<br>Official Documentation - <br>https://mongoosejs.com/docs/<br>
+<br>Best YouTube Creators - <br>
+https://www.youtube.com/watch?v=WDrU305J1yw<br>
+https://www.youtube.com/playlist?list=PLGquJ_T_JBMQ1C0Pp41sykceli8G1UGtg<br>
+https://www.youtube.com/playlist?list=PLNHw_0qv1zy_UEXiWaqSXiLSwwE8mjuj7<br>
+https://www.youtube.com/watch?v=5QEwqX5U_2M<br>
+https://www.youtube.com/watch?v=4yqu8YF29cU&t=3881s<br>
+<br>Useful Websites - <br>
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose<br>
+https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/<br>
+https://www.npmjs.com/package/mongoose<br>
+http://tutorialtous.com/mongoose/<br>
+https://masteringjs.io/mongoose<br>
+<br>Dedicated Github Page - <br>
+https://github.com/Automattic/mongoose<br>
+https://github.com/mongoosejs<br>
+https://github.com/cesanta/mongoose<br>
+https://github.com/madhums/node-express-mongoose-demo<br>
+<br>Best Courses - <br>
+https://www.udemy.com/course/mongoosejs-essentials/<br>
+https://www.udemy.com/course/mongoose/<br>
+https://www.freecodecamp.org/news/mongodb-full-course-nodejs-express-mongoose/<br>
+https://www.skillshare.com/classes/MongooseJS-Essentials-Learn-MongoDB-for-Node-js/1128600998<br>
+<br>Other Tips/Hacks - <br>
+https://dzone.com/articles/mongodb-driver-tips-tricks-0<br>
+https://www.tothenew.com/blog/mongoose-tips-and-tricks-for-uncommon-cases/<br>
+https://javascript.plainenglish.io/7-simple-mongodb-tips-make-your-code-faster-and-optimize-f696211f1431?gi=4cc5fb605236<br>
+https://www.jaygould.co.uk/2018-03-28-concice-collection-mongodb-mongoose-database/<br>
+</details>
+
 
 <details>
 <summary>MoonScript</summary>
@@ -6852,6 +6925,68 @@ https://www.reddit.com/r/openshift/comments/8fu2ib/openshift_container_platform_
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/200px-OpenShift-LogoType.svg.png">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/200px-OpenShift-LogoType.svg.png" width="500" height="500"/>
 </a>
+</details>
+<details>
+<summary>OpenStack </summary>
+<br>
+Category/Type - <br>Computer software <br>
+<br>
+Official Documentation - <br>
+https://docs.openstack.org/wallaby/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Kfj5XiNdJN0 <br>
+https://www.youtube.com/watch?v=eSRKnNgWrM0 <br>
+https://www.youtube.com/watch?v=IYv9todvxrI <br>
+https://www.youtube.com/watch?v=WgJAMQyFCzA <br>
+https://www.youtube.com/watch?v=ji0S2ocU8og <br>
+https://www.youtube.com/watch?v=YIfEwsFuep4 <br>>
+<br>
+Useful Websites -
+<br>
+https://www.openstack.org/ <br>
+https://superuser.openstack.org/articles/run-your-kubernetes-cluster-on-openstack-in-production/ <br>
+https://www.openstack.org/software/sample-configs/#compute-starter-kit <br>
+https://docs.openstack.org/murano/rocky/admin/appdev-guide/examples.html <br>
+https://www.oreilly.com/library/view/identity-authentication-and/9781491941249/ch01.html <br>
+https://www.reddit.com/r/openstack/ <br>
+https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs <br>
+https://docs.ansible.com/ansible/latest/dev_guide/platforms/openstack_guidelines.html <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/openstack/nova <br>
+https://github.com/openstack/keystone <br>
+https://github.com/openstack/horizon <br>
+https://github.com/openstack/neutron <br>
+https://github.com/openstack/ironic <br>
+https://github.com/openstack/swift <br>
+https://github.com/ramitsurana/awesome-openstack <br>
+https://github.com/ntk148v/awesome-openstack <br>
+<br>
+Best Courses - <br>
+https://www.openstack.org/marketplace/training/ <br>
+https://www.udemy.com/course/openstack/ <br>
+https://www.udemy.com/course/deep-dive-the-openstack-cloud/ <br>
+https://www.udemy.com/course/openstack-installation-and-deployment/ <br>
+https://www.udemy.com/course/openstack-design-and-implement-cloud-infrastructure/ <br>
+https://www.redhat.com/en/services/training/openstack <br>
+https://www.gangboard.com/cloud-computing-training/openstack-training <br>
+https://www.edx.org/course/introduction-to-openstack <br>
+https://www.edureka.co/open-stack <br>
+<br>
+Other Tips / Hacks - <br>
+https://docs.openstack.org/project-deploy-guide/tripleo-docs/latest/deployment/tips_tricks.html <br>
+https://opensource.com/business/16/3/openstack-tips-tricks <br>
+https://opensource.com/business/15/11/practical-tips-working-openstack <br>
+https://www.loomsystems.com/blog/single-post/2017/04/25/4-challenges-of-openstack-monitoring <br>
+https://www.redhat.com/en/blog/9-tips-properly-configure-your-openstack-instance <br>
+https://www.itproportal.com/features/tips-tricks-monitoring-openstack/ <br>
+https://docs.oracle.com/cd/E65465_01/html/E57770/gqsec.html <br>
+<br>
+<a href="https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-images-prod/openstack-logo/OpenStack-Logo-Vertical.png">
+  <img align="center" src="https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-images-prod/openstack-logo/OpenStack-Logo-Vertical.png" width="900" height="500"/>
+</a>
+<br><br><br>
 </details>
 <details>
 <summary>Operating System</summary>
@@ -8983,7 +9118,64 @@ https://medium.com/@davekaj/solidity-tips-and-tricks-for-beginners-building-thei
 </a>
 <br><br><br>
 </details>
-
+<details>
+<summary>Spinnaker </summary>
+<br>
+Category/Type - <br>Software <br>
+<br>
+Official Documentation - <br>
+https://spinnaker.io/guides/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=nTXrKiQEeO8 <br>
+https://www.youtube.com/watch?v=R0cloa6yi5E <br>
+https://www.youtube.com/watch?v=h6m22hVe47U <br>
+https://www.youtube.com/watch?v=DQIu373gSKU <br>
+https://www.youtube.com/watch?v=9EUyMjR6jSc <br>
+https://www.youtube.com/watch?v=z4riSXd3Y5w <br>
+https://www.youtube.com/watch?v=54QgIjAzPW0 <br>
+<br>
+Useful Websites -
+<br>
+https://spinnaker.io/ <br>
+https://www.reddit.com/r/kubernetes/comments/8n3rw4/using_spinnaker_with_kubernetes_reliably/ <br>
+https://spinnaker.io/guides/tutorials/codelabs/hello-deployment/ <br>
+https://www.baeldung.com/ops/spinnaker <br>
+https://spinnaker.io/guides/spin/projects/ <br>
+http://apt.cs.manchester.ac.uk/projects/SpiNNaker/ <br>
+https://spinnaker.io/reference/api/swagger-ui/ <br>
+https://www.magalix.com/blog/a-guide-on-the-installation-of-spinnaker-in-your-production-kubernetes-cluster <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/spinnaker/spinnaker <br>
+https://github.com/spinnaker/clouddriver <br>
+https://github.com/spinnaker/halyard <br>
+https://github.com/spinnaker/orca <br>
+https://github.com/spinnaker/spinnaker.github.io <br>
+https://github.com/robzienert/awesome-spinnaker <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/continuous-deployments-using-spinnaker-on-aws-and-kubernetes/ <br>
+https://cloudacademy.com/course/introduction-to-spinnaker-1124/introduction/ <br>
+https://www.lynda.com/Spinnaker-tutorials/772023-0.html <br>
+https://www.opsmx.com/spinnaker-course.html <br>
+https://www.armory.io/spinnaker-training/ <br>
+https://www.developintelligence.com/catalog/cloud-computing/spinnaker/ <br>
+https://www.classcentral.com/course/linkedin-learning-kubernetes-continuous-delivery-with-spinnaker-30358 <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.armory.io/learn/what-is-spinnaker/ <br>
+https://www.opsmx.com/blog/spinnaker-basics-in-5-minutes/ <br>
+https://www.velotio.com/engineering-blog/know-everything-about-spinnaker-amp-how-to-deploy-using-kubernetes-engine <br>
+https://www.spinnakersupport.com/ <br>
+https://cloud.google.com/architecture/continuous-delivery-spinnaker-kubernetes-engine <br>
+https://opensource.com/article/19/8/why-spinnaker-matters-cicd <br>
+<br>
+<a href="https://spinnaker.io/assets/images/spinnaker-logo-inline.svg">
+  <img align="center" src="https://spinnaker.io/assets/images/spinnaker-logo-inline.svg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>
 <summary>Spring Framework </summary>
 <br>
@@ -10064,7 +10256,66 @@ https://vanillawebprojects.com <br>
 https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks <br>
 <br>
 </details>
-
+<details>
+<summary>VBScript </summary>
+<br>
+Category/Type - <br> <br>
+<br>
+Official Documentation - <br>
+https://docs.microsoft.com/en-us/windows/win32/lwef/using-vbscript <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=03BfHDJsFpk <br>
+https://www.youtube.com/watch?v=tnXR3Gwr8w8 <br>
+https://www.youtube.com/watch?v=MDdYWDdpeYE <br>
+https://www.youtube.com/watch?v=oRM5osg7gGs <br>
+https://www.youtube.com/watch?v=1jykOSfcb5k <br>
+https://www.youtube.com/watch?v=rJb3S327hO0 <br>
+https://www.youtube.com/watch?v=v6aI9UcX07I <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/vbscript/ <br>
+https://www.quackit.com/vbscript/tutorial/vbscript_functions.cfm <br>
+https://www.voiceguide.com/vghelp/source/html/modvbs.htm <br>
+https://www.vbsedit.com/scripts/ <br>
+https://www.codeproject.com/script/Content/Tag.aspx?tags=VBScript <br>
+https://flylib.com/books/en/2.441.1/ <br>
+https://googleprojectzero.blogspot.com/2018/12/on-vbscript.html <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/heinsega/OX163 <br>
+https://github.com/Keyboard-Slayer/e013 <br>
+https://github.com/simply-coded/vbscript-tutorials <br>
+https://github.com/pramnora/vbscript <br>
+https://github.com/wizz13150/PDQ_Repo <br>
+https://github.com/Mapaler/VBScript <br>
+https://github.com/koswald/VBScript <br>
+https://github.com/Matthew-Lancaster/Matthew-Lancaster <br>
+https://github.com/angstream/miscellaneous <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/vb-scripting-fundamentals/ <br>
+https://www.udemy.com/course/vbscript-in-depth/ <br>
+https://www.zeolearn.com/vbscript-training <br>
+https://www.guru99.com/vbscript-tutorials-for-beginners.html <br>
+https://www.educba.com/software-development/courses/vbscript-training/ <br>
+http://www.qatraininghub.com/vbscript-online-training.php <br>
+https://www.softwaretestinghelp.com/vbscript-tutorial-1/ <br>
+https://www.ecorptrainings.com/vb-script-online-corporate-training-hyderabad-india-uk-usa.php <br>
+<br>
+Other Tips / Hacks - <br>
+http://hack3.e-monsite.com/videos/easy-notepad-hacks-you-can-use-at-school-bat-and-vbs.html <br>
+https://mikehacks.wordpress.com/category/vbs-tricks/ <br>
+http://hackthedark.blogspot.com/2011/10/some-kewl-vbscript-tricks.html <br>
+https://www.instructables.com/The-Ultimate-VBS-Tutorial/ <br>
+https://www.youtube.com/watch?v=ygrGns5uugU <br>
+<br>
+<a href="https://banner2.cleanpng.com/20180409/cxe/kisspng-vbscript-scripting-language-visual-basic-microsoft-analyst-5acc162b6da676.9666584115233244594491.jpg">
+  <img align="center" src="https://banner2.cleanpng.com/20180409/cxe/kisspng-vbscript-scripting-language-visual-basic-microsoft-analyst-5acc162b6da676.9666584115233244594491.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>
 <summary>Virtual Reality</summary>
 <br>
@@ -10605,7 +10856,66 @@ https://www.reddit.com/r/iOSProgramming/comments/f6pss/what_are_some_xcode_tips_
 </a>
 <br><br><br>
 </details>
-
+<details>
+<summary>XSLT </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://www.w3.org/TR/xslt/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=W--Yhp0m35A <br>
+https://www.youtube.com/watch?v=BujLy71JY1k <br>
+https://www.youtube.com/watch?v=CkWQZxrwaqU <br>
+https://www.youtube.com/watch?v=0It-kBg-7NE <br>
+https://www.youtube.com/watch?v=JTHP_PH21k0 <br>
+https://www.youtube.com/watch?v=Kej4qz5tMBw <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/xslt/ <br>
+https://developer.mozilla.org/en-US/docs/Web/API/XSLTProcessor/Basic_Example <br>
+https://www.quackit.com/xml/tutorial/xslt_example.cfm <br>
+https://www.twago.com/s/projects/xslt/ <br>
+https://docs.microsoft.com/en-us/office-project/xml-data-interchange/how-to-use-xslt-transformations-with-project-xml-data-interchange-files?view=project-client-2016 <br>
+https://www.easycodeforall.com/XSLTCode.jsp <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/ropensci/xslt <br>
+https://github.com/LOLBAS-Project/LOLBAS <br>
+https://github.com/kinkofer/FightClub5eXML <br>
+https://github.com/OpenSCAP/openscap <br>
+https://github.com/mapnik/mapnik <br>
+https://github.com/Armatiek/xslweb <br>
+https://github.com/aixm/xslt <br>
+https://github.com/XSLTdoc/XSLTdoc <br>
+https://github.com/hananils/xslt-kit <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/practical-transformation-using-xslt-and-xpath/ <br>
+https://www.udemy.com/course/xslt-basics-for-beginners/ <br>
+https://www.udemy.com/course/xslt-for-dummies-learn-the-basics/ <br>
+https://www.fireboxtraining.com/xslt-training <br>
+https://www.lynda.com/XML-tutorials/Using-XSLT-XML/661763/703471-4.html <br>
+https://www.accelebrate.com/training/xslt <br>
+https://www.codingguru.com/xslt-courses <br>
+https://www.ecorptrainings.com/xslt-online-corporate-training-hyderabad-india-uk-usa.php <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.onenaught.com/posts/23/xslt-tips-for-cleaner-code-and-better-performance <br>
+https://fizentech.com/xslt-tips-and-tricks/ <br>
+https://bytes.com/topic/xml/insights/768835-xslt-tips-you-dont-learn-w3schools <br>
+https://www.toolbox.com/collaboration/question/xpath-and-xslt-tips-and-tricks-062609/ <br>
+http://edutechwiki.unige.ch/en/XSLT_Tutorial_-_Basics <br>
+https://www.ibm.com/docs/es/integration-bus/9.0.0?topic=performance-xpath-xslt-code-tips <br>
+https://incrementaldevelopment.com/xsltrick/ <br>
+<br>
+<a href="https://i.pinimg.com/originals/0e/4d/ad/0e4dadb871f049aaae5294b2b7a4aac7.png">
+  <img align="center" src="https://i.pinimg.com/originals/0e/4d/ad/0e4dadb871f049aaae5294b2b7a4aac7.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>  
 <summary>YII Framework</summary>
 <br>
