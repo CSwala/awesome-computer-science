@@ -6679,6 +6679,43 @@ https://predictivehacks.com/tips-about-numpy-arrays/
 </details>
 
 <details>
+ <summary>Objective C</summary>
+ <br>Category/Type - <br>Programming Language<br>
+ <br>Official Documentation - <br>https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html<br>
+ <br>Best YouTube creators - <br>
+ https://www.youtube.com/watch?v=5esQqZIJ83g<br>
+ https://www.youtube.com/playlist?list=PL23Revp-82LLqM6azUAr9at03whFNL9Ld<br>
+ https://www.youtube.com/playlist?list=PL640F44F1C97BA581<br>
+ https://www.youtube.com/playlist?list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9<br>
+ https://www.youtube.com/playlist?list=PLMRqhzcHGw1YfS92iytSJCjt01FxPF9rr<br>
+ https://www.youtube.com/playlist?list=PL38860A77CF9B4923<br>
+ <br>Useful Websites - <br>
+ https://www.tutorialspoint.com/objective_c/index.htm<br>
+ https://medium.com/ios-objective-creation/lesson-1-introduction-to-objective-c-programming-22f5fe71172<br>
+ https://www.raywenderlich.com/2829-objectively-speaking-a-crash-course-in-objective-c-for-ios-6<br>
+ https://hackr.io/tutorials/learn-objective-c<br>
+ https://www.binpress.com/learn-objective-c-24-days/<br>
+ <br>Dedicated Github page - <br>
+ https://github.com/trending/objective-c<br>
+ https://github.com/topics/objective-c<br>
+ https://github.com/libgit2/objective-git<br>
+ https://github.com/pubnub/objective-c<br>
+ https://github.com/Banuba/quickstart-ios-objc<br>
+ <br>Best Courses - <br>
+ https://www.udemy.com/course/how-to-program-ios7-iphone-apps-from-scratch-in-objective-c/<br>
+ https://www.coursera.org/learn/objective-c<br>
+ https://www.classcentral.com/subject/objective-c<br>
+ https://www.lynda.com/Objective-C-training-tutorials/477-0.html<br>
+ https://www.linkedin.com/learning/topics/objective-c<br>
+ <br>Other Tips/Hacks - <br>
+ https://www.codementor.io/vagarwal/tips<br>
+ https://www.reddit.com/r/iOSProgramming/comments/3kid3r/advance_tips_and_tricks_in_objective_c/<br>
+ https://robopress.robotsandpencils.com/objective-c-and-swift-developer-tips-and-tricks-70ac53e5b146?gi=b31d16e1b663<br>
+ https://coderwall.com/t/Objective-C/popular<br>
+ https://speakerdeck.com/oscarswanros/objective-c-and-swift-interoperability-tips-and-tricks<br> 
+ </details>
+
+<details>
 <summary>OCaml </summary>
 <br>
 Category/Type - <br>Programming language <br>
