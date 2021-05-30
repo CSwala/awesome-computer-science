@@ -10916,6 +10916,69 @@ https://incrementaldevelopment.com/xsltrick/ <br>
 </a>
 <br><br><br>
 </details>
+<details>
+<summary>YAML </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://yaml.org/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=1uFVr15xDGg <br>
+https://www.youtube.com/watch?v=o9pT9cWzbnI <br>
+https://www.youtube.com/watch?v=cdLNKUoMc6c <br>
+https://www.youtube.com/watch?v=W3tQPk8DNbk <br>
+https://www.youtube.com/watch?v=U9_gfT0n_5Q <br>
+https://www.youtube.com/watch?v=Pq54CmgAwpw <br>
+https://www.youtube.com/watch?v=XHRsPp6TORo <br>
+https://www.youtube.com/watch?v=kPZOFSt8m0M <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/yaml/ <br>
+https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html <br>
+https://docs.semaphoreci.com/reference/projects-yaml-reference/ <br>
+https://www.redhat.com/sysadmin/understanding-yaml-ansible <br>
+https://pypi.org/project/PyYAML/ <br>
+https://www.baeldung.com/spring-yaml-inject-map <br>
+https://swagger.io/docs/specification/data-models/dictionaries/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/yaml/pyyaml <br>
+https://github.com/jbeder/yaml-cpp <br>
+https://github.com/yaml/libyaml <br>
+https://github.com/symfony/yaml <br>
+https://github.com/codefresh-io/yaml-examples <br>
+https://github.com/publiccodeyml/publiccode.yml <br>
+https://github.com/dreftymac/awesome-yaml <br>
+https://github.com/datatxt/awseome-yaml <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/yaml-essentials/ <br>
+https://www.udemy.com/course/learn-yaml/ <br>
+https://www.udemy.com/course/yaml-basics-easy-guide-to-understand-create-consume-yaml/ <br>
+https://www.udemy.com/course/a-journey-through-yaml/ <br>
+https://acloudguru.com/course/yaml-essentials <br>
+https://www.devopsschool.com/courses/yaml/ <br>
+https://www.educative.io/courses/introduction-to-yaml <br>
+https://www.lynda.com/YAML-training-tutorials/1720-0.html <br>
+https://www.coursera.org/projects/beginners-guide-yaml-syntax <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.redhat.com/sysadmin/yaml-tips <br>
+https://www.lynda.com/Red-Hat-Enterprise-Linux-tutorials/YAML-tips-tricks/2825729/2346490-4.html <br>
+https://about.gitlab.com/blog/2020/10/01/three-yaml-tips-better-pipelines/ <br>
+https://blog.betomorrow.com/yaml-tips-and-tricks-for-concourse-ci-35a3b577a239 <br>
+https://www.elastic.co/guide/en/beats/libbeat/current/config-file-format-tips.html <br>
+https://morioh.com/p/ea6a8d1c3ee7 <br>
+https://www.hadeploy.com/more/yaml_tricks/ <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/YAML_Logo.svg/1200px-YAML_Logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/YAML_Logo.svg/1200px-YAML_Logo.svg.png" width="900" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>  
 <summary>YII Framework</summary>
 <br>
