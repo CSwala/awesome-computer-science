@@ -9229,7 +9229,7 @@ https://springframework.guru/free-spring-framework-tutorials/ <br>
 Category/Type - <br>Database Management System <br>
 <br>
 Official Documentation - <br>
-ttps://dev.mysql.com/doc/<br>
+https://dev.mysql.com/doc/<br>
 <br>
 Best YouTube creators - <br>
 https://www.youtube.com/watch?v=zbMHLJ0dY4w <br>
