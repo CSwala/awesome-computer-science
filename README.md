@@ -225,6 +225,75 @@ https://www.bringyourownlaptop.com/courses/ui-ux-web-design-using-adobe-xd/advan
 </details>
 
 <details>
+<summary>AJAX </summary>
+<br>
+Category/Type - <br>Programming <br>
+<br>
+Official Documentation - <br>
+https://learn.jquery.com/ajax/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=rJesac0_Ftw <br>
+https://www.youtube.com/watch?v=2I-vK_gaWnk <br>
+https://www.youtube.com/watch?v=tNKD0kfel6o <br>
+https://www.youtube.com/watch?v=44-D08_d-c8 <br>
+https://www.youtube.com/watch?v=qqRiDlm-SnY <br>
+https://www.youtube.com/watch?v=5D25ZT-xtsI <br>
+https://www.youtube.com/watch?v=tp3Gw-oWs2k <br>
+https://www.youtube.com/watch?v=fEYx8dQr_cQ <br>
+https://www.youtube.com/watch?v=My0MDTl0Zv4 <br>
+<br>
+Useful Websites -
+<br>
+https://api.jquery.com/jquery.ajax/ <br>
+https://blog.eduonix.com/web-programming-tutorials/create-a-simple-project-using-ajax-json-javascript/ <br>
+https://www.webfx.com/blog/web-design/ajax_techniques/ <br>
+https://docs.moodle.org/dev/AJAX <br>
+https://lucidar.me/en/javascript-modules/ajax/ <br>
+https://cdnjs.com/libraries/jquery-ajaxy <br>
+https://developers.google.com/speed/libraries <br>
+http://www.ajaxtoolkit.net/ <br>
+https://www.smashingmagazine.com/2010/02/some-things-you-should-know-about-ajax/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/fdaciuk/ajax <br>
+https://github.com/nax3t/ajax-jquery-tutorial <br>
+https://github.com/tedshd/ajax <br>
+https://github.com/ajaxorg/ace <br>
+https://github.com/ajaxorg/ace-builds <br>
+https://github.com/FaztWeb/php-ajax <br>
+https://github.com/devbridge/jQuery-Autocomplete <br>
+https://github.com/macloo/jquery-ajax-examples <br>
+https://github.com/codex-team/ajax <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/ajax-api-javascript/ <br>
+https://www.udemy.com/course/ajax-for-beginners-with-jquery-php-mysql-tutorial/ <br>
+https://www.udemy.com/course/complete-json-ajax-course/ <br>
+https://www.udemy.com/course/jquery-and-ajax-for-beginners-the-definitive-guide/ <br>
+https://www.udacity.com/course/intro-to-ajax--ud110 <br>
+https://www.lynda.com/Ajax-training-tutorials/152-0.html <br>
+https://elysiumacademy.org/ajax-training/ <br>
+https://www.udemy.com/course/ajax-development/ <br>
+https://www.udemy.com/course/learn-javascript-ajax/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://code.tutsplus.com/tutorials/24-best-practices-for-ajax-implementations--net-9180 <br>
+https://www.queness.com/post/1365/essential-tips-and-tricks-for-coding-and-debugging-ajax-based-website <br>
+https://www.viralpatel.net/category/ajax/ <br>
+https://tutorialzine.com/2011/06/15-powerful-jquery-tips-and-tricks-for-developers <br>
+https://css-tricks.com/lodge/learn-jquery/16-intro-ajax/ <br>
+https://www.informit.com/articles/article.aspx?p=669599 <br>
+https://www.smashingmagazine.com/2008/10/50-excellent-ajax-tutorials/ <br>
+https://css-tricks.com/lodge/learn-jquery/17-posting-ajax/ <br>
+https://www.bitdegree.org/learn/jquery-ajax <br>
+<br>
+<a href="https://howtodoinjava.com/wp-content/uploads/2013/06/AJAX-logo.png">
+  <img align="center" src="https://howtodoinjava.com/wp-content/uploads/2013/06/AJAX-logo.png" width="900" height="500"/>
+</a>
+<br><br><br>
+</details>
+<details>
 <summary>Android</summary>
 <br>Category/Type - <br>OS<br>
 <br>Official Documentation - <br>
@@ -2146,7 +2215,68 @@ https://medium.com/@anirbanvalueinvesting/computer-vision-projects-64a59df35493<
 https://medium.com/analytics-vidhya/ways-to-boost-your-computer-vision-projects-by-using-5-open-source-facial-recognition-projects-56668f170cb9<br>
 <br>
 </details>
-
+<details>
+<summary>Consul </summary>
+<br>
+Category/Type - <br>Software <br>
+<br>
+Official Documentation - <br>
+https://www.consul.io/docs <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=5iAVi2hctSI <br>
+https://www.youtube.com/watch?v=mxeMdl0KvBI <br>
+https://www.youtube.com/watch?v=Q4IAV-AC2kU <br>
+https://www.youtube.com/watch?v=xyU8v5RO_kQ <br>
+https://www.youtube.com/watch?v=5oKzRtJeZZM <br>
+https://www.youtube.com/watch?v=iVKveB-2bGQ <br>
+https://www.youtube.com/watch?v=uQIw7PUElV4 <br>
+<br>
+Useful Websites -
+<br>
+https://www.consul.io/ <br>
+https://www.hashicorp.com/products/consul <br>
+https://spring.io/projects/spring-cloud-consul <br>
+https://www.reddit.com/r/consul/ <br>
+https://www.consul.io/api-docs <br>
+https://www.hashicorp.com/blog/introducing-consul-template <br>
+https://www.datadoghq.com/blog/consul-monitoring-tools/ <br>
+ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/hashicorp/consul <br>
+https://github.com/hashicorp/consul-template <br>
+https://github.com/consul/consul <br>
+https://github.com/hashicorp/consul-helm <br>
+https://github.com/Ecwid/consul-api <br>
+https://github.com/rickfast/consul-client <br>
+https://github.com/josegonzalez/awesome-consul <br>
+<br>
+Best Courses - <br>
+https://www.katacoda.com/courses/consul <br>
+https://www.pluralsight.com/courses/consul-getting-started <br>
+https://www.udemy.com/course/hashicorp-certified-consul-associate/ <br>
+https://www.udemy.com/course/hashicorp-consul/ <br>
+https://acloudguru.com/course/learning-hashicorp-consul <br>
+https://devopsschool.com/courses/hashicorp/index.html <br>
+https://www.devopsschool.com/courses/hashicorp/hashicorp-consul-training.html <br>
+https://learn.hashicorp.com/consul <br>
+https://www.zekelabs.com/courses/Hashicorp-Consul-training-in-bangalore/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.linkedin.com/pulse/traefik-consul-tips-tricks-issac-goldstand/ <br>
+https://www.velotio.com/engineering-blog/hashicorp-consul-guide-2 <br>
+https://www.velotio.com/engineering-blog/hashicorp-consul-guide-1 <br>
+https://www.consul.io/docs/guides <br>
+https://www.wisdomjobs.com/e-university/consul-interview-questions.html <br>
+https://www.jhipster.tech/consul/ <br>
+https://www.packer.io/guides/workflow-tips-and-tricks <br>
+<br>
+<a href="https://www.pikpng.com/pngl/m/430-4308572_consul-logo-hashicorp-consul-logo-clipart.png">
+  <img align="center" src="https://www.pikpng.com/pngl/m/430-4308572_consul-logo-hashicorp-consul-logo-clipart.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>
 
  <summary> CryEngine </summary>
@@ -2353,6 +2483,46 @@ https://exercism.io/tracks/d <br>
 </a>
 <br><br><br>
 </details>
+
+<details>
+<summary>Data Engineering</summary>
+<br>
+Category/Type - <br>
+Development<br>
+<br>
+Documentation - <br>
+https://docs.oracle.com/en/database/oracle/oracle-database/<br>
+<br>
+Best Youtube creators - <br>
+https://www.youtube.com/watch?v=pERD1Ln_Qh8&list=PLjQy-obJQIiNzLO8RFcsBLo6PALbv3F-1<br>
+https://www.youtube.com/watch?v=pEi-Ak5l00A&list=PL3N9eeOlCrP5PfpYrP6YxMNtt5Hw27ZlO<br>
+https://www.youtube.com/watch?v=73QC3qw5b2Y&list=PLNkCniHtd0PNM4NZ5etgYMw4ojid0Aa6i<br>
+https://www.youtube.com/watch?v=3imSHVySLRc&list=PLfP3JxW-T70GR0w3zVzG7tgIFI14FZxaj<br>
+<br>
+Useful Websites - <br>
+https://www.tutorialspoint.com/dwh/index.htm<br>
+https://www.geeksforgeeks.org/what-is-data/<br>
+https://towardsdatascience.com/tagged/data-engineering<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/igorbarinov/awesome-data-engineering<br>
+https://github.com/san089/Udacity-Data-Engineering-Projects<br>
+https://github.com/natbusa/data-engineering<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/specializations/data-engineering-foundations<br>
+https://www.coursera.org/professional-certificates/gcp-data-engineering<br>
+https://www.coursera.org/learn/introduction-to-data-engineering<br>
+https://www.datacamp.com/courses/data-engineering-for-everyone?tap_a=5644-dce66f&tap_s=1018688-629c5c&utm_medium=affiliate&utm_source=solutionsreview<br>
+https://digitaldefynd.com/best-data-engineering-courses/#1_Data_Engineering_Nanodegree_Certification_Udacity<br>
+<br>
+Other Tips/Hacks - <br>
+https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7<br>
+https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/<br>
+https://www.tutorialspoint.com/difference-between-data-scientist-data-engineer-data-analyst<br>
+<br>
+</details>
+
 
 <details>
 <summary>Dart</summary>
@@ -2590,6 +2760,55 @@ https://docs.microsoft.com/en-us/windows/win32/direct3dgetstarted/building-your-
 <br>Other Tips / Hacks - <br> http://www.nigelgriffin.com/notebook_warrior/ebooks/Graphics/Shaderx2%20-%20Shader%20Programming%20Tips%20&%20Tricks%20With%20Directx%209.pdf <br> 
 https://pdfslide.net/documents/shaderx-shader-programming-tips-tricks-with-directx-9.html <br> <br>
 </details>
+
+<details>
+<summary>Discord.js</summary>
+<br>
+Category/Type - <br>
+Node.js module<br>
+<br>
+Official Documentation - <br>
+https://discord.js.org/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PLaxxQQak6D_fxb9_-YsmRwxfw5PH9xALe<br>
+https://www.youtube.com/playlist?list=PLdnyVeMcpY7_IiC977keSLBXXJG_I3vUo<br>
+https://www.youtube.com/watch?v=7rU_KyudGBY<br>
+https://www.youtube.com/playlist?list=PL_cUvD4qzbkxKEHA-_CFmEG0Y2qQCqYFT<br>
+<br>
+Useful Websites -
+<br>
+https://awesomeopensource.com/projects/discord-js<br>
+https://www.smashingmagazine.com/2021/02/building-discord-bot-discordjs/<br>
+https://bestofjs.org/projects/discordjs<br>
+https://discord.com/developers/docs<br>
+<br>
+Dedicated Github page - <br>
+https://github.com/discordjs/discord.js/<br>
+https://github.com/topics/discord-js<br>
+https://github.com/ravener/miyako<br>
+https://github.com/sabattle/CalypsoBot<br>
+https://github.com/KSJaay/Alita<br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/discord-bots-development-in-nodejs-for-beginners/<br>
+https://www.sololearn.com/Discuss/2028469/discord-js<br>
+https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-with-node-js<br>
+https://coursemarks.com/course/create-the-best-discord-bot-with-node-js/<br>
+https://www.reddit.com/r/learnprogramming/comments/5k3eh0/want_to_learn_javascript_join_the_speakjs_discord/<br>
+https://www.freecodecamp.org/news/create-a-discord-bot-with-javascript-nodejs/<br>
+<br>
+Other Tips / Hacks - <br>
+https://discordjs.guide/<br>
+https://anidiots.guide/<br>
+https://dev.to/austinoso/discord-js-creating-a-bot-for-discord-4ij4<br>
+https://github.com/discordjs/guide<br><br>
+<a href="https://www.pngkey.com/png/full/233-2333311_discord-image-png-discord-js.png">
+  <img align="center" src="https://www.pngkey.com/png/full/233-2333311_discord-image-png-discord-js.png" width="600" height="100"/>
+</a>
+<br><br><br>
+</details>
+
 
 <details>
 <summary>Django</summary>
@@ -4467,9 +4686,192 @@ https://www.embedded.com/embedded-iot-design-tips-tricks-and-tutorials/ <br>
 https://steadynetworks.com/tips-and-tricks-for-avoiding-iot-threats/ <br>
  
 <br><br>
-
+<details>
+<summary>J </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://www.jsoftware.com/#/README <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=gPS6qEkZ-nw <br>
+https://www.youtube.com/watch?v=RWYkx6-L04Q <br>
+https://www.youtube.com/watch?v=gLULrFY2-fI <br>
+https://www.youtube.com/watch?v=O3_gFosXjtk <br>
+https://www.youtube.com/watch?v=fDS-SPtwLS4 <br>
+<br>
+Useful Websites -
+<br>
+https://www.jsoftware.com/#/ <br>
+https://www.infoq.com/presentations/j-language/ <br>
+https://rosettacode.org/wiki/Category:J <br>
+http://www.cs.trinity.edu/~jhowland/math-talk/functional1/ <br>
+https://stackoverflow.com/questions/28956536/j-language-web-programming <br>
+https://kukuruku.co/post/introduction-to-j-programming-language-2004/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/jdan/j <br>
+https://github.com/jsoftware/base9 <br>
+https://github.com/jsoftware/ide_jhs <br>
+https://github.com/jsoftware/labs_labs <br>
+https://github.com/PlanetAPL/j-language <br>
+https://github.com/jdan/j-by-example <br>
+https://github.com/mattjquinn/jcompiler <br>
+https://github.com/tavmem/j <br>
+https://github.com/codereport/jsource <br>
+<br>
+Best Courses - <br>
+https://news.ycombinator.com/item?id=9636785 <br>
+https://spin.atomicobject.com/2012/11/02/a-case-for-learning-j/ <br>
+http://progopedia.com/language/j/ <br>
+https://crypto.stanford.edu/~blynn/haskell/jfh.html <br>
+<br>
+Other Tips / Hacks - <br>
+https://codegolf.stackexchange.com/questions/6596/tips-for-golfing-in-j <br>
+https://code.jsoftware.com/wiki/Guides/Getting_Started <br>
+https://code.jsoftware.com/wiki/Guides <br>
+https://news.ycombinator.com/item?id=14881318 <br>
+<br>
+<a href="https://cdn.imgbin.com/1/6/7/imgbin-j-programming-language-apl-fl-functional-programming-numeric-bR359tbxyeB4CFcuvNaxT4FzX.jpg">
+  <img align="center" src="https://cdn.imgbin.com/1/6/7/imgbin-j-programming-language-apl-fl-functional-programming-numeric-bR359tbxyeB4CFcuvNaxT4FzX.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
 </details>
-
+</details>
+<details>
+<summary>JSON </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://www.json.org/json-en.html <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=iiADhChRriM <br>
+https://www.youtube.com/watch?v=GpOO5iKzOmY <br>
+https://www.youtube.com/watch?v=uw_rP5bV9r0 <br>
+https://www.youtube.com/watch?v=wI1CWzNtE-M <br>
+https://www.youtube.com/watch?v=IqI5yiMvJ6A <br>
+https://www.youtube.com/watch?v=yy-RPsffuKk <br>
+https://www.youtube.com/watch?v=W1n_v57Eb7A <br>
+https://www.youtube.com/watch?v=wbB3lVyUvAM <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/json/ <br>
+https://www.sitepoint.com/10-example-json-files/ <br>
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON <br>
+https://json.org/example.html <br>
+https://fmhelp.filemaker.com/help/17/fmp/en/index.html#page/FMP_Help/json-functions.html <br>
+https://docs.python.org/3/library/json.html <br>
+https://docs.oracle.com/cd/E49465_01/doc.23/e49333/oxh_ref007.htm <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/nlohmann/json <br>
+https://github.com/json-c/json-c <br>
+https://github.com/Tencent/rapidjson <br>
+https://github.com/stleary/JSON-java <br>
+https://github.com/LearnWebCode/json-example <br>
+https://github.com/open-source-parsers/jsoncpp <br>
+https://github.com/bblanchon/ArduinoJson <br>
+https://github.com/douglascrockford/JSON-js <br>
+https://github.com/typicode/json-server <br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/learn/javascript-jquery-json <br>
+https://www.coursera.org/learn/json-natural-language-processing-postgresql <br>
+https://www.udemy.com/course/json-in-action/ <br>
+https://www.udemy.com/course/json-training-a-javascript-object-notation-course/ <br>
+https://www.udemy.com/course/learn-to-use-json/ <br>
+https://www.udemy.com/course/json-crash-course-for-beginners-learn-json-in-one-hour/ <br>
+https://www.udemy.com/course/projects-with-json-and-apis/ <br>
+https://www.udemy.com/course/master-in-json/ <br>
+<br>
+Other Tips / Hacks - <br>
+https://stackify.com/top-11-json-performance-usage-tips/ <br>
+https://developers.perfectomobile.com/display/TT/JSON%3A+Working+with+JSON+-+detailed+Serialization <br>
+https://www.sitepoint.com/basics-json-syntax-tips/ <br>
+https://www.kdnuggets.com/2020/09/4-tricks-effectively-use-json-python.html <br>
+https://www.quora.com/What-are-some-tips-tricks-and-gotchas-when-using-JSON-from-Java <br>
+https://www.tutorialspoint.com/json/json_quick_guide.htm <br>
+https://towardsdatascience.com/how-to-best-work-with-json-in-python-2c8989ff0390 <br>
+https://json-tricks.readthedocs.io/en/latest/ <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1024px-JSON_vector_logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1024px-JSON_vector_logo.svg.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+<details>
+<summary>Jakarta Server Pages </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://docs.oracle.com/javaee/5/tutorial/doc/bnajo.html <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=OuBUUkQfBYM <br>
+https://www.youtube.com/watch?v=40KM8IdneLg <br>
+https://www.youtube.com/watch?v=TrfqKn6vzAI <br>
+https://www.youtube.com/watch?v=_8_kQz1m-0U <br>
+https://www.youtube.com/watch?v=5Sz8z1Yreow <br>
+https://www.youtube.com/watch?v=OvPNSKjftXs <br>
+https://www.youtube.com/watch?v=ndQ6NWPp8-U <br>
+https://www.youtube.com/watch?v=Vvnliarkw48 <br>
+https://www.youtube.com/watch?v=D5WtCJla-hM <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/jsp/ <br>
+https://www.guru99.com/jsp-example.html <br>
+https://www.journaldev.com/2021/jsp-example-tutorial-for-beginners <br>
+https://projectsgeek.com/jsp-projects-with-source-code <br>
+https://www.freeprojectz.com/jsp-projects <br>
+https://www.oracle.com/technical-resources/articles/javase/servlets-jsp.html <br>
+https://medium.com/javarevisited/6-free-courses-to-learn-servlet-jsp-and-java-fx-in-2020-best-of-lot-720201c84f63 <br>
+https://beginnersbook.com/2013/11/jsp-implicit-objects/ <br>
+https://docs.oracle.com/cd/E17802_01/j2ee/j2ee/1.4/docs/tutorial-update2/doc/JSPIntro7.html <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/jgpreetham/basic-jsp-example <br>
+https://github.com/RameshMF/JSP-Tutorial <br>
+https://github.com/in28minutes/JavaWebApplicationStepByStep <br>
+https://github.com/1212050/Shopping-web-Jsp-Servlet <br>
+https://github.com/electronrecord/jsp-servlet-example <br>
+https://github.com/ggeorgovassilis/fauxjsp <br>
+https://github.com/tirmizee/Simple-JSP-MVC <br>
+https://github.com/SuneetPatil/Java-Servlets <br>
+https://github.com/MADANA-IO/madana-communityhub <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/jsp-tutorial/ <br>
+https://www.udemy.com/course/full-stack-java-developer-java/ <br>
+https://www.udemy.com/course/jsp-java-server-pages-training/ <br>
+https://www.udemy.com/course/complete-course-of-java-server-pages-jsp-programming/ <br>
+https://www.udemy.com/course/javawebtut/ <br>
+https://www.udemy.com/course/jsp-servlet-free/ <br>
+https://www.mooc-list.com/tags/jsp <br>
+https://www.udemy.com/course/jsp-and-servlets-the-complete-course/ <br>
+https://www.springpeople.com/jsp-servlets-training <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.infoworld.com/article/2075857/jsp-best-practices.html <br>
+https://josescalia.wordpress.com/2009/01/22/few-tips-and-trick-on-jsp-and-servlet/ <br>
+https://www.tutorialspoint.com/jsp/jsp_quick_guide.htm <br>
+https://www.baeldung.com/jsp <br>
+https://medium.com/@dev_padawan/servlets-and-jsp-a-beginners-guide-54c539f93614 <br>
+https://amdelamar.com/blog/top-5-java-ee-tips-and-tricks/ <br>
+https://stackoverflow.com/questions/1296235/jsp-tricks-to-make-templating-easier <br>
+https://www.mulesoft.com/tcat/tomcat-jsp <br>
+https://www.netspi.com/blog/technical/network-penetration-testing/hacking-with-jsp-shells/ <br>
+<br>
+<a href="https://www.microcosm.com/images/smartsign/jsp-border.png">
+  <img align="center" src="https://www.microcosm.com/images/smartsign/jsp-border.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>
 <summary>Java</summary>
 <br>Category/Type - <br>
@@ -4818,6 +5220,72 @@ https://towardsdatascience.com/9-cool-julia-tricks-in-4-minutes-47a3a4496054 <br
 https://www.cs.purdue.edu/homes/hnassar/JPUG/performance.html <br> 
 https://codegolf.stackexchange.com/questions/24407/tips-for-golfing-in-julia <br> 
  <br><br> 
+</details>
+
+<details>
+<summary>JWT </summary>
+<br>
+Category/Type - <br>Internet open standard <br>
+<br>
+Official Documentation - <br>
+https://jwt.io/introduction <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=soGRyl9ztjI <br>
+https://www.youtube.com/watch?v=7Q17ubqLfaM&t=4s <br>
+https://www.youtube.com/watch?v=ODVEqmNz4sg <br>
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9iqqESP8335DA5cRFp8loyp <br>
+https://www.youtube.com/watch?v=926mknSW9Lo&t=2s <br>
+https://www.youtube.com/watch?v=NMIEJZfNG-8 <br>
+https://www.youtube.com/watch?v=mbsmsi7l3r4&t=4s <br>
+https://www.youtube.com/watch?v=_XbXkVdoG_0 <br>
+https://www.youtube.com/watch?v=OV8nPN4ym24&t=4s<br>
+<br>
+Useful Websites -
+<br>
+https://jwt.io/ <br>
+https://en.wikipedia.org/wiki/JSON_Web_Token <br>
+https://auth0.com/docs/tokens/json-web-tokens <br>
+https://dzone.com/articles/what-is-jwt-token <br>
+https://openid.net/specs/draft-jones-json-web-token-07.html <br>
+https://marketplace.zoom.us/docs/guides/auth/jwt <br>
+https://blog.angular-university.io/angular-jwt/ <br>
+https://cloud.google.com/iot/docs/how-tos/credentials/jwts <br>
+https://flaviocopes.com/jwt/ <br>
+<br>
+Dedicated Github page - <br>
+ https://github.com/auth0/node-jsonwebtoken <br>
+ https://github.com/jwtk/jjwt <br>
+ https://github.com/auth0/java-jwt <br>
+ https://github.com/tymondesigns/jwt-auth <br>
+ https://github.com/dwyl/learn-json-web-tokens <br>
+ https://github.com/jwt-dotnet/jwt <br>
+ https://github.com/web-token/jwt-app <br>
+ https://jwt.io/ <br>
+<br>
+Best Courses - <br>
+ https://www.udemy.com/tutorial/nestjs-zero-to-hero/introduction-to-json-web-tokens-jwt/ <br>
+ https://www.udemy.com/course/hacking-and-securing-jwt/ <br>
+ https://www.coursera.org/lecture/exploiting-securing-vulnerabilities-java-applications/introduction-to-json-web-tokens-jwt-and-authentication-bypass-dcRcu <br>
+ https://www.lynda.com/WordPress-tutorials/JWT-JSON-Web-Token-authentication/2822348/2967571-4.html <br>
+ https://www.mooc-list.com/tags/jwt <br>
+ https://blog.angular-university.io/angular-jwt/ <br>
+ https://www.educative.io/courses/web-security-access-management-jwt-oauth2-openid-connect <br>
+ https://www.simplilearn.com/tutorials/nodejs-tutorial/jwt-authentication <br>
+<br>
+Other Tips / Hacks - <br>
+https://curity.io/resources/learn/jwt-best-practices/ <br>
+https://blog.angular-university.io/angular-jwt/ <br>
+https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/ <br>
+https://jwt.io/introduction <br>
+https://cheatsheetseries.owasp.org/cheatsheets/JSON_Web_Token_for_Java_Cheat_Sheet.html <br>
+https://auth0.com/blog/a-look-at-the-latest-draft-for-jwt-bcp/<br>
+https://medium.com/swlh/all-you-need-to-know-about-json-web-token-jwt-8a5d6131157f <br>
+<br>
+<a href="https://cdn-images-1.medium.com/fit/t/1600/480/1*XkmnsJ6Joa6EDFVGUw0tfA.png">
+  <img align="center" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*XkmnsJ6Joa6EDFVGUw0tfA.png" width="800" height="300"/>
+</a>
+<br><br><br>
 </details>
 
 <details>
@@ -5847,7 +6315,63 @@ https://www.toptal.com/dot-net/tips-and-practices<br><br>
 </a>
 <br><br><br>
 </details>
-
+<details>
+<summary>Netwide Assembler </summary>
+<br>
+Category/Type - <br>Software <br>
+<br>
+Official Documentation - <br>
+https://www.nasm.us/docs.php <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=W8UTCqWb2eQ <br>
+https://www.youtube.com/watch?v=_JG4b7E_6-E <br>
+https://www.youtube.com/watch?v=Ep0hCP2GiLw <br>
+https://www.youtube.com/watch?v=FItR0gdk8js <br>
+https://www.youtube.com/watch?v=aJNw0msN5rI <br>
+https://www.youtube.com/watch?v=l-JhC3w3QYM <br>
+https://www.youtube.com/watch?v=Pxlw3g3Ei5w <br>
+https://www.youtube.com/watch?v=uca_zY8ZNpA <br>
+<br>
+Useful Websites -
+<br>
+https://www.nasm.us/ <br>
+https://ccm.net/download/download-1025-nasm <br>
+https://www.reddit.com/r/nasm/ <br>
+http://libra.cs.virginia.edu/~aaron/08-nasm/nasmexamples.html <br>
+https://www.csee.umbc.edu/portal/help/nasm/sample.shtml <br>
+https://awesomeopensource.com/projects/assembly <br>
+https://stackoverflow.com/questions/13668403/writing-x86-64-linux-kernel-module-in-assembler <br>
+https://metacpan.org/pod/Nasm::X86 <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/netwide-assembler/nasm <br>
+https://github.com/rtaylor777/nasm <br>
+https://github.com/aaryapatil/Assembly <br>
+https://github.com/gitGNU/nasm <br>
+https://github.com/letolabs/nasm <br>
+https://github.com/L4TTiCe/nasm-assembly <br>
+https://github.com/funnydman/nasm-assembly-examples <br>
+<br>
+Best Courses - <br>
+https://cs.lmu.edu/~ray/notes/nasmtutorial/ <br>
+https://asmtutor.com/ <br>
+https://www.coursef.com/nasm-x86-assembly-language-course <br>
+https://www.nasm.org/ <br>
+https://www.csee.umbc.edu/courses/undergraduate/CMSC313/spring04/burt_katz/lectures/Lect02/nasm_overview.html <br>
+<br>
+Other Tips / Hacks - <br>
+https://stackoverflow.com/questions/5951281/assembly-language-programming-hints-and-tips <br>
+https://www.quora.com/What-are-the-best-resources-to-learn-NASM-Netwide-Assembler <br>
+https://www.csee.umbc.edu/portal/help/nasm/nasm.shtml <br>
+https://www.quora.com/What-is-the-best-way-to-learn-to-program-with-the-NASM-Netwide-Assembler-Are-there-any-specific-good-resources-online <br>
+https://www.oreilly.com/library/view/mastering-metasploit-/9781788990615/7c203caa-729e-4e77-8251-bca290769979.xhtml <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/1200px-Netwide_Assembler.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/1200px-Netwide_Assembler.svg.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 
 <details>
 <summary>NetworkX</summary>
@@ -6401,6 +6925,68 @@ https://www.reddit.com/r/openshift/comments/8fu2ib/openshift_container_platform_
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/200px-OpenShift-LogoType.svg.png">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/200px-OpenShift-LogoType.svg.png" width="500" height="500"/>
 </a>
+</details>
+<details>
+<summary>OpenStack </summary>
+<br>
+Category/Type - <br>Computer software <br>
+<br>
+Official Documentation - <br>
+https://docs.openstack.org/wallaby/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=Kfj5XiNdJN0 <br>
+https://www.youtube.com/watch?v=eSRKnNgWrM0 <br>
+https://www.youtube.com/watch?v=IYv9todvxrI <br>
+https://www.youtube.com/watch?v=WgJAMQyFCzA <br>
+https://www.youtube.com/watch?v=ji0S2ocU8og <br>
+https://www.youtube.com/watch?v=YIfEwsFuep4 <br>>
+<br>
+Useful Websites -
+<br>
+https://www.openstack.org/ <br>
+https://superuser.openstack.org/articles/run-your-kubernetes-cluster-on-openstack-in-production/ <br>
+https://www.openstack.org/software/sample-configs/#compute-starter-kit <br>
+https://docs.openstack.org/murano/rocky/admin/appdev-guide/examples.html <br>
+https://www.oreilly.com/library/view/identity-authentication-and/9781491941249/ch01.html <br>
+https://www.reddit.com/r/openstack/ <br>
+https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs <br>
+https://docs.ansible.com/ansible/latest/dev_guide/platforms/openstack_guidelines.html <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/openstack/nova <br>
+https://github.com/openstack/keystone <br>
+https://github.com/openstack/horizon <br>
+https://github.com/openstack/neutron <br>
+https://github.com/openstack/ironic <br>
+https://github.com/openstack/swift <br>
+https://github.com/ramitsurana/awesome-openstack <br>
+https://github.com/ntk148v/awesome-openstack <br>
+<br>
+Best Courses - <br>
+https://www.openstack.org/marketplace/training/ <br>
+https://www.udemy.com/course/openstack/ <br>
+https://www.udemy.com/course/deep-dive-the-openstack-cloud/ <br>
+https://www.udemy.com/course/openstack-installation-and-deployment/ <br>
+https://www.udemy.com/course/openstack-design-and-implement-cloud-infrastructure/ <br>
+https://www.redhat.com/en/services/training/openstack <br>
+https://www.gangboard.com/cloud-computing-training/openstack-training <br>
+https://www.edx.org/course/introduction-to-openstack <br>
+https://www.edureka.co/open-stack <br>
+<br>
+Other Tips / Hacks - <br>
+https://docs.openstack.org/project-deploy-guide/tripleo-docs/latest/deployment/tips_tricks.html <br>
+https://opensource.com/business/16/3/openstack-tips-tricks <br>
+https://opensource.com/business/15/11/practical-tips-working-openstack <br>
+https://www.loomsystems.com/blog/single-post/2017/04/25/4-challenges-of-openstack-monitoring <br>
+https://www.redhat.com/en/blog/9-tips-properly-configure-your-openstack-instance <br>
+https://www.itproportal.com/features/tips-tricks-monitoring-openstack/ <br>
+https://docs.oracle.com/cd/E65465_01/html/E57770/gqsec.html <br>
+<br>
+<a href="https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-images-prod/openstack-logo/OpenStack-Logo-Vertical.png">
+  <img align="center" src="https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-images-prod/openstack-logo/OpenStack-Logo-Vertical.png" width="900" height="500"/>
+</a>
+<br><br><br>
 </details>
 <details>
 <summary>Operating System</summary>
@@ -8532,7 +9118,64 @@ https://medium.com/@davekaj/solidity-tips-and-tricks-for-beginners-building-thei
 </a>
 <br><br><br>
 </details>
-
+<details>
+<summary>Spinnaker </summary>
+<br>
+Category/Type - <br>Software <br>
+<br>
+Official Documentation - <br>
+https://spinnaker.io/guides/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=nTXrKiQEeO8 <br>
+https://www.youtube.com/watch?v=R0cloa6yi5E <br>
+https://www.youtube.com/watch?v=h6m22hVe47U <br>
+https://www.youtube.com/watch?v=DQIu373gSKU <br>
+https://www.youtube.com/watch?v=9EUyMjR6jSc <br>
+https://www.youtube.com/watch?v=z4riSXd3Y5w <br>
+https://www.youtube.com/watch?v=54QgIjAzPW0 <br>
+<br>
+Useful Websites -
+<br>
+https://spinnaker.io/ <br>
+https://www.reddit.com/r/kubernetes/comments/8n3rw4/using_spinnaker_with_kubernetes_reliably/ <br>
+https://spinnaker.io/guides/tutorials/codelabs/hello-deployment/ <br>
+https://www.baeldung.com/ops/spinnaker <br>
+https://spinnaker.io/guides/spin/projects/ <br>
+http://apt.cs.manchester.ac.uk/projects/SpiNNaker/ <br>
+https://spinnaker.io/reference/api/swagger-ui/ <br>
+https://www.magalix.com/blog/a-guide-on-the-installation-of-spinnaker-in-your-production-kubernetes-cluster <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/spinnaker/spinnaker <br>
+https://github.com/spinnaker/clouddriver <br>
+https://github.com/spinnaker/halyard <br>
+https://github.com/spinnaker/orca <br>
+https://github.com/spinnaker/spinnaker.github.io <br>
+https://github.com/robzienert/awesome-spinnaker <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/continuous-deployments-using-spinnaker-on-aws-and-kubernetes/ <br>
+https://cloudacademy.com/course/introduction-to-spinnaker-1124/introduction/ <br>
+https://www.lynda.com/Spinnaker-tutorials/772023-0.html <br>
+https://www.opsmx.com/spinnaker-course.html <br>
+https://www.armory.io/spinnaker-training/ <br>
+https://www.developintelligence.com/catalog/cloud-computing/spinnaker/ <br>
+https://www.classcentral.com/course/linkedin-learning-kubernetes-continuous-delivery-with-spinnaker-30358 <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.armory.io/learn/what-is-spinnaker/ <br>
+https://www.opsmx.com/blog/spinnaker-basics-in-5-minutes/ <br>
+https://www.velotio.com/engineering-blog/know-everything-about-spinnaker-amp-how-to-deploy-using-kubernetes-engine <br>
+https://www.spinnakersupport.com/ <br>
+https://cloud.google.com/architecture/continuous-delivery-spinnaker-kubernetes-engine <br>
+https://opensource.com/article/19/8/why-spinnaker-matters-cicd <br>
+<br>
+<a href="https://spinnaker.io/assets/images/spinnaker-logo-inline.svg">
+  <img align="center" src="https://spinnaker.io/assets/images/spinnaker-logo-inline.svg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>
 <summary>Spring Framework </summary>
 <br>
@@ -8578,6 +9221,53 @@ https://www.toptal.com/spring/top-10-most-common-spring-framework-mistakes <br>
 https://www.viralpatel.net/category/spring/ <br>
 https://springframework.guru/free-spring-framework-tutorials/ <br>
 <br>
+</details>
+
+<details>
+<summary>SQL </summary>
+<br>
+Category/Type - <br>Database Management System <br>
+<br>
+Official Documentation - <br>
+https://dev.mysql.com/doc/<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=zbMHLJ0dY4w <br>
+https://www.youtube.com/watch?v=HXV3zeQKqGY <br>
+https://www.youtube.com/watch?v=1dWCqjhvF58 <br>
+https://www.youtube.com/watch?v=LGTbdjoEBVM <br>
+https://www.youtube.com/watch?v=gq4S-ovWVlM <br>
+https://www.youtube.com/watch?v=vtPkZShrvXQ <br>
+<br>
+Useful Websites -
+<br>
+https://www.w3schools.com/sql/<br>
+https://www.guru99.com/sql.html <br>
+https://www.tutorialspoint.com/sql/index.htm<br>
+https://www.javatpoint.com/sql-tutorial <br>
+https://www.tutorialrepublic.com/sql-tutorial/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/OpenTechSchool/sql-tutorial <br>
+https://github.com/tthibo/SQL-Tutorial<br>
+https://github.com/danhuss/awesome-sql<br>
+https://github.com/agarcialeon/awesome-database <br>
+https://github.com/OpenTechSchool/sql-tutorial <br>
+https://github.com/mgramin/awesome-db-tools<br>
+<br>
+Best Courses - <br>
+https://www.coursera.org/specializations/learn-sql-basics-data-science <br>
+https://www.datacamp.com/courses/introduction-to-sql<br>
+https://www.linkedin.com/learning/sql-essential-training-3?trk=learning-topics_trending-courses_related-content-card&upsellOrderOrigin=sem_src.go-pa_c.LLS-C_APAC_All_IN_Search_Google-NB_DR-PRS_Broad_Course-DSA_All_English_Core_pkw._pmt.b_pcrid.473973938293_pdv.c_plc._trgid.dsa-922781182267_net.g_learning<br>
+https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/ <br>
+https://www.udemy.com/course/the-complete-sql-bootcamp/<br>
+
+<br>
+Other Tips / Hacks - <br>
+https://dzone.com/articles/7-simple-tips-to-boost-the-performance-of-your-sql<br>
+https://code.tutsplus.com/tutorials/10-essential-sql-tips-for-developers--net-5274 <br>
+https://www.mssqltips.com/<br>
+
 </details>
 
 <details>
@@ -9613,7 +10303,66 @@ https://vanillawebprojects.com <br>
 https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks <br>
 <br>
 </details>
-
+<details>
+<summary>VBScript </summary>
+<br>
+Category/Type - <br> <br>
+<br>
+Official Documentation - <br>
+https://docs.microsoft.com/en-us/windows/win32/lwef/using-vbscript <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=03BfHDJsFpk <br>
+https://www.youtube.com/watch?v=tnXR3Gwr8w8 <br>
+https://www.youtube.com/watch?v=MDdYWDdpeYE <br>
+https://www.youtube.com/watch?v=oRM5osg7gGs <br>
+https://www.youtube.com/watch?v=1jykOSfcb5k <br>
+https://www.youtube.com/watch?v=rJb3S327hO0 <br>
+https://www.youtube.com/watch?v=v6aI9UcX07I <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/vbscript/ <br>
+https://www.quackit.com/vbscript/tutorial/vbscript_functions.cfm <br>
+https://www.voiceguide.com/vghelp/source/html/modvbs.htm <br>
+https://www.vbsedit.com/scripts/ <br>
+https://www.codeproject.com/script/Content/Tag.aspx?tags=VBScript <br>
+https://flylib.com/books/en/2.441.1/ <br>
+https://googleprojectzero.blogspot.com/2018/12/on-vbscript.html <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/heinsega/OX163 <br>
+https://github.com/Keyboard-Slayer/e013 <br>
+https://github.com/simply-coded/vbscript-tutorials <br>
+https://github.com/pramnora/vbscript <br>
+https://github.com/wizz13150/PDQ_Repo <br>
+https://github.com/Mapaler/VBScript <br>
+https://github.com/koswald/VBScript <br>
+https://github.com/Matthew-Lancaster/Matthew-Lancaster <br>
+https://github.com/angstream/miscellaneous <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/vb-scripting-fundamentals/ <br>
+https://www.udemy.com/course/vbscript-in-depth/ <br>
+https://www.zeolearn.com/vbscript-training <br>
+https://www.guru99.com/vbscript-tutorials-for-beginners.html <br>
+https://www.educba.com/software-development/courses/vbscript-training/ <br>
+http://www.qatraininghub.com/vbscript-online-training.php <br>
+https://www.softwaretestinghelp.com/vbscript-tutorial-1/ <br>
+https://www.ecorptrainings.com/vb-script-online-corporate-training-hyderabad-india-uk-usa.php <br>
+<br>
+Other Tips / Hacks - <br>
+http://hack3.e-monsite.com/videos/easy-notepad-hacks-you-can-use-at-school-bat-and-vbs.html <br>
+https://mikehacks.wordpress.com/category/vbs-tricks/ <br>
+http://hackthedark.blogspot.com/2011/10/some-kewl-vbscript-tricks.html <br>
+https://www.instructables.com/The-Ultimate-VBS-Tutorial/ <br>
+https://www.youtube.com/watch?v=ygrGns5uugU <br>
+<br>
+<a href="https://banner2.cleanpng.com/20180409/cxe/kisspng-vbscript-scripting-language-visual-basic-microsoft-analyst-5acc162b6da676.9666584115233244594491.jpg">
+  <img align="center" src="https://banner2.cleanpng.com/20180409/cxe/kisspng-vbscript-scripting-language-visual-basic-microsoft-analyst-5acc162b6da676.9666584115233244594491.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>
 <summary>Virtual Reality</summary>
 <br>
@@ -10154,7 +10903,129 @@ https://www.reddit.com/r/iOSProgramming/comments/f6pss/what_are_some_xcode_tips_
 </a>
 <br><br><br>
 </details>
-
+<details>
+<summary>XSLT </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://www.w3.org/TR/xslt/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=W--Yhp0m35A <br>
+https://www.youtube.com/watch?v=BujLy71JY1k <br>
+https://www.youtube.com/watch?v=CkWQZxrwaqU <br>
+https://www.youtube.com/watch?v=0It-kBg-7NE <br>
+https://www.youtube.com/watch?v=JTHP_PH21k0 <br>
+https://www.youtube.com/watch?v=Kej4qz5tMBw <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/xslt/ <br>
+https://developer.mozilla.org/en-US/docs/Web/API/XSLTProcessor/Basic_Example <br>
+https://www.quackit.com/xml/tutorial/xslt_example.cfm <br>
+https://www.twago.com/s/projects/xslt/ <br>
+https://docs.microsoft.com/en-us/office-project/xml-data-interchange/how-to-use-xslt-transformations-with-project-xml-data-interchange-files?view=project-client-2016 <br>
+https://www.easycodeforall.com/XSLTCode.jsp <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/ropensci/xslt <br>
+https://github.com/LOLBAS-Project/LOLBAS <br>
+https://github.com/kinkofer/FightClub5eXML <br>
+https://github.com/OpenSCAP/openscap <br>
+https://github.com/mapnik/mapnik <br>
+https://github.com/Armatiek/xslweb <br>
+https://github.com/aixm/xslt <br>
+https://github.com/XSLTdoc/XSLTdoc <br>
+https://github.com/hananils/xslt-kit <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/practical-transformation-using-xslt-and-xpath/ <br>
+https://www.udemy.com/course/xslt-basics-for-beginners/ <br>
+https://www.udemy.com/course/xslt-for-dummies-learn-the-basics/ <br>
+https://www.fireboxtraining.com/xslt-training <br>
+https://www.lynda.com/XML-tutorials/Using-XSLT-XML/661763/703471-4.html <br>
+https://www.accelebrate.com/training/xslt <br>
+https://www.codingguru.com/xslt-courses <br>
+https://www.ecorptrainings.com/xslt-online-corporate-training-hyderabad-india-uk-usa.php <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.onenaught.com/posts/23/xslt-tips-for-cleaner-code-and-better-performance <br>
+https://fizentech.com/xslt-tips-and-tricks/ <br>
+https://bytes.com/topic/xml/insights/768835-xslt-tips-you-dont-learn-w3schools <br>
+https://www.toolbox.com/collaboration/question/xpath-and-xslt-tips-and-tricks-062609/ <br>
+http://edutechwiki.unige.ch/en/XSLT_Tutorial_-_Basics <br>
+https://www.ibm.com/docs/es/integration-bus/9.0.0?topic=performance-xpath-xslt-code-tips <br>
+https://incrementaldevelopment.com/xsltrick/ <br>
+<br>
+<a href="https://i.pinimg.com/originals/0e/4d/ad/0e4dadb871f049aaae5294b2b7a4aac7.png">
+  <img align="center" src="https://i.pinimg.com/originals/0e/4d/ad/0e4dadb871f049aaae5294b2b7a4aac7.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+<details>
+<summary>YAML </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://yaml.org/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=1uFVr15xDGg <br>
+https://www.youtube.com/watch?v=o9pT9cWzbnI <br>
+https://www.youtube.com/watch?v=cdLNKUoMc6c <br>
+https://www.youtube.com/watch?v=W3tQPk8DNbk <br>
+https://www.youtube.com/watch?v=U9_gfT0n_5Q <br>
+https://www.youtube.com/watch?v=Pq54CmgAwpw <br>
+https://www.youtube.com/watch?v=XHRsPp6TORo <br>
+https://www.youtube.com/watch?v=kPZOFSt8m0M <br>
+<br>
+Useful Websites -
+<br>
+https://www.reddit.com/r/yaml/ <br>
+https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html <br>
+https://docs.semaphoreci.com/reference/projects-yaml-reference/ <br>
+https://www.redhat.com/sysadmin/understanding-yaml-ansible <br>
+https://pypi.org/project/PyYAML/ <br>
+https://www.baeldung.com/spring-yaml-inject-map <br>
+https://swagger.io/docs/specification/data-models/dictionaries/ <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/yaml/pyyaml <br>
+https://github.com/jbeder/yaml-cpp <br>
+https://github.com/yaml/libyaml <br>
+https://github.com/symfony/yaml <br>
+https://github.com/codefresh-io/yaml-examples <br>
+https://github.com/publiccodeyml/publiccode.yml <br>
+https://github.com/dreftymac/awesome-yaml <br>
+https://github.com/datatxt/awseome-yaml <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/yaml-essentials/ <br>
+https://www.udemy.com/course/learn-yaml/ <br>
+https://www.udemy.com/course/yaml-basics-easy-guide-to-understand-create-consume-yaml/ <br>
+https://www.udemy.com/course/a-journey-through-yaml/ <br>
+https://acloudguru.com/course/yaml-essentials <br>
+https://www.devopsschool.com/courses/yaml/ <br>
+https://www.educative.io/courses/introduction-to-yaml <br>
+https://www.lynda.com/YAML-training-tutorials/1720-0.html <br>
+https://www.coursera.org/projects/beginners-guide-yaml-syntax <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.redhat.com/sysadmin/yaml-tips <br>
+https://www.lynda.com/Red-Hat-Enterprise-Linux-tutorials/YAML-tips-tricks/2825729/2346490-4.html <br>
+https://about.gitlab.com/blog/2020/10/01/three-yaml-tips-better-pipelines/ <br>
+https://blog.betomorrow.com/yaml-tips-and-tricks-for-concourse-ci-35a3b577a239 <br>
+https://www.elastic.co/guide/en/beats/libbeat/current/config-file-format-tips.html <br>
+https://morioh.com/p/ea6a8d1c3ee7 <br>
+https://www.hadeploy.com/more/yaml_tricks/ <br>
+<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/YAML_Logo.svg/1200px-YAML_Logo.svg.png">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/YAML_Logo.svg/1200px-YAML_Logo.svg.png" width="900" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>  
 <summary>YII Framework</summary>
 <br>
