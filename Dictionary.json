@@ -2140,6 +2140,43 @@
 		"Tips7" : "https://www.analyticsvidhya.com/blog/2015/10/tips-tricks-awesom-data-science-jobs/ ",
 		"Tips8" : "https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debunking-few-myths-30537117a4e4 "
 	},
+	   {
+    "Title": "Data Structures and Algorithm",
+    "Tag": "Problem Solving",
+    "Documentation": "https://algonotes.readthedocs.io/en/latest/",
+    "YT1": "https://www.youtube.com/watch?v=8hly31xKli0",
+    "YT2": "https://www.youtube.com/watch?v=RBSGKlAvoiM",
+    "YT3": "https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi",
+    "YT4": "https://www.youtube.com/watch?v=hCrO_cR7kno",
+    "YT5": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
+    "YT6": "https://www.youtube.com/playlist?list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG",
+    "YT7": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y",
+    "Website1": "https://www.cprogramming.com/algorithms-and-data-structures.html",
+    "Website2": "https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/",
+    "Website3": "https://levelup.gitconnected.com/6-super-cool-websites-for-practicing-algorithms-learning-programming-4cda65a64b7e",
+    "Website4": "https://medium.com/techie-delight/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac",
+    "Website5": "https://www.scriptol.com/programming/list-algorithms.php",
+    "Website6": "https://sohojeprogramming.blogspot.com/",
+    "Dedicated GH page1": "https://github.com/TheAlgorithms",
+    "Dedicated GH page2": "https://github.com/sachuverma/DataStructures-Algorithms",
+    "Dedicated GH page3": "https://github.com/reachanihere/Data-Structures-and-Algorithms",
+    "Dedicated GH page4": "https://donsheehy.github.io/datastructures/fullbook.pdf",
+    "Dedicated GH page5": "https://github.com/williamfiset/Algorithms",
+    "Dedicated GH page6": "https://github.com/rachitiitr/DataStructures-Algorithms",
+    "Dedicated GH page7": "https://github.com/TheAlgorithms/C",
+    "Course1": "https://www.coursera.org/specializations/data-structures-algorithms",
+    "Course2": "https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/",
+    "Course3": "https://www.udemy.com/course/algorithms-and-data-structures-in-python/",
+    "Course4": "https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513",
+    "Course5": "https://www.udemy.com/course/datastructurescncpp/",
+    "Course6": "https://www.codingninjas.com/courses/onlline-c-plus-plus-course",
+    "Course7": "https://online.codingblocks.com/courses/data-structures-and-algorithms-online-course",
+    "Course8": "https://practice.geeksforgeeks.org/courses/dsa-self-paced",
+    "Tips1": " https://www.hackerearth.com/blog/developers/7-steps-to-improve-your-data-structure-and-algorithm-skills/",
+    "Tips2": "https://medium.com/swlh/fun-with-data-structures-simple-tricks-for-technical-interviews-edcbf252bb34",
+    "Tips3": " https://www.codingninjas.com/blog/2020/06/02/tips-to-improve-your-data-structures-and-algorithms/",
+    "Tips5": "https://www.geeksforgeeks.org/how-can-one-become-good-at-data-structures-and-algorithms-easily/"
+  },
 	{
 		"Title" : "Deep Learning",
 		"Tag" : "Development",
@@ -2169,6 +2206,7 @@
 		"Tips4" : "https://towardsdatascience.com/intro-to-deep-learning-d5caceedcf85 ",	
 		"Tips5" : "https://www.analyticsvidhya.com/blog/2018/10/introduction-neural-networks-deep-learning/ "
 	},
+	 
 	
 	{
 		"Title" : "DevOps",
