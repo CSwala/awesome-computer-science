@@ -2654,6 +2654,49 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 <br><br>
 </details>
 
+ <details>
+ <summary>Data structures and algorithm</summary>
+ <br>Tag/Category - <br>Problem Solving<br>
+ <br>Official Documentation - <br>https://algonotes.readthedocs.io/en/latest/<br>
+ <br>Best YouTube creators - <br>
+ https://www.youtube.com/watch?v=8hly31xKli0<br>
+ https://www.youtube.com/watch?v=RBSGKlAvoiM<br>
+ https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi<br>
+ https://www.youtube.com/watch?v=hCrO_cR7kno<br>
+ https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ<br>
+ https://www.youtube.com/playlist?list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG<br>
+ https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y<br>
+ <br>Useful Websites - <br>
+ https://www.cprogramming.com/algorithms-and-data-structures.html<br>
+ https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/<br>
+ https://levelup.gitconnected.com/6-super-cool-websites-for-practicing-algorithms-learning-programming-4cda65a64b7e<br>
+ https://medium.com/techie-delight/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac<br>
+ https://www.scriptol.com/programming/list-algorithms.php<br>
+ https://sohojeprogramming.blogspot.com/<br>
+ <br>Dedicated Github page - <br>
+ https://github.com/TheAlgorithms<br>
+ https://github.com/sachuverma/DataStructures-Algorithms<br>
+ https://github.com/reachanihere/Data-Structures-and-Algorithms<br>
+ https://donsheehy.github.io/datastructures/fullbook.pdf<br>
+ https://github.com/williamfiset/Algorithms<br>
+ https://github.com/rachitiitr/DataStructures-Algorithms<br>
+ https://github.com/TheAlgorithms/C<br>
+ <br>Best Courses - <br>
+ https://www.coursera.org/specializations/data-structures-algorithms<br>
+ https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/<br>
+ https://www.udemy.com/course/algorithms-and-data-structures-in-python/<br>
+ https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513<br>
+ https://www.udemy.com/course/datastructurescncpp/<br>
+ https://www.codingninjas.com/courses/onlline-c-plus-plus-course<br>
+ https://online.codingblocks.com/courses/data-structures-and-algorithms-online-course<br>
+ https://practice.geeksforgeeks.org/courses/dsa-self-paced<br>
+ <br>Other Tips/Hacks - <br>
+ https://www.hackerearth.com/blog/developers/7-steps-to-improve-your-data-structure-and-algorithm-skills/<br>
+ https://medium.com/swlh/fun-with-data-structures-simple-tricks-for-technical-interviews-edcbf252bb34<br>
+ https://www.codingninjas.com/blog/2020/06/02/tips-to-improve-your-data-structures-and-algorithms/<br>
+ https://www.geeksforgeeks.org/how-can-one-become-good-at-data-structures-and-algorithms-easily/<br>
+ </details>
+
 <details>
 <summary>Deep Learning</summary>
 <br>
