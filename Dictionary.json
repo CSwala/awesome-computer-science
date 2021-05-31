@@ -1001,7 +1001,7 @@
 	},
 	{
 		"Title" : "Backbone.js",
-		"Search_title" : "",
+		"Search_title" : "backbonejs",
 		"Tag" : "JavaScript library",
 		"Documentation" : "https://backbonejs.org/docs/backbone.html",
 		"YT1" : "https://www.youtube.com/playlist?list=PLT9miexWCpPUfPUGeQUMXQ9WS9rrbxI2D",
@@ -1033,7 +1033,7 @@
 	},
 {
     "Title" : "Backend Development",
-    "Search_title" : "",
+    "Search_title" : "backend development",
     "Tag" : "Development",
     "Documentation" : "https://nodejs.org/en/docs/",
 
@@ -1099,8 +1099,8 @@
     "Tips7" : "https://www.tutorialandexample.com/expressjs-interview-questions/"
 },
 	{
-"Title" : "Beautifulsoup Library",
-"Search_title" : "",
+		"Title" : "Beautifulsoup",
+		"Search_title" : "beautifulsoup",
 		"Tag" : "Python Library",
 		"Documentation" : "https://pypi.org/project/beautifulsoup4/",
 		"YT1" : "https://www.youtube.com/watch?v=mKxFfjNyj3c",
@@ -1131,7 +1131,7 @@
 
 	{
 		"Title" : "Big Data",
-		"Search_title" : "",
+		"Search_title" : "big data",
 		"Tag" : "Data Analytics",
 		"Documentation" : "https://docs.oracle.com/en/bigdata/index.html",
 		"YT1" : "https://www.youtube.com/watch?v=1vbXmCrkT3Y",
@@ -1162,7 +1162,7 @@
 	},
 	{
 		"Title" : "Blender",
-		"Search_title" : "",
+		"Search_title" : "blender",
 		"Tag" : "3D modeling and animation program",
 		"Documentation" : "https://docs.blender.org/manual/en/latest/",
 		"YT1" : "https://www.youtube.com/user/AndrewPPrice",
@@ -1184,7 +1184,7 @@
 	},
 	{
 		"Title" : "Blockchain",
-		"Search_title" : "",
+		"Search_title" : "blockchain",
 		"Tag" : "Database",
 		"Documentation" : "https://www.blockchain.com/api",
 		"YT1" : "https://www.youtube.com/playlist?list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-",
@@ -1228,7 +1228,7 @@
 	},
 	{
 		"Title" : "Blockly",
-		"Search_title" : "",
+		"Search_title" : "blockly",
 		"Tag" : "Software",
 		"Documentation" : "https://developers.google.com/blockly/guides/get-started/web",
 		"YT1" : "https://www.youtube.com/watch?v=lPVJjQbEeN0",
@@ -1260,7 +1260,7 @@
 	},
 	{
 		"Title" : "Bootstrap",
-		"Search_title" : "",
+		"Search_title" : "bootstrap",
 		"Tag" : "CSS Framework",
 		"Documentation" : "https://getbootstrap.com/docs/5.0/getting-started/introduction/",
 		"YT1" : "https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA",
@@ -1281,7 +1281,7 @@
 	},
 	{
 		"Title" : "Bugzilla",
-		"Search_title" : "",
+		"Search_title" : "bugzilla",
 		"Tag" : "System Software",
 		"Documentation" : "https://www.bugzilla.org/docs/",
 		"YT1" : "https://www.youtube.com/playlist?list=PLd43cTxFZWlflQiIdhCNcxJ0XFEouK-Bi",
@@ -1316,7 +1316,7 @@
 	},
 	{
 		"Title" : "Buildbox",
-		"Search_title" : "",
+		"Search_title" : "buildbox",
 		"Tag" : "Video Game Software",
 		"Documentation" : "https://www.buildbox.com/help/buildbox-3-manual/getting-started/",
 		"YT1" : "https://www.youtube.com/watch?v=Q6dPjahX1ts&t=66s",
@@ -1346,7 +1346,7 @@
 	},
 	{
     "Title" : "C",
-    "Search_title" : "",
+    "Search_title" : "c",
     "Tag" : "Programming Language",
     "Documentation" : "https://devdocs.io/c/",
     "YT1" : "https://www.youtube.com/watch?v=KJgsSFOSQv0",
@@ -1379,7 +1379,7 @@
   },
 	{
 		"Title" : "C#",
-		"Search_title" : "",
+		"Search_title" : "c#",
 		"Tag" : "Programming language",
 		"Documentation" : "https://docs.microsoft.com/en-us/dotnet/csharp/",
 		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -1413,7 +1413,7 @@
 	},
 	{
 		"Title" : "C++",
-		"Search_title" : "",
+		"Search_title" : "c++",
 		"Tag" : "Programming Language",
 		"Documentation" : "https://devdocs.io/cpp/",
 		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -1434,7 +1434,7 @@
 	},
 	{
 		"Title" : "CakePHP",
-		"Search_title" : "",
+		"Search_title" : "cakephp",
 		"Tag" : "PHP Framework",
 		"Documentation" : "https://book.cakephp.org/2/en/contributing/documentation.html",
 		"YT1" : "https://www.youtube.com/watch?v=747K6W40ur0",
@@ -1466,7 +1466,7 @@
 	},
 	{
 		"Title" : "Chart.js",
-		"Search_title" : "",
+		"Search_title" : "chartjs",
 		"Tag" : "Javascript Library",
 		"Documentation" : "https://www.chartjs.org/docs/latest/",
 		"YT1" : "https://www.youtube.com/watch?v=sE08f4iuOhA",
@@ -1494,7 +1494,7 @@
 	},
 	{
 		"Title" : "Chef",
-		"Search_title" : "",
+		"Search_title" : "chef",
 		"Tag" : "Configuration management tool",
 		"Documentation" : "https://docs.chef.io",
 		"YT1" : "https://www.youtube.com/user/Simplilearn",
@@ -1520,7 +1520,7 @@
 	},
 	{
 		"Title" : "Cinema 4D",
-		"Search_title" : "",
+		"Search_title" : "cinema 4d",
 		"Tag" : "Software",
 		"Documentation" : "https://help.maxon.net/r23/en-us/",
 		"YT1" : "https://www.youtube.com/watch?v=ReEEpYjW_yI&list=PL_dhPga7ruudlDZLjrdTK0qmf940Qf0Cp",
@@ -1552,7 +1552,7 @@
 	},
 	{
 		"Title" : "Clojure",
-		"Search_title" : "",
+		"Search_title" : "clojure",
 		"Tag" : "Programming language",
 		"Documentation" : "https://clojure.org/",
 		"YT1" : "https://www.youtube.com/watch?v=ciGyHkDuPAE",
@@ -1584,7 +1584,7 @@
 	},
 	{
 		"Title" : "Cloud Computing",
-		"Search_title" : "",
+		"Search_title" : "cloud computing",
 		"Tag" : "Computer Service",
 		"Documentation" : "https://cloud.google.com/docs",
 		"YT1" : "https://www.youtube.com/watch?v=2LaAJq1lB1Q",
@@ -1625,7 +1625,7 @@
 	},
     {
 	"Title" : "CloudForms",
-	"Search_title" : "",
+	"Search_title" : "cloudforms",
 	"Tag" : "Cloud management platform",
 	"Documentation" : "https://access.redhat.com/documentation/en-us/red_hat_cloudforms/4.7",
 	"YT1" : "https://www.youtube.com/watch?v=CzZePcEYKGo",
@@ -1653,8 +1653,8 @@
 	"Tips3" : "https://www.lifehack.org/articles/technology/15-cloud-storage-tips-and-tricks-you-probably-dont-know.html"
     },
 	{	
-		"Title" : "CNN (Convolutional Neural Network)",
-		"Search_title" : "",
+		"Title" : "CNN",
+		"Search_title" : "cnn",
 		"Tag" : "The Keras library in Python",
 		"Documentation" : "https://www.python.org/",
 		"YT1" : "https://www.youtube.com/watch?v=Jy9-aGMB_TE",
@@ -1679,7 +1679,7 @@
 	},
 	{
 		"Title" : "Codeigniter",
-		"Search_title" : "",
+		"Search_title" : "codeigniter",
 		"Tag" : "PHP Framework",
 		"Documentation" : "https://codeigniter.com/docs",
 		"YT1" : "https://www.youtube.com/watch?v=I752ofYu7ag",
@@ -1713,7 +1713,7 @@
 	},
 	{
 		"Title" : "Competitive Programming",
-		"Search_title" : "",
+		"Search_title" : "competitive programming",
 		"Tag" : "Brain Storming",
 		"Documentation" : "https://cp-algorithms.com",
 		"YT1" : "https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg",
@@ -1768,7 +1768,7 @@
 	},
 	{
 		"Title" : "Computer Networks",
-		"Search_title" : "",
+		"Search_title" : "computer networks",
 		"Tag" : "Communication Protocol",
 		"Documentation" : "https://en.wikipedia.org/wiki/Computer_network",
 		"YT1" : "https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx",
@@ -1793,7 +1793,7 @@
 	},
 	{
 		"Title" : "Computer Organization and Architecture",
-		"Search_title" : "",
+		"Search_title" : "computer organization and architecture",
 		"Tag" : "Architecture, Organization, Design Of Computer",
 		"Documentation" : "https://en.wikipedia.org/wiki/Word_(computer_architecture)",
 		"YT1" : "https://youtube.com/playlist?list=PLsFENPUZBqiprGoEWrpexJPlPjmfPCtzM",
@@ -1817,9 +1817,9 @@
 		"Tips2" : "https://lastmomenttuitions.com/course/coa/"
 	},
 
-        {
-"Title" : "Computer Vision",
-"Search_title" : "",
+      {
+		"Title" : "Computer Vision",
+		"Search_title" : "computer vision",
 		"Tag" : "Development",
 		"Documentation" : "https://en.wikipedia.org/wiki/Computer_vision",
 		"YT1" : "https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ",
@@ -1837,8 +1837,8 @@
 		"Course2" : "https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow",
 		"Course3" : "https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/",
 		"Course4" : "https://www.udemy.com/course/computer-vision-masterclass/",
-                                 "Course5" : "https://www.udemy.com/course/computer-vision-face-recognition-quick-starter-in-python/",
-		 "Course6" : "https://www.udemy.com/course/computer-vision-in-python-face-detection-image-processing/",
+        "Course5" : "https://www.udemy.com/course/computer-vision-face-recognition-quick-starter-in-python/",
+		"Course6" : "https://www.udemy.com/course/computer-vision-in-python-face-detection-image-processing/",
  		"Course7" : "https://www.udemy.com/course/learn-computer-vision-with-opencv-and-python/",
 		"Tips1" : "https://towardsdatascience.com/computer-vision-for-beginners-part-1-7cca775f58ef",
 		"Tips2" : "https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e",
@@ -1846,13 +1846,13 @@
 		"Tips4" : "https://medium.com/@rinu.gour123/ai-python-computer-vision-tutorial-with-opencv-b7f86c3c6a1a",	
 		"Tips5" : "https://medium.com/@ODSC/4-steps-to-start-machine-learning-with-computer-vision-9658fef424c0",	
 		"Tips6" : "https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b",
-                "Tips7" : "https://towardsdatascience.com/a-beginners-guide-to-computer-vision-dca81b0e94b4",	
-                "Tips8" : "https://medium.com/@anirbanvalueinvesting/computer-vision-projects-64a59df35493",	
-                "Tips9" : "https://medium.com/analytics-vidhya/ways-to-boost-your-computer-vision-projects-by-using-5-open-source-facial-recognition-projects-56668f170cb9"	
+        "Tips7" : "https://towardsdatascience.com/a-beginners-guide-to-computer-vision-dca81b0e94b4",	
+        "Tips8" : "https://medium.com/@anirbanvalueinvesting/computer-vision-projects-64a59df35493",	
+        "Tips9" : "https://medium.com/analytics-vidhya/ways-to-boost-your-computer-vision-projects-by-using-5-open-source-facial-recognition-projects-56668f170cb9"	
         },
 {	
 	"Title" : "Consul",
-	"Search_title" : "",
+	"Search_title" : "consul",
 	"Tag" : "Software",
 	"Documentation" : "https://www.consul.io/docs",
 	"YT1" : "https://www.youtube.com/watch?v=5iAVi2hctSI",
@@ -1900,7 +1900,7 @@
 
 	{
 		"Title" : "CryEngine",
-		"Search_title" : "",
+		"Search_title" : "cryengine",
 		"Tag" : "Game engine",
 		"Documentation" : "https://docs.cryengine.com",
 		"YT1" : "https://www.youtube.com/user/CryDevPortal",
@@ -1928,7 +1928,7 @@
 	},
 	{
 		"Title" : "Cryptography",
-		"Search_title" : "",
+		"Search_title" : "cryptography",
 		"Tag" : "Field of study",
 		"Documentation" : "https://cryptography.io/en/latest/",
 		"YT1" : "https://www.youtube.com/watch?v=5jpgMXt1Z9Y",
@@ -1962,7 +1962,7 @@
 	},
 	{
 		"Title" : "CSS",
-		"Search_title" : "",
+		"Search_title" : "css",
 		"Tag" : "Stylesheet Language",
 		"Documentation" : "https://developer.mozilla.org/en-US/docs/Web/CSS",
 		"YT1" : "https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw",
@@ -1987,7 +1987,7 @@
 	},
 	{
 		"Title" : "CUDA",
-		"Search_title" : "",
+		"Search_title" : "cuda",
 		"Tag" : "Application Programming Interfaces",
 		"Documentation" : "https://docs.nvidia.com/cuda/",
 		"YT1" : "https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK",
@@ -2008,7 +2008,7 @@
 	},
 	{
 		"Title" : "Cyber Security",
-		"Search_title" : "",
+		"Search_title" : "cyber security",
 		"Tag" : " Information Technology Security",
 		"Documentation" : "https://en.wikipedia.org/wiki/Computer_security",
 		"YT1" : "https://www.youtube.com/watch?v=PlHnamdwGmw",
@@ -2046,7 +2046,7 @@
 	
 	{	
 	"Title" : "D",
-	"Search_title" : "",
+	"Search_title" : "d",
 	"Tag" : "Programming language",
 	"Documentation" : "https://dlang.org/",
 	"YT1" : "https://www.youtube.com/watch?v=rwZFTnf9bDU",
