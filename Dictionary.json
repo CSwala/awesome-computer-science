@@ -5505,6 +5505,7 @@
 	},
 	 {
     "Title": "Objective C",
+    "Search_title" : "",
     "Tag": "Programming Language",
     "Documentation": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html",
     "YT1": "https://www.youtube.com/watch?v=5esQqZIJ83g",
@@ -5712,6 +5713,7 @@
 	{
 		"Title" : "OpenVINO™ toolkit",
 		"Tag" : "Development",
+		"Search_title" : "",
 		"Documentation" : "https://docs.openvinotoolkit.org/",
 		"YT1" : "https://www.youtube.com/watch?v=kY9nZbX1DWM&list=PLg-UKERBljNxdIQir1wrirZJ50yTp4eHv",
 		"YT2" : "https://www.youtube.com/watch?v=bNZtJ8d6Ro0&list=PLg-UKERBljNzXUIDjeb8oF-KRwp2fTU4i",
@@ -5730,7 +5732,6 @@
 		"Tips3" : "https://medium.com/intel-software-innovators/object-recognition-with-intel-distribution-of-openvino-toolkit-475647574fb7"
 	},
 
-=======
 {	
 	"Title" : "OpenStack",
 	"Search_title" : "",
