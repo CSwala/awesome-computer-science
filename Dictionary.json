@@ -5676,6 +5676,30 @@
 		"Tips4" : "https://www.reddit.com/r/openshift/comments/8fu2ib/openshift_container_platform_load_testing_tips/",
 		"Image1" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/200px-OpenShift-LogoType.svg.png"
 	},
+
+	 
+	{
+		"Title" : "OpenVINO™ toolkit",
+		"Tag" : "Development",
+		"Documentation" : "https://docs.openvinotoolkit.org/",
+		"YT1" : "https://www.youtube.com/watch?v=kY9nZbX1DWM&list=PLg-UKERBljNxdIQir1wrirZJ50yTp4eHv",
+		"YT2" : "https://www.youtube.com/watch?v=bNZtJ8d6Ro0&list=PLg-UKERBljNzXUIDjeb8oF-KRwp2fTU4i",
+		"YT3" : "https://www.youtube.com/watch?v=kY9nZbX1DWM&list=PLUqN3BdAMBvGTFPCziNWCPTNK6jGO_VbM",
+		"YT4" : "https://www.youtube.com/watch?v=aqBuoXhRHL4&list=PL5Bl5h896bRL7k7QxlQX4f8u2bSE920wT",
+		"Website1" : "https://towardsdatascience.com/introduction-to-openvino-897e705a1f0a",
+		"Dedicated GH page1" : "https://github.com/openvinotoolkit/openvino",
+		"Dedicated GH page2" : "https://github.com/intel/ros_openvino_toolkit",
+		"Dedicated GH page3" : "https://github.com/intel/ros2_openvino_toolkit",
+		"Course1" : "https://www.coursera.org/learn/intel-openvino",
+		"Course2" : "https://www.udacity.com/course/intel-edge-AI-fundamentals-with-openvino--ud132",
+		"Course3" : "https://www.coursera.org/learn/int-openvino",
+		"Course4" : "https://www.mooc-list.com/tags/intel-openvino",
+		"Tips1" : "https://medium.com/techwasti/introduction-of-intel-openvino-toolkit-bc235a9c5b6d",
+		"Tips2" : "https://medium.com/openvino-toolkit/whats-new-in-the-openvino-model-server-3a060a029435",
+		"Tips3" : "https://medium.com/intel-software-innovators/object-recognition-with-intel-distribution-of-openvino-toolkit-475647574fb7"
+	},
+
+=======
 {	
 	"Title" : "OpenStack",
 	"Search_title" : "",
@@ -5722,6 +5746,7 @@
 	"Image1" : "https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-images-prod/openstack-logo/OpenStack-Logo-Vertical.png" 
 
 	},
+
 
 	{
 		"Title" : "Operating System",
