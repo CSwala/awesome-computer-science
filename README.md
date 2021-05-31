@@ -2655,7 +2655,7 @@ https://towardsdatascience.com/practical-tips-for-beginners-in-data-science-debu
 </details>
 
  <details>
- <summary>Data structures and algorithm</summary>
+ <summary>Data structures and algorithms</summary>
  <br>Tag/Category - <br>Problem Solving<br>
  <br>Official Documentation - <br>https://algonotes.readthedocs.io/en/latest/<br>
  <br>Best YouTube creators - <br>
