@@ -1361,6 +1361,22 @@ https://www.kolabtree.com/blog/tips-to-succeed-with-big-data/<br>
 </details>
 
 <details>
+<summary>Blazor</summary>
+<br>Category/Type - <br>C# Framework<br>
+<br>Official Documentation - <br>
+https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-5.0<br>
+<br>Best YouTube creators - <br> https://www.youtube.com/watch?v=4G_BzLxa9Nw <br> https://www.youtube.com/playlist?list=PL6n9fhu94yhVowClAs8-6nYnfsOTma14P <br>
+https://www.youtube.com/playlist?list=PL4WEkbdagHIR0RBe_P4bai64UDqZEbQap <br> https://www.youtube.com/watch?v=MetcuX1OHD0 <br> https://www.youtube.com/playlist?list=PL18HZjtdIA4C80i6R9l07gx6R5HQhpUWO <br> https://www.youtube.com/playlist?list=PLIsQ7YQAzgRhKf1acDUPEr_TPetAL8sw3 <br>
+<br>Useful Websites - <br> https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/intro <br> 
+https://www.pragimtech.com/blog/blazor/ <br> https://www.c-sharpcorner.com/article/getting-started-with-blazor/ <br> https://blazor-tutorial.net/overview <br>  https://auth0.com/blog/what-is-blazor-tutorial-on-building-webapp-with-authentication/ <br> https://blazor-university.com/ <br>
+<br>Dedicated Github page - <br> https://github.com/dotnet/blazor <br> https://github.com/AdrienTorris/awesome-blazor <br> https://github.com/enkodellc/blazorboilerplate <br>
+<br>Best Courses - <br> https://www.udemy.com/course/programming-in-blazor-aspnet-core/ <br> https://www.udemy.com/course/real-world-application-with-blazor-asp-net-core/ <br>
+https://www.udemy.com/course/blazor-the-complete-guide/ <br> https://www.udemy.com/course/blazor-webassembly/ <br> https://www.udemy.com/course/complete-blazor-course-e-commerce-app-clean-architecture/ <br>
+<br>Other Tips / Hacks - <br> https://morioh.com/p/5cb4492baf95 <br> https://www.telerik.com/blogs/10-blazor-features-you-probably-didnt-know <br>
+<br><br><br>
+</details>
+
+<details>
 <summary>Blender</summary>
 <br>Category/Type - <br>3D modeling and animation program<br>
 <br>Official Documentation - <br>
