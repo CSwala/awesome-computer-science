@@ -1,4 +1,4 @@
-##Vanilla JS
+## Vanilla JS
 <br>Category/Type - 
 <br>Documentation - 
 <br>Best YouTube creators - 
