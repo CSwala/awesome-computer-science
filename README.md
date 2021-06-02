@@ -9815,7 +9815,73 @@ https://heartbeat.fritz.ai/tensorflow-quick-tips-e394bc5fee15 <br> https://mediu
   <img align="center" src="https://www.slideteam.net/media/catalog/product/cache/960x720/d/a/data_science_half_yearly_learning_roadmap_slide01.jpg" width="500" height="500"/>
 </a>
 </details>
-
+<details>
+<summary>Terraform </summary>
+<br>
+Category/Type - <br>Software <br>
+<br>
+Official Documentation - <br>
+https://www.terraform.io/docs/providers/index.html <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=l5k1ai_GBDE <br>
+https://www.youtube.com/watch?v=k09fTeW3_Qs <br>
+https://www.youtube.com/watch?v=Fc5c1o9VMUM <br>
+https://www.youtube.com/watch?v=BkudL0bzvgQ <br>
+https://www.youtube.com/watch?v=vwn77cUarTs&list=PL8HowI-L-3_9bkocmR3JahQ4Y-Pbqs2Nt <br>
+https://www.youtube.com/watch?v=1JAx2npuprk&list=PLtK75qxsQaMIHQOaDd0Zl_jOuu1m3vcWO <br>
+https://www.youtube.com/watch?v=RA1mNClGYJ4&list=PLQP5dDPLts65J8csDjrGiLH5MZgTyTsDB <br>
+https://www.youtube.com/watch?v=UleogrJkZn0 <br>
+https://www.youtube.com/watch?v=0-z1G0BFZSU <br>
+<br>
+Useful Websites -
+<br>
+https://www.terraform.io/ <br>
+https://learn.hashicorp.com/terraform <br>
+https://www.reddit.com/r/Terraform/ <br>
+https://www.terraform.io/docs/language/modules/develop/index.html <br>
+https://medium.com/@simon.so/7-tips-to-start-your-terraform-project-the-right-way-93d9b890721a <br>
+https://learn.hashicorp.com/tutorials/terraform/organize-configuration <br>
+https://registry.terraform.io/providers/hashicorp/oci/latest/docs/guides/examples <br>
+https://docs.oracle.com/en/cloud/cloud-at-customer/occ-get-started/manage-resources-using-terraform.html#GUID-D6FEC7C9-8D1F-4B54-B3DA-B8A10A21BD20 <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/hashicorp/terraform <br>
+https://github.com/terraform-aws-modules/terraform-aws-vpc <br>
+https://github.com/hashicorp/terraform-provider-aws <br>
+https://github.com/terraform-aws-modules/terraform-aws-eks <br>
+https://github.com/terraform-aws-modules/terraform-aws-rds <br>
+https://github.com/terraform-aws-modules/terraform-aws-security-group <br>
+https://github.com/terraform-aws-modules/terraform-aws-atlantis <br>
+https://github.com/terraform-aws-modules/terraform-aws-iam <br>
+<br>
+Best Courses - <br>
+https://www.udemy.com/course/terraform-beginner-to-advanced/ <br>
+https://www.udemy.com/course/terraform-fast-track/ <br>
+https://www.udemy.com/course/learning-terraform-on-microsoft-azure/ <br>
+https://www.udemy.com/course/terraform-on-azure/ <br>
+https://www.udemy.com/course/terraform-beginner-to-advanced-using-google-cloud-platform/ <br>
+https://www.udemy.com/course/terraform-indepth-with-7-realtime-casestudies/ <br>
+https://www.udemy.com/course/master-terraform-with-aws/ <br>
+https://cloudacademy.com/course/managing-infrastructure-with-terraform/terraform-course-intro/ <br>
+https://www.lynda.com/Terraform-tutorials/573008-0.html <br>
+<br>
+Other Tips / Hacks - <br>
+https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9?gi=47b465e5a7f2 <br>
+https://medium.com/slalom-technology/how-to-optimize-network-infrastructure-code-in-terraform-fff16fada668 <br>
+https://blog.logrocket.com/dirty-terraform-hacks/ <br>
+https://spot.io/blog/terraform-0-12-new-features-tips-and-tricks/ <br>
+https://k21academy.com/terraform-iac/hashicorp-terraform-certified-associate-2020-tricks-tips-of-terraform/ <br>
+https://www.oreilly.com/library/view/terraform-up-and/9781491977071/ch05.html <br>
+https://www.hashicorp.com/resources/the-hitchhiker-s-guide-to-terraform-your-infrastructure <br>
+https://eclipsys.ca/terraform-tricks-how-to-mimic-nested-variable-substitution-using-locals/ <br>
+https://blog.cloudskills.io/getting-started-with-terraform-on-azure-tips-and-tricks/ <br>
+<br>
+<a href="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png">
+  <img align="center" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
 <details>
 <summary>Theano</summary>
 <br>Category/Type - <br> Python Library<br>
