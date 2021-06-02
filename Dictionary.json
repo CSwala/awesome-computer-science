@@ -1,7 +1,6 @@
 ﻿[
 	{	
 		"Title" : ".NET",
-		"Search_title" : ".net",
 		"Tag" : "Programming Language",
 		"Documentation" : "https://docs.microsoft.com/en-us/dotnet/",
 		"YT1" : "https://www.youtube.com/user/shanselman",
@@ -31,7 +30,6 @@
 	
 	{
 		"Title" : "3ds MAX",
-		"Search_title" : "3ds max",
 		"Tag" : "Software",
 		"Documentation" : "https://en.wikipedia.org/wiki/Autodesk_3ds_Max",
 		"YT1" : "https://www.youtube.com/watch?v=T_KkXZVkQJw&list=PLMtzJAOD3B7YUSUMdi_beDcI0AMVRztqs",
@@ -56,7 +54,6 @@
  
 	{
 		"Title" : "ActionScript",
-		"Search_title" : "actionscript",
 		"Tag" : "Programming language",
 		"Documentation" : "https://help.adobe.com/en_US/as3/dev/as3_devguide.pdf",
 		"YT1" : "https://www.youtube.com/playlist?list=PLIZ2O3hFxLqc2P7vV7qUf4p65QuNNfzAr",
@@ -85,7 +82,6 @@
 
 	{
 		"Title" : "Adobe XD",
-		"Search_title" : "adobe xd",
 		"Tag" : "Design Tool",
 		"Documentation" : "https://www.adobe.io/xd/uxp/",
         "YT1" : "https://www.youtube.com/watch?v=68w2VwalD5w&t=20s",
@@ -130,7 +126,6 @@
 		},
 	{
 		"Title" : "Adobe Illustrator",
-		"Search_title" : "adobe illustrator",
 		"Tag" : "Graphic Editor",
 		"Documentation" : "https://helpx.adobe.com/illustrator/user-guide.html",
 		"YT1" : "https://www.youtube.com/watch?v=IBouhf4seWQ&list=PLYfCBK8IplO4X-jM1Rp43wAIdpP2XNGwP",
@@ -164,7 +159,6 @@
 	 
 	 	{
 		"Title" : "Adobe Photoshop",
-		"Search_title" : "adobe photoshop",
 		"Tag" : "Graphics editor",
 		"Documentation" : "https://helpx.adobe.com/in/photoshop/user-guide.html",
 		"YT1" : "https://www.youtube.com/playlist?list=PLW-zSkCnZ-gA5Jn6gZtUa6-aG0OoRZyb6",
@@ -199,7 +193,6 @@
 
 	 {	
 	"Title" : "AJAX",
-	"Search_title" : "ajax",
 	"Tag" : "Programming",
 	"Documentation" : "https://learn.jquery.com/ajax/",
 	"YT1" : "https://www.youtube.com/watch?v=rJesac0_Ftw",
@@ -253,7 +246,6 @@
 
 	{
 		"Title" : "Android",
-		"Search_title" : "android",
 		"Tag" : "OS",
 		"Documentation" : "https://developer.android.com/docs",
 		"YT1" : "https://www.youtube.com/channel/UC9M7-jzdU8CVrQo1JwmIdWA",
@@ -287,7 +279,6 @@
 	},
 	   {
     "Title" : "AnimeJS",
-    "Search_title" : "animejs",
     "Tag" : "JavaScript Library",
     "Documentation" : "https://animejs.com/documentation/",
     "YT1" : "https://www.youtube.com/watch?v=uRDLFXxihgc",
@@ -314,7 +305,6 @@
   },
 	{
 		"Title" : "AngularJS",
-		"Search_title" : "angularjs",
 		"Tag" : "Web Framework",
 		"Documentation" : "https://angular.io/docs",
 		"YT1" : "https://www.youtube.com/watch?v=zKkUN-mJtPQ",
@@ -359,7 +349,6 @@
 	},
 	{
 		"Title" : "Ansible",
-		"Search_title" : "ansible",
 		"Tag" : "IT Configuration Management, Deployment & Orchestration tool",
 		"Documentation" : "https://docs.ansible.com",
 		"YT1" : "https://www.youtube.com/user/Simplilearn",
@@ -384,7 +373,6 @@
 	},
 	{
 		"Title" : "Apache Cordova",
-		"Search_title" : "apache cordova",
 		"Tag" : "Mobile Application Development Framework",
 		"Documentation" : "https://cordova.apache.org/docs/en/10.x/",
 		"YT1" : "https://www.youtube.com/watch?v=-JxciEQ1YnQ",
@@ -415,7 +403,6 @@
 	},
 	{
 		"Title" : "Apache Hadoop",
-		"Search_title" : "apache hadoop",
 		"Tag" : "Distributed storage and processing of big data",
 		"Documentation" : "http://hadoop.apache.org/docs/current/",
 		"YT1" : "https://www.youtube.com/user/edurekaIN",
@@ -450,7 +437,6 @@
 	},
 	{
 		"Title" : "Apache HBase",
-		"Search_title" : "apache hbase",
 		"Tag" : "Database",
 		"Documentation" : "https://hbase.apache.org/book.html",
 		"YT1" : "https://www.youtube.com/user/edurekaIN",
@@ -478,7 +464,6 @@
 	},
 	{
 		"Title" : "Apache Kafka",
-		"Search_title" : "apache kafka",
 		"Tag" : "Distributed computing",
 		"Documentation" : "https://kafka.apache.org/documentation/",
 		"YT1" : "https://www.youtube.com/user/Nephaste20",
@@ -511,7 +496,6 @@
 	},
 	{
 		"Title" : "Apache OpenJPA",
-		"Search_title" : "apache openjpa",
 		"Tag" : "object-relational mapping (ORM)",
 		"Documentation" : "http://openjpa.apache.org/documentation.html",
 		"YT1" : "https://www.youtube.com/watch?v=otinfgwkMbY",
@@ -527,7 +511,6 @@
 	},
 	{
 		"Title" : "Apache Spark",
-		"Search_title" : "apache spark",
 		"Tag" : "Software",
 		"Documentation" : "http://spark.apache.org/",
 		"YT1" : "https://www.youtube.com/watch?v=QaoJNXW6SQo",
@@ -577,7 +560,6 @@
 	},
 	{
 		"Title" : "Apache Storm",
-		"Search_title" : "apache storm",
 		"Tag" : "Computer program",
 		"Documentation" : "https://storm.apache.org/",
 		"YT1" : "https://www.youtube.com/watch?v=0mIEUibjtzk",
@@ -628,7 +610,6 @@
 	},
 	{
 		"Title" : "Apache Tomcat",
-		"Search_title" : "apache tomcat",
 		"Tag" : "Web Server",
 		"Documentation" : "http://tomcat.apache.org/",
 		"YT1" : "https://www.youtube.com/watch?v=u_InEBgRVcc",
@@ -652,7 +633,6 @@
 	},
 	{
 		"Title" : "Apex",
-		"Search_title" : "apex",
 		"Tag" : "Programming Language",
 		"Documentation" : "https://developer.salesforce.com/docs/",
 		"YT1" : "https://www.youtube.com/watch?v=68X85SxAU1g&list=PLaGX-30v1lh1e8roeCUumUEel5ukdPubj",
@@ -687,7 +667,6 @@
 	},
 	{
 		"Title" : "Appium",
-		"Search_title" : "appium",
 		"Tag" : "Open source test automation framework",
 		"Documentation" : "https://appium.io/docs/en/about-appium/intro/",
 		"YT1" : "https://www.youtube.com/playlist?list=PLhW3qG5bs-L8npSSZD6aWdYFQ96OEduhk",
@@ -718,7 +697,6 @@
 	},
 	{
 		"Title" : "ARDUINO",
-		"Search_title" : "arduino",
 		"Tag" : "Electronics hardware and software",
 		"Documentation" : "https://www.arduino.cc/",
 		"YT1" : "https://www.youtube.com/watch?v=EdXQUEMOfgU&list=PLPK2l9Knytg5s2dk8V09thBmNl2g5pRSr",
@@ -748,7 +726,6 @@
         },
 	{
 		"Title" : "Artificial Intelligence",
-		"Search_title" : "artificial intelligence",
 		"Tag" : "Development",
 		"Documentation" : "https://docs.microsoft.com/en-us/ai/",
 		"YT1" : "https://www.youtube.com/watch?v=XIrOM9oP3pA",
@@ -787,7 +764,6 @@
 	},
 	{
 		"Title" : "ASP",
-		"Search_title" : "asp",
 		"Tag" : "Open-Source, Server-Side Web-Application Framework",
 		"Documentation" : "https://docs.microsoft.com/en-us/aspnet/core/",
 		"YT1" : "https://www.youtube.com/playlist?list=PL6n9fhu94yhXQS_p1i-HLIftB9Y7Vnxlo",
@@ -824,7 +800,6 @@
 	 
 	{
 		"Title" : "Augmented Reality",
-		"Search_title" : "augmented reality",
 		"Tag" : "Development",
 		"Documentation" : "https://arvr.google.com/ar/",
 		"YT1" : "https://www.youtube.com/watch?v=zpiFZtPxo2w&list=PLb1h4A0yB97_TeFuf9TAEah3b-VyIYzF9",
@@ -850,7 +825,6 @@
 
 	{
 		"Title" : "Aurelia",
-		"Search_title" : "aurelia",
 		"Tag" : "JavaScript Framework",
 		"Documentation" : "https://aurelia.io/docs/",
 		"YT1" : "https://www.youtube.com/watch?v=yaX34x3OgQI",
@@ -882,7 +856,6 @@
 	 
 	{
 		"Title" : "AWK",
-		"Search_title" : "awk",
 		"Tag" : "Programming Language",
 		"Documentation" : "https://www.gnu.org/software/gawk/manual/gawk.html",
 		"YT1" : "https://likegeeks.com/awk-command/",
@@ -912,7 +885,6 @@
 	},
 	{
 		"Title" : "AWS",
-		"Search_title" : "aws",
 		"Tag" : "IT service management company",
 		"Documentation" : "https://docs.aws.amazon.com/",
 		"YT1" : "https://www.youtube.com/watch?v=k1RI5locZE4",
@@ -950,7 +922,6 @@
 	},
 	{
 		"Title" : "Azure",
-		"Search_title" : "azure",
 		"Tag" : "Cloud Computing Service",
 		"Documentation" : "https://docs.microsoft.com/en-us/azure/",
 		"YT1" : "https://www.youtube.com/watch?v=tDuruX7XSac",
@@ -1001,7 +972,6 @@
 	},
 	{
 		"Title" : "Backbone.js",
-		"Search_title" : "backbonejs",
 		"Tag" : "JavaScript library",
 		"Documentation" : "https://backbonejs.org/docs/backbone.html",
 		"YT1" : "https://www.youtube.com/playlist?list=PLT9miexWCpPUfPUGeQUMXQ9WS9rrbxI2D",
@@ -1033,7 +1003,6 @@
 	},
 {
     "Title" : "Backend Development",
-    "Search_title" : "backend development",
     "Tag" : "Development",
     "Documentation" : "https://nodejs.org/en/docs/",
 
@@ -1100,7 +1069,6 @@
 },
 	{
 		"Title" : "Beautifulsoup",
-		"Search_title" : "beautifulsoup",
 		"Tag" : "Python Library",
 		"Documentation" : "https://pypi.org/project/beautifulsoup4/",
 		"YT1" : "https://www.youtube.com/watch?v=mKxFfjNyj3c",
@@ -1131,7 +1099,6 @@
 
 	{
 		"Title" : "Big Data",
-		"Search_title" : "big data",
 		"Tag" : "Data Analytics",
 		"Documentation" : "https://docs.oracle.com/en/bigdata/index.html",
 		"YT1" : "https://www.youtube.com/watch?v=1vbXmCrkT3Y",
@@ -1162,7 +1129,6 @@
 	},
 	{
 		"Title" : "Blazor",
-		"Search_title" : "blazor",
 		"Tag" : "C# Framework",
 		"Documentation" : "https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-5.0",
 		"YT1" : "https://www.youtube.com/watch?v=4G_BzLxa9Nw",
@@ -1190,7 +1156,6 @@
 	},
 	{
 		"Title" : "Blender",
-		"Search_title" : "blender",
 		"Tag" : "3D modeling and animation program",
 		"Documentation" : "https://docs.blender.org/manual/en/latest/",
 		"YT1" : "https://www.youtube.com/user/AndrewPPrice",
@@ -1212,7 +1177,6 @@
 	},
 	{
 		"Title" : "Blockchain",
-		"Search_title" : "blockchain",
 		"Tag" : "Database",
 		"Documentation" : "https://www.blockchain.com/api",
 		"YT1" : "https://www.youtube.com/playlist?list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-",
@@ -1256,7 +1220,6 @@
 	},
 	{
 		"Title" : "Blockly",
-		"Search_title" : "blockly",
 		"Tag" : "Software",
 		"Documentation" : "https://developers.google.com/blockly/guides/get-started/web",
 		"YT1" : "https://www.youtube.com/watch?v=lPVJjQbEeN0",
@@ -1288,7 +1251,6 @@
 	},
 	{
 		"Title" : "Bootstrap",
-		"Search_title" : "bootstrap",
 		"Tag" : "CSS Framework",
 		"Documentation" : "https://getbootstrap.com/docs/5.0/getting-started/introduction/",
 		"YT1" : "https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA",
@@ -1309,7 +1271,6 @@
 	},
 	{
 		"Title" : "Bugzilla",
-		"Search_title" : "bugzilla",
 		"Tag" : "System Software",
 		"Documentation" : "https://www.bugzilla.org/docs/",
 		"YT1" : "https://www.youtube.com/playlist?list=PLd43cTxFZWlflQiIdhCNcxJ0XFEouK-Bi",
@@ -1344,7 +1305,6 @@
 	},
 	{
 		"Title" : "Buildbox",
-		"Search_title" : "buildbox",
 		"Tag" : "Video Game Software",
 		"Documentation" : "https://www.buildbox.com/help/buildbox-3-manual/getting-started/",
 		"YT1" : "https://www.youtube.com/watch?v=Q6dPjahX1ts&t=66s",
@@ -1374,7 +1334,6 @@
 	},
 	{
     "Title" : "C",
-    "Search_title" : "c",
     "Tag" : "Programming Language",
     "Documentation" : "https://devdocs.io/c/",
     "YT1" : "https://www.youtube.com/watch?v=KJgsSFOSQv0",
@@ -1407,7 +1366,6 @@
   },
 	{
 		"Title" : "C#",
-		"Search_title" : "c#",
 		"Tag" : "Programming language",
 		"Documentation" : "https://docs.microsoft.com/en-us/dotnet/csharp/",
 		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -1441,7 +1399,6 @@
 	},
 	{
 		"Title" : "C++",
-		"Search_title" : "c++",
 		"Tag" : "Programming Language",
 		"Documentation" : "https://devdocs.io/cpp/",
 		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -1462,7 +1419,6 @@
 	},
 	{
 		"Title" : "CakePHP",
-		"Search_title" : "cakephp",
 		"Tag" : "PHP Framework",
 		"Documentation" : "https://book.cakephp.org/2/en/contributing/documentation.html",
 		"YT1" : "https://www.youtube.com/watch?v=747K6W40ur0",
@@ -1494,7 +1450,6 @@
 	},
 	{
 		"Title" : "Chart.js",
-		"Search_title" : "chartjs",
 		"Tag" : "Javascript Library",
 		"Documentation" : "https://www.chartjs.org/docs/latest/",
 		"YT1" : "https://www.youtube.com/watch?v=sE08f4iuOhA",
@@ -1522,7 +1477,6 @@
 	},
 	{
 		"Title" : "Chef",
-		"Search_title" : "chef",
 		"Tag" : "Configuration management tool",
 		"Documentation" : "https://docs.chef.io",
 		"YT1" : "https://www.youtube.com/user/Simplilearn",
@@ -1548,7 +1502,6 @@
 	},
 	{
 		"Title" : "Cinema 4D",
-		"Search_title" : "cinema 4d",
 		"Tag" : "Software",
 		"Documentation" : "https://help.maxon.net/r23/en-us/",
 		"YT1" : "https://www.youtube.com/watch?v=ReEEpYjW_yI&list=PL_dhPga7ruudlDZLjrdTK0qmf940Qf0Cp",
@@ -1580,7 +1533,6 @@
 	},
 	{
 		"Title" : "Clojure",
-		"Search_title" : "clojure",
 		"Tag" : "Programming language",
 		"Documentation" : "https://clojure.org/",
 		"YT1" : "https://www.youtube.com/watch?v=ciGyHkDuPAE",
@@ -1612,7 +1564,6 @@
 	},
 	{
 		"Title" : "Cloud Computing",
-		"Search_title" : "cloud computing",
 		"Tag" : "Computer Service",
 		"Documentation" : "https://cloud.google.com/docs",
 		"YT1" : "https://www.youtube.com/watch?v=2LaAJq1lB1Q",
@@ -1653,7 +1604,6 @@
 	},
     {
 	"Title" : "CloudForms",
-	"Search_title" : "cloudforms",
 	"Tag" : "Cloud management platform",
 	"Documentation" : "https://access.redhat.com/documentation/en-us/red_hat_cloudforms/4.7",
 	"YT1" : "https://www.youtube.com/watch?v=CzZePcEYKGo",
@@ -1682,7 +1632,6 @@
     },
 	{	
 		"Title" : "CNN",
-		"Search_title" : "cnn",
 		"Tag" : "The Keras library in Python",
 		"Documentation" : "https://www.python.org/",
 		"YT1" : "https://www.youtube.com/watch?v=Jy9-aGMB_TE",
@@ -1707,7 +1656,6 @@
 	},
 	{
 		"Title" : "Codeigniter",
-		"Search_title" : "codeigniter",
 		"Tag" : "PHP Framework",
 		"Documentation" : "https://codeigniter.com/docs",
 		"YT1" : "https://www.youtube.com/watch?v=I752ofYu7ag",
@@ -1741,7 +1689,6 @@
 	},
 	{
 		"Title" : "Competitive Programming",
-		"Search_title" : "competitive programming",
 		"Tag" : "Brain Storming",
 		"Documentation" : "https://cp-algorithms.com",
 		"YT1" : "https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg",
@@ -1796,7 +1743,6 @@
 	},
 	{
 		"Title" : "Computer Networks",
-		"Search_title" : "computer networks",
 		"Tag" : "Communication Protocol",
 		"Documentation" : "https://en.wikipedia.org/wiki/Computer_network",
 		"YT1" : "https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx",
@@ -1821,7 +1767,6 @@
 	},
 	{
 		"Title" : "Computer Organization and Architecture",
-		"Search_title" : "computer organization and architecture",
 		"Tag" : "Architecture, Organization, Design Of Computer",
 		"Documentation" : "https://en.wikipedia.org/wiki/Word_(computer_architecture)",
 		"YT1" : "https://youtube.com/playlist?list=PLsFENPUZBqiprGoEWrpexJPlPjmfPCtzM",
@@ -1847,7 +1792,6 @@
 
       {
 		"Title" : "Computer Vision",
-		"Search_title" : "computer vision",
 		"Tag" : "Development",
 		"Documentation" : "https://en.wikipedia.org/wiki/Computer_vision",
 		"YT1" : "https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ",
@@ -1880,7 +1824,6 @@
         },
 {	
 	"Title" : "Consul",
-	"Search_title" : "consul",
 	"Tag" : "Software",
 	"Documentation" : "https://www.consul.io/docs",
 	"YT1" : "https://www.youtube.com/watch?v=5iAVi2hctSI",
@@ -1928,7 +1871,6 @@
 
 	{
 		"Title" : "CryEngine",
-		"Search_title" : "cryengine",
 		"Tag" : "Game engine",
 		"Documentation" : "https://docs.cryengine.com",
 		"YT1" : "https://www.youtube.com/user/CryDevPortal",
@@ -1956,7 +1898,6 @@
 	},
 	{
 		"Title" : "Cryptography",
-		"Search_title" : "cryptography",
 		"Tag" : "Field of study",
 		"Documentation" : "https://cryptography.io/en/latest/",
 		"YT1" : "https://www.youtube.com/watch?v=5jpgMXt1Z9Y",
@@ -1990,7 +1931,6 @@
 	},
 	{
 		"Title" : "CSS",
-		"Search_title" : "css",
 		"Tag" : "Stylesheet Language",
 		"Documentation" : "https://developer.mozilla.org/en-US/docs/Web/CSS",
 		"YT1" : "https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw",
@@ -2015,7 +1955,6 @@
 	},
 	{
 		"Title" : "CUDA",
-		"Search_title" : "cuda",
 		"Tag" : "Application Programming Interfaces",
 		"Documentation" : "https://docs.nvidia.com/cuda/",
 		"YT1" : "https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK",
@@ -2036,7 +1975,6 @@
 	},
 	{
 		"Title" : "Cyber Security",
-		"Search_title" : "cyber security",
 		"Tag" : " Information Technology Security",
 		"Documentation" : "https://en.wikipedia.org/wiki/Computer_security",
 		"YT1" : "https://www.youtube.com/watch?v=PlHnamdwGmw",
@@ -2074,7 +2012,6 @@
 	
 	{	
 	"Title" : "D",
-	"Search_title" : "d",
 	"Tag" : "Programming language",
 	"Documentation" : "https://dlang.org/",
 	"YT1" : "https://www.youtube.com/watch?v=rwZFTnf9bDU",
@@ -2121,7 +2058,6 @@
 	
 	{
 		"Title" : "Dart",
-		"Search_title" : "",
 		"Tag" : "Programming language",
 		"Documentation" : "https://dart.dev/guides",
 		"YT1" : "https://www.youtube.com/watch?v=OLjyCy-7U2U",
@@ -2151,7 +2087,6 @@
 	},
 	{	
 		"Title" : "Data Mining",
-		"Search_title" : "",
 		"Tag" : "Data Analysis",
 		"Documentation" : "https://www.oracle.com/database/technologies/advanced-analytics/odm-documentation.html",
 		"YT1" : "https://www.youtube.com/watch?v=z--2rCShvL0",
@@ -2183,7 +2118,6 @@
 	 
 	{
 		"Title" : "Data Engineering",
-		"Search_title" : "",
 		"Tag" : "Development",
 		"Documentation" : "https://docs.oracle.com/en/database/oracle/oracle-database/",
 		"YT1" : "https://www.youtube.com/watch?v=pERD1Ln_Qh8&list=PLjQy-obJQIiNzLO8RFcsBLo6PALbv3F-1",
@@ -2209,7 +2143,6 @@
 
 	{
 		"Title" : "Data Science",
-		"Search_title" : "",
 		"Tag" : "Development",
 		"Documentation" : "https://python-data-science.readthedocs.io/en/latest/",
 		"YT1" : "https://youtu.be/-ETQ97mXXF0",
@@ -2237,7 +2170,6 @@
 	},
 	{
 		"Title" : "Deep Learning",
-		"Search_title" : "",
 		"Tag" : "Development",
 		"Documentation" : "https://en.wikipedia.org/wiki/Deep_learning",
 		"YT1" : "https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI",
@@ -2268,7 +2200,6 @@
 	
 	{
 		"Title" : "DevOps",
-		"Search_title" : "",
 		"Tag" : "Development+Operation",
 		"Documentation" : "https://docs.microsoft.com/en-us/azure/devops-project/",
 		"YT1" : "https://www.youtube.com/watch?v=_Gpe1Zn-1fE",
@@ -2298,7 +2229,6 @@
 	},
 	{
 		"Title" : "DirectX",
-		"Search_title" : "",
 		"Tag" : "Application Programming Interfaces",
 		"Documentation" : "https://docs.microsoft.com/en-us/windows/win32/getting-started-with-directx-graphics",
 		"YT1" : "https://www.youtube.com/playlist?list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD",
@@ -2318,7 +2248,6 @@
 	},
 	{
 		"Title" : "Discord.js",
-		"Search_title" : "",
 		"Tag" : "Node.js module",
 		"Documentation" : "https://discord.js.org/",
 		"YT1" : "https://www.youtube.com/playlist?list=PLaxxQQak6D_fxb9_-YsmRwxfw5PH9xALe",
@@ -2349,7 +2278,6 @@
 	},
 	{
 		"Title" : "Django",
-		"Search_title" : "",
 		"Tag" : "Python Framework",
 		"Documentation" : "https://docs.djangoproject.com/en/3.1/",
 		"YT1" : "https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK",
@@ -2379,7 +2307,6 @@
 	},
 	{
 		"Title" : "Docker",
-		"Search_title" : "",
 		"Tag" : "PaaS Development Tool",
 		"Documentation" : "https://docs.docker.com/",
 		"YT1" : "https://www.youtube.com/channel/UCCLgKER7DNJc5sGXjMktsXg",
@@ -2407,7 +2334,6 @@
 	
 	{
 		"Title" : "Dtale Library",
-		"Search_title" : "",
 		"Tag" : "Python Library",
 		"Documentation" : "https://pypi.org/project/dtale/",
 		"YT1" : "https://www.youtube.com/watch?v=xSXGcuiEzUc",
@@ -2430,7 +2356,6 @@
 	 
 	 {	
 	"Title" : "ECMAScript",
-	"Search_title" : "",
 	"Tag" : "Programming language",
 	"Documentation" : "https://262.ecma-international.org/5.1/",
 	"YT1" : "https://www.youtube.com/watch?v=IEf1KAcK6A8",
@@ -2485,7 +2410,6 @@
 	 
 	{
 		"Title" : "Elasticsearch",
-		"Search_title" : "",
 		"Tag" : "Database",
 		"Documentation" : "https://www.elastic.co/guide/index.html",
 		"YT1" : "https://www.youtube.com/user/edurekaIN",
@@ -2515,7 +2439,6 @@
 	},
 	{
 		"Title" : "Electron",
-		"Search_title" : "",
 		"Tag" : "Software framework",
 		"Documentation" : "https://www.electronjs.org/docs",
 		"YT1" : "https://www.youtube.com/watch?v=kN1Czs0m1SU",
@@ -2549,7 +2472,6 @@
 	},
 	{
 		"Title" : "Elixir",
-		"Search_title" : "",
 		"Tag" : "Dynamic and Functional programming language",
 		"Documentation" : "https://elixir-lang.org/docs.html",
 		"YT1" : "https://www.youtube.com/watch?v=pBNOavRoNL0",
@@ -2581,7 +2503,6 @@
 	},
 	{	
 		"Title" : "Elm",
-		"Search_title" : "",
 		"Tag" : "Programming language",
 		"Documentation" : "https://elm-lang.org/",
 		"YT1" : "https://www.youtube.com/watch?v=vgsckgtVdoQ",
@@ -2633,7 +2554,6 @@
 	},	
 	{
 		"Title" : "Ember.js",
-		"Search_title" : "",
 		"Tag" : "JavaScript web framework",
 		"Documentation" : "https://guides.emberjs.com/release/",
 		"YT1" : "https://www.youtube.com/watch?v=_JfNuppX1n8",
@@ -2680,7 +2600,6 @@
 	},
 	{	
 		"Title" : "Erlang",
-		"Search_title" : "",
 		"Tag" : "Programming language",
 		"Documentation" : "https://www.erlang.org/docs",
 		"YT1" : "https://www.youtube.com/watch?v=IEhwc2q1zG4",
@@ -2732,7 +2651,6 @@
 	},
 	{
 		"Title" : "Ethereum",
-		"Search_title" : "",
 		"Tag" : "Decentralized Software",
 		"Documentation" : "https://ethereum.org/en/developers/docs/intro-to-ethereum/",
         "YT1" : "https://www.youtube.com/watch?v=DhoRtGCp4JI",
@@ -2781,7 +2699,6 @@
 	 
 	{
 		"Title" : "Ethical Hacking",
-		"Search_title" : "",
 		"Tag" : "Computer Security",
 		"Documentation" : "https://www.eccouncil.org/ethical-hacking/",
 		"YT1" : "https://www.youtube.com/c/LiveOverflowCTF",
@@ -2819,7 +2736,6 @@
 
 	{
 		"Title" : "Express.js",
-		"Search_title" : "",
 		"Tag" : "Web framework for Node.js",
 		"Documentation" : "https://expressjs.com/en/starter/installing.html",
 		"YT1" : "https://www.youtube.com/watch?v=L72fhGm1tfE",
@@ -2877,7 +2793,6 @@
 	},
 	{	
 		"Title" : "ExtJs",
-		"Search_title" : "",
 		"Tag" : "Extended JavaScript Framework",
 		"Documentation" : "https://docs.sencha.com/extjs/6.2.0/",
 		"YT1" : "https://www.youtube.com/playlist?list=PL8p2I9GklV47EtM9MtAncMf4XLDJjaLkz",
@@ -2908,7 +2823,6 @@
 	},
 	{	
 		"Title" : "F#",
-		"Search_title" : "",
 		"Tag" : "Programming language",
 		"Documentation" : "https://docs.microsoft.com/en-us/dotnet/fsharp/what-is-fsharp",
 		"YT1" : "https://www.youtube.com/watch?v=c7eNDJN758U",
@@ -2958,7 +2872,6 @@
 	},
   {	
 	"Title" : "Fabric",
-	"Search_title" : "",
 	"Tag" : "Python Library",
 	"Documentation" : "http://www.fabfile.org/",
 	"YT1" : "https://www.youtube.com/watch?v=33MceBzq7XQ",
@@ -2996,7 +2909,6 @@
 	},
 	{
 		"Title" : "Figma",
-		"Search_title" : "",
 		"Tag" : "Digital Design Tool",
 		"Documentation" : "https://www.figma.com/plugin-docs/intro/",
 		"YT1" : "https://www.youtube.com/watch?v=Cx2dkpBxst8",
@@ -3022,7 +2934,6 @@
 	},
 	{
 		"Title" : "FireBase",
-		"Search_title" : "",
 		"Tag" : "NoSQL database program",
 		"Documentation" : "https://firebase.google.com/docs",
 		"YT1" : "https://www.youtube.com/watch?v=O17OWyx08Cg",
@@ -3057,7 +2968,6 @@
 	},
 	{	
 		"Title" : "Flask",
-		"Search_title" : "",
 		"Tag" : "Python Web Framework",
 		"Documentation" : "https://flask.palletsprojects.com/en/1.1.x/",
 		"YT1" : "https://www.youtube.com/watch?v=Z1RJmh_OqeA",
@@ -3095,7 +3005,6 @@
 	},
 	{   
 		"Title" : "Flutter",
-		"Search_title" : "",
 		"Tag" : "Software Development Kit",
 		"Documentation" : "https://flutter.dev/docs",
 		"YT1" : "https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw",
@@ -3135,7 +3044,6 @@
 	},
 {
     "Title" : "Frontend Development",
-    "Search_title" : "",
     "Tag" : "Development",
     "Documentation" : "https://devdocs.io/html/",
 
@@ -3205,7 +3113,6 @@
 	
 	{
 		"Title" : "Gamemaker",
-		"Search_title" : "",
 		"Tag" : "Game Engine",
 		"Documentation" : "https://manual.yoyogames.com/#t=Content.htm",
 		"YT1" : "https://www.youtube.com/watch?v=1ynOf-EblXA",
@@ -3241,7 +3148,6 @@
 	},
 	{
 		"Title" : "GCP",
-		"Search_title" : "",
 		"Tag" : "Google Cloud Platform: A suite of cloud computing services",
 		"Documentation" : "https://cloud.google.com/docs/overview",
 		"YT1" : "https://www.youtube.com/user/googlecloudplatform",
@@ -3268,7 +3174,6 @@
 	},
 	{
 		"Title" : "GIMP",
-		"Search_title" : "",
 		"Tag" : "Graphics editor",
 		"Documentation" : "https://www.gimp.org/docs/",
 		"YT1" : "https://www.youtube.com/user/darkskeletontuts",
@@ -3292,7 +3197,6 @@
 	},
 	{
 		"Title" : "Git",
-		"Search_title" : "",
 		"Tag" : "Version Control System",
 		"Documentation" : "https://git-scm.com/doc",
         "YT1" : "https://www.youtube.com/watch?v=SWYqp7iY_Tc",
@@ -3334,7 +3238,6 @@
 },
 	{
 		"Title" : "Go",
-		"Search_title" : "",
 		"Tag" : "Programming language",
 		"Documentation" : "https://golang.org/doc/",
 		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -3371,7 +3274,6 @@
 	},
 	{
 		"Title" : "Godot",
-		"Search_title" : "",
 		"Tag" : "Game Engine",
 		"Documentation" : "https://godotengine.org//",
 		"YT1" : "https://www.youtube.com/watch?v=Mc13Z2gboEk",
@@ -3408,7 +3310,6 @@
 	},
 	{
 		"Title" : "GraphDB",
-		"Search_title" : "",
 		"Tag" : "Database",
 		"Documentation" : "https://graphdb.ontotext.com/documentation/standard/",
 		"YT1" : "https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw",
@@ -3436,7 +3337,6 @@
 	},
 	{
 		"Title" : "GraphQL",
-		"Search_title" : "",
 		"Tag" : "Data query and manipulation language",
 		"Documentation" : "https://graphql.org/learn/",
 		"YT1" : "https://www.youtube.com/user/hiteshitube",
@@ -3476,7 +3376,6 @@
 	},
 	{
 		"Title" : "Groovy",
-		"Search_title" : "",
 		"Tag" : "Programming language",
 		"Documentation" : "http://docs.groovy-lang.org/next/html/documentation/",
 		"YT1" : "https://www.youtube.com/user/derekbanas",
@@ -3496,7 +3395,6 @@
 	
         {	
 	"Title" : "Hack",
-	"Search_title" : "",
 	"Tag" : "Programming language",
 	"Documentation" : "https://docs.hhvm.com/hack/",
 	"YT1" : "https://www.youtube.com/watch?v=eDz8IbGsVrc",
@@ -3533,7 +3431,6 @@
 	
 	{
 		"Title" : "Haskell",
-		"Search_title" : "",
 		"Tag" : "Functional programming language",
 		"Documentation" : "https://www.haskell.org/documentation/",
 		"YT1" : "https://www.youtube.com/watch?v=F8OeEWt0Swg&list=PLJ5C_6qdAvBFJP1RiUrUUJI4GEhnJhgQw",
@@ -3565,7 +3462,6 @@
 	},
 	{
 		"Title" : "Heroku",
-		"Search_title" : "",
 		"Tag" : "Cloud Application Platform",
 		"Documentation" : "https://devcenter.heroku.com/categories/reference",
 		"YT1" : "https://www.youtube.com/watch?v=aUW5GAFhu6s",
@@ -3597,7 +3493,6 @@
 	},
 	{
 		"Title" : "Hibernate",
-		"Search_title" : "",
 		"Tag" : "object-relational mapping(ORM)",
 		"Documentation" : "https://hibernate.org/orm/documentation/5.4/",
 		"YT1" : "https://www.youtube.com/watch?v=7iFfbCBQlg8",
@@ -3615,7 +3510,6 @@
 	},
 	{
 		"Title" : "Houdini",
-		"Search_title" : "",
 		"Tag" : "Software",
 		"Documentation" : "https://www.sidefx.com/docs/",
 		"YT1" : "https://www.youtube.com/watch?v=K7UAVUzRP4Q",
@@ -3647,7 +3541,6 @@
 	},
 	{
 		"Title" : "HTML",
-		"Search_title" : "",
 		"Tag" : "Markup Language",
 		"Documentation" : "https://html.spec.whatwg.org/",
 		"YT1" : "https://www.youtube.com/channel/UC2FYFz_AQaKBMyrZe1Rrqyg",
@@ -3685,7 +3578,6 @@
 	},
 	{
 		"Title" : "HTTP",
-		"Search_title" : "",
 		"Tag" : "Application layer protocol",
 		"Documentation" : "https://devdocs.io/http/",
 		"YT1" : "https://www.youtube.com/watch?v=iYM2zFP3Zn0",
@@ -3720,7 +3612,6 @@
 	},
 	{
 		"Title" : "Inkscape",
-		"Search_title" : "",
 		"Tag" : "Computer application",
 		"Documentation" : "https://inkscape.org/*docs/",
 		"YT1" : "https://www.youtube.com/watch?v=Pyfw3FqlWmo",
@@ -3753,7 +3644,6 @@
 	 
 	{
 		"Title" : "Invision",
-		"Search_title" : "",
 		"Tag" : "Software",
 		"Documentation" : "https://www.invisionapp.com/",
 		"YT1" : "https://www.youtube.com/channel/UCndfHdRdEiGOyCOgxQ4W9YQ",
@@ -3778,7 +3668,6 @@
  
 	{
 		"Title" : "Ionic",
-		"Search_title" : "",
 		"Tag" : "Framework",
 		"Documentation" : "https://ionicframework.com/docs",
 		"YT1" : "https://www.youtube.com/watch?v=r2ga-iXS5i4",
@@ -3817,7 +3706,6 @@
 	},
 	{
 		"Title" : "iOS",
-		"Search_title" : "",
 		"Tag" : "Operating system",
 		"Documentation" : "https://developer.apple.com/ios/",
 		"YT1" : "https://www.youtube.com/watch?v=09TeUXjzpKs",
@@ -3870,7 +3758,6 @@
 	{
 		
 		"Title" : "IoT",
-		"Search_title" : "",
 		"Tag" : "Software",
 		"Documentation" : "https://cloud.google.com/iot/docs",
         "YT1" : "https://www.youtube.com/watch?v=6mBO2vqLv38",
@@ -3907,7 +3794,6 @@
 	},
 	 {	
 	"Title" : "J",
-	"Search_title" : "",
 	"Tag" : "Programming language",
 	"Documentation" : "https://www.jsoftware.com/#/README",
 	"YT1" : "https://www.youtube.com/watch?v=gPS6qEkZ-nw",
@@ -3944,7 +3830,6 @@
 
 	{	
 	"Title" : "JSON",
-	"Search_title" : "",
 	"Tag" : "Programming language",
 	"Documentation" : "https://www.json.org/json-en.html",
 	"YT1" : "https://www.youtube.com/watch?v=iiADhChRriM",
@@ -3993,7 +3878,6 @@
 
 	{	
 	"Title" : "Jakarta Server Pages",
-	"Search_title" : "",
 	"Tag" : "Programming language",
 	"Documentation" : "https://docs.oracle.com/javaee/5/tutorial/doc/bnajo.html",
 	"YT1" : "https://www.youtube.com/watch?v=OuBUUkQfBYM",
@@ -4046,7 +3930,6 @@
 	},
 	{
 		"Title" : "Java",
-		"Search_title" : "",
 		"Tag" : "Programming Language",
 		"Documentation" : "https://docs.oracle.com/en/java/",
 		"YT1" : "https://youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q",
@@ -4072,7 +3955,6 @@
 	},
 	{
 		"Title" : "JavaScript",
-		"Search_title" : "",
 		"Tag" : "Scripting Language",
 		"Documentation" : "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
 		"YT1" : "https://www.youtube.com/watch?v=PkZNo7MFNFg",
@@ -4105,7 +3987,6 @@
 	},
 	{
 		"Title" : "Jekyll",
-		"Search_title" : "",
 		"Tag" : "Static site generator",
 		"Documentation" : "https://jekyllrb.com/docs/",
 		"YT1" : "https://youtu.be/mITMoheyvW4",
@@ -4127,7 +4008,6 @@
 	},
 	{
 		"Title" : "Jenkins",
-		"Search_title" : "",
 		"Tag" : "automation tool",
 		"Documentation" : "https://www.jenkins.io/doc/",
 		"YT1" : "https://www.youtube.com/watch?v=FX322RVNGj4",
@@ -4152,7 +4032,6 @@
 	
 	{
 		"Title" : "Jira",
-		"Search_title" : "",
 		"Tag" : "Bug tracking software",
 		"Documentation" : "https://confluence.atlassian.com/jira/jira-documentation-1556.html",
 		"YT1" : "https://www.youtube.com/watch?v=uM_m6EzMg3k",
@@ -4179,7 +4058,6 @@
 	},
 	{
 		"Title" : "jQuery",
-		"Search_title" : "",
 		"Tag" : " JavaScript library",
 		"Documentation" : "https://api.jquery.com/",
 		"YT1" : "https://www.youtube.com/watch?v=hMxGhHNOkCU",
@@ -4228,7 +4106,6 @@
 
         {	
 	"Title" : "JSX",
-	"Search_title" : "",
 	"Tag" : "Programming Language",
 	"Documentation" : "https://reactjs.org/docs/introducing-jsx.html",
 	"YT1" : "https://www.youtube.com/watch?v=7fPXI_MnBOY",
@@ -4281,7 +4158,6 @@
 	},
 	{
 		"Title" : "Julia",
-		"Search_title" : "",
 		"Tag" : "Programming Language",
 		"Documentation" : "https://julialang.org/",
 		"YT1" : "https://www.youtube.com/watch?v=4igzy3bGVkQ&list=PLP8iPy9hna6SCcFv3FvY_qjAmtTsNYHQE",
@@ -4317,7 +4193,6 @@
 
 	{	
 		"Title" : "JWT",
-		"Search_title" : "",
 		"Tag" : "Internet open standard",
 		"Documentation" : "https://jwt.io/introduction",
 		"YT1" : "https://www.youtube.com/watch?v=7Q17ubqLfaM&t=4s",
@@ -4368,7 +4243,6 @@
         
 	{
 		"Title" : "Keras",
-		"Search_title" : "",
 		"Tag" : "API",
 		"Documentation" : "https://keras.io/api/",
 		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -4408,7 +4282,6 @@
 	},
 	{
 		"Title" : "Kibana",
-		"Search_title" : "",
 		"Tag" : "Data visualization",
 		"Documentation" : "https://www.elastic.co/guide/index.html",
 		"YT1" : "https://www.youtube.com/user/edurekaIN",
@@ -4439,7 +4312,6 @@
 	},
 	{
 		"Title" : "Kotlin",
-		"Search_title" : "",
 		"Tag" : "Programming Language",
 		"Documentation" : "https://kotlinlang.org/",
 		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -4460,7 +4332,6 @@
 	},
 	{
 		"Title" : "Kubernetes",
-		"Search_title" : "",
 		"Tag" : "container-orchestration system",
 		"Documentation" : "https://kubernetes.io/docs/home/",
 		"YT1" : "https://www.youtube.com/watch?v=X48VuDVv0do",
@@ -4481,7 +4352,6 @@
 	},
 	{
 		"Title" : "Laravel",
-		"Search_title" : "",
 		"Tag" : "PHP Framework",
 		"Documentation" : "https://laravel.com/docs/8.x/readme",
 		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -4506,7 +4376,6 @@
 	},
 	{
 		"Title" : "Lightworks",
-		"Search_title" : "",
 		"Tag" : "System software",
 		"Documentation" : "https://cdn.lwks.com/docs/2020.1/Lightworks_2020.1_User_Guide.pdf",
 		"YT1" : "https://www.youtube.com/watch?v=W1MLW6_bpDk",
@@ -4533,7 +4402,6 @@
 	
 	{	
 	"Title" : "Less",
-	"Search_title" : "",
 	"Tag" : "Programming language",
 	"Documentation" : "https://lesscss.org/",
 	"YT1" : "https://www.youtube.com/watch?v=YQYJUeokqOY&list=PL6gx4Cwl9DGCshbAx1JpBtNoKh8iKAAiy",
@@ -4584,7 +4452,6 @@
 	},
 	 {
 		"Title" : "Linux",
-		"Search_title" : "",
 		"Tag" : " Operating System",
 		"Documentation" : " https://www.linux.org/",
 
@@ -4620,7 +4487,6 @@
 	},
 	{
 		"Title" : "Lisp",
-		"Search_title" : "",
 		"Tag" : "Family of programming languages",
 		"Documentation" : "https://common-lisp.net/documentation",
 		"YT1" : "https://www.youtube.com/watch?v=ymSq4wHrqyU",
@@ -4651,7 +4517,6 @@
 	},
 	{
 		"Title" : "Logstash",
-		"Search_title" : "",
 		"Tag" : "Data processing pipeline",
 		"Documentation" : "https://www.elastic.co/guide/en/logstash/current/introduction.html",
 		"YT1" : "https://www.youtube.com/channel/UCu4mLxrAkMEcjK9N1yJOxyA",
@@ -4681,7 +4546,6 @@
 	},
 	{
 		"Title" : "LÖVE",
-		"Search_title" : "",
 		"Tag" : "Game Engine",
 		"Documentation" : "https://love2d.org/wiki/Main_Page",
 		"YT1" : "https://www.youtube.com/watch?v=yrIwFflGeyA",
@@ -4709,7 +4573,6 @@
 	},
 	{
 		"Title" : "Lua",
-		"Search_title" : "",
 		"Tag" : "High-level programming language",
 		"Documentation" : "https://www.lua.org/docs.html",
 		"YT1" : "https://www.youtube.com/watch?v=-iU1pCgmjx4&list=PLxgtJR7f0RBKGid7F2dfv7qc-xWwSee2O",
@@ -4741,7 +4604,6 @@
 	},
 	{
 	    "Title" : "Machine Learning",
-	    "Search_title" : "",
 	    "Tag" : "Development",
 	    "Documentation" : "https://docs.microsoft.com/en-us/azure/machine-learning/",
 	    "YT1" : "https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN",
@@ -4763,7 +4625,6 @@
 	},
 	 {
     "Title" : "Material UI",
-    "Search_title" : "",
     "Tag" : "Framework",
     "Documentation" : "https://material-ui.com/getting-started/installation/",
     "YT1" : "https://www.youtube.com/watch?v=Xoz31I1FuiY",
@@ -4793,7 +4654,6 @@
   },
 	{
 		"Title" : "MATLAB",
-		"Search_title" : "",
 		"Tag" : "Matrix-based language",
 		"Documentation" : "https://in.mathworks.com/help/matlab/",
 		"YT1" : "https://www.youtube.com/user/MATLAB",
@@ -4834,7 +4694,6 @@
     },
 	{
 		"Title" : "Matplotlib",
-		"Search_title" : "",
 		"Tag" : "Python Library",
 		"Documentation" : "https://matplotlib.org/stable/contents.html",
 		"YT1" : "https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_",
@@ -4860,7 +4719,6 @@
 	},
 	{
 		"Title" : "Maya",
-		"Search_title" : "",
 		"Tag" : "3D modeling and animation program",
 		"Documentation" : "https://knowledge.autodesk.com/support/maya/getting-started/caas/simplecontent/content/maya-documentation.html",
 		"YT1" : "https://www.youtube.com/user/Autodesk",
@@ -4887,7 +4745,6 @@
 	},
 	{
 		"Title" : "MERN Stack",
-		"Search_title" : "",
 		"Tag" : "Web Development Framework",
 		"Documentation" : "https://www.mongodb.com/mern-stack",
 		"YT1" : "https://www.youtube.com/watch?v=7CqJlxBYj-M",
@@ -4913,7 +4770,6 @@
 	},
 	{
 		"Title" : "Metal",
-		"Search_title" : "",
 		"Tag" : "GPU-accelerated graphics and compute framework",
 		"Documentation" : "https://developer.apple.com/documentation/metal",
 		"YT1" : "https://www.youtube.com/playlist?list=PL23Revp-82LJG3vcDPm8w7b5HTKjBOY0W",
@@ -4940,7 +4796,6 @@
 	
 	{	
 	"Title" : "Meta Language",
-	"Search_title" : "",
 	"Tag" : "Programming language",
 	"Documentation" : "http://web.cecs.pdx.edu/~black/CS311/ML.html",
 	"YT1" : "https://www.youtube.com/watch?v=2sqjUWGGzTo",
@@ -4979,7 +4834,6 @@
 
     {
 		"Title" : "Meteor",
-		"Search_title" : "",
 		"Tag" : "JavaScript Framework",
 		"Documentation" : "https://guide.meteor.com/",
 		"YT1" : "https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV",
@@ -5016,7 +4870,6 @@
 
 	{
 		"Title" : "Modo",
-		"Search_title" : "",
 		"Tag" : "Software",
 		"Documentation" : "https://learn.foundry.com/modo/12.2/content/help/pages/learn.html",
 		"YT1" : "https://www.youtube.com/watch?v=9EbrNJLu844",
@@ -5048,7 +4901,6 @@
 	},	
 	{
 		"Title" : "MongoDB",
-		"Search_title" : "",
 		"Tag" : "Document-oriented database",
 		"Documentation" : "https://docs.mongodb.com",
 		"YT1" : "https://www.youtube.com/user/MongoDB",
@@ -5076,7 +4928,6 @@
 	},
 	 {
     "Title" : "MongooseJS",
-    "Search_title" : "",
     "Tag" : "Javascript Library",
     "Documentation" : "https://mongoosejs.com/docs/",
     "YT1" : "https://www.youtube.com/watch?v=WDrU305J1yw",
@@ -5104,7 +4955,6 @@
   },
 	{	
 		"Title" : "MoonScript",
-		"Search_title" : "",
 		"Tag" : "Dynamic scripting language",
 		"Documentation" : "https://moonscript.org/reference/",
 		"YT1" : "https://www.youtube.com/watch?v=Eo67iTY1Yf8",
@@ -5136,7 +4986,6 @@
 	},
 	{
 		"Title" : "MySQL",
-		"Search_title" : "",
 		"Tag" : "",
 		"Documentation" : "https://dev.mysql.com/doc/",
 		"YT1" : "https://www.youtube.com/watch?v=7S_tz1z_5bA",
@@ -5179,7 +5028,6 @@
 	 
 	 {	
 	"Title" : "Neo4j",
-	"Search_title" : "",
 	"Tag" : "System software",
 	"Documentation" : "https://neo4j.com/",
 	"YT1" : "https://www.youtube.com/watch?v=fiQzHVY-kRQ",
@@ -5224,7 +5072,6 @@
 
 {	
 	"Title" : "Netwide Assembler",
-	"Search_title" : "",
 	"Tag" : "Software",
 	"Documentation" : "https://www.nasm.us/docs.php",
 	"YT1" : "https://www.youtube.com/watch?v=W8UTCqWb2eQ",
@@ -5266,7 +5113,6 @@
 
 	{	
 		"Title" : "NetworkX",
-		"Search_title" : "",
 		"Tag" : "Python library",
 		"Documentation" : "https://networkx.org/documentation/stable/index.html",
 		"YT1" : "https://www.youtube.com/watch?v=Q-qKKQLNLPo",
@@ -5303,7 +5149,6 @@
 	},
 	{	
 		"Title" : "Next.js",
-		"Search_title" : "",
 		"Tag" : "React front-end development web framework",
 		"Documentation" : "https://nextjs.org/docs",
 		"YT1" : "https://www.youtube.com/watch?v=mTz0GXj8NN0",
@@ -5336,7 +5181,6 @@
 	},
 	{
 		"Title" : "Nginx",
-		"Search_title" : "",
 		"Tag" : "Web server",
 		"Documentation" : "https://nginx.org/en/docs/",
 		"YT1" : "https://www.youtube.com/user/edurekaIN",
@@ -5366,7 +5210,6 @@
 	},
 	{	
 		"Title" : "Nim",
-		"Search_title" : "",
 		"Tag" : "Programming language",
 		"Documentation" : "https://nim-lang.org/documentation.html",
 		"YT1" : "https://www.youtube.com/watch?v=O8Y4faZPnsc",
@@ -5409,7 +5252,6 @@
 	},
 	{
 		"Title" : "NLTK(Natural Language ToolKit",
-		"Search_title" : "",
 		"Tag" : "Python Library",
 		"Documentation" : "https://www.nltk.org/",
 		"YT1" : "https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL",
@@ -5438,7 +5280,6 @@
 	},
 	{	
 		"Title" : "Node.js",
-		"Search_title" : "",
 		"Tag" : "Programming language",
 		"Documentation" : "https://nodejs.org/en/docs/",
 		"YT1" : "https://www.youtube.com/user/programmingwithmosh",
@@ -5473,7 +5314,6 @@
 	},
 	{
 		"Title" : "Nuke",
-		"Search_title" : "",
 		"Tag" : "System software",
 		"Documentation" : "https://learn.foundry.com/nuke/13.0/content/learn_nuke.html",
 		"YT1" : "https://www.youtube.com/watch?v=6ZDMpXKQlSM",
@@ -5505,7 +5345,6 @@
 	},
 	{
 		"Title" : "NumPy",
-		"Search_title" : "",
 		"Tag" : "Python Library",
 		"Documentation" : "https://numpy.org/",
 		"YT1" : "https://www.youtube.com/watch?v=Rbh1rieb3zc",
@@ -5533,7 +5372,6 @@
 	},
 	 {
     "Title" : "Objective C",
-    "Search_title" : "",
     "Tag" : "Programming Language",
     "Documentation" : "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html",
     "YT1" : "https://www.youtube.com/watch?v=5esQqZIJ83g",
@@ -5565,7 +5403,6 @@
   },
 	{	
 		"Title" : "OCaml",
-		"Search_title" : "",
 		"Tag" : "Programming language",
 		"Documentation" : "https://ocaml.org/docs/",
 		"YT1" : "https://www.youtube.com/watch?v=PGGl5WcNOIU",
@@ -5613,7 +5450,6 @@
 	},
 	{	
 		"Title" : "Octave",
-		"Search_title" : "",
 		"Tag" : "Programming language",
 		"Documentation" : "https://www.gnu.org/software/octave/index",
 		"YT1" : "https://www.youtube.com/watch?v=sHGqwF2s-tM",
@@ -5651,7 +5487,6 @@
 	},	
 	{
 		"Title" : "OpenCv",
-		"Search_title" : "",
 		"Tag" : "Python Module",
 		"Documentation" : "https://docs.opencv.org/master/",
 		"YT1" : "https://www.youtube.com/watch?v=WQeoO7MI0Bs",
@@ -5677,7 +5512,6 @@
 	},
 	{
 		"Title" : "OpenGL",
-		"Search_title" : "",
 		"Tag" : "Application programming interface",
 		"Documentation" : "https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml",
 		"YT1" : "https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2",
@@ -5704,7 +5538,6 @@
 	},
 	{
 		"Title" : "OpenShift",
-		"Search_title" : "",
 		"Tag" : "Online development environment",
 		"Documentation" : "https://docs.openshift.com/",
 		"YT1" : "https://www.youtube.com/watch?v=dAWPuqZwlOA",
@@ -5739,7 +5572,6 @@
 	 
 	{
 		"Title" : "OpenVINO™ toolkit",
-		"Search_title" : "",
 		"Tag" : "Development",
 		"Documentation" : "https://docs.openvinotoolkit.org/",
 		"YT1" : "https://www.youtube.com/watch?v=kY9nZbX1DWM&list=PLg-UKERBljNxdIQir1wrirZJ50yTp4eHv",
@@ -5761,7 +5593,6 @@
 
 {	
 	"Title" : "OpenStack",
-	"Search_title" : "",
 	"Tag" : "Computer software",
 	"Documentation" : "https://docs.openstack.org/wallaby/",
 	"YT1" : "https://www.youtube.com/watch?v=Kfj5XiNdJN0",
@@ -5809,7 +5640,6 @@
 
 	{
 		"Title" : "Operating System",
-		"Search_title" : "",
 		"Tag" : "System Software",
 		"Documentation" : "https://www.operating-system.org/index.html",
 		"YT1" : "https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O",
@@ -5836,7 +5666,6 @@
 	},
 	{
 		"Title" : "Padrino",
-		"Search_title" : "",
 		"Tag" : "Ruby-Framework",
 		"Documentation" : "https://www.rubydoc.info/github/padrino/padrino-framework",
 		"YT1" : "https://www.youtube.com/watch?v=CH_a3yNbYDM",
@@ -5862,7 +5691,6 @@
 	},
 	{
 		"Title" : "Pandas",
-		"Search_title" : "",
 		"Tag" : "Python Library",
 		"Documentation" : "https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html",
 		"YT1" : "https://www.youtube.com/watch?v=RhEjmHeDNoA",
@@ -5890,7 +5718,6 @@
 	},
 	{
 		"Title" : "Pascal",
-		"Search_title" : "",
 		"Tag" : "Programming Language",
 		"Documentation" : "https://www.freepascal.org/docs.html",
 		"YT1" : "https://www.youtube.com/watch?v=Hw4GEwhCZpc",
@@ -5926,7 +5753,6 @@
 	},
 	 {
     "Title" : "PassportJS",
-    "Search_title" : "",
     "Tag" : "JavaScript Library",
     "Documentation" : "http://www.passportjs.org/docs/downloads/html/",
     "YT1" : "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x",
@@ -5954,7 +5780,6 @@
   },
 	{
 		"Title" : "Perl",
-		"Search_title" : "",
 		"Tag" : "Programming Language",
 		"Documentation" : "https://perldoc.perl.org/",
 		"YT1" : "https://www.youtube.com/watch?v=WEghIXs8F6c",
@@ -5983,7 +5808,6 @@
 	},
 	{
 	"Title" : "Phalcon",
-	"Search_title" : "",
 	"Tag" : "PHP Framework",
 	"Documentation" : "https://docs.phalcon.io/4.0/en/introduction",
 	"YT1" : "https://www.youtube.com/watch?v=75W-emM4wNQ",
@@ -6009,7 +5833,6 @@
 },
 	{
 		"Title" : "PHP",
-		"Search_title" : "",
 		"Tag" : "Programming Language",
 		"Documentation" : "https://www.php.net/docs.php",
 		"YT1" : "https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR",
@@ -6038,7 +5861,6 @@
 	},
    {
 	 "Title" : "Play Framework",
-	 "Search_title" : "",
 	 "Tag" : "Web Application Framework",
 	 "Documentation" : "https://www.playframework.com/documentation/2.8.x/Home",
 	 "YT1" : "https://www.youtube.com/watch?v=zQUZOiQPz_I&list=PLYPFxrXyK0Bx9SBkNhJr1e2-NlIq4E7ED",
@@ -6067,7 +5889,6 @@
    },
 	{
 		"Title" : "PostgreSQL",
-		"Search_title" : "",
 		"Tag" : "Relational Database Management System",
 		"Documentation" : "https://www.postgresql.org/docs/",
 		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -6095,7 +5916,6 @@
 	},
 	{
 		"Title" : "Power BI",
-		"Search_title" : "",
 		"Tag" : "Business Analytics Service",
 		"Documentation" : "https://docs.microsoft.com/en-us/power-bi/",
 		"YT1" : "https://www.youtube.com/watch?v=AGrl-H87pRU",
@@ -6125,7 +5945,6 @@
 	},
 	{
 		"Title" : "Puppet",
-		"Search_title" : "",
 		"Tag" : "IT automation",
 		"Documentation" : "https://puppet.com/docs/puppet/5.5/puppet_index.html",
 		"YT1" : "https://www.youtube.com/watch?v=PL_J5Gj3GAQ",
@@ -6149,7 +5968,6 @@
 	},
 	{
 		"Title" : "Purescript",
-		"Search_title" : "",
 		"Tag" : "Functional Programming Language",
 		"Documentation" : "https://www.purescript.org/",
 		"YT1" : "https://www.youtube.com/watch?v=G-pi6xeXMZs",
@@ -6184,7 +6002,6 @@
 	
 	{
     "Title" : "Pygame",
-    "Search_title" : "",
     "Tag" : "Python Library",
     "Documentation" : "https://www.pygame.org/docs/",
     "YT1" : "https://www.youtube.com/watch?v=FfWpgLFMI7w",
@@ -6210,7 +6027,6 @@
   
   	{
 		"Title" : "Pyglet",
-		"Search_title" : "",
 		"Tag" : "Python Library",
 		"Documentation" : "https://pyglet.readthedocs.io/en/latest/",
 		"YT1" : "https://www.youtube.com/watch?v=Wyv5TnkFuxE",
@@ -6246,7 +6062,6 @@
 	},
 	{
 		"Title" : "Pyramid",
-		"Search_title" : "",
 		"Tag" : "Python Web Framework",
 		"Documentation" : "https://docs.pylonsproject.org/projects/pyramid/en/latest/index.html",
 		"YT1" : "https://www.youtube.com/watch?v=wgMj6ZsCiBk",
@@ -6278,7 +6093,6 @@
 	},
 	{
 		"Title" : "Python",
-		"Search_title" : "",
 		"Tag" : "Programming Language",
 		"Documentation" : "https://docs.python.org/3/",
 		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -6296,7 +6110,6 @@
 	},
 	{
 		"Title" : "PyTorch",
-		"Search_title" : "",
 		"Tag" : "Machine Learning Library",
 		"Documentation" : "https://pytorch.org/docs/stable/index.html",
 		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -6337,7 +6150,6 @@
 	},
   {
     "Title" : "PyQt",
-    "Search_title" : "",
     "Tag" : "Python Plugin",
     "Documentation" : "https://doc.qt.io/qtforpython/",
     "YT1" : "https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj",
@@ -6360,7 +6172,6 @@
   },
 	{
 		"Title" : "Qlik Sense",
-		"Search_title" : "",
 		"Tag" : "Data Analytics Platform",
 		"Documentation" : "https://help.qlik.com/en-US/sense",
 		"YT1" : "https://www.youtube.com/watch?v=RB-O4nAMTAI",
@@ -6390,7 +6201,6 @@
 	},
 	{	
 	"Title" : "R",
-	"Search_title" : "",
 	"Tag" : "Programming language",
 	"Documentation" : "https://www.r-project.org/about.html",
 	"YT1" : "https://www.youtube.com/watch?v=_V8eKsto3Ug",
@@ -6445,7 +6255,6 @@
 	
 	{
 		"Title" : "Ranorex",
-		"Search_title" : "",
 		"Tag" : "Software",
 		"Documentation" : "https://www.ranorex.com/help/latest/",
 		"YT1" : "https://www.youtube.com/watch?v=ztbVEK-s9aQ",
@@ -6477,7 +6286,6 @@
 	},
 	{
 		"Title" : "RapidMiner",
-		"Search_title" : "",
 		"Tag" : " Data Science Software",
 		"Documentation" : "https://docs.rapidminer.com/",
 		"YT1" : "https://www.youtube.com/channel/UCxneJBWWNLs-A6ckls1Rrug",
@@ -6506,7 +6314,6 @@
 	
 	{
 		"Title" : "Rasa",
-		"Search_title" : "",
 		"Tag" : "Framework",
 		"Documentation" : "https://rasa.com/",
 		"YT1" : "https://www.youtube.com/channel/UCJ0V6493mLvqdiVwOKWBODQ",
@@ -6532,7 +6339,6 @@
 	 
 	{
 		"Title" : "ReactJS",
-		"Search_title" : "",
 		"Tag" : "JavaScript Framework",
 		"Documentation" : "https://reactjs.org/docs/getting-started.html",
 		"YT1" : "https://www.youtube.com/user/TechGuyWeb",
@@ -6553,7 +6359,6 @@
 	},
 	{
 		"Title" : "React Native",
-		"Search_title" : "",
 		"Tag" : "Framework",
 		"Documentation" : "https://reactnative.dev/docs/getting-started",
 		"YT1" : "https://www.youtube.com/watch?v=0-S5a0eXPoc",
@@ -6592,7 +6397,6 @@
 	},
 	{	
 		"Title" : "Reason",
-		"Search_title" : "",
 		"Tag" : "Programming language",
 		"Documentation" : "https://reasonml.github.io/docs/en/what-and-why",
 		"YT1" : "https://www.youtube.com/watch?v=sjWsAYJF8BA",
@@ -6639,7 +6443,6 @@
 	},
 	{
 		"Title" : "Redis",
-		"Search_title" : "",
 		"Tag" : "In-memory key–value database",
 		"Documentation" : "https://redis.io/documentation",
 		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -6670,7 +6473,6 @@
 	},
 	{
 		"Title" : "Redux",
-		"Search_title" : "",
 		"Tag" : "JavaScript Library",
 		"Documentation" : "https://redux.js.org/introduction/getting-started",
 		"YT1" : "https://www.youtube.com/watch?v=poQXNp9ItL4",
@@ -6705,7 +6507,6 @@
 	 
 	{
 		"Title" : "Reinforcement Learning",
-		"Search_title" : "",
 		"Tag" : "Development",
 		"Documentation" : "https://en.wikipedia.org/wiki/Reinforcement_learning#:~:text=Reinforcement%20learning%20(RL)%20is%20an,supervised%20learning%20and%20unsupervised%20learning.",
 		"YT1" : "https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ",
@@ -6731,7 +6532,6 @@
 
 	{
 		"Title" : "Requests",
-		"Search_title" : "",
 		"Tag" : "HTTP Library",
 		"Documentation" : "https://docs.python-requests.org",
 		"YT1" : "https://www.youtube.com/watch?v=tb8gHvYlCFs",
@@ -6764,7 +6564,6 @@
       
 
 		"Title" : "REST API",
-		"Search_title" : "",
 		"Tag" : "Web Service",
 		"Documentation" : "https://idratherbewriting.com/learnapidoc/docapis_what_is_a_rest_api.html",
         "YT1" : "https://www.youtube.com/watch?v=rtWH70_MMHM&t=67s",
@@ -6810,7 +6609,6 @@
 	 
 	{
 		"Title" : "Robotic Process Automation",
-		"Search_title" : "",
 		"Tag" : "Development",
 		"Documentation" : "https://www.uipath.com/rpa/robotic-process-automation",
 		"YT1" : "https://www.youtube.com/watch?v=MBl-3Yb30FA",
@@ -6833,7 +6631,6 @@
 
 	{
 		"Title" : "Ruby",
-		"Search_title" : "",
 		"Tag" : "Programming Language",
 		"Documentation" : "https://www.ruby-lang.org/en/documentation/",
 		"YT1" : "https://www.youtube.com/watch?v=t_ispmWmdjY",
@@ -6868,7 +6665,6 @@
 	},
 	{
 		"Title" : "Ruby On Rails",
-		"Search_title" : "",
 		"Tag" : "Web Apllication Framework",
 		"Documentation" : "https://guides.rubyonrails.org/api_documentation_guidelines.html",
 		"YT1" : "https://www.youtube.com/watch?v=fmyvWz5TUWg",
@@ -6903,7 +6699,6 @@
 	},
 	{
 		"Title" : "Rust",
-		"Search_title" : "",
 		"Tag" : "Programming Language",
 		"Documentation" : "https://doc.rust-lang.org/nightly/",
 		"YT1" : "https://www.youtube.com/watch?v=zF34dRivLOw",
@@ -6939,7 +6734,6 @@
 	},
 	{
 		"Title" : "Salt",
-		"Search_title" : "",
 		"Tag" : "IT automation",
 		"Documentation" : "https://docs.saltproject.io/en/latest/",
 		"YT1" : "https://www.youtube.com/user/Simplilearn",
@@ -6963,7 +6757,6 @@
 	},
 	{	
 		"Title" : "SAS",
-		"Search_title" : "",
 		"Tag" : "Statistical Software",
 		"Documentation" : "https://support.sas.com/en/documentation.html",
 		"YT1" : "https://www.youtube.com/sassoftware",
@@ -6991,7 +6784,6 @@
 	},
 	{	
 		"Title" : "SASS",
-		"Search_title" : "",
 		"Tag" : "Stylesheet Language",
 		"Documentation" : "https://sass-lang.com/documentation",
 		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -7017,7 +6809,6 @@
 	},
 	{
 		"Title" : "Scala",
-		"Search_title" : "",
 		"Tag" : "Programming language",
 		"Documentation" : "https://docs.scala-lang.org",
 		"YT1" : "https://www.youtube.com/user/javaboynavin",
@@ -7052,7 +6843,6 @@
 	},
 {
     "Title" : "Scapy",
-    "Search_title" : "",
     "Tag" : "Python Library",
     "Documentation" : "https://scapy.net/",
 
@@ -7087,7 +6877,6 @@
 },
 	{
 		"Title" : "SciPy",
-		"Search_title" : "",
 		"Tag" : "Python Library",
 		"Documentation" : "https://www.scipy.org/",
 		"YT1" : "https://www.youtube.com/watch?v=k8s-R3csOt0",
@@ -7111,7 +6900,6 @@
 	},
 	{  
 		"Title" : "Seaborn",
-		"Search_title" : "",
 		"Tag" : "Python Library",
 		"Documentation" : "https://seaborn.pydata.org/introduction.html",
 		"YT1" : "https://youtu.be/TLdXM0A7SR8",
@@ -7133,7 +6921,6 @@
   },
 	{
 		"Title" : "Scikit learn",
-		"Search_title" : "",
 		"Tag" : "Python Library",
 		"Documentation" : "https://scikit-learn.org/stable/",
 		"YT1" : "https://www.youtube.com/watch?v=pqNCD_5r0IU",
@@ -7166,7 +6953,6 @@
 
 {
 	"Title" : "SciLib Library",
-	"Search_title" : "",
 		"Tag" : "Python Library",
 		"Documentation" : "https://www.scilab.org/",
 		"YT1" : "https://www.youtube.com/channel/UCFWJxS5_gUSdO4B2Vtl2QvA",
@@ -7196,7 +6982,6 @@
 
   {
 		"Title" : "Scrapy",
-		"Search_title" : "",
 		"Tag" : "Python Library",
 		"Documentation" : "https://docs.scrapy.org/en/latest/",
 		"YT1" : "https://www.youtube.com/watch?v=5o9lucMaQLc",
@@ -7230,7 +7015,6 @@
 	},
 	{
 		"Title" : "Selenium",
-		"Search_title" : "",
 		"Tag" : "Software",
 		"Documentation" : "https://www.selenium.dev/documentation/en/",
 		"YT1" : "https://www.youtube.com/watch?v=5FUdrBq-WFo",
@@ -7280,7 +7064,6 @@
 	 
 	{
 		"Title" : "Semi-Supervised Learning",
-		"Search_title" : "",
 		"Tag" : "Development",
 		"Documentation" : "https://scikit-learn.org/stable/modules/semi_supervised.html",
 		"YT1" : "https://www.youtube.com/watch?v=z_mS8yik8Zs&list=RDCMUC2XO4HDxzfMOZIV1l795g1Q&start_radio=1",
@@ -7311,7 +7094,6 @@
 	 
 	{
 		"Title" : "Shell Scripting",
-		"Search_title" : "",
 		"Tag" : "Program",
 		"Documentation" : "https://devdocs.io/bash/",
 		"YT1" : "https://www.youtube.com/watch?v=GtovwKDemnI",
@@ -7343,7 +7125,6 @@
 	},
 	{
 		"Title" : "Sinatra",
-		"Search_title" : "",
 		"Tag" : "Web Application Library",
 		"Documentation" : "http://sinatrarb.com/documentation.html",
 		"YT1" : "https://www.youtube.com/watch?v=sp8TL37ymGk",
@@ -7369,7 +7150,6 @@
 	},
 	{
 		"Title" : "SketchUp studio",
-		"Search_title" : "",
 		"Tag" : "Software",
 		"Documentation" : "https://www.sketchup.com/",
 		"YT1" : "https://www.youtube.com/watch?v=qgt2s9RzvKM",
@@ -7393,7 +7173,6 @@
 	 
 	   {
     "Title" : "Socket.io",
-    "Search_title" : "",
     "Tag" : " JavaScript library",
     "Documentation" : "https://socket.io/docs/v4",
     "YT1" : "https://www.youtube.com/playlist?list=PLrwNNiB6YOA1a0_xXvogmvSHrLcanVKkF",
@@ -7421,7 +7200,6 @@
 	 
 	{
 		"Title" : "Solidity",
-		"Search_title" : "",
 		"Tag" : "Programming language",
 		"Documentation" : "https://docs.soliditylang.org/en/v0.8.3/",
 		"YT1" : "https://www.youtube.com/watch?v=ipwxYa-F1uY",
@@ -7469,7 +7247,6 @@
 	},
 	 {	
 	"Title" : "Spinnaker",
-	"Search_title" : "",
 	"Tag" : "Software",
 	"Documentation" : "https://spinnaker.io/guides/",
 	"YT1" : "https://www.youtube.com/watch?v=nTXrKiQEeO8",
@@ -7512,7 +7289,6 @@
 
 	{
 		"Title" : "Spring Framework",
-		"Search_title" : "",
 		"Tag" : "Application Development",
 		"Documentation" : "https://docs.spring.io/spring-framework/docs/current/reference/html/",
 		"YT1" : "https://www.youtube.com/watch?v=If1Lw4pLLEo",
@@ -7545,7 +7321,6 @@
 
 	{
 		"Title" : "SQL",
-		"Search_title" : "",
 		"Tag" : "DBMS",
 		"Documentation" : "https://dev.mysql.com/doc/",
 		"YT1" : "https://www.youtube.com/watch?v=zbMHLJ0dY4w",
@@ -7578,7 +7353,6 @@
 	
 	{
 		"Title" : "Stencyl",
-		"Search_title" : "",
 		"Tag" : "Game Engine",
 		"Documentation" : "http://www.stencyl.com/help/",
 		"YT1" : "https://www.youtube.com/watch?v=WNivH0vmnkI&list=PLGxqbtM7UZzTkUOGGtuXK3uUbTK5_nBSe",
@@ -7614,7 +7388,6 @@
 	},
 	{
 		"Title" : "Svelte",
-		"Search_title" : "",
 		"Tag" : "Frontend JavaScript Framework",
 		"Documentation" : "https://svelte.dev/tutorial/basics",
 		"YT1" : "https://www.youtube.com/channel/UCZSr5B0l07JXK2FIeWA0-jw",
@@ -7637,7 +7410,6 @@
 	},
 	{
 		"Title" : "Swift",
-		"Search_title" : "",
 		"Tag" : "Programming language",
 		"Documentation" : "https://developer.apple.com/documentation/swift",
 		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -7664,7 +7436,6 @@
 	},
 	{
         "Title" : "Symfony",
-        "Search_title" : "",
         "Tag" : "Backend Framework",
         "Documentation" : "https://symfony.com/doc/current/index.html",
         "YT1" : "https://www.youtube.com/watch?v=Bo0guUbL5uo",
@@ -7694,7 +7465,6 @@
     },
 	 {
 	"Title" : "Sympy Library",
-	"Search_title" : "",
 		"Tag" : "Python Library",
 		"Documentation" : "https://docs.sympy.org/latest/index.html",
 		"YT1" : "https://www.youtube.com/watch?v=kx2GzBeGPco",
@@ -7723,7 +7493,6 @@
 
 	{
         "Title" : "Tableau",
-        "Search_title" : "",
         "Tag" : "Data Visualization Software",
         "Documentation" : "https://help.tableau.com/current/pro/desktop/en-us/gettingstarted_overview.htm",
         "YT1" : "https://www.youtube.com/watch?v=aHaOIvR00So",
@@ -7752,7 +7521,6 @@
     },
 	{
 		"Title" : "Tailwind CSS",
-		"Search_title" : "",
 		"Tag" : "CSS Framework",
 		"Documentation" : "https://tailwindcss.com/docs",
         "YT1" : "https://www.youtube.com/watch?v=UBOj6rqRUME",
@@ -7791,7 +7559,6 @@
 	},
 	{	
 		"Title" : "Tcl",
-		"Search_title" : "",
 		"Tag" : "High-level programming language",
 		"Documentation" : "https://www.tcl.tk/doc/",
 		"YT1" : "https://www.youtube.com/watch?v=6s6YbIa2k_g",
@@ -7843,7 +7610,6 @@
 	},
 	{
 		"Title" : "TeamCity",
-		"Search_title" : "",
 		"Tag" : "Software",
 		"Documentation" : "https://www.jetbrains.com/teamcity/",
 		"YT1" : "https://www.youtube.com/watch?v=OCnbC7wtXys",
@@ -7894,7 +7660,6 @@
 	},
 	{
 		"Title" : "TensorFlow",
-		"Search_title" : "",
 		"Tag" : "Machine Learning Library",
 		"Documentation" : "https://www.tensorflow.org/guide",
 		"YT1" : "https://www.youtube.com/user/edurekaIN",
@@ -7935,7 +7700,6 @@
 	},
 	{
 		"Title" : "TinkerCAD",
-		"Search_title" : "",
 		"Tag" : "Software",
 		"Documentation" : "https://en.wikipedia.org/wiki/Tinkercad",
 		"YT1" : "https://www.youtube.com/watch?v=gOs6Mdj7y_4",
@@ -7962,7 +7726,6 @@
 
 	{
 		"Title" : "Theano",
-		"Search_title" : "",
 		"Tag" : "Python Library",
 		"Documentation" : "https://theano-pymc.readthedocs.io/en/latest/",
 		"YT1" : "https://www.youtube.com/watch?v=OU8I1oJ9HhI",
@@ -7997,7 +7760,6 @@
 	},
 	{
 		"Title" : "TurboGears",
-		"Search_title" : "",
 		"Tag" : "Web Application Framework",
 		"Documentation" : "https://turbogears.org/2.0/docs/",
 		"YT1" : "https://www.youtube.com/watch?v=-QqQVBzU4lM",
@@ -8022,7 +7784,6 @@
 
 	 {
     "Title" : "Turtle",
-    "Search_title" : "",
     "Tag" : "Python Library",
     "Documentation" : "https://docs.python.org/3/library/turtle.html",
     "YT1" : "https://www.youtube.com/playlist?list=PLztVVS4n98EcF7LSfdFYBOy2lrxnMuVfi",
@@ -8047,7 +7808,6 @@
 
     {
 		"Title" : "TypeScript",
-		"Search_title" : "",
 		"Tag" : "Programming Language",
 		"Documentation" : "https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html",
 		"YT1" : "https://www.youtube.com/watch?v=rAy_3SIqT-E",
@@ -8113,7 +7873,6 @@
 	},
 	{
 		"Title" : "Unity",
-		"Search_title" : "",
 		"Tag" : "Game engine",
 		"Documentation" : "https://docs.unity3d.com/Manual/index.html",
 		"YT1" : "https://www.youtube.com/user/Unity3D",
@@ -8156,7 +7915,6 @@
 	},
 	{
 		"Title" : "UI",
-		"Search_title" : "",
 		"Tag" : "Development",
 		"Documentation" : "https://en.wikipedia.org/wiki/User_interface",
 		"YT1" : "https://www.youtube.com/watch?v=jLQauZP2e_4&list=PLLy_2iUCG87CEsW4KimdWPXEo80TaJfnP",
@@ -8185,7 +7943,6 @@
 
 	{
 		"Title" : "Unix",
-		"Search_title" : "",
 		"Tag" : "Operating System",
 		"Documentation" : "https://www.opengroup.org/membership/forums/platform/unix",
 		"YT1" : "https://www.youtube.com/watch?v=vLPdBp9vv9Y",
@@ -8223,7 +7980,6 @@
 	},	
 	{
 		"Title" : "Unreal Engine",
-		"Search_title" : "",
 		"Tag" : "Game engine",
 		"Documentation" : "https://docs.unrealengine.com/en-US/index.html",
 		"YT1" : "https://www.youtube.com/user/UnrealDevelopmentKit",
@@ -8268,7 +8024,6 @@
 	 
 	{
 		"Title" : "UX",
-		"Search_title" : "",
 		"Tag" : "Development",
 		"Documentation" : "https://uxplanet.org/",
 		"YT1" : "https://www.youtube.com/channel/UCxM6G42vmI752f60od3Gypw/videos",
@@ -8294,7 +8049,6 @@
 	 
 	{
 		"Title" : "UXPin",
-		"Search_title" : "",
 		"Tag" : "Software",
 		"Documentation" : "https://www.uxpin.com/",
 		"YT1" : "https://www.youtube.com/watch?v=IrAzCoU39SQ&list=PLTQ1nMZTXSUUOSMKm_icOjaVosG17wbe4",
@@ -8322,7 +8076,6 @@
 
 	{
 		"Title" : "Vagrant",
-		"Search_title" : "",
 		"Tag" : "Virtual Machine management software",
 		"Documentation" : "https://www.vagrantup.com/docs",
 		"YT1" : "https://www.youtube.com/watch?v=vBreXjkizgo",
@@ -8350,7 +8103,6 @@
 	 
 	 {	
 	"Title" : "Vala",
-	"Search_title" : "",
 	"Tag" : "Programming language",
 	"Documentation" : "https://valadoc.org/",
 	"YT1" : "https://www.youtube.com/watch?v=0R8gzwiR9sI",
@@ -8393,7 +8145,6 @@
 	 
 	{
 		"Title" : "Vanilla JS",
-		"Search_title" : "",
 		"Tag" : "Framework",
 		"Documentation" : "http://vanilla-js.com",
 		"YT1" : "https://www.youtube.com/watch?v=Ttf3CEsEwMQ",
@@ -8419,7 +8170,6 @@
 	},
 {	
 	"Title" : "VBScript",
-	"Search_title" : "",
 	"Tag" : "Programming Language",
 	"Documentation" : "https://docs.microsoft.com/en-us/windows/win32/lwef/using-vbscript",
 	"YT1" : "https://www.youtube.com/watch?v=03BfHDJsFpk",
@@ -8464,7 +8214,6 @@
 	
 	{
 		"Title" : "Virtual Reality",
-		"Search_title" : "",
 		"Tag" : "Development",
 		"Documentation" : "https://arvr.google.com/vr/",
 		"YT1" : "https://www.youtube.com/watch?v=aNC5YMUTcQ4&list=PLbMVogVj5nJSyt80VRXYC-YrAvQuUb6dh",
@@ -8490,7 +8239,6 @@
 	 
 	{
 		"Title" : "Vue.js",
-		"Search_title" : "",
 		"Tag" : "Model–view–viewmodel front end JavaScript framework",
 		"Documentation" : "https://v3.vuejs.org/guide/introduction.html",
 		"YT1" : "https://www.youtube.com/watch?v=4deVCNJq3qc",
@@ -8535,7 +8283,6 @@
 	},
 	{
 		"Title" : "Vulkan",
-		"Search_title" : "",
 		"Tag" : "Computer application",
 		"Documentation" : "https://www.khronos.org/registry/vulkan/specs/1.2/styleguide.html",
 		"YT1" : "https://www.youtube.com/watch?v=wHt5wcxIPcE&list=PLUXvZMiAqNbK8jd7s52BIDtCbZnKNGp0P",
@@ -8562,7 +8309,6 @@
 	},
 	{
         "Title" : "Web2Py",
-        "Search_title" : "",
         "Tag" : "Web Application Framweork",
         "Documentation" : "http://www.web2py.com/init/default/documentation",
         "YT1" : "https://www.youtube.com/watch?v=BXzqmHx6edY",
@@ -8591,7 +8337,6 @@
     },
 	{	
 		"Title" : "WebAssembly",
-		"Search_title" : "",
 		"Tag" : "Programming language",
 		"Documentation" : "https://webassembly.org/",
 		"YT1" : "https://www.youtube.com/watch?v=zxy0xqQs-k4",
@@ -8643,7 +8388,6 @@
 	 
 	 {
     "Title" : "WebRTC",
-    "Search_title" : "",
     "Tag" : "Development",
     "Documentation" : "https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API",
     "YT1" : "https://www.youtube.com/watch?v=FExZvpVvYxA&t=708s",
@@ -8674,7 +8418,6 @@
 	 
 	{
 		"Title" : "Web Scraping",
-		"Search_title" : "",
 		"Tag" : "Web Harvesting",
 		"Documentation" : "https://webscraper.io/",
 		"YT1" : "https://www.youtube.com/watch?v=Ful6wfbavK0&list=PLfNXG56H-jTvDt_BrLT65hy-vUrs7vkT9",
@@ -8702,7 +8445,6 @@
 
 	{
 		"Title" : "WebGL",
-		"Search_title" : "",
 		"Tag" : "Programming language",
 		"Documentation" : "https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API",
 		"YT1" : "https://www.youtube.com/watch?v=bP7_FeP9kU4&list=PL2935W76vRNHFpPUuqmLoGCzwx_8eq5yK",
@@ -8729,7 +8471,6 @@
 	},
 	{
 		"Title" : "WordPress",
-		"Search_title" : "",
 		"Tag" : "Application programming interface",
 		"Documentation" : "https://wordpress.com/",
 		"YT1" : "https://www.youtube.com/watch?v=B4MXA_yj8oI",
@@ -8772,7 +8513,6 @@
 	{
 
 		"Title" : "Xamarin",
-		"Search_title" : "",
 		"Tag" : "Software",
 		"Documentation" : "https://docs.microsoft.com/en-us/xamarin/",
 		"YT1" : "https://www.youtube.com/watch?v=93ZU6j59wL4",
@@ -8809,7 +8549,6 @@
 
 	{	
 	"Title" : "Xcode",
-	"Search_title" : "",
 	"Tag" : "Software",
 	"Documentation" : "https://developer.apple.com/xcode/",
 	"YT1" : "https://www.youtube.com/watch?v=_YvAUgV6GYM",
@@ -8912,7 +8651,6 @@
 
 {	
 	"Title" : "XSLT",
-	"Search_title" : "",
 	"Tag" : "Programming language",
 	"Documentation" : "https://www.w3.org/TR/xslt/",
 	"YT1" : "https://www.youtube.com/watch?v=W--Yhp0m35A",
@@ -8956,7 +8694,6 @@
 	},
 {	
 	"Title" : "YAML",
-	"Search_title" : "",
 	"Tag" : "Programming language",
 	"Documentation" : "https://yaml.org/",
 	"YT1" : "https://www.youtube.com/watch?v=1uFVr15xDGg",
@@ -9006,7 +8743,6 @@
 	{
 
 		"Title" : "YII Framework",
-		"Search_title" : "",
 		"Tag" : "PHP Framework",
 		"Documentation" : "https://www.yiiframework.com/doc/api",
 		"YT1" : "https://www.youtube.com/watch?v=whuIf33v2Ug",
@@ -9040,7 +8776,6 @@
   },
 	{
 		"Title" : "ZBrush",
-		"Search_title" : "",
 		"Tag" : "Software",
 		"Documentation" : "http://docs.pixologic.com",
 		"YT1" : "https://www.youtube.com/watch?v=3fHefWRFNMA",
@@ -9072,7 +8807,6 @@
   },
   {
 	"Title" : "Zend Framework",
-	"Search_title" : "",
 	"Tag" : "PHP Framework",
 	"Documentation" : "https://framework.zend.com/learn",
 	"YT1" : "https://www.youtube.com/watch?v=NJVS5yt5fHw&list=PLillGF-RfqbYl4mB0oZA1tSh7tJr78Zzh",
@@ -9101,7 +8835,6 @@
 },
   {
 		"Title" : "Zig",
-		"Search_title" : "",
 		"Tag" : "Programming Language",
 		"Documentation" : "https://ziglang.org/",
 		"YT1" : "https://www.youtube.com/watch?v=Xu5U_UCvJG4",
