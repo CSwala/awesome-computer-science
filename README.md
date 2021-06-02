@@ -10997,6 +10997,63 @@ https://www.reddit.com/r/iOSProgramming/comments/f6pss/what_are_some_xcode_tips_
 <br><br><br>
 </details>
 <details>
+<summary>XHTML </summary>
+<br>
+Category/Type - <br>Programming language <br>
+<br>
+Official Documentation - <br>
+https://www.w3.org/TR/xhtml1/ <br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/watch?v=1gLhs5QycAE <br>
+https://www.youtube.com/watch?v=mMVqcTNsCrE <br>
+https://www.youtube.com/watch?v=yBsM5iW8wfs <br>
+https://www.youtube.com/watch?v=YV3gxkXpkno <br>
+https://www.youtube.com/watch?v=cqszz_OfAFQ <br>
+https://www.youtube.com/watch?v=beIDesjfcbA <br>
+<br>
+Useful Websites -
+<br>
+https://www.w3.org/MarkUp/modularization <br>
+https://www.reddit.com/r/xhtml/ <br>
+https://docs.marklogic.com/xhtml <br>
+https://www.w3.org/People/mimasa/test/xhtml2/spec-examples/ <br>
+http://freshmeat.sourceforge.net/tags/htmlxhtml <br>
+https://www.webstandards.org/learn/tutorials/accessible-forms/beginner/index.html <br>
+<br>
+Dedicated Github page - <br>
+https://github.com/haskell/xhtml <br>
+https://github.com/flyingsaucerproject/flyingsaucer <br>
+https://github.com/jaxio/generated-projects <br>
+https://github.com/weld/core <br>
+https://github.com/sudheerj/JSF-PF-Training <br>
+https://github.com/miledrousset/IHM <br>
+https://github.com/seam/examples <br>
+<br>
+Best Courses - <br>
+https://www.lynda.com/XHTML-training-tutorials/443-0.html <br>
+https://www.educba.com/software-development/courses/xhtml-training-course/ <br>
+https://www.westciv.com/courses/course_info/html_and_xhtml/ <br>
+https://www.ecorptrainings.com/xhtml-online-corporate-training-hyderabad-india-uk-usa.php <br>
+https://www.perpetual-solutions.com/training-courses/27,47/html-xhtml-and-xml <br>
+https://www.aonlinetraining.com/online_training_xhtml_css_tutorials.html <br>
+https://www.computer-pdf.com/web-programming/html/44-tutorial-crash-course-tutorial-in-xhtml.html <br>
+<br>
+Other Tips / Hacks - <br>
+https://www.tutorialspoint.com/xhtml/xhtml_tips_tricks.htm <br>
+https://docstore.mik.ua/orelly/web2/xhtml/ch17_01.htm <br>
+https://css-tricks.com/snippets/html/xhtml-1-0-strict-page-structure/ <br>
+https://www.wisdomjobs.com/e-university/xhtml-tutorial-1261/xhtml-tips-tricks-16735.html <br>
+https://www.oreilly.com/library/view/html-xhtml/059600382X/ch17.html <br>
+https://ittrainingtips.iu.edu/category/xhtml/ <br>
+https://tipsmake.com/website-construction-html-and-xhtml-tricks <br>
+<br>
+<a href="https://networkencyclopedia.com/wp-content/uploads/2019/08/xhtml.png">
+  <img align="center" src="https://networkencyclopedia.com/wp-content/uploads/2019/08/xhtml.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+<details>
 <summary>XML </summary>
 <br>
 Category/Type - <br>Application programming interface <br>
