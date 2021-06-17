@@ -1,6 +1,6 @@
 ## 3ds_MAX
 Category/Type - <br>
-Development
+Computer Software 
 <br>
 <br>
 Documentation - <br>
