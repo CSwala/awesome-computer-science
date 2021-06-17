@@ -27,7 +27,6 @@ https://github.com/ADN-DevTech/3dsMax-Learning-Path
 <br>
 <br>
 Best Courses - <br>
-https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjn4f60y7fwAhUbDisKHahfDpEYABADGgJzZg&ae=2&ohost=www.google.com&cid=CAESQOD2T31QaDEy5Vu35M8LFso7O8Du2UjuoNw3eLVfG2rDdTq3ketoJtB1JCUgxW9POU865VMN8XBPcay08nQv1b4&sig=AOD64_2Pir0tDc_jmze0YHhRwjex5TuQqA&q&adurl&ved=2ahUKEwjlg_W0y7fwAhUSjuYKHY--CTkQ0Qx6BAgHEAE<br>
 https://www.udemy.com/course/3d-visualization-for-beginners/<br>
 https://www.udemy.com/course/3ds-max-vray-advanced-arch-viz-interiors-tutorial/<br>
 https://www.udemy.com/course/intro-to-architectural-visualization-using-3ds-max-and-v-ray_zillus/<br>
