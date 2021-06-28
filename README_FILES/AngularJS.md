@@ -1,6 +1,6 @@
 ## AngularJS
 Category/Type - <br>
-Javascript Library
+Javascript Framework
 <br>
 <br>
 Official Documentation - <br>
