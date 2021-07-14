@@ -754,7 +754,7 @@ https://book.hacktricks.xyz/pentesting/pentesting-web/tomcat <br>
 Category/Type - <br>Programming Language <br>
 <br>
 Official Documentation - <br>
-https://developer.salesforce.com/docs/ <br>
+https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/ <br>
 <br>
 Best YouTube creators - <br>
 https://www.youtube.com/watch?v=68X85SxAU1g&list=PLaGX-30v1lh1e8roeCUumUEel5ukdPubj <br>
