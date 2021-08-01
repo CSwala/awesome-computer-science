@@ -7856,6 +7856,32 @@
     "Tips2" : "https://trinket.io/python/eb7273e016",
     "Tips3" : "https://workshops.hackclub.com/python_turtle/"
   },
+	
+ {
+    "Title" : "TypeScript",
+    "Tag" : "JavaScript Library",
+    "Documentation" : "https://www.typescriptlang.org/",
+    "YT1" : "https://www.youtube.com/watch?v=WBPrJSw7yQA",
+    "YT2" : "https://www.youtube.com/watch?v=BwuLxPH8IDs",
+    "YT3" : "https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI",
+    "YT4" : "https://www.youtube.com/watch?v=ucZRzCYQRQo&list=PL8p2I9GklV46OtmTnYKPa2Mp9sPLWpRA-",
+    "Website1" : "https://www.tutorialspoint.com/typescript/index.htm",
+    "Website2" : "https://devblogs.microsoft.com/typescript/",
+    "Website3" : "https://code.visualstudio.com/docs/languages/typescript",
+    "Website4" : "https://www.w3spoint.com/typescript-tutorial",
+    "Dedicated GH page1" : "https://github.com/microsoft/TypeScript",
+    "Dedicated GH page2" : "https://github.com/trending/typescript",
+    "Dedicated GH page3" : "https://github.com/microsoft/TypeScript-Node-Starter",
+    "Dedicated GH page4" : "https://github.com/microsoft/TypeScript-Website",
+    "Course1" : "https://www.udemy.com/course/understanding-typescript/",
+    "Course2" : "https://www.udemy.com/course/typescript-the-complete-developers-guide/",
+    "Course3" : "https://www.codecademy.com/learn/learn-typescript",
+    "Course4" : "https://www.coursera.org/projects/rudi-hinds-typescript-learn-fundamentals",	 
+    "Tips1" : "https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680",
+    "Tips2" : "https://ahmedrebai.medium.com/typescript-tips-and-tricks-with-typescript-for-angular-developers-ea000f50550c",
+    "Tips3" : "https://levelup.gitconnected.com/5-advanced-typescript-tips-to-make-you-a-better-programmer-bd4070aa2ab4?gi=ea70f70af142",
+    "Tips4" : "https://dev.to/sam_piggott/4-must-know-typescript-tips-tricks-3g8b"
+  },	 
 
     {
 		"Title" : "TypeScript",
