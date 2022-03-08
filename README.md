@@ -2700,6 +2700,7 @@ https://github.com/mnielsen/neural-networks-and-deep-learning<br>
 <br>
 Best Courses - <br>
 https://www.coursera.org/specializations/deep-learning<br>
+https://www.headspin.io/blog/appium-selenium-fundamentals-course-now-available<br>
 https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187<br>
 https://www.mathworks.com/discovery/deep-learning.html<br>
 https://www.udacity.com/course/deep-learning-nanodegree--nd101<br>
