@@ -4243,7 +4243,7 @@
         
 	{
 		"Title" : "Keras",
-		"Tag" : "API",
+		"Tag" : "Application Programming Interface",
 		"Documentation" : "https://keras.io/api/",
 		"YT1" : "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
 		"YT2" : "https://www.youtube.com/user/edurekaIN",
@@ -4901,7 +4901,7 @@
 	},	
 	{
 		"Title" : "MongoDB",
-		"Tag" : "Document-oriented database",
+		"Tag" : "Database",
 		"Documentation" : "https://docs.mongodb.com",
 		"YT1" : "https://www.youtube.com/user/MongoDB",
 		"YT2" : "https://www.youtube.com/user/TechGuyWeb",
@@ -4986,7 +4986,7 @@
 	},
 	{
 		"Title" : "MySQL",
-		"Tag" : "",
+		"Tag" : "Database",
 		"Documentation" : "https://dev.mysql.com/doc/",
 		"YT1" : "https://www.youtube.com/watch?v=7S_tz1z_5bA",
 		"YT2" : "https://www.youtube.com/watch?v=9ylj9NR0Lcg",
