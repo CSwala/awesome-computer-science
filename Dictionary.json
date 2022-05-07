@@ -54,7 +54,7 @@
  
 	{
 		"Title" : "ActionScript",
-		"Tag" : "Programming language",
+		"Tag" : "Programming Language",
 		"Documentation" : "https://help.adobe.com/en_US/as3/dev/as3_devguide.pdf",
 		"YT1" : "https://www.youtube.com/playlist?list=PLIZ2O3hFxLqc2P7vV7qUf4p65QuNNfzAr",
 		"YT2" : "https://www.youtube.com/watch?v=zpW3eZjJLcE",
@@ -82,7 +82,7 @@
 
 	{
 		"Title" : "Adobe XD",
-		"Tag" : "Design Tool",
+		"Tag" : "Software",
 		"Documentation" : "https://www.adobe.io/xd/uxp/",
         "YT1" : "https://www.youtube.com/watch?v=68w2VwalD5w&t=20s",
 		"YT2" : "https://www.youtube.com/watch?v=3rQ-eTmWah0",
@@ -126,7 +126,7 @@
 		},
 	{
 		"Title" : "Adobe Illustrator",
-		"Tag" : "Graphic Editor",
+		"Tag" : "Software",
 		"Documentation" : "https://helpx.adobe.com/illustrator/user-guide.html",
 		"YT1" : "https://www.youtube.com/watch?v=IBouhf4seWQ&list=PLYfCBK8IplO4X-jM1Rp43wAIdpP2XNGwP",
 		"YT2" : "https://www.youtube.com/watch?v=vd1vRpoWC3M",
@@ -159,7 +159,7 @@
 	 
 	 	{
 		"Title" : "Adobe Photoshop",
-		"Tag" : "Graphics editor",
+		"Tag" : "Software",
 		"Documentation" : "https://helpx.adobe.com/in/photoshop/user-guide.html",
 		"YT1" : "https://www.youtube.com/playlist?list=PLW-zSkCnZ-gA5Jn6gZtUa6-aG0OoRZyb6",
 		"YT2" : "https://www.youtube.com/watch?v=IyR_uYsRdPs",
@@ -193,7 +193,7 @@
 
 	 {	
 	"Title" : "AJAX",
-	"Tag" : "Programming",
+	"Tag" : "Programming Language",
 	"Documentation" : "https://learn.jquery.com/ajax/",
 	"YT1" : "https://www.youtube.com/watch?v=rJesac0_Ftw",
 	"YT2" : "https://www.youtube.com/watch?v=2I-vK_gaWnk",
@@ -1955,7 +1955,7 @@
 	},
 	{
 		"Title" : "CUDA",
-		"Tag" : "Application Programming Interfaces",
+		"Tag" : "Application Programming Interface",
 		"Documentation" : "https://docs.nvidia.com/cuda/",
 		"YT1" : "https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK",
 		"YT2" : "https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU",
@@ -2229,7 +2229,7 @@
 	},
 	{
 		"Title" : "DirectX",
-		"Tag" : "Application Programming Interfaces",
+		"Tag" : "Application Programming Interface",
 		"Documentation" : "https://docs.microsoft.com/en-us/windows/win32/getting-started-with-directx-graphics",
 		"YT1" : "https://www.youtube.com/playlist?list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD",
 		"YT2" : "https://www.youtube.com/playlist?list=PLqCJpWy5FohcehaXlCIt8sVBHBFFRVWsx",
@@ -5512,7 +5512,7 @@
 	},
 	{
 		"Title" : "OpenGL",
-		"Tag" : "Application programming interface",
+		"Tag" : "Application Programming Interface",
 		"Documentation" : "https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml",
 		"YT1" : "https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2",
 		"YT2" : "https://www.youtube.com/watch?v=3aJ8OR1C6pk&list=PLWzp0Bbyy_3jy34HlDrEWlcG3rF99gkvk",
@@ -8548,7 +8548,7 @@
 	},
 	{
 		"Title" : "WordPress",
-		"Tag" : "Application programming interface",
+		"Tag" : "Application Programming Interface",
 		"Documentation" : "https://wordpress.com/",
 		"YT1" : "https://www.youtube.com/watch?v=B4MXA_yj8oI",
 		"YT2" : "https://www.youtube.com/watch?v=EwiEcmbPjo0",
@@ -8719,7 +8719,7 @@
 
 	{	
 	"Title" : "XML",
-	"Tag": "Application programming interface",
+	"Tag": "Application Programming Interface",
 	"Documentation" : "https://www.xml.com/ ",
 	"YT1 " :"https://www.youtube.com/watch?v=n-y-YHVZSwk ",
 	"YT2 " :"https://www.youtube.com/watch?v=KeLiQXqVgMI ",
