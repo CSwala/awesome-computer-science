@@ -246,7 +246,7 @@
 
 	{
 		"Title" : "Android",
-		"Tag" : "OS",
+		"Tag" : "Operating System",
 		"Documentation" : "https://developer.android.com/docs",
 		"YT1" : "https://www.youtube.com/channel/UC9M7-jzdU8CVrQo1JwmIdWA",
 		"YT2" : "https://www.youtube.com/playlist?list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz",
@@ -496,7 +496,7 @@
 	},
 	{
 		"Title" : "Apache OpenJPA",
-		"Tag" : "object-relational mapping (ORM)",
+		"Tag" : "Object-Relational Mapping(ORM)",
 		"Documentation" : "http://openjpa.apache.org/documentation.html",
 		"YT1" : "https://www.youtube.com/watch?v=otinfgwkMbY",
 		"YT2" : "https://www.youtube.com/watch?v=OzZcW7XgiPA",
@@ -3493,7 +3493,7 @@
 	},
 	{
 		"Title" : "Hibernate",
-		"Tag" : "object-relational mapping(ORM)",
+		"Tag" : "Object-Relational Mapping(ORM)",
 		"Documentation" : "https://hibernate.org/orm/documentation/5.4/",
 		"YT1" : "https://www.youtube.com/watch?v=7iFfbCBQlg8",
 		"YT2" : "https://www.youtube.com/watch?v=JR7-EdxDSf0",
@@ -6665,7 +6665,7 @@
 	},
 	{
 		"Title" : "Ruby On Rails",
-		"Tag" : "Web Apllication Framework",
+		"Tag" : "Web Application Framework",
 		"Documentation" : "https://guides.rubyonrails.org/api_documentation_guidelines.html",
 		"YT1" : "https://www.youtube.com/watch?v=fmyvWz5TUWg",
 		"YT2" : "https://www.youtube.com/watch?v=zppMfm4fuxM",
@@ -8386,7 +8386,7 @@
 	},
 	{
         "Title" : "Web2Py",
-        "Tag" : "Web Application Framweork",
+        "Tag" : "Web Application Framework",
         "Documentation" : "http://www.web2py.com/init/default/documentation",
         "YT1" : "https://www.youtube.com/watch?v=BXzqmHx6edY",
         "YT2" : "https://www.youtube.com/watch?v=dHu8O1gZOl0",
