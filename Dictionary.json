@@ -1156,7 +1156,7 @@
 	},
 	{
 		"Title" : "Blender",
-		"Tag" : "3D modeling and animation program",
+		"Tag" : "Software",
 		"Documentation" : "https://docs.blender.org/manual/en/latest/",
 		"YT1" : "https://www.youtube.com/user/AndrewPPrice",
 		"YT2" : "https://www.youtube.com/user/BlenderInstitute",
@@ -4719,7 +4719,7 @@
 	},
 	{
 		"Title" : "Maya",
-		"Tag" : "3D modeling and animation program",
+		"Tag" : "Software",
 		"Documentation" : "https://knowledge.autodesk.com/support/maya/getting-started/caas/simplecontent/content/maya-documentation.html",
 		"YT1" : "https://www.youtube.com/user/Autodesk",
 		"YT2" : "https://www.youtube.com/user/MayaHowTos",
