@@ -4925,7 +4925,7 @@
 		"Image1" : "https://miro.medium.com/max/3202/1*JfwNbmBbsYKBT7_QFhd13Q.jpeg"
 
 	},
-	 {
+	{
     "Title" : "MongooseJS",
     "Tag" : "Javascript Library",
     "Documentation" : "https://mongoosejs.com/docs/",
@@ -4951,7 +4951,7 @@
     "Tips2" : "https://www.tothenew.com/blog/mongoose-tips-and-tricks-for-uncommon-cases/",
     "Tips3" : "https://javascript.plainenglish.io/7-simple-mongodb-tips-make-your-code-faster-and-optimize-f696211f1431?gi=4cc5fb605236",
     "Tips4" : "https://www.jaygould.co.uk/2018-03-28-concice-collection-mongodb-mongoose-database/"
-  },
+  	},
 	{	
 		"Title" : "MoonScript",
 		"Tag" : "Dynamic scripting language",
@@ -5179,6 +5179,7 @@
 		"Tips5" : "https://vercel.com/blog/10-next-js-tips-you-might-not-know",
 		"Tips6" : "https://www.youtube.com/watch?v=R59e1Vl5lO8"
 	},
+
 	{
 		"Title" : "Nginx",
 		"Tag" : "Web server",
@@ -5208,6 +5209,7 @@
 		"Tips5" : "https://www.freecodecamp.org/news/powerful-ways-to-supercharge-your-nginx-server-and-improve-its-performance-a8afdbfde64d/",
 		"Tips6" : "https://www.howtoforge.com/tips-and-tricks-to-secure-your-nginx-web-server/"
 	},
+
 	{	
 		"Title" : "Nim",
 		"Tag" : "Programming language",
