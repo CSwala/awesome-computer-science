@@ -5753,7 +5753,7 @@
 		"Tips4" : "http://www.martinsweb.com/books.html",
 		"Tip5" : "https://www.tutorialspoint.com/pascal/pascal_quick_guide.htm"
 	},
-	 {
+	{
     "Title" : "PassportJS",
     "Tag" : "JavaScript Library",
     "Documentation" : "http://www.passportjs.org/docs/downloads/html/",
@@ -5779,7 +5779,7 @@
     "Tips2" : "https://www.dotnettricks.com/learn/nodejs/authentication-authorization-using-passport-js",
     "Tips3" : "https://stackoverflow.com/questions/54613793/passport-js-how-to-protect-all-routes",
     "Tips4" : "https://stackoverflow.com/search?q=passportjs"
-  },
+  	},
 	{
 		"Title" : "Perl",
 		"Tag" : "Programming Language",
