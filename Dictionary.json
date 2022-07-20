@@ -5832,7 +5832,7 @@
 	"Course4" : "https://code.tutsplus.com/categories/phalcon/courses",
 	"Tips1" : "https://github.com/mctekk/phalcon-cheat-sheet",
 	"Tips2" : "https://blog.phalcon.io/"
-},
+	},
 	{
 		"Title" : "PHP",
 		"Tag" : "Programming Language",
@@ -5861,7 +5861,7 @@
 		"Tips3" : "https://websitesetup.org/php-cheat-sheet/",
 		"Tips4" : "https://www.smashingmagazine.com/2009/03/10-useful-php-tips-revisited/"
 	},
-   {
+   	{
 	 "Title" : "Play Framework",
 	 "Tag" : "Web Application Framework",
 	 "Documentation" : "https://www.playframework.com/documentation/2.8.x/Home",
@@ -5888,7 +5888,7 @@
 	 "Tips1" : "https://www.viralpatel.net/category/play-framework-2/",
 	 "Tips2" : " https://www.playframework.com/documentation/2.1.1/Tips",
 	 "Tips3" : "https://www.toptal.com/scala/scaling-play-to-thousands-of-concurrent-requests"
-   },
+   	},
 	{
 		"Title" : "PostgreSQL",
 		"Tag" : "Relational Database Management System",
@@ -6843,7 +6843,7 @@
 		"Tips4" : "https://www.infoq.com/presentations/scala-tips-tricks/",
 		"Tips5" : "https://medium.com/analytics-vidhya/going-to-scala-from-python-some-tips-a6fcbd86be3"
 	},
-{
+	{
     "Title" : "Scapy",
     "Tag" : "Python Library",
     "Documentation" : "https://scapy.net/",
@@ -6980,9 +6980,7 @@
 		"Tips3" : "https://medium.com/shiv-rec-publications/tagged/scilab",
 		"Tips4" : "https://www.geeksforgeeks.org/difference-between-matlab-and-scilab/"
 	},
-
-
-  {
+  	{
 		"Title" : "Scrapy",
 		"Tag" : "Python Library",
 		"Documentation" : "https://docs.scrapy.org/en/latest/",
