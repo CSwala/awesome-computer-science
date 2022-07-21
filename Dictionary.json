@@ -7171,7 +7171,7 @@
 		"Tips3" : "https://www.arch2o.com/15-simple-tips-to-easily-improve-your-sketchup-skills/"
 	},
 	 
-	   {
+	{
     "Title" : "Socket.io",
     "Tag" : " JavaScript library",
     "Documentation" : "https://socket.io/docs/v4",
@@ -7195,7 +7195,7 @@
     "Tips1" : "https://dev.to/kauresss/socket-io-guide-for-newbies-5hdm",
     "Tips2" : "https://medium.com/@rloperena/quick-guide-to-socket-io-basics-59b07c39c6ec",
     "Tips3" : "https://dzone.com/articles/socketio-the-good-the-bad-and-the-ugly"
-  },
+  	},
  
 	 
 	{
@@ -7245,7 +7245,7 @@
 		"Tips8" : "https://medium.com/@davekaj/solidity-tips-and-tricks-for-beginners-building-their-first-dapp-on-ethereum-fed32d6a19ac",
 		"Image1" : "https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png"
 	},
-	 {	
+	{	
 	"Title" : "Spinnaker",
 	"Tag" : "Software",
 	"Documentation" : "https://spinnaker.io/guides/",
