@@ -20,7 +20,8 @@ https://www.youtube.com/watch?v=kIudIii4uLU&list=PLrnPJCHvNZuCamMFswP597mUF-whXo
 https://www.youtube.com/watch?v=ijXjCtCXcN4&list=PLgCYzUzKIBE-eHpqt44Ea-Mi_iAUkpOdq<br>
 https://www.youtube.com/watch?v=BK4tuSbS7Xc&list=PLgCYzUzKIBE-8wE9Sv3yzYZlo70PBmFPz<br>
 https://www.youtube.com/watch?v=zTpM2olXCok&list=PLgCYzUzKIBE_MUlyvbCiOWsfq0nFgGXQ9<br>
-https://www.youtube.com/watch?v=k9K71QkrHGE&list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2
+https://www.youtube.com/watch?v=k9K71QkrHGE&list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2<br>
+https://www.youtube.com/c/StevdzaSan
 <br>
 <br>
 Useful Websites - <br>
@@ -32,7 +33,8 @@ https://roadmap.sh/android
 Dedicated Github page - <br>
 https://github.com/wasabeef/awesome-android-ui <br>
 https://github.com/JStumpp/awesome-android <br>
-https://github.com/wasabeef/awesome-android-libraries
+https://github.com/wasabeef/awesome-android-libraries<br>
+https://github.com/codepath/android_guides
 <br>
 <br>
 Best Courses - <br>
@@ -42,7 +44,8 @@ https://developer.android.com/courses<br>
 https://www.codingninjas.com/courses/online-android-Development-kotlin<br>
 https://developer.android.com/courses/android-basics-kotlin/course<br>
 https://www.udemy.com/course/kotlin-android-developer-masterclass/<br>
-https://www.coursera.org/specializations/advanced-app-android
+https://www.coursera.org/specializations/advanced-app-android<br>
+https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
 <br>
 <br>
 Other Tips / Hacks - <br>
